@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Africa Railway Distance and Emissions Calculator</title>
+    <title>Africa Railway Distance and Emissions Calculator v2</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -12,133 +12,101 @@
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
         #map { height: 500px; width: 100%; border-radius: 0.5rem; }
         #picker-map { height: 400px; width: 100%; border-radius: 0.5rem; }
-        .debug-panel { font-family: monospace; font-size: 11px; max-height: 300px; overflow-y: auto; }
-        .station-marker { cursor: pointer; }
+        .debug-panel { font-family: monospace; font-size: 11px; max-height: 200px; overflow-y: auto; }
         .search-box { position: relative; }
         .search-results { position: absolute; z-index: 1000; background: white; border: 1px solid #ccc; border-radius: 0.5rem; max-height: 200px; overflow-y: auto; width: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
         .search-result-item { padding: 8px 12px; cursor: pointer; border-bottom: 1px solid #eee; }
         .search-result-item:hover { background: #f3f4f6; }
+        .data-badge { font-size: 10px; padding: 2px 6px; border-radius: 9999px; }
+        .data-badge.static { background: #d1fae5; color: #065f46; }
+        .data-badge.live { background: #fef3c7; color: #92400e; }
     </style>
 </head>
-<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen p-8">
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen p-4 md:p-8">
     <div class="max-w-7xl mx-auto">
-        <div class="bg-white rounded-lg shadow-xl p-8">
-            <h1 class="text-3xl font-bold text-gray-800 mb-2">Africa Railway Distance and Emissions Calculator</h1>
-            <p class="text-sm text-gray-600 mb-6">Mapping data derived tool for approximating the rail distance, shipping times and carbon emissions for African freight rail. Try me out!</p>
+        <div class="bg-white rounded-lg shadow-xl p-4 md:p-8">
+            <div class="flex flex-wrap items-center gap-3 mb-2">
+                <h1 class="text-2xl md:text-3xl font-bold text-gray-800">Africa Railway Calculator</h1>
+                <span class="data-badge static" id="data-mode-badge">Static Data</span>
+            </div>
+            <p class="text-sm text-gray-600 mb-6">Calculate rail distances, shipping times, and carbon emissions for African freight rail across <strong>49 countries</strong>.</p>
 
-            <!-- Region Selection -->
+            <!-- Region/Country Selection -->
             <div class="mb-6">
-                <label class="block text-sm font-medium text-gray-700 mb-2">Select Countries/Regions (hold Ctrl/Cmd to select multiple)</label>
-                <select id="region" multiple class="w-full px-4 py-2 border rounded-lg" size="12" style="min-height: 260px;">
-                    <optgroup label="Southern Africa">
-                        <option value="mozambique">Mozambique</option>
-                        <option value="malawi">Malawi</option>
-                        <option value="zambia">Zambia</option>
-                        <option value="zimbabwe">Zimbabwe</option>
-                        <option value="south-africa">South Africa</option>
+                <label class="block text-sm font-medium text-gray-700 mb-2">Select Countries/Regions (Ctrl/Cmd + click for multiple)</label>
+                <select id="region" multiple class="w-full px-4 py-2 border rounded-lg text-sm" size="14">
+                    <optgroup label="Quick Select">
+                        <option value="all-africa">🌍 All Africa</option>
                     </optgroup>
-                    <optgroup label="East Africa">
-                        <option value="tanzania">Tanzania</option>
-                        <option value="kenya">Kenya</option>
+                    <optgroup label="Regions">
+                        <option value="region-north">North Africa (6 countries)</option>
+                        <option value="region-west">West Africa (15 countries)</option>
+                        <option value="region-central">Central Africa (8 countries)</option>
+                        <option value="region-east">East Africa (11 countries)</option>
+                        <option value="region-south">Southern Africa (9 countries)</option>
                     </optgroup>
-                    <optgroup label="West Africa">
-                        <option value="nigeria">Nigeria</option>
-                        <option value="cameroon">Cameroon</option>
-                        <option value="benin">Benin</option>
-                        <option value="cote-ivoire">Côte d'Ivoire</option>
-                        <option value="burkina-faso">Burkina Faso</option>
-                        <option value="liberia">Liberia</option>
-                        <option value="senegal">Senegal</option>
-                        <option value="mali">Mali</option>
-                    </optgroup>
-                    <optgroup label="Multi-Country Regions">
-                        <option value="southern-africa">Southern Africa (All countries)</option>
-                        <option value="east-africa">East Africa (All countries)</option>
-                        <option value="west-africa">West Africa (All countries)</option>
-                    </optgroup>
+                    <optgroup label="North Africa" id="north-africa-group"></optgroup>
+                    <optgroup label="West Africa" id="west-africa-group"></optgroup>
+                    <optgroup label="Central Africa" id="central-africa-group"></optgroup>
+                    <optgroup label="East Africa" id="east-africa-group"></optgroup>
+                    <optgroup label="Southern Africa" id="southern-africa-group"></optgroup>
                 </select>
-                <button onclick="loadRegion()" class="mt-2 px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 font-semibold" id="load-btn">
-                    Load Selected Regions
-                </button>
-                <p class="text-xs text-gray-500 mt-1">💡 Tip: Select 2-3 countries for faster loading and easier map navigation</p>
+                <div class="flex flex-wrap gap-2 mt-2">
+                    <button onclick="loadSelectedRegions()" class="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 font-semibold text-sm" id="load-btn">
+                        Load Selected
+                    </button>
+                    <span class="text-xs text-gray-500 self-center">💡 Tip: Select 2-5 countries for faster loading</span>
+                </div>
             </div>
 
             <!-- Status Display -->
             <div id="status-panel" class="mb-6 p-4 bg-gray-50 border rounded-lg" style="display:none;">
                 <div class="flex items-center gap-2 mb-2">
                     <div class="spinner"></div>
-                    <span class="font-semibold" id="status-text">Loading...</span>
+                    <span class="font-semibold text-sm" id="status-text">Loading...</span>
                 </div>
-                <div class="debug-panel bg-white p-2 rounded border" id="debug-log"></div>
+                <div class="debug-panel bg-white p-2 rounded border text-xs" id="debug-log"></div>
             </div>
 
-            <!-- Station Selection with Multiple Methods -->
+            <!-- Station Selection Panel -->
             <div id="station-panel" style="display:none;">
-                <div class="grid lg:grid-cols-2 gap-8 mb-6">
-                    <!-- Station 1 Selection -->
+                <div class="grid lg:grid-cols-2 gap-6 mb-6">
+                    <!-- Station 1 -->
                     <div class="border rounded-lg p-4 bg-gray-50">
-                        <h3 class="text-lg font-semibold mb-4 text-indigo-700">Station 1 (Origin)</h3>
-                        
-                        <!-- Text Search -->
-                        <div class="mb-4 search-box">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">🔍 Search by Name</label>
-                            <input type="text" id="search1" class="w-full px-4 py-2 border rounded-lg" placeholder="Type station name..." oninput="searchStations(1)">
+                        <h3 class="text-lg font-semibold mb-3 text-indigo-700">📍 Origin Station</h3>
+                        <div class="mb-3 search-box">
+                            <input type="text" id="search1" class="w-full px-3 py-2 border rounded-lg text-sm" placeholder="🔍 Search station name..." oninput="searchStations(1)">
                             <div id="search-results-1" class="search-results" style="display:none;"></div>
                         </div>
-                        
-                        <!-- Country Filter -->
-                        <div class="mb-4">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">🌍 Filter by Country</label>
-                            <select id="country1" class="w-full px-4 py-2 border rounded-lg" onchange="filterByCountry(1)">
+                        <div class="mb-3">
+                            <select id="country1" class="w-full px-3 py-2 border rounded-lg text-sm" onchange="filterByCountry(1)">
                                 <option value="">All countries</option>
                             </select>
                         </div>
-                        
-                        <!-- Pick List -->
-                        <div class="mb-4">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">📋 Select from List</label>
-                            <select id="station1" class="w-full px-4 py-2 border rounded-lg" size="6" onchange="selectStation(1)"></select>
-                        </div>
-                        
-                        <!-- Map Picker Button -->
-                        <button onclick="openMapPicker(1)" class="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+                        <select id="station1" class="w-full px-3 py-2 border rounded-lg text-sm" size="5" onchange="selectStation(1)"></select>
+                        <button onclick="openMapPicker(1)" class="w-full mt-2 px-3 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 text-sm">
                             🗺️ Pick from Map
                         </button>
-                        
-                        <div id="selected-station-1" class="mt-3 p-2 bg-white rounded border text-sm" style="display:none;"></div>
+                        <div id="selected-station-1" class="mt-2 p-2 bg-white rounded border text-xs" style="display:none;"></div>
                     </div>
 
-                    <!-- Station 2 Selection -->
+                    <!-- Station 2 -->
                     <div class="border rounded-lg p-4 bg-gray-50">
-                        <h3 class="text-lg font-semibold mb-4 text-indigo-700">Station 2 (Destination)</h3>
-                        
-                        <!-- Text Search -->
-                        <div class="mb-4 search-box">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">🔍 Search by Name</label>
-                            <input type="text" id="search2" class="w-full px-4 py-2 border rounded-lg" placeholder="Type station name..." oninput="searchStations(2)">
+                        <h3 class="text-lg font-semibold mb-3 text-indigo-700">🎯 Destination Station</h3>
+                        <div class="mb-3 search-box">
+                            <input type="text" id="search2" class="w-full px-3 py-2 border rounded-lg text-sm" placeholder="🔍 Search station name..." oninput="searchStations(2)">
                             <div id="search-results-2" class="search-results" style="display:none;"></div>
                         </div>
-                        
-                        <!-- Country Filter -->
-                        <div class="mb-4">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">🌍 Filter by Country</label>
-                            <select id="country2" class="w-full px-4 py-2 border rounded-lg" onchange="filterByCountry(2)">
+                        <div class="mb-3">
+                            <select id="country2" class="w-full px-3 py-2 border rounded-lg text-sm" onchange="filterByCountry(2)">
                                 <option value="">All countries</option>
                             </select>
                         </div>
-                        
-                        <!-- Pick List -->
-                        <div class="mb-4">
-                            <label class="block text-sm font-medium text-gray-700 mb-2">📋 Select from List</label>
-                            <select id="station2" class="w-full px-4 py-2 border rounded-lg" size="6" onchange="selectStation(2)"></select>
-                        </div>
-                        
-                        <!-- Map Picker Button -->
-                        <button onclick="openMapPicker(2)" class="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+                        <select id="station2" class="w-full px-3 py-2 border rounded-lg text-sm" size="5" onchange="selectStation(2)"></select>
+                        <button onclick="openMapPicker(2)" class="w-full mt-2 px-3 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 text-sm">
                             🗺️ Pick from Map
                         </button>
-                        
-                        <div id="selected-station-2" class="mt-3 p-2 bg-white rounded border text-sm" style="display:none;"></div>
+                        <div id="selected-station-2" class="mt-2 p-2 bg-white rounded border text-xs" style="display:none;"></div>
                     </div>
                 </div>
 
@@ -156,78 +124,185 @@
                 <div id="map"></div>
             </div>
         </div>
+        
+        <!-- Footer -->
+        <div class="text-center text-xs text-gray-500 mt-4">
+            Data from <a href="https://www.openstreetmap.org/" class="underline">OpenStreetMap</a> • 
+            <a href="https://github.com/njfinney/Africa_Railway_Calculator" class="underline">GitHub</a> •
+            Built for African rail development 🚂
+        </div>
     </div>
 
     <!-- Map Picker Modal -->
     <div id="map-picker-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.5); z-index:2000; padding:20px;">
         <div class="max-w-4xl mx-auto bg-white rounded-lg shadow-2xl p-6" style="max-height:90vh; overflow-y:auto;">
             <div class="flex justify-between items-center mb-4">
-                <h2 class="text-2xl font-bold" id="picker-title">Select Station from Map</h2>
+                <h2 class="text-xl font-bold" id="picker-title">Select Station</h2>
                 <button onclick="closeMapPicker()" class="text-gray-500 hover:text-gray-700 text-2xl">&times;</button>
             </div>
-            <p class="text-sm text-gray-600 mb-4">Click on any station marker to select it</p>
             <div id="picker-map"></div>
         </div>
     </div>
 
     <script>
+        // ===== CONFIGURATION =====
+        const CONFIG = {
+            // Base URL for static data files (GitHub Pages)
+            dataBaseUrl: 'https://njfinney.github.io/Africa_Railway_Calculator/data',
+            // Fallback to live Overpass API
+            overpassEndpoints: [
+                'https://overpass-api.de/api/interpreter',
+                'https://overpass.kumi.systems/api/interpreter'
+            ],
+            // Emission factor: gCO2e per ton-km for rail freight
+            emissionFactor: 0.024278,
+            // Average freight train speed (km/h)
+            avgSpeed: 35,
+            // Shipment time multiplier (loading, unloading, customs)
+            shipmentMultiplier: 3
+        };
+
         // ===== STATE =====
         const STATE = {
+            manifest: null,
             stations: [],
+            railways: [],
             filteredStations: [[], []],
             selectedStations: [null, null],
-            railwayGraph: null,
+            loadedCountries: new Set(),
             map: null,
             pickerMap: null,
             pickerStationNum: null,
-            towns: [],
-            currentRegion: null
+            usingStaticData: true
+        };
+
+        // ===== ALL AFRICAN COUNTRIES =====
+        const COUNTRIES = {
+            // North Africa
+            'DZ': { name: 'Algeria', region: 'North Africa', bbox: [18.97, -8.67, 37.09, 11.98] },
+            'EG': { name: 'Egypt', region: 'North Africa', bbox: [21.73, 24.70, 31.67, 36.90] },
+            'LY': { name: 'Libya', region: 'North Africa', bbox: [19.51, 9.39, 33.17, 25.15] },
+            'MA': { name: 'Morocco', region: 'North Africa', bbox: [27.67, -13.17, 35.93, -0.99] },
+            'SD': { name: 'Sudan', region: 'North Africa', bbox: [8.68, 21.84, 22.23, 38.58] },
+            'TN': { name: 'Tunisia', region: 'North Africa', bbox: [30.23, 7.52, 37.54, 11.60] },
+            
+            // West Africa
+            'BJ': { name: 'Benin', region: 'West Africa', bbox: [6.23, 0.77, 12.42, 3.85] },
+            'BF': { name: 'Burkina Faso', region: 'West Africa', bbox: [9.40, -5.52, 15.08, 2.40] },
+            'CI': { name: "Côte d'Ivoire", region: 'West Africa', bbox: [4.36, -8.60, 10.74, -2.49] },
+            'GM': { name: 'Gambia', region: 'West Africa', bbox: [13.06, -16.82, 13.83, -13.80] },
+            'GH': { name: 'Ghana', region: 'West Africa', bbox: [4.74, -3.26, 11.17, 1.19] },
+            'GN': { name: 'Guinea', region: 'West Africa', bbox: [7.19, -15.08, 12.68, -7.64] },
+            'GW': { name: 'Guinea-Bissau', region: 'West Africa', bbox: [10.87, -16.71, 12.68, -13.64] },
+            'LR': { name: 'Liberia', region: 'West Africa', bbox: [4.35, -11.49, 8.55, -7.37] },
+            'ML': { name: 'Mali', region: 'West Africa', bbox: [10.16, -12.24, 25.00, 4.27] },
+            'MR': { name: 'Mauritania', region: 'West Africa', bbox: [14.72, -17.07, 27.30, -4.83] },
+            'NE': { name: 'Niger', region: 'West Africa', bbox: [11.69, 0.17, 23.53, 15.99] },
+            'NG': { name: 'Nigeria', region: 'West Africa', bbox: [4.27, 2.69, 13.89, 14.68] },
+            'SN': { name: 'Senegal', region: 'West Africa', bbox: [12.31, -17.54, 16.69, -11.36] },
+            'SL': { name: 'Sierra Leone', region: 'West Africa', bbox: [6.93, -13.30, 10.00, -10.28] },
+            'TG': { name: 'Togo', region: 'West Africa', bbox: [6.11, -0.15, 11.14, 1.81] },
+            
+            // Central Africa
+            'AO': { name: 'Angola', region: 'Central Africa', bbox: [-18.04, 11.64, -4.38, 24.08] },
+            'CM': { name: 'Cameroon', region: 'Central Africa', bbox: [1.65, 8.49, 13.08, 16.19] },
+            'CF': { name: 'Central African Republic', region: 'Central Africa', bbox: [2.22, 14.42, 11.01, 27.46] },
+            'TD': { name: 'Chad', region: 'Central Africa', bbox: [7.44, 13.47, 23.45, 24.00] },
+            'CG': { name: 'Congo (Brazzaville)', region: 'Central Africa', bbox: [-5.03, 11.20, 3.71, 18.65] },
+            'CD': { name: 'Congo (DRC)', region: 'Central Africa', bbox: [-13.46, 12.18, 5.39, 31.31] },
+            'GQ': { name: 'Equatorial Guinea', region: 'Central Africa', bbox: [0.92, 9.35, 2.35, 11.34] },
+            'GA': { name: 'Gabon', region: 'Central Africa', bbox: [-3.98, 8.70, 2.32, 14.52] },
+            
+            // East Africa
+            'BI': { name: 'Burundi', region: 'East Africa', bbox: [-4.47, 28.99, -2.31, 30.85] },
+            'DJ': { name: 'Djibouti', region: 'East Africa', bbox: [10.93, 41.76, 12.71, 43.42] },
+            'ER': { name: 'Eritrea', region: 'East Africa', bbox: [12.36, 36.44, 18.00, 43.12] },
+            'ET': { name: 'Ethiopia', region: 'East Africa', bbox: [3.40, 32.99, 14.89, 47.99] },
+            'KE': { name: 'Kenya', region: 'East Africa', bbox: [-4.68, 33.89, 5.51, 41.91] },
+            'MG': { name: 'Madagascar', region: 'East Africa', bbox: [-25.61, 43.19, -11.95, 50.48] },
+            'RW': { name: 'Rwanda', region: 'East Africa', bbox: [-2.84, 28.86, -1.05, 30.90] },
+            'SO': { name: 'Somalia', region: 'East Africa', bbox: [-1.66, 40.99, 11.98, 51.42] },
+            'SS': { name: 'South Sudan', region: 'East Africa', bbox: [3.49, 23.44, 12.24, 35.95] },
+            'TZ': { name: 'Tanzania', region: 'East Africa', bbox: [-11.75, 29.34, -0.99, 40.44] },
+            'UG': { name: 'Uganda', region: 'East Africa', bbox: [-1.48, 29.57, 4.23, 35.04] },
+            
+            // Southern Africa
+            'BW': { name: 'Botswana', region: 'Southern Africa', bbox: [-26.91, 19.99, -17.78, 29.37] },
+            'SZ': { name: 'Eswatini', region: 'Southern Africa', bbox: [-27.32, 30.79, -25.72, 32.13] },
+            'LS': { name: 'Lesotho', region: 'Southern Africa', bbox: [-30.67, 27.01, -28.57, 29.46] },
+            'MW': { name: 'Malawi', region: 'Southern Africa', bbox: [-17.13, 32.67, -9.37, 35.92] },
+            'MZ': { name: 'Mozambique', region: 'Southern Africa', bbox: [-26.87, 30.21, -10.47, 40.84] },
+            'NA': { name: 'Namibia', region: 'Southern Africa', bbox: [-28.97, 11.73, -16.96, 25.26] },
+            'ZA': { name: 'South Africa', region: 'Southern Africa', bbox: [-34.84, 16.45, -22.13, 32.89] },
+            'ZM': { name: 'Zambia', region: 'Southern Africa', bbox: [-18.08, 21.99, -8.19, 33.71] },
+            'ZW': { name: 'Zimbabwe', region: 'Southern Africa', bbox: [-22.42, 25.24, -15.61, 33.06] }
         };
 
         const REGIONS = {
-            'mozambique': { name: 'Mozambique', bbox: [-26.87, 30.21, -10.47, 40.84], singleCountry: true },
-            'malawi': { name: 'Malawi', bbox: [-17.13, 32.67, -9.37, 35.92], singleCountry: true },
-            'zambia': { name: 'Zambia', bbox: [-18.08, 21.99, -8.19, 33.71], singleCountry: true },
-            'zimbabwe': { name: 'Zimbabwe', bbox: [-22.42, 25.24, -15.61, 33.06], singleCountry: true },
-            'tanzania': { name: 'Tanzania', bbox: [-11.75, 29.34, -0.99, 40.44], singleCountry: true },
-            'kenya': { name: 'Kenya', bbox: [-4.68, 33.89, 5.51, 41.91], singleCountry: true },
-            'south-africa': { name: 'South Africa', bbox: [-34.84, 16.45, -22.13, 32.89], singleCountry: true },
-            'nigeria': { name: 'Nigeria', bbox: [4.27, 2.69, 13.89, 14.68], singleCountry: true },
-            'cameroon': { name: 'Cameroon', bbox: [1.65, 8.49, 13.08, 16.19], singleCountry: true },
-            'benin': { name: 'Benin', bbox: [6.23, 0.77, 12.42, 3.85], singleCountry: true },
-            'cote-ivoire': { name: 'Côte d\'Ivoire', bbox: [4.36, -8.60, 10.74, -2.49], singleCountry: true },
-            'burkina-faso': { name: 'Burkina Faso', bbox: [9.40, -5.52, 15.08, 2.40], singleCountry: true },
-            'liberia': { name: 'Liberia', bbox: [4.35, -11.49, 8.55, -7.37], singleCountry: true },
-            'senegal': { name: 'Senegal', bbox: [12.31, -17.54, 16.69, -11.36], singleCountry: true },
-            'mali': { name: 'Mali', bbox: [10.16, -12.24, 25.00, 4.27], singleCountry: true },
-            'southern-africa': { name: 'Southern Africa', bbox: [-35, 20, -8, 43], multi: true },
-            'east-africa': { name: 'East Africa', bbox: [-12, 29, 5, 42], multi: true },
-            'west-africa': { name: 'West Africa', bbox: [4, -18, 26, 17], multi: true }
+            'North Africa': ['DZ', 'EG', 'LY', 'MA', 'SD', 'TN'],
+            'West Africa': ['BJ', 'BF', 'CI', 'GM', 'GH', 'GN', 'GW', 'LR', 'ML', 'MR', 'NE', 'NG', 'SN', 'SL', 'TG'],
+            'Central Africa': ['AO', 'CM', 'CF', 'TD', 'CG', 'CD', 'GQ', 'GA'],
+            'East Africa': ['BI', 'DJ', 'ER', 'ET', 'KE', 'MG', 'RW', 'SO', 'SS', 'TZ', 'UG'],
+            'Southern Africa': ['BW', 'SZ', 'LS', 'MW', 'MZ', 'NA', 'ZA', 'ZM', 'ZW']
         };
 
-        const COUNTRY_DATA = {
-            'Kenya': { bbox: [-4.68, 33.89, 5.51, 41.91], center: [0.42, 37.91] },
-            'Tanzania': { bbox: [-11.75, 29.34, -0.99, 40.44], center: [-6.37, 34.89] },
-            'Malawi': { bbox: [-17.13, 32.67, -9.37, 35.92], center: [-13.25, 34.30] },
-            'Mozambique': { bbox: [-26.87, 30.21, -10.47, 40.84], center: [-18.67, 35.53] },
-            'Zambia': { bbox: [-18.08, 21.99, -8.19, 33.71], center: [-13.14, 27.85] },
-            'Zimbabwe': { bbox: [-22.42, 25.24, -15.61, 33.06], center: [-19.02, 29.15] },
-            'South Africa': { bbox: [-34.84, 16.45, -22.13, 32.89], center: [-28.48, 24.67] },
-            'Nigeria': { bbox: [4.27, 2.69, 13.89, 14.68], center: [9.08, 8.68] },
-            'Cameroon': { bbox: [1.65, 8.49, 13.08, 16.19], center: [7.37, 12.35] },
-            'Benin': { bbox: [6.23, 0.77, 12.42, 3.85], center: [9.31, 2.31] },
-            'Côte d\'Ivoire': { bbox: [4.36, -8.60, 10.74, -2.49], center: [7.54, -5.55] },
-            'Burkina Faso': { bbox: [9.40, -5.52, 15.08, 2.40], center: [12.24, -1.56] },
-            'Liberia': { bbox: [4.35, -11.49, 8.55, -7.37], center: [6.43, -9.43] },
-            'Senegal': { bbox: [12.31, -17.54, 16.69, -11.36], center: [14.50, -14.45] },
-            'Mali': { bbox: [10.16, -12.24, 25.00, 4.27], center: [17.57, -4.00] }
-        };
+        // ===== INITIALIZATION =====
+        document.addEventListener('DOMContentLoaded', async () => {
+            populateCountryDropdown();
+            await loadManifest();
+        });
 
+        function populateCountryDropdown() {
+            for (const [region, codes] of Object.entries(REGIONS)) {
+                const groupId = region.toLowerCase().replace(' ', '-') + '-group';
+                const group = document.getElementById(groupId);
+                if (group) {
+                    codes.forEach(code => {
+                        const country = COUNTRIES[code];
+                        const option = document.createElement('option');
+                        option.value = code;
+                        option.textContent = country.name;
+                        group.appendChild(option);
+                    });
+                }
+            }
+        }
+
+        async function loadManifest() {
+            try {
+                const resp = await fetch(`${CONFIG.dataBaseUrl}/manifest.json`);
+                if (resp.ok) {
+                    STATE.manifest = await resp.json();
+                    log(`Loaded manifest: ${Object.keys(STATE.manifest.countries).length} countries with pre-extracted data`, 'success');
+                    updateDataBadge(true);
+                } else {
+                    log('No manifest found, will use live Overpass API', 'info');
+                    updateDataBadge(false);
+                }
+            } catch (e) {
+                log('Could not load manifest, will use live Overpass API', 'info');
+                updateDataBadge(false);
+            }
+        }
+
+        function updateDataBadge(isStatic) {
+            const badge = document.getElementById('data-mode-badge');
+            STATE.usingStaticData = isStatic;
+            if (isStatic) {
+                badge.textContent = 'Pre-extracted Data';
+                badge.className = 'data-badge static';
+            } else {
+                badge.textContent = 'Live API';
+                badge.className = 'data-badge live';
+            }
+        }
+
+        // ===== LOGGING =====
         function log(message, type = 'info') {
             const debugLog = document.getElementById('debug-log');
-            const timestamp = new Date().toLocaleTimeString();
+            const time = new Date().toLocaleTimeString();
             const color = type === 'error' ? 'text-red-600' : type === 'success' ? 'text-green-600' : 'text-gray-700';
-            debugLog.innerHTML += `<div class="${color}">[${timestamp}] ${message}</div>`;
+            debugLog.innerHTML += `<div class="${color}">[${time}] ${message}</div>`;
             debugLog.scrollTop = debugLog.scrollHeight;
         }
 
@@ -240,6 +315,7 @@
             document.getElementById('status-panel').style.display = 'none';
         }
 
+        // ===== HAVERSINE DISTANCE =====
         function haversine(lat1, lon1, lat2, lon2) {
             const R = 6371;
             const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -250,211 +326,210 @@
             return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
         }
 
-        function getCountryFromData(tags, lat, lon, regionCountry = null) {
-            // PRIORITY 1: If single-country region loaded, use that
-            if (regionCountry) return regionCountry;
+        // ===== DATA LOADING =====
+        async function loadSelectedRegions() {
+            const select = document.getElementById('region');
+            const selected = Array.from(select.selectedOptions).map(o => o.value);
             
-            // PRIORITY 2: Check OSM tags
-            if (tags['addr:country']) {
-                const map = { 
-                    'MZ': 'Mozambique', 'MW': 'Malawi', 'ZM': 'Zambia', 
-                    'ZW': 'Zimbabwe', 'TZ': 'Tanzania', 'KE': 'Kenya', 'ZA': 'South Africa',
-                    'NG': 'Nigeria', 'CM': 'Cameroon', 'BJ': 'Benin', 'CI': 'Côte d\'Ivoire',
-                    'BF': 'Burkina Faso', 'LR': 'Liberia', 'SN': 'Senegal', 'ML': 'Mali'
-                };
-                if (map[tags['addr:country'].toUpperCase()]) return map[tags['addr:country'].toUpperCase()];
+            if (selected.length === 0) {
+                alert('Please select at least one country or region');
+                return;
             }
-            if (tags['is_in:country']) return tags['is_in:country'];
-            if (tags['country']) return tags['country'];
-            
-            // PRIORITY 3: Text search in address fields
-            const fields = [tags['addr:full'], tags['is_in'], tags['name'], tags['addr:city']].filter(f => f).join(' ');
-            for (const country of Object.keys(COUNTRY_DATA)) {
-                if (fields.toLowerCase().includes(country.toLowerCase())) return country;
-            }
-            
-            // PRIORITY 4: Distance to country centers (best for overlaps)
-            let closest = null, minDist = Infinity;
-            for (const [country, data] of Object.entries(COUNTRY_DATA)) {
-                const [s, w, n, e] = data.bbox;
-                if (lat >= s && lat <= n && lon >= w && lon <= e) {
-                    const dist = haversine(lat, lon, data.center[0], data.center[1]);
-                    if (dist < minDist) { minDist = dist; closest = country; }
-                }
-            }
-            return closest || 'Unknown';
-        }
 
-        function isNearTown(lat, lon, towns, maxDistKm = 10) {
-            return towns.some(t => haversine(lat, lon, t.lat, t.lon) <= maxDistKm);
-        }
-
-        async function loadRegion() {
-            const selectEl = document.getElementById('region');
-            const selectedOptions = Array.from(selectEl.selectedOptions).map(opt => opt.value);
+            // Expand selections to country codes
+            let countryCodes = new Set();
             
-            if (selectedOptions.length === 0) return alert('Please select at least one region');
-
-            // Calculate combined bounding box and determine if all selections are single countries
-            let minLat = Infinity, maxLat = -Infinity, minLon = Infinity, maxLon = -Infinity;
-            let allSingleCountries = true;
-            let countryNames = [];
-            
-            for (const key of selectedOptions) {
-                const region = REGIONS[key];
-                if (!region) continue;
-                
-                const [s, w, n, e] = region.bbox;
-                minLat = Math.min(minLat, s);
-                maxLat = Math.max(maxLat, n);
-                minLon = Math.min(minLon, w);
-                maxLon = Math.max(maxLon, e);
-                
-                if (region.singleCountry) {
-                    countryNames.push(region.name);
+            for (const sel of selected) {
+                if (sel === 'all-africa') {
+                    Object.keys(COUNTRIES).forEach(c => countryCodes.add(c));
+                } else if (sel.startsWith('region-')) {
+                    const region = sel.replace('region-', '');
+                    const regionMap = {
+                        'north': 'North Africa',
+                        'west': 'West Africa',
+                        'central': 'Central Africa',
+                        'east': 'East Africa',
+                        'south': 'Southern Africa'
+                    };
+                    REGIONS[regionMap[region]]?.forEach(c => countryCodes.add(c));
                 } else {
-                    allSingleCountries = false;
+                    countryCodes.add(sel);
                 }
             }
-            
-            const combinedBbox = [minLat, minLon, maxLat, maxLon];
-            const regionLabel = selectedOptions.length === 1 
-                ? REGIONS[selectedOptions[0]].name 
-                : `${selectedOptions.length} regions`;
-            
-            showStatus(`Loading ${regionLabel} data...`);
-            
+
+            countryCodes = Array.from(countryCodes);
+            showStatus(`Loading ${countryCodes.length} countries...`);
+            log(`Loading: ${countryCodes.map(c => COUNTRIES[c]?.name).join(', ')}`);
+
+            STATE.stations = [];
+            STATE.railways = [];
+            STATE.loadedCountries = new Set();
+
+            let loadedStatic = 0, loadedLive = 0;
+
+            for (let i = 0; i < countryCodes.length; i++) {
+                const code = countryCodes[i];
+                const country = COUNTRIES[code];
+                if (!country) continue;
+
+                document.getElementById('status-text').textContent = `Loading ${country.name} (${i+1}/${countryCodes.length})...`;
+
+                try {
+                    // Try static data first
+                    if (STATE.manifest?.countries[code]?.hasData) {
+                        const success = await loadStaticData(code, country);
+                        if (success) {
+                            loadedStatic++;
+                            continue;
+                        }
+                    }
+                    
+                    // Fallback to live API
+                    await loadLiveData(code, country);
+                    loadedLive++;
+                } catch (e) {
+                    log(`Failed to load ${country.name}: ${e.message}`, 'error');
+                }
+            }
+
+            log(`Loaded ${STATE.stations.length} stations, ${STATE.railways.length} railway segments`, 'success');
+            log(`Sources: ${loadedStatic} static, ${loadedLive} live API`, 'info');
+
+            populateCountryFilters();
+            STATE.filteredStations = [STATE.stations, STATE.stations];
+            populateStationLists();
+            hideStatus();
+            document.getElementById('station-panel').style.display = 'block';
+        }
+
+        async function loadStaticData(code, country) {
             try {
-                log(`Loading ${regionLabel} (${selectedOptions.join(', ')})`);
-                const bbox = combinedBbox.join(',');
+                // Load stations
+                const stationsResp = await fetch(`${CONFIG.dataBaseUrl}/stations/${code}.json`);
+                if (!stationsResp.ok) return false;
                 
-                // For multiple single countries, we'll load each separately and combine
-                const singleCountryMode = allSingleCountries && selectedOptions.length > 0;
-                if (singleCountryMode) {
-                    log(`Multi-country mode: ${countryNames.join(', ')}`, 'success');
+                const stationsData = await stationsResp.json();
+                const newStations = stationsData.stations.map(s => ({
+                    ...s,
+                    country: code,
+                    countryName: country.name,
+                    displayName: `${s.name} (${country.name})`
+                }));
+                STATE.stations.push(...newStations);
+                
+                // Load railways
+                const railwaysResp = await fetch(`${CONFIG.dataBaseUrl}/railways/${code}.json`);
+                if (railwaysResp.ok) {
+                    const railwaysData = await railwaysResp.json();
+                    STATE.railways.push(...railwaysData.railways.map(r => ({
+                        ...r,
+                        country: code
+                    })));
                 }
                 
-                // Load towns
-                try {
-                    const townQuery = `[out:json][timeout:60][bbox:${bbox}];
+                STATE.loadedCountries.add(code);
+                log(`✓ ${country.name}: ${newStations.length} stations (static)`, 'success');
+                return true;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        async function loadLiveData(code, country) {
+            const [south, west, north, east] = country.bbox;
+            
+            // Query stations
+            const stationQuery = `[out:json][timeout:120][bbox:${south},${west},${north},${east}];
 (
-  node["place"~"city|town"];
-);
-out;`;
-                    const townResp = await fetch('https://overpass-api.de/api/interpreter', {
-                        method: 'POST',
-                        body: townQuery
-                    });
-                    if (townResp.ok) {
-                        const townData = await townResp.json();
-                        STATE.towns = townData.elements.map(t => ({ lat: t.lat, lon: t.lon, name: t.tags?.name }));
-                        log(`Found ${STATE.towns.length} towns`);
-                    }
-                } catch (e) { log('Town loading failed'); }
-                
-                // Load stations
-                const stationQuery = `[out:json][timeout:180][bbox:${bbox}];
-(
-  node["railway"~"station|halt|stop|service_station"];
-  way["railway"~"station|halt|service_station"];
-  node["public_transport"="station"]["train"="yes"];
-  way["public_transport"="station"];
+  node["railway"~"station|halt|stop"];
+  way["railway"~"station|halt"];
   way["building"="train_station"];
-  node["name"~"[Ss]tation|[Ee]stação|[Hh]alt"];
 );
 out center tags;`;
-                const stationResp = await fetch('https://overpass-api.de/api/interpreter', {
-                    method: 'POST',
-                    body: stationQuery
-                });
 
-                if (!stationResp.ok) throw new Error(`HTTP ${stationResp.status}`);
-                const data = await stationResp.json();
-                log(`✅ Received ${data.elements?.length || 0} elements`, 'success');
-                if (!data.elements || data.elements.length === 0) throw new Error('No stations found');
-
-                const stationMap = new Map();
-                for (const el of data.elements) {
+            const stationData = await queryOverpass(stationQuery);
+            
+            if (stationData?.elements) {
+                const seen = new Set();
+                for (const el of stationData.elements) {
                     const lat = el.type === 'way' ? el.center?.lat : el.lat;
                     const lon = el.type === 'way' ? el.center?.lon : el.lon;
                     if (!lat || !lon) continue;
                     
-                    if (el.tags?.building === 'train_station' && STATE.towns.length > 0 && !isNearTown(lat, lon, STATE.towns, 10)) continue;
+                    const key = `${lat.toFixed(4)},${lon.toFixed(4)}`;
+                    if (seen.has(key)) continue;
+                    seen.add(key);
                     
-                    let name = el.tags?.name || el.tags?.ref;
-                    
-                    // If unnamed, try to find nearby town name
-                    if (!name) {
-                        let closestTown = null;
-                        let minTownDist = Infinity;
-                        for (const town of STATE.towns) {
-                            const d = haversine(lat, lon, town.lat, town.lon);
-                            if (d < minTownDist && d < 5) { // Within 5km
-                                minTownDist = d;
-                                closestTown = town;
-                            }
-                        }
-                        if (closestTown && closestTown.name) {
-                            name = `${closestTown.name} Station`;
-                            log(`Renamed unnamed station to: ${name}`);
-                        } else {
-                            name = `Unnamed (${el.type} ${el.id})`;
-                        }
-                    }
-                    
-                    const key = `${lat.toFixed(5)},${lon.toFixed(5)}`;
-                    
-                    if (!stationMap.has(key) || name.toLowerCase().match(/station|estação|halt/)) {
-                        // Determine country based on selection mode
-                        let country;
-                        if (singleCountryMode) {
-                            // Check which selected country this station is in
-                            country = null;
-                            for (const regionKey of selectedOptions) {
-                                const region = REGIONS[regionKey];
-                                const [s, w, n, e] = region.bbox;
-                                if (lat >= s && lat <= n && lon >= w && lon <= e) {
-                                    country = region.name;
-                                    break;
-                                }
-                            }
-                            if (!country) country = getCountryFromData(el.tags || {}, lat, lon, null);
-                        } else {
-                            // Multi-region or mixed selection - use full detection
-                            country = getCountryFromData(el.tags || {}, lat, lon, null);
-                        }
-                        
-                        stationMap.set(key, {
-                            id: el.id, type: el.type, lat, lon, name, country,
-                            tags: el.tags || {}, railwayType: el.tags?.railway || 'station',
-                            displayName: `${name} (${country})`
+                    const name = el.tags?.name || el.tags?.ref || `Station ${el.id}`;
+                    STATE.stations.push({
+                        id: el.id,
+                        lat, lon, name,
+                        type: el.tags?.railway || 'station',
+                        country: code,
+                        countryName: country.name,
+                        displayName: `${name} (${country.name})`
+                    });
+                }
+            }
+
+            // Query railways
+            const railwayQuery = `[out:json][timeout:180][bbox:${south},${west},${north},${east}];
+way["railway"~"rail|narrow_gauge|light_rail"];
+out geom;`;
+
+            const railwayData = await queryOverpass(railwayQuery);
+            
+            if (railwayData?.elements) {
+                for (const el of railwayData.elements) {
+                    if (el.geometry && el.geometry.length >= 2) {
+                        STATE.railways.push({
+                            id: el.id,
+                            type: el.tags?.railway || 'rail',
+                            geometry: el.geometry.map(p => [p.lat, p.lon]),
+                            country: code
                         });
                     }
                 }
+            }
 
-                STATE.stations = Array.from(stationMap.values()).sort((a, b) => a.name.localeCompare(b.name));
-                log(`✅ ${STATE.stations.length} stations processed`, 'success');
+            STATE.loadedCountries.add(code);
+            const stationCount = stationData?.elements?.length || 0;
+            log(`✓ ${country.name}: ${stationCount} stations (live API)`, 'success');
+        }
+
+        async function queryOverpass(query, endpointIndex = 0) {
+            const endpoint = CONFIG.overpassEndpoints[endpointIndex];
+            try {
+                const resp = await fetch(endpoint, {
+                    method: 'POST',
+                    body: `data=${encodeURIComponent(query)}`,
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+                });
                 
-                const counts = {};
-                STATE.stations.forEach(s => counts[s.country] = (counts[s.country] || 0) + 1);
-                log(`Countries: ${JSON.stringify(counts)}`, 'success');
-
-                populateCountryFilters();
-                STATE.filteredStations = [STATE.stations, STATE.stations];
-                populateStationLists();
-                hideStatus();
-                document.getElementById('station-panel').style.display = 'block';
-
-            } catch (error) {
-                log(`❌ ${error.message}`, 'error');
-                alert(`Failed: ${error.message}`);
-                hideStatus();
+                if (resp.status === 429 || resp.status === 504) {
+                    if (endpointIndex < CONFIG.overpassEndpoints.length - 1) {
+                        log(`Rate limited, trying alternate endpoint...`, 'info');
+                        await new Promise(r => setTimeout(r, 2000));
+                        return queryOverpass(query, endpointIndex + 1);
+                    }
+                    throw new Error('All endpoints rate limited');
+                }
+                
+                if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                return await resp.json();
+            } catch (e) {
+                if (endpointIndex < CONFIG.overpassEndpoints.length - 1) {
+                    return queryOverpass(query, endpointIndex + 1);
+                }
+                throw e;
             }
         }
 
+        // ===== UI FUNCTIONS =====
         function populateCountryFilters() {
-            const countries = [...new Set(STATE.stations.map(s => s.country))].filter(c => c !== 'Unknown').sort();
-            const html = '<option value="">All countries</option>' + countries.map(c => `<option value="${c}">${c}</option>`).join('');
+            const countries = [...new Set(STATE.stations.map(s => s.countryName))].sort();
+            const html = '<option value="">All countries</option>' + 
+                countries.map(c => `<option value="${c}">${c}</option>`).join('');
             document.getElementById('country1').innerHTML = html;
             document.getElementById('country2').innerHTML = html;
         }
@@ -462,8 +537,10 @@ out center tags;`;
         function populateStationLists() {
             for (let num = 1; num <= 2; num++) {
                 const select = document.getElementById(`station${num}`);
-                select.innerHTML = STATE.filteredStations[num - 1].map((s, i) => 
-                    `<option value="${STATE.stations.indexOf(s)}">${s.displayName}</option>`).join('');
+                const stations = STATE.filteredStations[num - 1];
+                select.innerHTML = stations.slice(0, 500).map((s, i) => 
+                    `<option value="${STATE.stations.indexOf(s)}">${s.displayName}</option>`
+                ).join('');
             }
         }
 
@@ -471,10 +548,17 @@ out center tags;`;
             const query = document.getElementById(`search${num}`).value.toLowerCase();
             const div = document.getElementById(`search-results-${num}`);
             if (query.length < 2) { div.style.display = 'none'; return; }
-            const matches = STATE.stations.filter(s => s.name.toLowerCase().includes(query)).slice(0, 10);
+            
+            const matches = STATE.stations.filter(s => 
+                s.name.toLowerCase().includes(query) || 
+                s.countryName.toLowerCase().includes(query)
+            ).slice(0, 15);
+            
             if (matches.length === 0) { div.style.display = 'none'; return; }
+            
             div.innerHTML = matches.map(s => 
-                `<div class="search-result-item" onclick="selectStationFromSearch(${num}, ${STATE.stations.indexOf(s)})">${s.displayName}</div>`).join('');
+                `<div class="search-result-item" onclick="selectStationFromSearch(${num}, ${STATE.stations.indexOf(s)})">${s.displayName}</div>`
+            ).join('');
             div.style.display = 'block';
         }
 
@@ -486,7 +570,9 @@ out center tags;`;
 
         function filterByCountry(num) {
             const country = document.getElementById(`country${num}`).value;
-            STATE.filteredStations[num - 1] = country ? STATE.stations.filter(s => s.country === country) : STATE.stations;
+            STATE.filteredStations[num - 1] = country ? 
+                STATE.stations.filter(s => s.countryName === country) : 
+                STATE.stations;
             populateStationLists();
         }
 
@@ -498,508 +584,464 @@ out center tags;`;
         function setSelectedStation(num, idx) {
             STATE.selectedStations[num - 1] = STATE.stations[idx];
             const s = STATE.stations[idx];
-            document.getElementById(`selected-station-${num}`).innerHTML = `✅ <strong>${s.name}</strong><br>${s.country}`;
-            document.getElementById(`selected-station-${num}`).style.display = 'block';
+            const div = document.getElementById(`selected-station-${num}`);
+            div.innerHTML = `✅ <strong>${s.name}</strong><br>${s.countryName} (${s.lat.toFixed(4)}, ${s.lon.toFixed(4)})`;
+            div.style.display = 'block';
             document.getElementById(`station${num}`).value = idx;
         }
 
+        // ===== MAP PICKER =====
         function openMapPicker(num) {
             STATE.pickerStationNum = num;
-            document.getElementById('picker-title').textContent = `Select Station ${num}`;
+            document.getElementById('picker-title').textContent = `Select ${num === 1 ? 'Origin' : 'Destination'} Station`;
             document.getElementById('map-picker-modal').style.display = 'block';
             
             setTimeout(() => {
                 if (!STATE.pickerMap) {
                     STATE.pickerMap = L.map('picker-map');
-                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(STATE.pickerMap);
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        attribution: '© OpenStreetMap'
+                    }).addTo(STATE.pickerMap);
                 }
+                
                 STATE.pickerMap.eachLayer(l => { if (l instanceof L.Marker) STATE.pickerMap.removeLayer(l); });
+                
                 STATE.stations.forEach((s, idx) => {
                     const m = L.marker([s.lat, s.lon]).addTo(STATE.pickerMap);
-                    m.bindPopup(`<b>${s.name}</b><br>${s.country}`);
+                    m.bindPopup(`<b>${s.name}</b><br>${s.countryName}`);
                     m.on('click', () => { setSelectedStation(num, idx); closeMapPicker(); });
                 });
-                STATE.pickerMap.fitBounds(L.latLngBounds(STATE.stations.map(s => [s.lat, s.lon])), { padding: [50, 50] });
+                
+                if (STATE.stations.length > 0) {
+                    STATE.pickerMap.fitBounds(
+                        L.latLngBounds(STATE.stations.map(s => [s.lat, s.lon])), 
+                        { padding: [30, 30] }
+                    );
+                }
             }, 100);
         }
 
-        function closeMapPicker() { document.getElementById('map-picker-modal').style.display = 'none'; }
+        function closeMapPicker() {
+            document.getElementById('map-picker-modal').style.display = 'none';
+        }
+
+        // ===== PATHFINDING (Binary Min-Heap Dijkstra) =====
+        class MinHeap {
+            constructor() { this.heap = []; }
+            
+            push(item) {
+                this.heap.push(item);
+                this.bubbleUp(this.heap.length - 1);
+            }
+            
+            pop() {
+                if (this.heap.length === 0) return null;
+                const min = this.heap[0];
+                const last = this.heap.pop();
+                if (this.heap.length > 0) {
+                    this.heap[0] = last;
+                    this.bubbleDown(0);
+                }
+                return min;
+            }
+            
+            bubbleUp(i) {
+                while (i > 0) {
+                    const parent = Math.floor((i - 1) / 2);
+                    if (this.heap[parent].dist <= this.heap[i].dist) break;
+                    [this.heap[parent], this.heap[i]] = [this.heap[i], this.heap[parent]];
+                    i = parent;
+                }
+            }
+            
+            bubbleDown(i) {
+                const len = this.heap.length;
+                while (true) {
+                    const left = 2 * i + 1, right = 2 * i + 2;
+                    let smallest = i;
+                    if (left < len && this.heap[left].dist < this.heap[smallest].dist) smallest = left;
+                    if (right < len && this.heap[right].dist < this.heap[smallest].dist) smallest = right;
+                    if (smallest === i) break;
+                    [this.heap[smallest], this.heap[i]] = [this.heap[i], this.heap[smallest]];
+                    i = smallest;
+                }
+            }
+            
+            isEmpty() { return this.heap.length === 0; }
+        }
 
         function buildRailwayGraph(railways) {
             const graph = { nodes: new Map(), nodeIndex: new Map() };
             let id = 0;
+            
             function getNode(lat, lon) {
-                const key = `${lat.toFixed(6)},${lon.toFixed(6)}`;
+                const key = `${lat.toFixed(5)},${lon.toFixed(5)}`;
                 if (graph.nodeIndex.has(key)) return graph.nodeIndex.get(key);
                 const nodeId = id++;
                 graph.nodes.set(nodeId, { lat, lon, edges: [] });
                 graph.nodeIndex.set(key, nodeId);
                 return nodeId;
             }
+            
             railways.forEach(w => {
-                if (!w.geometry || w.geometry.length < 2) return;
-                for (let i = 0; i < w.geometry.length - 1; i++) {
-                    const p1 = w.geometry[i], p2 = w.geometry[i + 1];
-                    const n1 = getNode(p1.lat, p1.lon), n2 = getNode(p2.lat, p2.lon);
-                    const d = haversine(p1.lat, p1.lon, p2.lat, p2.lon);
+                const geom = w.geometry;
+                if (!geom || geom.length < 2) return;
+                
+                for (let i = 0; i < geom.length - 1; i++) {
+                    const [lat1, lon1] = Array.isArray(geom[i]) ? geom[i] : [geom[i].lat, geom[i].lon];
+                    const [lat2, lon2] = Array.isArray(geom[i+1]) ? geom[i+1] : [geom[i+1].lat, geom[i+1].lon];
+                    
+                    const n1 = getNode(lat1, lon1);
+                    const n2 = getNode(lat2, lon2);
+                    const d = haversine(lat1, lon1, lat2, lon2);
+                    
                     graph.nodes.get(n1).edges.push({ to: n2, distance: d });
                     graph.nodes.get(n2).edges.push({ to: n1, distance: d });
                 }
             });
+            
             return graph;
         }
 
-        function findShortestPath(graph, sLat, sLon, eLat, eLon) {
+        function findShortestPath(graph, s1, s2) {
+            // Find closest graph nodes to stations
             let sNode = null, eNode = null, sDist = Infinity, eDist = Infinity;
+            
             for (const [id, n] of graph.nodes) {
-                const ds = haversine(sLat, sLon, n.lat, n.lon), de = haversine(eLat, eLon, n.lat, n.lon);
+                const ds = haversine(s1.lat, s1.lon, n.lat, n.lon);
+                const de = haversine(s2.lat, s2.lon, n.lat, n.lon);
                 if (ds < sDist) { sDist = ds; sNode = id; }
                 if (de < eDist) { eDist = de; eNode = id; }
             }
-            if (!sNode || !eNode) throw new Error('No railway nodes near stations');
             
-            log(`Closest railway nodes: start=${sNode} (${sDist.toFixed(3)}km away), end=${eNode} (${eDist.toFixed(3)}km away)`);
+            if (sNode === null || eNode === null) {
+                return { distance: Infinity, disconnected: true };
+            }
             
-            const dist = new Map(), prev = new Map(), unvis = new Set(graph.nodes.keys());
+            log(`Nearest rail nodes: start ${sDist.toFixed(2)}km, end ${eDist.toFixed(2)}km away`);
+            
+            // Dijkstra with binary min-heap
+            const dist = new Map();
+            const prev = new Map();
+            const visited = new Set();
+            const heap = new MinHeap();
+            
             for (const id of graph.nodes.keys()) dist.set(id, Infinity);
             dist.set(sNode, 0);
+            heap.push({ node: sNode, dist: 0 });
             
-            let iterations = 0;
-            while (unvis.size > 0 && iterations < 100000) {
-                iterations++;
-                let cur = null, min = Infinity;
-                for (const id of unvis) if (dist.get(id) < min) { min = dist.get(id); cur = id; }
-                if (cur === null || min === Infinity) {
-                    log(`⚠️ Pathfinding stopped: cur=${cur}, min=${min}, unvisited=${unvis.size}`, 'error');
-                    break;
-                }
-                if (cur === eNode) {
-                    log(`✅ Path found after ${iterations} iterations`, 'success');
-                    break;
-                }
-                unvis.delete(cur);
-                for (const e of graph.nodes.get(cur).edges) {
-                    if (!unvis.has(e.to)) continue;
-                    const nd = dist.get(cur) + e.distance;
-                    if (nd < dist.get(e.to)) { dist.set(e.to, nd); prev.set(e.to, cur); }
+            while (!heap.isEmpty()) {
+                const { node: cur, dist: curDist } = heap.pop();
+                
+                if (visited.has(cur)) continue;
+                if (cur === eNode) break;
+                visited.add(cur);
+                
+                for (const edge of graph.nodes.get(cur).edges) {
+                    if (visited.has(edge.to)) continue;
+                    const newDist = curDist + edge.distance;
+                    if (newDist < dist.get(edge.to)) {
+                        dist.set(edge.to, newDist);
+                        prev.set(edge.to, cur);
+                        heap.push({ node: edge.to, dist: newDist });
+                    }
                 }
             }
             
-            // Check if end was reached
             if (dist.get(eNode) === Infinity) {
-                log(`❌ End node unreachable. Analyzing disconnection...`, 'error');
-                
-                // Find all nodes reachable from start
-                const reachableFromStart = new Set();
-                const distFromStart = new Map();
-                const prevFromStart = new Map();
-                const queue = [sNode];
-                reachableFromStart.add(sNode);
-                distFromStart.set(sNode, 0);
-                
-                while (queue.length > 0) {
-                    const node = queue.shift();
-                    for (const edge of graph.nodes.get(node).edges) {
-                        if (!reachableFromStart.has(edge.to)) {
-                            reachableFromStart.add(edge.to);
-                            distFromStart.set(edge.to, distFromStart.get(node) + edge.distance);
-                            prevFromStart.set(edge.to, node);
-                            queue.push(edge.to);
-                        }
-                    }
-                }
-                
-                // Find all nodes reachable from end (reverse search)
-                const reachableFromEnd = new Set();
-                const distFromEnd = new Map();
-                const prevFromEnd = new Map();
-                const queue2 = [eNode];
-                reachableFromEnd.add(eNode);
-                distFromEnd.set(eNode, 0);
-                
-                while (queue2.length > 0) {
-                    const node = queue2.shift();
-                    for (const edge of graph.nodes.get(node).edges) {
-                        if (!reachableFromEnd.has(edge.to)) {
-                            reachableFromEnd.add(edge.to);
-                            distFromEnd.set(edge.to, distFromEnd.get(node) + edge.distance);
-                            prevFromEnd.set(edge.to, node);
-                            queue2.push(edge.to);
-                        }
-                    }
-                }
-                
-                log(`Start connects to ${reachableFromStart.size} nodes, End connects to ${reachableFromEnd.size} nodes`, 'error');
-                
-                // Find the closest point in start's network to end's network
-                let closestStartNode = null, closestEndNode = null, minGap = Infinity;
-                for (const sn of reachableFromStart) {
-                    const snData = graph.nodes.get(sn);
-                    for (const en of reachableFromEnd) {
-                        const enData = graph.nodes.get(en);
-                        const gap = haversine(snData.lat, snData.lon, enData.lat, enData.lon);
-                        if (gap < minGap) {
-                            minGap = gap;
-                            closestStartNode = sn;
-                            closestEndNode = en;
-                        }
-                    }
-                }
-                
-                log(`Disconnection gap: ${minGap.toFixed(2)} km between nodes ${closestStartNode} and ${closestEndNode}`, 'error');
-                
-                // Calculate distances from stations to break points
-                const distanceFromStation1 = distFromStart.get(closestStartNode) + sDist;
-                const distanceFromStation2 = distFromEnd.get(closestEndNode) + eDist;
-                
-                log(`Distance from Station 1 to break: ${distanceFromStation1.toFixed(2)} km`, 'success');
-                log(`Distance from Station 2 to break: ${distanceFromStation2.toFixed(2)} km`, 'success');
-                
-                // Build partial path from start to break point
-                const partialPathStart = [];
-                let c = closestStartNode;
-                while (c !== undefined && c !== sNode) {
-                    partialPathStart.unshift({ lat: graph.nodes.get(c).lat, lon: graph.nodes.get(c).lon });
-                    c = prevFromStart.get(c);
-                }
-                if (c === sNode) {
-                    partialPathStart.unshift({ lat: graph.nodes.get(sNode).lat, lon: graph.nodes.get(sNode).lon });
-                }
-                
-                // Build partial path from end to break point
-                const partialPathEnd = [];
-                let c2 = closestEndNode;
-                while (c2 !== undefined && c2 !== eNode) {
-                    partialPathEnd.unshift({ lat: graph.nodes.get(c2).lat, lon: graph.nodes.get(c2).lon });
-                    c2 = prevFromEnd.get(c2);
-                }
-                if (c2 === eNode) {
-                    partialPathEnd.unshift({ lat: graph.nodes.get(eNode).lat, lon: graph.nodes.get(eNode).lon });
-                }
-                
-                // Return partial result with disconnection info
-                return {
-                    pathFromStart: partialPathStart,
-                    pathFromEnd: partialPathEnd,
-                    distance: Infinity,
-                    disconnected: true,
-                    disconnectionGap: minGap,
-                    breakPoint1: graph.nodes.get(closestStartNode),
-                    breakPoint2: graph.nodes.get(closestEndNode),
-                    startNetworkSize: reachableFromStart.size,
-                    endNetworkSize: reachableFromEnd.size,
-                    distanceFromStation1: distanceFromStation1,
-                    distanceFromStation2: distanceFromStation2
-                };
+                return analyzeDisconnection(graph, sNode, eNode, s1, s2, sDist, eDist);
             }
             
+            // Reconstruct path
             const path = [];
-            let c = eNode;
-            while (c !== undefined) {
-                path.unshift({ lat: graph.nodes.get(c).lat, lon: graph.nodes.get(c).lon });
-                c = prev.get(c);
+            let cur = eNode;
+            while (cur !== undefined) {
+                const n = graph.nodes.get(cur);
+                path.unshift({ lat: n.lat, lon: n.lon });
+                cur = prev.get(cur);
             }
-            if (path.length === 0) throw new Error('No path found');
-            log(`Path contains ${path.length} segments`);
-            return { path, distance: dist.get(eNode) + sDist + eDist, disconnected: false };
+            
+            return {
+                path,
+                distance: dist.get(eNode) + sDist + eDist,
+                disconnected: false
+            };
         }
 
-        async function calculateRoute() {
-            const s1 = STATE.selectedStations[0], s2 = STATE.selectedStations[1];
-            if (!s1 || !s2) return alert('Select both stations');
-            if (s1 === s2) return alert('Select different stations');
+        function analyzeDisconnection(graph, sNode, eNode, s1, s2, sDist, eDist) {
+            // BFS from start
+            const reachableFromStart = new Set([sNode]);
+            const distFromStart = new Map([[sNode, 0]]);
+            const queue1 = [sNode];
             
-            showStatus('Calculating...');
+            while (queue1.length > 0) {
+                const node = queue1.shift();
+                for (const edge of graph.nodes.get(node).edges) {
+                    if (!reachableFromStart.has(edge.to)) {
+                        reachableFromStart.add(edge.to);
+                        distFromStart.set(edge.to, distFromStart.get(node) + edge.distance);
+                        queue1.push(edge.to);
+                    }
+                }
+            }
+            
+            // BFS from end
+            const reachableFromEnd = new Set([eNode]);
+            const distFromEnd = new Map([[eNode, 0]]);
+            const queue2 = [eNode];
+            
+            while (queue2.length > 0) {
+                const node = queue2.shift();
+                for (const edge of graph.nodes.get(node).edges) {
+                    if (!reachableFromEnd.has(edge.to)) {
+                        reachableFromEnd.add(edge.to);
+                        distFromEnd.set(edge.to, distFromEnd.get(node) + edge.distance);
+                        queue2.push(edge.to);
+                    }
+                }
+            }
+            
+            // Find closest gap
+            let minGap = Infinity, bp1 = null, bp2 = null;
+            for (const sn of reachableFromStart) {
+                const snData = graph.nodes.get(sn);
+                for (const en of reachableFromEnd) {
+                    const enData = graph.nodes.get(en);
+                    const gap = haversine(snData.lat, snData.lon, enData.lat, enData.lon);
+                    if (gap < minGap) {
+                        minGap = gap;
+                        bp1 = { ...snData, dist: distFromStart.get(sn) };
+                        bp2 = { ...enData, dist: distFromEnd.get(en) };
+                    }
+                }
+            }
+            
+            return {
+                disconnected: true,
+                disconnectionGap: minGap,
+                breakPoint1: bp1,
+                breakPoint2: bp2,
+                distanceFromStation1: (bp1?.dist || 0) + sDist,
+                distanceFromStation2: (bp2?.dist || 0) + eDist,
+                startNetworkSize: reachableFromStart.size,
+                endNetworkSize: reachableFromEnd.size
+            };
+        }
+
+        // ===== ROUTE CALCULATION =====
+        async function calculateRoute() {
+            const s1 = STATE.selectedStations[0];
+            const s2 = STATE.selectedStations[1];
+            
+            if (!s1 || !s2) return alert('Please select both stations');
+            if (s1 === s2) return alert('Please select different stations');
+            
+            showStatus('Calculating route...');
             log(`Route: ${s1.name} → ${s2.name}`);
-            log(`Coordinates: (${s1.lat.toFixed(4)}, ${s1.lon.toFixed(4)}) → (${s2.lat.toFixed(4)}, ${s2.lon.toFixed(4)})`);
             
             try {
-                const pad = 1, bbox = [
-                    Math.min(s1.lat, s2.lat) - pad, Math.min(s1.lon, s2.lon) - pad,
-                    Math.max(s1.lat, s2.lat) + pad, Math.max(s1.lon, s2.lon) + pad
+                // Get railways for the route area
+                const pad = 1;
+                const bbox = [
+                    Math.min(s1.lat, s2.lat) - pad,
+                    Math.min(s1.lon, s2.lon) - pad,
+                    Math.max(s1.lat, s2.lat) + pad,
+                    Math.max(s1.lon, s2.lon) + pad
                 ];
-                log(`Bbox: [${bbox.map(n => n.toFixed(2)).join(', ')}]`);
                 
-                // Expanded query to include more railway types
-                const railQuery = `[out:json][timeout:60][bbox:${bbox.join(',')}];
-way["railway"~"rail|narrow_gauge|light_rail|subway|tram|disused|abandoned|preserved"];
+                // Filter relevant railways from loaded data
+                let railways = STATE.railways.filter(r => {
+                    if (!r.geometry || r.geometry.length === 0) return false;
+                    const [lat, lon] = Array.isArray(r.geometry[0]) ? r.geometry[0] : [r.geometry[0].lat, r.geometry[0].lon];
+                    return lat >= bbox[0] && lat <= bbox[2] && lon >= bbox[1] && lon <= bbox[3];
+                });
+                
+                log(`Using ${railways.length} railway segments from loaded data`);
+                
+                // If not enough railways loaded, fetch from API
+                if (railways.length < 10) {
+                    log('Fetching additional railway data from API...', 'info');
+                    const query = `[out:json][timeout:120][bbox:${bbox.join(',')}];
+way["railway"~"rail|narrow_gauge|light_rail|disused"];
 out geom;`;
-                const resp = await fetch('https://overpass-api.de/api/interpreter', {
-                    method: 'POST',
-                    body: railQuery
-                });
-                if (!resp.ok) throw new Error('Failed to fetch railways');
-                const data = await resp.json();
-                log(`Found ${data.elements?.length || 0} railway segments`);
+                    const data = await queryOverpass(query);
+                    if (data?.elements) {
+                        railways = data.elements.filter(e => e.geometry?.length >= 2).map(e => ({
+                            id: e.id,
+                            type: e.tags?.railway || 'rail',
+                            geometry: e.geometry
+                        }));
+                        log(`Fetched ${railways.length} railway segments from API`, 'success');
+                    }
+                }
                 
-                // Log railway types found
-                const types = {};
-                data.elements?.forEach(w => {
-                    const type = w.tags?.railway || 'unknown';
-                    types[type] = (types[type] || 0) + 1;
-                });
-                log(`Railway types: ${JSON.stringify(types)}`);
-                
-                if (!data.elements || data.elements.length === 0) throw new Error('No railways found');
+                if (railways.length === 0) {
+                    throw new Error('No railways found in this area');
+                }
                 
                 log('Building graph...');
-                const graph = buildRailwayGraph(data.elements);
-                log(`Graph: ${graph.nodes.size} nodes, checking connectivity...`);
+                const graph = buildRailwayGraph(railways);
+                log(`Graph: ${graph.nodes.size} nodes`);
                 
-                log('Finding path...');
-                const result = findShortestPath(graph, s1.lat, s1.lon, s2.lat, s2.lon);
+                log('Finding shortest path...');
+                const result = findShortestPath(graph, s1, s2);
                 
                 if (result.disconnected) {
-                    log(`⚠️ Railway disconnected! Gap: ${result.disconnectionGap.toFixed(2)} km`, 'error');
-                    
-                    // Check for rivers or features at the break point
-                    log('Checking for rivers/features at break point...');
-                    const breakReason = await analyzeBreakPoint(result.breakPoint1, result.breakPoint2);
-                    
-                    // Calculate combined hypothetical distance
-                    const hypotheticalTotal = result.distanceFromStation1 + result.distanceFromStation2 + result.disconnectionGap;
-                    
-                    // Show partial route with disconnection info
-                    document.getElementById('result').innerHTML = `
-                        <div class="p-6 bg-yellow-50 border-2 border-yellow-400 rounded-lg shadow-lg">
-                            <h2 class="text-2xl font-bold mb-4 text-yellow-800">⚠️ Railway Disconnected</h2>
-                            <div class="space-y-4">
-                                <div class="p-4 bg-white rounded-lg">
-                                    <p class="text-gray-700 mb-3">The railway network between <strong>${s1.name}</strong> and <strong>${s2.name}</strong> is not connected.</p>
-                                    
-                                    <div class="grid md:grid-cols-3 gap-4 text-sm mt-4">
-                                        <div class="p-3 bg-blue-50 rounded">
-                                            <div class="font-semibold text-blue-800">From ${s1.name}</div>
-                                            <div class="text-2xl font-bold text-blue-600">${result.distanceFromStation1.toFixed(2)} km</div>
-                                            <div class="text-xs text-gray-600">to break point</div>
-                                        </div>
-                                        <div class="p-3 bg-red-50 rounded">
-                                            <div class="font-semibold text-red-800">Missing Gap</div>
-                                            <div class="text-2xl font-bold text-red-600">${result.disconnectionGap.toFixed(2)} km</div>
-                                            <div class="text-xs text-gray-600">${breakReason}</div>
-                                        </div>
-                                        <div class="p-3 bg-purple-50 rounded">
-                                            <div class="font-semibold text-purple-800">From ${s2.name}</div>
-                                            <div class="text-2xl font-bold text-purple-600">${result.distanceFromStation2.toFixed(2)} km</div>
-                                            <div class="text-xs text-gray-600">to break point</div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="mt-4 p-3 bg-gray-100 rounded border-l-4 border-indigo-500">
-                                        <div class="text-sm text-gray-600">Hypothetical Total Distance (if connected)</div>
-                                        <div class="text-3xl font-bold text-indigo-600">${hypotheticalTotal.toFixed(2)} km</div>
-                                        <div class="text-xs text-gray-500 mt-1">
-                                            ${result.distanceFromStation1.toFixed(1)} km + ${result.disconnectionGap.toFixed(1)} km gap + ${result.distanceFromStation2.toFixed(1)} km
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="text-sm text-gray-600">
-                                    💡 <strong>Map Legend:</strong> 
-                                    <span class="text-blue-600 font-semibold">Blue line</span> = Railway from ${s1.name} • 
-                                    <span class="text-red-600 font-semibold">Red dashed line</span> = Missing connection • 
-                                    <span class="text-purple-600 font-semibold">Purple line</span> = Railway from ${s2.name}
-                                </div>
-                            </div>
-                        </div>`;
-                    document.getElementById('result').style.display = 'block';
-                    
-                    showDisconnectedMap(s1, s2, result, breakReason);
-                    hideStatus();
-                    return;
+                    displayDisconnectedResult(s1, s2, result);
+                } else {
+                    displayConnectedResult(s1, s2, result);
                 }
                 
-                if (!isFinite(result.distance)) {
-                    hideStatus();
-                    log('❌ Distance is infinite - stations may not be connected', 'error');
-                    return alert('Route not possible. Rail lines may not be connected. Check the debug log for details.');
-                }
-                
-                const dist = result.distance, straight = haversine(s1.lat, s1.lon, s2.lat, s2.lon);
-                const travel = dist / 35, shipment = (travel * 3) / 24, co2 = dist * 0.024278;
-                
-                log(`✅ Route found: ${dist.toFixed(2)} km`, 'success');
-                
-                document.getElementById('result').innerHTML = `
-                    <div class="p-6 bg-gradient-to-br from-green-50 to-blue-50 border-2 border-green-300 rounded-lg shadow-lg">
-                        <h2 class="text-2xl font-bold mb-4">✅ Route Analysis</h2>
-                        <div class="grid md:grid-cols-2 gap-6">
-                            <div><div class="mb-3"><strong>Origin:</strong> ${s1.name}, ${s1.country}</div>
-                            <div><strong>Destination:</strong> ${s2.name}, ${s2.country}</div></div>
-                            <div class="space-y-3">
-                                <div class="p-3 bg-white rounded-lg shadow"><div class="text-sm text-gray-600">Railway Distance</div>
-                                <div class="text-2xl font-bold text-indigo-600">${dist.toFixed(2)} km</div></div>
-                                <div class="p-3 bg-white rounded-lg shadow"><div class="text-sm text-gray-600">Approximate Travel Time</div>
-                                <div class="text-xl font-bold text-blue-600">${travel.toFixed(1)} hours</div><div class="text-xs text-gray-500">(at 35 km/h avg speed)</div></div>
-                                <div class="p-3 bg-white rounded-lg shadow"><div class="text-sm text-gray-600">Approximate Shipment Time</div>
-                                <div class="text-xl font-bold text-purple-600">${shipment.toFixed(1)} days</div><div class="text-xs text-gray-500">(3x travel time)</div></div>
-                                <div class="p-3 bg-white rounded-lg shadow"><div class="text-sm text-gray-600">CO2e Emissions per MT</div>
-                                <div class="text-xl font-bold text-green-700">${co2.toFixed(2)} kgCO2e</div><div class="text-xs text-gray-500">per metric ton cargo</div></div>
-                            </div>
-                        </div>
-                        <div class="mt-4 text-sm text-gray-600 border-t pt-3"><strong>Note:</strong> Straight-line: ${straight.toFixed(2)} km (rail is ${((dist/straight - 1) * 100).toFixed(0)}% longer)</div>
-                    </div>`;
-                document.getElementById('result').style.display = 'block';
-                
-                showMap(s1, s2, result.path);
                 hideStatus();
             } catch (error) {
-                log(`❌ ${error.message}`, 'error');
+                log(`Error: ${error.message}`, 'error');
                 hideStatus();
-                alert('Route not possible. Rail lines may not be connected. Check the debug log for details.');
+                alert(`Route calculation failed: ${error.message}`);
             }
         }
 
-        async function analyzeBreakPoint(bp1, bp2) {
-            try {
-                // Check for rivers/waterways at the break point
-                const midLat = (bp1.lat + bp2.lat) / 2;
-                const midLon = (bp1.lon + bp2.lon) / 2;
-                const searchRadius = Math.max(0.01, Math.min(0.05, haversine(bp1.lat, bp1.lon, bp2.lat, bp2.lon) / 2));
-                
-                const query = `[out:json][timeout:15];
-(
-  way(around:${searchRadius * 111000},${midLat},${midLon})["waterway"~"river|canal"];
-  way(around:${searchRadius * 111000},${midLat},${midLon})["natural"="water"];
-  relation(around:${searchRadius * 111000},${midLat},${midLon})["waterway"="river"];
-);
-out tags;`;
-                
-                const resp = await fetch('https://overpass-api.de/api/interpreter', {
-                    method: 'POST',
-                    body: query
-                });
-                
-                if (resp.ok) {
-                    const data = await resp.json();
-                    if (data.elements && data.elements.length > 0) {
-                        const waterFeatures = data.elements.filter(e => e.tags.waterway || e.tags.natural === 'water');
-                        if (waterFeatures.length > 0) {
-                            const riverName = waterFeatures[0].tags.name || 'unnamed river';
-                            log(`🌊 River detected at break: ${riverName}`, 'success');
-                            return `River crossing: ${riverName}`;
-                        }
-                    }
-                }
-                
-                // Check if it's a border crossing
-                const countries1 = getCountryFromData({}, bp1.lat, bp1.lon, null);
-                const countries2 = getCountryFromData({}, bp2.lat, bp2.lon, null);
-                if (countries1 !== countries2) {
-                    log(`🗺️ International border detected: ${countries1}/${countries2}`, 'success');
-                    return `Border crossing: ${countries1}↔${countries2}`;
-                }
-                
-                return 'Unknown obstruction';
-            } catch (e) {
-                log(`Failed to analyze break point: ${e.message}`);
-                return 'Analysis unavailable';
-            }
+        function displayConnectedResult(s1, s2, result) {
+            const dist = result.distance;
+            const straight = haversine(s1.lat, s1.lon, s2.lat, s2.lon);
+            const travel = dist / CONFIG.avgSpeed;
+            const shipment = (travel * CONFIG.shipmentMultiplier) / 24;
+            const co2 = dist * CONFIG.emissionFactor;
+            
+            log(`✓ Route found: ${dist.toFixed(2)} km`, 'success');
+            
+            document.getElementById('result').innerHTML = `
+                <div class="p-6 bg-gradient-to-br from-green-50 to-blue-50 border-2 border-green-300 rounded-lg shadow-lg">
+                    <h2 class="text-xl font-bold mb-4">✅ Route Found</h2>
+                    <div class="grid md:grid-cols-2 gap-4">
+                        <div>
+                            <p class="text-sm"><strong>From:</strong> ${s1.name}, ${s1.countryName}</p>
+                            <p class="text-sm"><strong>To:</strong> ${s2.name}, ${s2.countryName}</p>
+                        </div>
+                        <div class="grid grid-cols-2 gap-3">
+                            <div class="p-3 bg-white rounded shadow">
+                                <div class="text-xs text-gray-500">Railway Distance</div>
+                                <div class="text-xl font-bold text-indigo-600">${dist.toFixed(1)} km</div>
+                            </div>
+                            <div class="p-3 bg-white rounded shadow">
+                                <div class="text-xs text-gray-500">Travel Time</div>
+                                <div class="text-xl font-bold text-blue-600">${travel.toFixed(1)} hrs</div>
+                            </div>
+                            <div class="p-3 bg-white rounded shadow">
+                                <div class="text-xs text-gray-500">Shipment Time</div>
+                                <div class="text-xl font-bold text-purple-600">${shipment.toFixed(1)} days</div>
+                            </div>
+                            <div class="p-3 bg-white rounded shadow">
+                                <div class="text-xs text-gray-500">CO₂e per MT</div>
+                                <div class="text-xl font-bold text-green-700">${co2.toFixed(2)} kg</div>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-xs text-gray-500 mt-3">Straight-line: ${straight.toFixed(1)} km (rail is ${((dist/straight - 1) * 100).toFixed(0)}% longer)</p>
+                </div>`;
+            document.getElementById('result').style.display = 'block';
+            
+            showRouteMap(s1, s2, result.path);
         }
 
-        function showDisconnectedMap(s1, s2, result, breakReason) {
+        function displayDisconnectedResult(s1, s2, result) {
+            const hypothetical = result.distanceFromStation1 + result.distanceFromStation2 + result.disconnectionGap;
+            
+            log(`⚠️ Railway disconnected! Gap: ${result.disconnectionGap.toFixed(2)} km`, 'error');
+            
+            document.getElementById('result').innerHTML = `
+                <div class="p-6 bg-yellow-50 border-2 border-yellow-400 rounded-lg shadow-lg">
+                    <h2 class="text-xl font-bold mb-4 text-yellow-800">⚠️ Railway Disconnected</h2>
+                    <p class="text-sm text-gray-700 mb-4">No continuous rail connection between <strong>${s1.name}</strong> and <strong>${s2.name}</strong>.</p>
+                    <div class="grid md:grid-cols-3 gap-3 mb-4">
+                        <div class="p-3 bg-blue-50 rounded">
+                            <div class="text-xs text-blue-800">From ${s1.name}</div>
+                            <div class="text-xl font-bold text-blue-600">${result.distanceFromStation1.toFixed(1)} km</div>
+                            <div class="text-xs text-gray-500">to break point</div>
+                        </div>
+                        <div class="p-3 bg-red-50 rounded">
+                            <div class="text-xs text-red-800">Gap</div>
+                            <div class="text-xl font-bold text-red-600">${result.disconnectionGap.toFixed(1)} km</div>
+                            <div class="text-xs text-gray-500">missing connection</div>
+                        </div>
+                        <div class="p-3 bg-purple-50 rounded">
+                            <div class="text-xs text-purple-800">From ${s2.name}</div>
+                            <div class="text-xl font-bold text-purple-600">${result.distanceFromStation2.toFixed(1)} km</div>
+                            <div class="text-xs text-gray-500">to break point</div>
+                        </div>
+                    </div>
+                    <div class="p-3 bg-gray-100 rounded">
+                        <div class="text-xs text-gray-600">Hypothetical Total (if connected)</div>
+                        <div class="text-2xl font-bold text-indigo-600">${hypothetical.toFixed(1)} km</div>
+                    </div>
+                </div>`;
+            document.getElementById('result').style.display = 'block';
+            
+            showDisconnectedMap(s1, s2, result);
+        }
+
+        function showRouteMap(s1, s2, path) {
             document.getElementById('map-container').style.display = 'block';
+            
             if (!STATE.map) {
                 STATE.map = L.map('map');
-                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(STATE.map);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '© OpenStreetMap'
+                }).addTo(STATE.map);
             }
+            
             STATE.map.eachLayer(l => { if (l instanceof L.Marker || l instanceof L.Polyline) STATE.map.removeLayer(l); });
             
-            // Add station markers
-            L.marker([s1.lat, s1.lon])
-                .bindPopup(`<b>ORIGIN:</b><br>${s1.name}<br><small>${result.distanceFromStation1.toFixed(2)} km to break</small>`)
-                .addTo(STATE.map);
+            L.marker([s1.lat, s1.lon]).bindPopup(`<b>Origin:</b> ${s1.name}`).addTo(STATE.map).openPopup();
+            L.marker([s2.lat, s2.lon]).bindPopup(`<b>Destination:</b> ${s2.name}`).addTo(STATE.map);
+            L.polyline(path.map(p => [p.lat, p.lon]), { color: 'red', weight: 4 }).addTo(STATE.map);
             
-            L.marker([s2.lat, s2.lon])
-                .bindPopup(`<b>DESTINATION:</b><br>${s2.name}<br><small>${result.distanceFromStation2.toFixed(2)} km to break</small>`)
-                .addTo(STATE.map);
+            STATE.map.fitBounds(L.latLngBounds(path.map(p => [p.lat, p.lon])), { padding: [50, 50] });
+        }
+
+        function showDisconnectedMap(s1, s2, result) {
+            document.getElementById('map-container').style.display = 'block';
             
-            // Draw partial path from start (in blue)
-            if (result.pathFromStart && result.pathFromStart.length > 0) {
-                const coords = result.pathFromStart.map(p => [p.lat, p.lon]);
-                L.polyline(coords, { 
-                    color: 'blue', 
-                    weight: 5, 
-                    opacity: 0.7
-                }).bindPopup(`Railway from ${s1.name}<br>${result.distanceFromStation1.toFixed(2)} km`).addTo(STATE.map);
+            if (!STATE.map) {
+                STATE.map = L.map('map');
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '© OpenStreetMap'
+                }).addTo(STATE.map);
             }
             
-            // Draw partial path from end (in purple)
-            if (result.pathFromEnd && result.pathFromEnd.length > 0) {
-                const coords = result.pathFromEnd.map(p => [p.lat, p.lon]);
-                L.polyline(coords, { 
-                    color: 'purple', 
-                    weight: 5, 
-                    opacity: 0.7
-                }).bindPopup(`Railway from ${s2.name}<br>${result.distanceFromStation2.toFixed(2)} km`).addTo(STATE.map);
-            }
+            STATE.map.eachLayer(l => { if (l instanceof L.Marker || l instanceof L.Polyline) STATE.map.removeLayer(l); });
             
-            // Add broken chain icon at disconnection points
+            L.marker([s1.lat, s1.lon]).bindPopup(`<b>Origin:</b> ${s1.name}`).addTo(STATE.map);
+            L.marker([s2.lat, s2.lon]).bindPopup(`<b>Destination:</b> ${s2.name}`).addTo(STATE.map);
+            
             if (result.breakPoint1 && result.breakPoint2) {
-                // Create custom icon for broken chain
-                const brokenChainIcon = L.divIcon({
-                    html: `<div style="font-size: 32px; text-align: center; line-height: 1;">⛓️‍💥</div>`,
-                    className: 'broken-chain-icon',
-                    iconSize: [32, 32],
-                    iconAnchor: [16, 16]
+                const breakIcon = L.divIcon({
+                    html: '<div style="font-size:24px">⛓️‍💥</div>',
+                    className: '',
+                    iconSize: [24, 24],
+                    iconAnchor: [12, 12]
                 });
                 
-                L.marker([result.breakPoint1.lat, result.breakPoint1.lon], { icon: brokenChainIcon })
-                    .bindPopup(`<b>🔗 Railway End (from ${s1.name})</b><br>
-                        Gap: ${result.disconnectionGap.toFixed(2)} km<br>
-                        Reason: ${breakReason}<br>
-                        <small>Distance travelled: ${result.distanceFromStation1.toFixed(2)} km</small>`)
-                    .addTo(STATE.map)
-                    .openPopup();
+                L.marker([result.breakPoint1.lat, result.breakPoint1.lon], { icon: breakIcon })
+                    .bindPopup(`<b>Break Point 1</b><br>Gap: ${result.disconnectionGap.toFixed(1)} km`)
+                    .addTo(STATE.map);
                 
-                // Draw a dashed red line showing the gap
+                L.marker([result.breakPoint2.lat, result.breakPoint2.lon], { icon: breakIcon })
+                    .bindPopup(`<b>Break Point 2</b>`)
+                    .addTo(STATE.map);
+                
                 L.polyline([
                     [result.breakPoint1.lat, result.breakPoint1.lon],
                     [result.breakPoint2.lat, result.breakPoint2.lon]
-                ], {
-                    color: 'red',
-                    weight: 3,
-                    opacity: 0.8,
-                    dashArray: '5, 10'
-                }).bindPopup(`<b>Missing Connection</b><br>${result.disconnectionGap.toFixed(2)} km gap<br>${breakReason}`).addTo(STATE.map);
-                
-                // Add marker at the other end
-                const destinationChainIcon = L.divIcon({
-                    html: `<div style="font-size: 32px; text-align: center; line-height: 1;">⛓️‍💥</div>`,
-                    className: 'chain-icon',
-                    iconSize: [32, 32],
-                    iconAnchor: [16, 16]
-                });
-                
-                L.marker([result.breakPoint2.lat, result.breakPoint2.lon], { icon: destinationChainIcon })
-                    .bindPopup(`<b>🔗 Railway End (from ${s2.name})</b><br>
-                        <small>Distance travelled: ${result.distanceFromStation2.toFixed(2)} km</small>`)
-                    .addTo(STATE.map);
+                ], { color: 'red', weight: 3, dashArray: '5,10' }).addTo(STATE.map);
             }
             
-            // Fit bounds to show everything
-            const bounds = L.latLngBounds([
-                [s1.lat, s1.lon],
-                [s2.lat, s2.lon]
-            ]);
+            const bounds = L.latLngBounds([[s1.lat, s1.lon], [s2.lat, s2.lon]]);
             if (result.breakPoint1) bounds.extend([result.breakPoint1.lat, result.breakPoint1.lon]);
             if (result.breakPoint2) bounds.extend([result.breakPoint2.lat, result.breakPoint2.lon]);
             STATE.map.fitBounds(bounds, { padding: [50, 50] });
         }
 
-        function showMap(s1, s2, path) {
-            document.getElementById('map-container').style.display = 'block';
-            if (!STATE.map) {
-                STATE.map = L.map('map');
-                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(STATE.map);
-            }
-            STATE.map.eachLayer(l => { if (l instanceof L.Marker || l instanceof L.Polyline) STATE.map.removeLayer(l); });
-            L.marker([s1.lat, s1.lon]).bindPopup(`<b>ORIGIN:</b><br>${s1.name}`).addTo(STATE.map).openPopup();
-            L.marker([s2.lat, s2.lon]).bindPopup(`<b>DESTINATION:</b><br>${s2.name}`).addTo(STATE.map);
-            L.polyline(path.map(p => [p.lat, p.lon]), { color: 'red', weight: 4, opacity: 0.8 }).addTo(STATE.map);
-            STATE.map.fitBounds(L.latLngBounds(path.map(p => [p.lat, p.lon])), { padding: [50, 50] });
-        }
-
+        // Close search results when clicking outside
         document.addEventListener('click', e => {
             if (!e.target.closest('.search-box')) {
                 document.getElementById('search-results-1').style.display = 'none';

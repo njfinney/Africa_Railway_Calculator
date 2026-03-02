@@ -1,439 +1,294 @@
-# Africa Railway Distance and Emissions Calculator
+# Africa Railway Distance and Emissions Calculator v2
 
-A web-based tool for calculating railway distances, travel times, and carbon emissions across African railway networks. Built with OpenStreetMap data and advanced pathfinding algorithms.
+A web-based tool for calculating railway distances, travel times, and carbon emissions across **all 49 mainland African countries**. Built with OpenStreetMap data, optimized pathfinding algorithms, and a hybrid data architecture that combines pre-extracted static files with live API fallback.
 
-🌐 **Live Demo:** [View the calculator](https://njfinney.github.io/Africa_Railway_Calculator)
+🌐 **Live Demo:** [njfinney.github.io/Africa_Railway_Calculator](https://njfinney.github.io/Africa_Railway_Calculator)
 
 ---
 
 ## 🎯 What This Tool Does
 
-This calculator helps you:
-- **Calculate actual railway distances** between any two stations in Africa
-- **Estimate travel and shipment times** based on average freight speeds
-- **Calculate CO2e emissions** per metric ton of cargo
+- **Calculate actual railway distances** between any two stations across Africa
+- **Estimate travel times** based on average freight speeds (35 km/h)
+- **Calculate shipment times** including loading, unloading, and customs delays
+- **Compute CO₂e emissions** per metric ton of cargo
 - **Visualize routes** on an interactive map
-- **Identify disconnections** in railway networks (with gap analysis)
-
-### Supported Countries
-**Southern Africa:** Mozambique, Malawi, Zambia, Zimbabwe, South Africa  
-**East Africa:** Tanzania, Kenya  
-**West Africa:** Nigeria, Cameroon, Benin, Côte d'Ivoire, Burkina Faso, Liberia, Senegal, Mali
+- **Identify network disconnections** with gap analysis
 
 ---
 
-## 📚 How It Works: From Simple to Complex
+## 🌍 Coverage
 
-### Level 1: The Basic Concept
-Think of railways as a network of connected points (like a connect-the-dots puzzle):
-- **Stations** are your start and end points
-- **Railway tracks** connect these stations
-- The tool finds the shortest path along these tracks
+### 49 Mainland African Countries
 
-### Level 2: The Process Flow
-```
-1. Select countries → Load railway data from OpenStreetMap
-2. Choose stations → Search by name, country, or map
-3. Click calculate → Algorithm finds the shortest path
-4. View results → Distance, time, emissions, and map visualization
-```
-
-### Level 3: The Core Logic
-
-#### A. Data Collection
-1. **Query OpenStreetMap** for railway stations in selected region
-2. Fetch stations tagged as: `railway=station|halt|stop`, `building=train_station`, etc.
-3. Filter out irrelevant buildings (keep only those near towns)
-4. Assign countries using multiple methods (OSM tags → text search → geographic location)
-
-#### B. Route Calculation
-When you request a route:
-1. **Expand the search area** by 1° around both stations (to catch connecting railways)
-2. **Fetch all railway lines** in that bounding box from OpenStreetMap
-3. **Build a graph**:
-   - Each point on a railway becomes a "node"
-   - Connections between adjacent points become "edges" with distances
-4. **Find closest nodes** to each station (within a few km)
-5. **Run Dijkstra's algorithm** to find shortest path through the graph
-6. **Calculate total distance** = (station to rail) + (path along railways) + (rail to station)
-
-#### C. Disconnection Analysis
-If no path exists:
-1. **Perform bidirectional search** from both stations
-2. Find which nodes are reachable from each side
-3. **Calculate the gap** between the two disconnected networks
-4. **Check for obstacles** (rivers, borders) at the break point
-5. **Show partial routes** with the exact gap location
+| Region | Countries |
+|--------|-----------|
+| **North Africa** | Algeria, Egypt, Libya, Morocco, Sudan, Tunisia |
+| **West Africa** | Benin, Burkina Faso, Côte d'Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo |
+| **Central Africa** | Angola, Cameroon, Central African Republic, Chad, Congo (Brazzaville), Congo (DRC), Equatorial Guinea, Gabon |
+| **East Africa** | Burundi, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Rwanda, Somalia, South Sudan, Tanzania, Uganda |
+| **Southern Africa** | Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia, Zimbabwe |
 
 ---
 
-## 🔧 Technical Implementation
+## 🏗️ Architecture
 
-### Architecture Overview
+### Hybrid Data Approach
+
+The v2 architecture dramatically reduces API calls and improves reliability:
+
 ```
-┌─────────────────────────────────────────┐
-│  User Interface (HTML + Tailwind CSS)  │
-├─────────────────────────────────────────┤
-│  Application Logic (Vanilla JavaScript) │
-│  ├─ Data Layer (Overpass API queries)  │
-│  ├─ Graph Builder (Railway network)    │
-│  ├─ Pathfinding (Dijkstra's algorithm) │
-│  └─ Visualization (Leaflet.js maps)    │
-├─────────────────────────────────────────┤
-│  External APIs                          │
-│  ├─ Overpass API (OpenStreetMap data)  │
-│  └─ Nominatim (reverse geocoding)      │
-└─────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                    User Interface                        │
+│              (HTML + Tailwind CSS + Leaflet)            │
+├─────────────────────────────────────────────────────────┤
+│                  Application Logic                       │
+│  ┌─────────────────┐    ┌─────────────────────────────┐ │
+│  │ Static Data     │───▶│ Pre-extracted JSON files    │ │
+│  │ (Primary)       │    │ Hosted on GitHub Pages      │ │
+│  └─────────────────┘    └─────────────────────────────┘ │
+│  ┌─────────────────┐    ┌─────────────────────────────┐ │
+│  │ Live API        │───▶│ Overpass API (Fallback)     │ │
+│  │ (Secondary)     │    │ Multiple endpoints          │ │
+│  └─────────────────┘    └─────────────────────────────┘ │
+├─────────────────────────────────────────────────────────┤
+│                Pathfinding Engine                        │
+│  • Binary Min-Heap Dijkstra (O(E + V log V))           │
+│  • Disconnection Analysis with bidirectional BFS        │
+│  • Graph built from railway geometry                    │
+└─────────────────────────────────────────────────────────┘
 ```
 
-### Key Technologies
+### Key Benefits
 
-#### 1. **OpenStreetMap & Overpass API**
-- **What:** Real-time access to global mapping data
-- **Why:** Contains detailed railway infrastructure data
-- **Query Example:**
+1. **Faster Loading** - Pre-extracted data loads instantly vs. waiting for API
+2. **Higher Reliability** - No rate limiting or timeout issues from Overpass API
+3. **Offline-Capable** - Static data works without live API access
+4. **Automatic Updates** - GitHub Actions refreshes data weekly
+
+---
+
+## 📊 How It Works
+
+### Level 1: Simple Explanation
+
+1. **Select countries** you want to explore
+2. **Choose two stations** (origin and destination)
+3. **Click calculate** - the tool finds the shortest railway path
+4. **View results** - distance, time, emissions, and a map
+
+### Level 2: Process Flow
+
+```
+User selects countries
+        ↓
+Load data (static JSON or live API)
+        ↓
+User selects two stations
+        ↓
+Build railway network graph
+        ↓
+Run Dijkstra's shortest path algorithm
+        ↓
+If connected: Show route + metrics
+If disconnected: Analyze gap + show partial routes
+```
+
+### Level 3: Technical Details
+
+#### Data Loading
+1. **Check manifest** - See which countries have pre-extracted data
+2. **Load static JSON** - Fast, reliable station and railway data
+3. **Fallback to API** - Query Overpass if static data unavailable
+4. **Merge and deduplicate** - Combine data from multiple sources
+
+#### Graph Construction
+1. **Parse railway geometry** - Extract lat/lon points from railway ways
+2. **Create nodes** - Each coordinate becomes a graph node
+3. **Create edges** - Adjacent points connected with haversine distance
+4. **Build adjacency lists** - Efficient graph representation
+
+#### Pathfinding (Binary Min-Heap Dijkstra)
 ```javascript
-[out:json][bbox:south,west,north,east];
-(
-  node["railway"~"station|halt|stop"];
-  way["railway"="station"];
-);
-out center tags;
-```
-
-#### 2. **Graph Theory & Dijkstra's Algorithm**
-- **Graph Structure:** `{ nodes: Map<id, {lat, lon, edges}>, nodeIndex: Map<coords, id> }`
-- **Algorithm:** Finds shortest path in weighted graph
-- **Time Complexity:** O((V + E) log V) where V=nodes, E=edges
-- **Why Dijkstra?** 
-  - Guarantees shortest path
-  - Works well with real distances
-  - Efficient for sparse graphs (railway networks)
-
-#### 3. **Haversine Distance Formula**
-Calculates great-circle distance between two points on Earth:
-```javascript
-function haversine(lat1, lon1, lat2, lon2) {
-    const R = 6371; // Earth radius in km
-    const dLat = (lat2 - lat1) * Math.PI / 180;
-    const dLon = (lon2 - lon1) * Math.PI / 180;
-    const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-              Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-              Math.sin(dLon/2) * Math.sin(dLon/2);
-    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+// O(E + V log V) time complexity
+while (!heap.isEmpty()) {
+    const { node, dist } = heap.pop();  // O(log V)
+    if (visited.has(node)) continue;
+    if (node === end) break;
+    
+    for (const edge of neighbors[node]) {
+        const newDist = dist + edge.distance;
+        if (newDist < distances[edge.to]) {
+            distances[edge.to] = newDist;
+            heap.push({ node: edge.to, dist: newDist });
+        }
+    }
 }
 ```
 
-#### 4. **Leaflet.js Mapping**
-- Interactive map with OpenStreetMap tiles
-- Custom markers for stations and break points
-- Polylines for railway routes (color-coded by status)
-
-### Data Flow Diagram
-```
-User Input
-    ↓
-[Select Countries] → Combine bounding boxes
-    ↓
-[Fetch Stations] → Overpass API query
-    ↓
-[Process Data] → Deduplicate, assign countries, sort
-    ↓
-[Display UI] → Populate dropdowns/map
-    ↓
-[Calculate Route]
-    ↓
-[Fetch Railways] → Query railways in route area
-    ↓
-[Build Graph] → Create nodes from track geometry
-    ↓
-[Find Path] → Dijkstra's algorithm
-    ↓
-[Check Result]
-    ├─ Connected → Calculate metrics, display route
-    └─ Disconnected → Analyze gap, show partial routes
-```
-
-### Country Detection Algorithm
-Multi-stage fallback system (highest priority first):
-
-1. **Single-country mode:** If user selected one country, assign that
-2. **OSM tags:** Check `addr:country`, `is_in:country`, `country` tags
-3. **Text extraction:** Search address fields for country names
-4. **Geographic center:** Calculate distance to each country's center point, pick closest
-
-### Disconnection Analysis Algorithm
-
-When Dijkstra's algorithm returns `distance = Infinity`:
-
-1. **Bidirectional BFS (Breadth-First Search):**
-   - From Station 1: Find all reachable nodes (forward search)
-   - From Station 2: Find all reachable nodes (backward search)
-
-2. **Gap Calculation:**
-   - Find closest pair of nodes between the two networks
-   - Calculate distance between them (the "gap")
-
-3. **Obstacle Detection:**
-   - Query Overpass API for rivers/waterways at gap midpoint
-   - Check if gap crosses international border
-
-4. **Path Reconstruction:**
-   - Build partial path from Station 1 to its network's edge
-   - Build partial path from Station 2 to its network's edge
-   - Calculate distances for each segment
-
-5. **Visualization:**
-   - Blue line: Railway from Station 1
-   - Purple line: Railway from Station 2
-   - Red dashed line: The gap
-   - Broken chain icons: Exact break points
+#### Disconnection Analysis
+When no path exists:
+1. **BFS from start** - Find all reachable nodes
+2. **BFS from end** - Find all reachable nodes
+3. **Find gap** - Closest points between the two networks
+4. **Calculate partial distances** - How far each network extends
 
 ---
 
-## 📊 Calculations Explained
+## 📐 Calculations
 
-### 1. Railway Distance
-- Actual distance along railway tracks (not straight-line)
-- Calculated by summing edge weights in shortest path
-- Includes connection distance from stations to nearest rail node
+### Railway Distance
+- Actual distance along tracks (not straight-line)
+- Sum of graph edge weights on shortest path
+- Plus connection distance from stations to nearest rail nodes
 
-### 2. Travel Time
+### Travel Time
 ```
 Travel Time (hours) = Railway Distance (km) / 35 km/h
 ```
-- Assumes average freight train speed of 35 km/h
-- Conservative estimate accounting for stops, delays
 
-### 3. Shipment Time
+### Shipment Time
 ```
-Shipment Time (days) = (Travel Time × 3) / 24
+Shipment Time (days) = Travel Time × 3 / 24
 ```
-- Multiplied by 3 to account for loading, unloading, customs
-- Converted from hours to days
+*Multiplier accounts for loading, unloading, customs, and delays*
 
-### 4. CO2e Emissions
+### CO₂e Emissions
 ```
-Emissions (kgCO2e per MT) = Railway Distance (km) × 0.024278
+Emissions (kgCO₂e/MT) = Railway Distance (km) × 0.024278
 ```
-- Based on rail freight emission factor: **24.278 gCO2e per ton-km**
-- Significantly lower than road transport (~62 gCO2e/ton-km)
-- Calculated per metric ton (MT) of cargo
+*Based on 24.278 gCO₂e per ton-km for diesel rail freight*
 
 ---
 
-## 🛠️ Development Details
+## 🔧 Data Extraction System
 
-### File Structure
-```
-Africa_Railway_Calculator/
-├── index.html          # Main application (self-contained)
-└── README.md          # This file
-```
+### GitHub Actions Workflow
 
-### State Management
-All application state in single object:
-```javascript
-const STATE = {
-    stations: [],              // All loaded stations
-    filteredStations: [[], []], // Filtered for each dropdown
-    selectedStations: [null, null], // Currently selected
-    railwayGraph: null,        // Built graph for routing
-    map: null,                 // Leaflet map instance
-    pickerMap: null,          // Map picker modal instance
-    towns: []                 // Major towns for filtering
-};
+The repository includes automated data extraction that runs weekly:
+
+```yaml
+# Parallel extraction by region
+Jobs:
+  - extract-north-africa (6 countries, ~30 min)
+  - extract-west-africa (15 countries, ~45 min)
+  - extract-central-africa (8 countries, ~45 min)
+  - extract-east-africa (11 countries, ~45 min)
+  - extract-southern-africa (9 countries, ~30 min)
+  - merge-and-commit (combines all data)
 ```
 
-### Performance Optimizations
+### Manual Extraction
 
-1. **Caching:** Town locations cached to avoid repeated lookups
-2. **Deduplication:** Stations within 500m combined to single point
-3. **Lazy Loading:** Railway data only fetched when calculating route
-4. **Smart Queries:** Bounding box queries instead of full country downloads
-5. **Iteration Limits:** Pathfinding capped at 100,000 iterations
+Run locally with Node.js:
 
-### Error Handling
+```bash
+# Single country
+node scripts/extract-railway-data.js ZA
 
-- **Network failures:** Graceful degradation with error messages
-- **Invalid selections:** User validation before API calls
-- **No data found:** Clear explanations with suggestions
-- **Disconnected networks:** Detailed analysis instead of generic error
+# Multiple countries
+node scripts/extract-railway-data.js ZA MW MZ
+
+# Entire region
+node scripts/extract-railway-data.js --region "Southern Africa"
+
+# All countries
+node scripts/extract-railway-data.js --all
+```
+
+### Data File Structure
+
+```
+data/
+├── manifest.json           # Index of all available data
+├── stations/
+│   ├── ZA.json            # South Africa stations
+│   ├── KE.json            # Kenya stations
+│   └── ...
+└── railways/
+    ├── ZA.json            # South Africa railway geometry
+    ├── KE.json            # Kenya railway geometry
+    └── ...
+```
 
 ---
 
-## 🚀 Usage Guide
+## 🚀 Deployment
 
-### Basic Workflow
-1. **Select countries** (hold Ctrl/Cmd for multiple)
-2. Click "Load Selected Regions"
-3. **Choose stations** using any method:
-   - 🔍 Type in search box
-   - 🌍 Filter by country
-   - 📋 Select from list
-   - 🗺️ Click on map
-4. Click "Calculate Rail Distance & Emissions"
+### GitHub Pages (Recommended)
 
-### Multi-Select Tips
-- Select 2-3 countries for optimal performance
-- Avoid loading entire regions unless necessary
-- Use country filters to narrow down station lists
+1. Fork or clone this repository
+2. Enable GitHub Pages in Settings → Pages
+3. Select main branch as source
+4. Access at `https://[username].github.io/Africa_Railway_Calculator`
 
-### Interpreting Results
+### Local Development
 
-#### Connected Routes
-- **Railway Distance:** Actual km along tracks
-- **Travel Time:** Estimated hours at 35 km/h
-- **Shipment Time:** Total days including logistics
-- **CO2e Emissions:** Environmental impact per ton
+```bash
+# Clone repository
+git clone https://github.com/njfinney/Africa_Railway_Calculator.git
+cd Africa_Railway_Calculator
 
-#### Disconnected Routes
-- **Partial distances:** How far each railway extends
-- **Gap size:** Distance of missing connection
-- **Obstacle type:** River crossing, border, etc.
-- **Hypothetical total:** What distance would be if connected
+# Serve locally (any static server works)
+python -m http.server 8000
+# or
+npx serve .
+```
 
 ---
 
-## 🔍 Data Sources & Attribution
-
-### OpenStreetMap
-- **License:** ODbL (Open Database License)
-- **Data access:** Overpass API
-- **Attribution:** © OpenStreetMap contributors
-
-### Emission Factors
-- Rail freight: 24.278 gCO2e/ton-km (IPCC guidelines)
-- Based on diesel locomotives (average for African railways)
-
----
-
-## ⚠️ Limitations & Known Issues
+## ⚠️ Limitations
 
 ### Data Quality
-- **OSM completeness varies** by country (some areas better mapped than others)
-- **Station names** may be inconsistent or missing
-- **Railway status** not always current (some lines may be inactive)
+- **OSM completeness varies** - Some countries have better mapping than others
+- **Railway status unclear** - Active vs. abandoned lines not always distinguished
+- **Station names inconsistent** - Some unnamed or using local variants
 
-### Routing Limitations
-- **No consideration for:**
-  - Gauge differences (standard vs narrow gauge)
-  - Operational status (active vs abandoned)
-  - Political restrictions (borders may not be crossable)
-  - Track conditions or speed limits
+### Routing Constraints
+- **No gauge consideration** - Standard and narrow gauge treated equally
+- **No border restrictions** - Political limitations not modeled
+- **Simplified speed** - Fixed 35 km/h doesn't reflect actual operations
 
-### Calculation Assumptions
-- **Fixed speed:** 35 km/h may not reflect actual operations
-- **Simplified logistics:** 3× multiplier is rough estimate
-- **Emission factor:** Assumes diesel locomotives (not electrified routes)
-
-### Technical Constraints
-- **Network requests:** Limited by Overpass API rate limits
-- **Browser memory:** Very large regions may be slow
-- **Precision:** Coordinates rounded to 6 decimal places (~0.1m accuracy)
+### Technical Limits
+- **Large areas slow** - Loading all 49 countries takes time
+- **Memory intensive** - Building graph for continental routes uses significant RAM
+- **API rate limits** - Live fallback may be throttled
 
 ---
 
 ## 🤝 Contributing
 
-This project is open for contributions! Areas for improvement:
-
 ### High Priority
-- [ ] Add more African countries (Ghana, Uganda, Ethiopia, etc.)
-- [ ] Incorporate gauge information (for compatibility checking)
-- [ ] Add operational status filtering (active vs inactive lines)
-- [ ] Improve emission calculations (account for electrification)
+- [ ] Add gauge information (standard vs narrow)
+- [ ] Distinguish active vs abandoned lines
+- [ ] Improve emission factors by traction type
 
 ### Medium Priority
-- [ ] Export results to CSV/PDF
-- [ ] Save/share route links
-- [ ] Historical distance comparisons
+- [ ] Export routes to GPX/KML
 - [ ] Multi-stop route planning
-
-### Low Priority
-- [ ] Dark mode
-- [ ] Internationalization (French, Portuguese, etc.)
-- [ ] Mobile app version
+- [ ] Historical route comparisons
 
 ### How to Contribute
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
----
-
-## 📝 Version History
-
-### v1.0.0 (Current)
-- ✅ 15 African countries supported
-- ✅ Actual railway routing with Dijkstra's algorithm
-- ✅ Disconnection analysis with gap detection
-- ✅ Multi-country selection
-- ✅ Multiple station selection methods
-- ✅ River/border obstacle detection
-- ✅ CO2e emissions calculation
-
----
-
-## 📧 Contact & Support
-
-**Developer:** Nicholas Finney  
-**Repository:** [github.com/njfinney/Africa_Railway_Calculator](https://github.com/njfinney/Africa_Railway_Calculator)  
-**Issues:** [Report a bug or request a feature](https://github.com/njfinney/Africa_Railway_Calculator/issues)
+2. Create feature branch: `git checkout -b feature/new-feature`
+3. Make changes and test
+4. Submit pull request
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see below for details:
-
-```
-MIT License
-
-Copyright (c) 2024 Nicholas Finney
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **OpenStreetMap contributors** for railway infrastructure data
-- **Overpass API** for efficient OSM data access
-- **Leaflet.js** for mapping functionality
-- **Tailwind CSS** for UI styling
-- **Claude AI** for development assistance
+- **OpenStreetMap contributors** - Railway infrastructure data
+- **Overpass API** - OSM data access
+- **Leaflet.js** - Interactive mapping
+- **Tailwind CSS** - UI styling
 
 ---
 
-## 🎓 Educational Use
-
-This tool is ideal for:
-- **Logistics planning:** Understanding freight route options
-- **Infrastructure analysis:** Identifying gaps in railway networks
-- **Environmental studies:** Comparing transport emissions
-- **Geographic education:** Learning about African rail systems
-- **Development planning:** Prioritizing railway investments
-
----
-
-**Built with ❤️ for African rail development**
+**Built for African rail development 🚂**
