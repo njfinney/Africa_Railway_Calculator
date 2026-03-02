@@ -1,0 +1,285 @@
+name: Extract Railway Data
+
+on:
+  # Run weekly to keep data fresh
+  schedule:
+    - cron: '0 2 * * 0'  # Every Sunday at 2 AM UTC
+  # Manual trigger
+  workflow_dispatch:
+    inputs:
+      region:
+        description: 'Region to extract (or "all")'
+        required: false
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - North Africa
+          - West Africa
+          - Central Africa
+          - East Africa
+          - Southern Africa
+
+jobs:
+  # Extract North Africa
+  extract-north-africa:
+    if: github.event.inputs.region == 'all' || github.event.inputs.region == 'North Africa' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract North Africa data
+        run: |
+          cd scripts
+          node extract-railway-data.js --region "North Africa"
+        timeout-minutes: 30
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-north-africa
+          path: data/
+          retention-days: 1
+
+  # Extract West Africa
+  extract-west-africa:
+    if: github.event.inputs.region == 'all' || github.event.inputs.region == 'West Africa' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract West Africa data
+        run: |
+          cd scripts
+          node extract-railway-data.js --region "West Africa"
+        timeout-minutes: 45
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-west-africa
+          path: data/
+          retention-days: 1
+
+  # Extract Central Africa
+  extract-central-africa:
+    if: github.event.inputs.region == 'all' || github.event.inputs.region == 'Central Africa' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract Central Africa data
+        run: |
+          cd scripts
+          node extract-railway-data.js --region "Central Africa"
+        timeout-minutes: 45
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-central-africa
+          path: data/
+          retention-days: 1
+
+  # Extract East Africa
+  extract-east-africa:
+    if: github.event.inputs.region == 'all' || github.event.inputs.region == 'East Africa' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract East Africa data
+        run: |
+          cd scripts
+          node extract-railway-data.js --region "East Africa"
+        timeout-minutes: 45
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-east-africa
+          path: data/
+          retention-days: 1
+
+  # Extract Southern Africa
+  extract-southern-africa:
+    if: github.event.inputs.region == 'all' || github.event.inputs.region == 'Southern Africa' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Extract Southern Africa data
+        run: |
+          cd scripts
+          node extract-railway-data.js --region "Southern Africa"
+        timeout-minutes: 30
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-southern-africa
+          path: data/
+          retention-days: 1
+
+  # Merge all data and commit
+  merge-and-commit:
+    needs: [extract-north-africa, extract-west-africa, extract-central-africa, extract-east-africa, extract-southern-africa]
+    if: always() && (needs.extract-north-africa.result == 'success' || needs.extract-west-africa.result == 'success' || needs.extract-central-africa.result == 'success' || needs.extract-east-africa.result == 'success' || needs.extract-southern-africa.result == 'success')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
+      - name: Download North Africa data
+        uses: actions/download-artifact@v4
+        with:
+          name: data-north-africa
+          path: data-north-africa/
+        continue-on-error: true
+      
+      - name: Download West Africa data
+        uses: actions/download-artifact@v4
+        with:
+          name: data-west-africa
+          path: data-west-africa/
+        continue-on-error: true
+      
+      - name: Download Central Africa data
+        uses: actions/download-artifact@v4
+        with:
+          name: data-central-africa
+          path: data-central-africa/
+        continue-on-error: true
+      
+      - name: Download East Africa data
+        uses: actions/download-artifact@v4
+        with:
+          name: data-east-africa
+          path: data-east-africa/
+        continue-on-error: true
+      
+      - name: Download Southern Africa data
+        uses: actions/download-artifact@v4
+        with:
+          name: data-southern-africa
+          path: data-southern-africa/
+        continue-on-error: true
+      
+      - name: Merge data files
+        run: |
+          # Copy all station files
+          for dir in data-*/stations; do
+            if [ -d "$dir" ]; then
+              cp -v "$dir"/*.json data/stations/ 2>/dev/null || true
+            fi
+          done
+          
+          # Copy all railway files
+          for dir in data-*/railways; do
+            if [ -d "$dir" ]; then
+              cp -v "$dir"/*.json data/railways/ 2>/dev/null || true
+            fi
+          done
+          
+          # List what we have
+          echo "=== Stations files ==="
+          ls -la data/stations/ || echo "No station files"
+          echo "=== Railways files ==="
+          ls -la data/railways/ || echo "No railway files"
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Merge manifests
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const path = require('path');
+          
+          const manifest = {
+            version: '2.0',
+            generated: new Date().toISOString(),
+            countries: {}
+          };
+          
+          // Find all manifest files from downloaded artifacts
+          const artifactDirs = fs.readdirSync('.').filter(d => d.startsWith('data-') && fs.statSync(d).isDirectory());
+          
+          for (const dir of artifactDirs) {
+            const manifestPath = path.join(dir, 'manifest.json');
+            if (fs.existsSync(manifestPath)) {
+              const partial = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+              Object.assign(manifest.countries, partial.countries);
+              console.log(`Merged manifest from ${dir}: ${Object.keys(partial.countries).length} countries`);
+            }
+          }
+          
+          // Also check for any existing countries in data/stations
+          const stationsDir = 'data/stations';
+          if (fs.existsSync(stationsDir)) {
+            const files = fs.readdirSync(stationsDir).filter(f => f.endsWith('.json'));
+            for (const file of files) {
+              const code = file.replace('.json', '');
+              if (!manifest.countries[code]) {
+                const data = JSON.parse(fs.readFileSync(path.join(stationsDir, file), 'utf8'));
+                manifest.countries[code] = {
+                  name: data.name,
+                  region: data.region,
+                  bbox: data.bbox,
+                  stationCount: data.count,
+                  railwayCount: 0,
+                  hasData: data.count > 0,
+                  lastUpdated: data.extracted
+                };
+                
+                // Check for matching railway file
+                const railwayPath = path.join('data/railways', file);
+                if (fs.existsSync(railwayPath)) {
+                  const railwayData = JSON.parse(fs.readFileSync(railwayPath, 'utf8'));
+                  manifest.countries[code].railwayCount = railwayData.count;
+                  manifest.countries[code].hasData = data.count > 0 || railwayData.count > 0;
+                }
+              }
+            }
+          }
+          
+          fs.writeFileSync('data/manifest.json', JSON.stringify(manifest, null, 2));
+          console.log(`\nFinal manifest: ${Object.keys(manifest.countries).length} countries`);
+          EOF
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update railway data [automated]"
+          git push
