@@ -37,7 +37,7 @@ jobs:
         run: mkdir -p data/stations data/railways
       
       - name: Extract North Africa data
-        run: node scripts/extract-railway-data.js --region "North Africa"
+        run: node data-extractor/extract-railway-data.js --region "North Africa"
         timeout-minutes: 30
       
       - name: Upload artifacts
@@ -63,7 +63,7 @@ jobs:
         run: mkdir -p data/stations data/railways
       
       - name: Extract West Africa data
-        run: node scripts/extract-railway-data.js --region "West Africa"
+        run: node data-extractor/extract-railway-data.js --region "West Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -89,7 +89,7 @@ jobs:
         run: mkdir -p data/stations data/railways
       
       - name: Extract Central Africa data
-        run: node scripts/extract-railway-data.js --region "Central Africa"
+        run: node data-extractor/extract-railway-data.js --region "Central Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -115,7 +115,7 @@ jobs:
         run: mkdir -p data/stations data/railways
       
       - name: Extract East Africa data
-        run: node scripts/extract-railway-data.js --region "East Africa"
+        run: node data-extractor/extract-railway-data.js --region "East Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -141,7 +141,7 @@ jobs:
         run: mkdir -p data/stations data/railways
       
       - name: Extract Southern Africa data
-        run: node scripts/extract-railway-data.js --region "Southern Africa"
+        run: node data-extractor/extract-railway-data.js --region "Southern Africa"
         timeout-minutes: 30
       
       - name: Upload artifacts
