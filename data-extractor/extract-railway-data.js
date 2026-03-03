@@ -20,8 +20,11 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-// Load country definitions
-const countriesData = require('./countries.json');
+// Load country definitions (handle both running from repo root and from scripts dir)
+const countriesPath = fs.existsSync(path.join(__dirname, 'countries.json')) 
+    ? path.join(__dirname, 'countries.json')
+    : path.join(__dirname, '..', 'scripts', 'countries.json');
+const countriesData = JSON.parse(fs.readFileSync(countriesPath, 'utf8'));
 
 const OVERPASS_ENDPOINTS = [
     'https://overpass-api.de/api/interpreter',
@@ -34,7 +37,11 @@ const MAX_RETRIES = 3;
 const REQUEST_TIMEOUT = 120000; // 2 minutes
 
 // Ensure output directories exist
-const DATA_DIR = path.join(__dirname, '..', 'data');
+// When running from repo root: data/stations, data/railways
+// When running from scripts dir: ../data/stations, ../data/railways
+const DATA_DIR = fs.existsSync(path.join(process.cwd(), 'data')) || !fs.existsSync(path.join(__dirname, '..', 'data'))
+    ? path.join(process.cwd(), 'data')
+    : path.join(__dirname, '..', 'data');
 const STATIONS_DIR = path.join(DATA_DIR, 'stations');
 const RAILWAYS_DIR = path.join(DATA_DIR, 'railways');
 
