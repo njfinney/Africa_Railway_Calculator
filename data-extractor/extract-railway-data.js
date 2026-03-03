@@ -31,9 +31,9 @@ const OVERPASS_ENDPOINTS = [
     'https://maps.mail.ru/osm/tools/overpass/api/interpreter'
 ];
 
-const RATE_LIMIT_DELAY = 5000; // 5 seconds between requests
-const MAX_RETRIES = 3;
-const REQUEST_TIMEOUT = 120000; // 2 minutes
+const RATE_LIMIT_DELAY = 10000; // 10 seconds between requests (increased)
+const MAX_RETRIES = 5; // More retries for flaky APIs
+const REQUEST_TIMEOUT = 180000; // 3 minutes timeout
 
 // Output directories - use current working directory
 const DATA_DIR = path.join(process.cwd(), 'data');
@@ -78,14 +78,40 @@ function makeRequest(query, endpointIndex = 0, retries = 0) {
             res.on('data', chunk => data += chunk);
             res.on('end', () => {
                 if (res.statusCode === 200) {
+                    // Check if response looks like XML error instead of JSON
+                    if (data.trim().startsWith('<')) {
+                        console.log(`  [Warning] Received XML/HTML instead of JSON`);
+                        if (endpointIndex < OVERPASS_ENDPOINTS.length - 1) {
+                            console.log(`  [Retry] Trying next endpoint...`);
+                            setTimeout(() => {
+                                resolve(makeRequest(query, endpointIndex + 1, retries));
+                            }, RATE_LIMIT_DELAY);
+                        } else if (retries < MAX_RETRIES) {
+                            console.log(`  [Retry] Retrying in ${RATE_LIMIT_DELAY/1000}s...`);
+                            setTimeout(() => {
+                                resolve(makeRequest(query, 0, retries + 1));
+                            }, RATE_LIMIT_DELAY * (retries + 1));
+                        } else {
+                            reject(new Error(`Received XML/HTML instead of JSON after ${MAX_RETRIES} retries`));
+                        }
+                        return;
+                    }
                     try {
                         const json = JSON.parse(data);
                         resolve(json);
                     } catch (e) {
-                        reject(new Error(`Invalid JSON response: ${e.message}`));
+                        // JSON parse failed - might be HTML error page
+                        if (retries < MAX_RETRIES) {
+                            console.log(`  [Retry] Invalid JSON, retrying...`);
+                            setTimeout(() => {
+                                resolve(makeRequest(query, 0, retries + 1));
+                            }, RATE_LIMIT_DELAY * (retries + 1));
+                        } else {
+                            reject(new Error(`Invalid JSON response after retries: ${data.substring(0, 100)}`));
+                        }
                     }
-                } else if (res.statusCode === 429 || res.statusCode === 504) {
-                    // Rate limited or timeout - try next endpoint or retry
+                } else if (res.statusCode === 429 || res.statusCode === 502 || res.statusCode === 503 || res.statusCode === 504) {
+                    // Rate limited, bad gateway, or timeout - try next endpoint or retry
                     if (endpointIndex < OVERPASS_ENDPOINTS.length - 1) {
                         console.log(`  [Retry] Status ${res.statusCode}, trying next endpoint...`);
                         setTimeout(() => {
@@ -413,6 +439,16 @@ async function main() {
     if (failed.length > 0) {
         console.log('\nFailed countries:');
         failed.forEach(r => console.log(`  - ${r.name}: ${r.error}`));
+    }
+    
+    // Exit with success if at least some countries succeeded
+    // This allows the workflow to continue and save partial data
+    if (successful.length === 0) {
+        console.error('\nERROR: All countries failed to extract!');
+        process.exit(1);
+    } else if (failed.length > 0) {
+        console.log(`\nPartial success: ${successful.length} countries extracted, ${failed.length} failed.`);
+        console.log('The workflow will continue with the successfully extracted data.');
     }
 }
 
