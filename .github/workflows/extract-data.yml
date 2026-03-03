@@ -33,10 +33,11 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
       - name: Extract North Africa data
-        run: |
-          cd scripts
-          node extract-railway-data.js --region "North Africa"
+        run: node scripts/extract-railway-data.js --region "North Africa"
         timeout-minutes: 30
       
       - name: Upload artifacts
@@ -58,10 +59,11 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
       - name: Extract West Africa data
-        run: |
-          cd scripts
-          node extract-railway-data.js --region "West Africa"
+        run: node scripts/extract-railway-data.js --region "West Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -83,10 +85,11 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
       - name: Extract Central Africa data
-        run: |
-          cd scripts
-          node extract-railway-data.js --region "Central Africa"
+        run: node scripts/extract-railway-data.js --region "Central Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -108,10 +111,11 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
       - name: Extract East Africa data
-        run: |
-          cd scripts
-          node extract-railway-data.js --region "East Africa"
+        run: node scripts/extract-railway-data.js --region "East Africa"
         timeout-minutes: 45
       
       - name: Upload artifacts
@@ -133,10 +137,11 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Create data directories
+        run: mkdir -p data/stations data/railways
+      
       - name: Extract Southern Africa data
-        run: |
-          cd scripts
-          node extract-railway-data.js --region "Southern Africa"
+        run: node scripts/extract-railway-data.js --region "Southern Africa"
         timeout-minutes: 30
       
       - name: Upload artifacts
