@@ -674,8 +674,10 @@ out geom;`;
             const graph = { nodes: new Map(), nodeIndex: new Map() };
             let id = 0;
             
+            // Use lower precision for node keys to merge nearby points (helps at borders)
+            // 4 decimal places ≈ 11 meters precision - close enough to connect cross-border rails
             function getNode(lat, lon) {
-                const key = `${lat.toFixed(5)},${lon.toFixed(5)}`;
+                const key = `${lat.toFixed(4)},${lon.toFixed(4)}`;
                 if (graph.nodeIndex.has(key)) return graph.nodeIndex.get(key);
                 const nodeId = id++;
                 graph.nodes.set(nodeId, { lat, lon, edges: [] });
@@ -693,10 +695,19 @@ out geom;`;
                     
                     const n1 = getNode(lat1, lon1);
                     const n2 = getNode(lat2, lon2);
+                    
+                    // Skip self-loops
+                    if (n1 === n2) continue;
+                    
                     const d = haversine(lat1, lon1, lat2, lon2);
                     
-                    graph.nodes.get(n1).edges.push({ to: n2, distance: d });
-                    graph.nodes.get(n2).edges.push({ to: n1, distance: d });
+                    // Avoid duplicate edges
+                    if (!graph.nodes.get(n1).edges.some(e => e.to === n2)) {
+                        graph.nodes.get(n1).edges.push({ to: n2, distance: d });
+                    }
+                    if (!graph.nodes.get(n2).edges.some(e => e.to === n1)) {
+                        graph.nodes.get(n2).edges.push({ to: n1, distance: d });
+                    }
                 }
             });
             
@@ -840,8 +851,15 @@ out geom;`;
             log(`Route: ${s1.name} → ${s2.name}`);
             
             try {
-                // Get railways for the route area
-                const pad = 1;
+                // Get railways for the route area - use larger padding for cross-border routes
+                const latDiff = Math.abs(s1.lat - s2.lat);
+                const lonDiff = Math.abs(s1.lon - s2.lon);
+                const routeLength = Math.sqrt(latDiff * latDiff + lonDiff * lonDiff);
+                
+                // Larger padding for longer routes (railways often go around, not straight)
+                const pad = Math.max(2, routeLength * 0.3);
+                log(`Route span: ${routeLength.toFixed(1)}°, using padding: ${pad.toFixed(1)}°`);
+                
                 const bbox = [
                     Math.min(s1.lat, s2.lat) - pad,
                     Math.min(s1.lon, s2.lon) - pad,
@@ -849,29 +867,45 @@ out geom;`;
                     Math.max(s1.lon, s2.lon) + pad
                 ];
                 
-                // Filter relevant railways from loaded data
+                // Filter railways - include if ANY point is in or near the bbox
                 let railways = STATE.railways.filter(r => {
                     if (!r.geometry || r.geometry.length === 0) return false;
-                    const [lat, lon] = Array.isArray(r.geometry[0]) ? r.geometry[0] : [r.geometry[0].lat, r.geometry[0].lon];
-                    return lat >= bbox[0] && lat <= bbox[2] && lon >= bbox[1] && lon <= bbox[3];
+                    
+                    // Check if any point of this railway is within the expanded bbox
+                    for (const point of r.geometry) {
+                        const [lat, lon] = Array.isArray(point) ? point : [point.lat, point.lon];
+                        if (lat >= bbox[0] && lat <= bbox[2] && lon >= bbox[1] && lon <= bbox[3]) {
+                            return true;
+                        }
+                    }
+                    return false;
                 });
                 
                 log(`Using ${railways.length} railway segments from loaded data`);
                 
-                // If not enough railways loaded, fetch from API
-                if (railways.length < 10) {
+                // If not enough railways loaded, fetch from API with expanded bbox
+                if (railways.length < 50) {
                     log('Fetching additional railway data from API...', 'info');
-                    const query = `[out:json][timeout:120][bbox:${bbox.join(',')}];
-way["railway"~"rail|narrow_gauge|light_rail|disused"];
+                    const query = `[out:json][timeout:180][bbox:${bbox.join(',')}];
+way["railway"~"rail|narrow_gauge|light_rail|disused|preserved"];
 out geom;`;
                     const data = await queryOverpass(query);
                     if (data?.elements) {
-                        railways = data.elements.filter(e => e.geometry?.length >= 2).map(e => ({
+                        const apiRailways = data.elements.filter(e => e.geometry?.length >= 2).map(e => ({
                             id: e.id,
                             type: e.tags?.railway || 'rail',
                             geometry: e.geometry
                         }));
-                        log(`Fetched ${railways.length} railway segments from API`, 'success');
+                        log(`Fetched ${apiRailways.length} railway segments from API`, 'success');
+                        
+                        // Merge with existing, avoiding duplicates
+                        const existingIds = new Set(railways.map(r => r.id));
+                        for (const r of apiRailways) {
+                            if (!existingIds.has(r.id)) {
+                                railways.push(r);
+                            }
+                        }
+                        log(`Total railways after merge: ${railways.length}`);
                     }
                 }
                 
