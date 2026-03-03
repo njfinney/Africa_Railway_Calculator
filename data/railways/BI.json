@@ -1,0 +1,14 @@
+{
+  "country": "BI",
+  "name": "Burundi",
+  "region": "East Africa",
+  "bbox": [
+    -4.47,
+    28.99,
+    -2.31,
+    30.85
+  ],
+  "extracted": "2026-03-03T12:09:06.467Z",
+  "count": 0,
+  "railways": []
+}

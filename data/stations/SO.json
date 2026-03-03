@@ -1,0 +1,1279 @@
+{
+  "country": "SO",
+  "name": "Somalia",
+  "region": "East Africa",
+  "bbox": [
+    -1.66,
+    40.99,
+    11.98,
+    51.42
+  ],
+  "extracted": "2026-03-03T12:23:51.643Z",
+  "count": 158,
+  "stations": [
+    {
+      "id": 7733142194,
+      "lat": 11.099822,
+      "lon": 41.895358,
+      "name": "‘Asbahaltou",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5875472685,
+      "lat": 9.598743,
+      "lon": 41.870967,
+      "name": "'Djibouti' bus station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 11107365000,
+      "lat": 10.484342,
+      "lon": 42.179082,
+      "name": "Adagalla",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1150937022,
+      "lat": 7.17833,
+      "lon": 43.95,
+      "name": "Aggare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 8930523869,
+      "lat": 9.546907,
+      "lon": 44.058617,
+      "name": "Al Nuurayn Fuel station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 9277179890,
+      "lat": 9.541446,
+      "lon": 44.087237,
+      "name": "Alibaarjeex  Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 373606317,
+      "lat": 11.154251,
+      "lon": 42.705649,
+      "name": "Ancienne Gare d'Ali Sabieh",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6851442195,
+      "lat": 10.743116,
+      "lon": 42.548063,
+      "name": "Ayesha",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 9792988416,
+      "lat": 10.743267,
+      "lon": 42.547944,
+      "name": "Ayesha",
+      "type": "stop",
+      "country": "SO"
+    },
+    {
+      "id": 7733133765,
+      "lat": 11.889167,
+      "lon": 42.203889,
+      "name": "Bahaltou",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 10612545424,
+      "lat": 11.545939,
+      "lon": 43.111847,
+      "name": "Balbala Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138798736,
+      "lat": 9.565753,
+      "lon": 44.02917,
+      "name": "Barwaaqo Fuel-station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6200580786,
+      "lat": 9.545714,
+      "lon": 44.074885,
+      "name": "Bidhaan Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4438993698,
+      "lat": 9.551165,
+      "lon": 41.192639,
+      "name": "Bike Railway Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138799283,
+      "lat": 9.569419,
+      "lon": 44.020411,
+      "name": "Boqoljire Fuel-station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 9775169934,
+      "lat": 9.579529,
+      "lon": 44.049501,
+      "name": "Brothers fuel station 2",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1401883511,
+      "lat": 10.206883,
+      "lon": 43.176336,
+      "name": "Buuraha Hagare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1401886644,
+      "lat": 10.068818,
+      "lon": 43.199153,
+      "name": "Buuraha Xagare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1401902429,
+      "lat": 4.09893,
+      "lon": 46.11112,
+      "name": "Cayle Gare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 731573111,
+      "lat": 9.68705,
+      "lon": 41.846345,
+      "name": "Chenele",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404226624,
+      "lat": 9.81172,
+      "lon": 47.94943,
+      "name": "Damale Xagare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3751295541,
+      "lat": 11.056109,
+      "lon": 42.632467,
+      "name": "Dewele",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6851442203,
+      "lat": 11.068685,
+      "lon": 42.637557,
+      "name": "Dewele customs and imigration",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159869,
+      "lat": 3.937813,
+      "lon": 41.860349,
+      "name": "Dido Service Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4565301791,
+      "lat": 8.949537,
+      "lon": 46.400186,
+      "name": "diraac fuel station ( shibiin )",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 12520224444,
+      "lat": 9.628909,
+      "lon": 41.772509,
+      "name": "Dirē Dawa",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 568000823,
+      "lat": 9.628841,
+      "lon": 41.772516,
+      "name": "Dirē Dawa",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1175668170,
+      "lat": 9.586547,
+      "lon": 41.86206,
+      "name": "Dire Dawa Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5702949951,
+      "lat": 10.442171,
+      "lon": 45.011285,
+      "name": "Easy and west bus station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159874,
+      "lat": 3.936669,
+      "lon": 41.864263,
+      "name": "Elwak Services Petrol Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3751449665,
+      "lat": 9.560487,
+      "lon": 41.380073,
+      "name": "Erer Railway Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3751324769,
+      "lat": 10.841469,
+      "lon": 42.627264,
+      "name": "former railway station Adele",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1104360302,
+      "lat": 5.95277,
+      "lon": 43.55266,
+      "name": "Fuel Station (Gode)",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404226331,
+      "lat": 5.51814,
+      "lon": 47.45134,
+      "name": "Galxagare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4579789103,
+      "lat": 9.486383,
+      "lon": 46.866032,
+      "name": "gar adag fuel station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 11107604140,
+      "lat": 11.149626,
+      "lon": 42.736305,
+      "name": "Gare d'Ali-sabieh",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 554730269,
+      "lat": 11.149538,
+      "lon": 42.736307,
+      "name": "Gare d'Ali-sabieh",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 568000828,
+      "lat": 11.523444,
+      "lon": 43.128169,
+      "name": "Gare de Nagad محطة نقاذ القطار",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 809971740,
+      "lat": 11.068702,
+      "lon": 42.637514,
+      "name": "Gare des douanes et de l'immigration de Dewele",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3594394338,
+      "lat": 11.591413,
+      "lon": 43.146263,
+      "name": "Gare Routière Centrale محطة الحافلات",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 554730228,
+      "lat": 11.152418,
+      "lon": 42.713432,
+      "name": "Gare Routière d'Ali Sabieh محطة الباص علي صبيح",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404227672,
+      "lat": 4.004746,
+      "lon": 43.85594,
+      "name": "Gareere-Gawaan",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404229390,
+      "lat": 3.3553,
+      "lon": 43.5138,
+      "name": "Gareeri Xassan Aden",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404226060,
+      "lat": 4.03765,
+      "lon": 44.13761,
+      "name": "Gareero Ween",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1150903788,
+      "lat": 9.60917,
+      "lon": 41.99611,
+      "name": "Garegumgum",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733141927,
+      "lat": 11.711389,
+      "lon": 42.601944,
+      "name": "Garenle",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 2164654516,
+      "lat": 11.715317,
+      "lon": 42.601742,
+      "name": "Garenlhé غارنلهي",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733141999,
+      "lat": 11.418333,
+      "lon": 42.501389,
+      "name": "Garento",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733171079,
+      "lat": 11.955278,
+      "lon": 42.825278,
+      "name": "Garento",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733133471,
+      "lat": 11.807778,
+      "lon": 42.679167,
+      "name": "Garentou",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733134148,
+      "lat": 11.7575,
+      "lon": 42.513611,
+      "name": "Garentou",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404223684,
+      "lat": 3.974325,
+      "lon": 44.139707,
+      "name": "Garer Yeroy",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404225415,
+      "lat": 3.85946,
+      "lon": 44.50395,
+      "name": "Gareradi",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 9959463818,
+      "lat": 9.577799,
+      "lon": 44.077295,
+      "name": "Gurey fuel station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404224510,
+      "lat": 2.940934,
+      "lon": 43.928662,
+      "name": "Habay Gare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404227259,
+      "lat": 2.74507,
+      "lon": 42.8178,
+      "name": "Hagarey",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159863,
+      "lat": 3.936112,
+      "lon": 41.857023,
+      "name": "Haji Bullow Petrol Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138799090,
+      "lat": 9.562931,
+      "lon": 44.067371,
+      "name": "Harageisa Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 988149882,
+      "lat": 9.31033,
+      "lon": 42.131421,
+      "name": "Harar Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 2320666260,
+      "lat": 9.313921,
+      "lon": 42.130348,
+      "name": "Harar Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 8765527919,
+      "lat": 9.816953,
+      "lon": 42.14003,
+      "name": "Harmukale Health Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3201174943,
+      "lat": 9.565224,
+      "lon": 44.030159,
+      "name": "HASS Fuel-station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 11107604167,
+      "lat": 11.319975,
+      "lon": 42.951721,
+      "name": "Holl-Holl",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 301360933,
+      "lat": 2.0464,
+      "lon": 45.324048,
+      "name": "Howlwadaag Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4698712889,
+      "lat": 9.61402,
+      "lon": 41.639488,
+      "name": "hurso substation",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 8930352344,
+      "lat": 9.552026,
+      "lon": 44.067822,
+      "name": "Iftin Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6016412319,
+      "lat": 9.581724,
+      "lon": 44.062201,
+      "name": "Isleg Fuel station and super market",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138798640,
+      "lat": 9.562141,
+      "lon": 44.035951,
+      "name": "Jano Gaaban Fuel-station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1136466542,
+      "lat": 9.348649,
+      "lon": 42.812376,
+      "name": "Jijiga Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138798728,
+      "lat": 9.560706,
+      "lon": 44.115805,
+      "name": "Kaah Fuel Stations",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733133541,
+      "lat": 11.853611,
+      "lon": 42.804722,
+      "name": "Kabhalto",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1150922812,
+      "lat": 8.22528,
+      "lon": 46.18111,
+      "name": "Khagare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159872,
+      "lat": 3.938663,
+      "lon": 41.863852,
+      "name": "Khalil Gas Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 12744906940,
+      "lat": 11.352089,
+      "lon": 43.473065,
+      "name": "khayre Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7529079671,
+      "lat": 11.154789,
+      "lon": 42.703788,
+      "name": "La Gare المحطة",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 13048391419,
+      "lat": 9.586368,
+      "lon": 41.855964,
+      "name": "Le Gare",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3756114122,
+      "lat": 11.557053,
+      "lon": 43.144423,
+      "name": "Lotissement de l'Aérogare حي المحطة المطار",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 12744938683,
+      "lat": 10.683423,
+      "lon": 43.941815,
+      "name": "Lughaya Somaliland Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159861,
+      "lat": 3.935315,
+      "lon": 41.852105,
+      "name": "Mubarak Service Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6249159864,
+      "lat": 3.935045,
+      "lon": 41.856418,
+      "name": "Munawara Petroleum Product and Service Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3750598501,
+      "lat": 11.523651,
+      "lon": 43.127957,
+      "name": "Nagâd نقاذ",
+      "type": "stop",
+      "country": "SO"
+    },
+    {
+      "id": 1138799116,
+      "lat": 9.563095,
+      "lon": 44.033223,
+      "name": "National Fuel-station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6536531986,
+      "lat": 9.350902,
+      "lon": 42.791692,
+      "name": "Noc gas station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5338558927,
+      "lat": 9.588403,
+      "lon": 41.854504,
+      "name": "Police station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 3158281977,
+      "lat": 3.929908,
+      "lon": 41.87421,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4253877691,
+      "lat": 5.950377,
+      "lon": 43.553513,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 2807613728,
+      "lat": 10.438628,
+      "lon": 45.012014,
+      "name": "Police Station & HQ",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 2719511327,
+      "lat": 11.609088,
+      "lon": 43.13705,
+      "name": "Port de Djibouti ميناء جيبوتي",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 236017538,
+      "lat": 11.032023,
+      "lon": 42.631549,
+      "name": "railway station Dewele",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5216177329,
+      "lat": 9.349985,
+      "lon": 42.819893,
+      "name": "Revenue & Custom Jigjiga station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5322664587,
+      "lat": 11.576423,
+      "lon": 43.15078,
+      "name": "RUBIS Station-service",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 7733134810,
+      "lat": 11.879444,
+      "lon": 42.710278,
+      "name": "Sabhalto",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1401889959,
+      "lat": 1.5733,
+      "lon": 41.9092,
+      "name": "Sagarey",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404229329,
+      "lat": 1.5693,
+      "lon": 41.9296,
+      "name": "Sagarey",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6949436747,
+      "lat": 9.51636,
+      "lon": 45.538434,
+      "name": "Shaami Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 6806314896,
+      "lat": 9.51838,
+      "lon": 45.53867,
+      "name": "Shaami Gas Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4565502390,
+      "lat": 9.526101,
+      "lon": 45.545552,
+      "name": "shiine kare fuel station ( eng:shibiin )",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 9277195533,
+      "lat": 9.536642,
+      "lon": 44.076004,
+      "name": "Star Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5311711681,
+      "lat": 11.554911,
+      "lon": 43.114167,
+      "name": "station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 5719405432,
+      "lat": 11.788876,
+      "lon": 42.877791,
+      "name": "Station-service روبي",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138799024,
+      "lat": 9.564518,
+      "lon": 44.04275,
+      "name": "Tawakal Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1012028244,
+      "lat": 2.035275,
+      "lon": 45.33907,
+      "name": "Terminal de Buses",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1138650130,
+      "lat": 9.598284,
+      "lon": 43.330687,
+      "name": "Togechane Bus Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4463857548,
+      "lat": 9.57343,
+      "lon": 44.035132,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1404230194,
+      "lat": 2.556019,
+      "lon": 44.787173,
+      "name": "Tugarey",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 11105096700,
+      "lat": 9.549323,
+      "lon": 41.202403,
+      "name": "Unnamed (node 11105096700)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107364942,
+      "lat": 9.983809,
+      "lon": 41.944697,
+      "name": "Unnamed (node 11107364942)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107364943,
+      "lat": 9.974217,
+      "lon": 41.941052,
+      "name": "Unnamed (node 11107364943)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107364944,
+      "lat": 9.978067,
+      "lon": 41.942751,
+      "name": "Unnamed (node 11107364944)",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 11107364972,
+      "lat": 10.491466,
+      "lon": 42.182043,
+      "name": "Unnamed (node 11107364972)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107364989,
+      "lat": 10.488719,
+      "lon": 42.180814,
+      "name": "Unnamed (node 11107364989)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107365090,
+      "lat": 11.028014,
+      "lon": 42.624874,
+      "name": "Unnamed (node 11107365090)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107365096,
+      "lat": 11.027973,
+      "lon": 42.624848,
+      "name": "Unnamed (node 11107365096)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107365111,
+      "lat": 11.051886,
+      "lon": 42.630577,
+      "name": "Unnamed (node 11107365111)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107365114,
+      "lat": 11.064192,
+      "lon": 42.635606,
+      "name": "Unnamed (node 11107365114)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107604166,
+      "lat": 11.325307,
+      "lon": 42.954612,
+      "name": "Unnamed (node 11107604166)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107619818,
+      "lat": 11.530463,
+      "lon": 43.133317,
+      "name": "Unnamed (node 11107619818)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107619834,
+      "lat": 11.521706,
+      "lon": 43.125226,
+      "name": "Unnamed (node 11107619834)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107619844,
+      "lat": 11.577398,
+      "lon": 43.099121,
+      "name": "Unnamed (node 11107619844)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 11107619847,
+      "lat": 11.575585,
+      "lon": 43.112494,
+      "name": "Unnamed (node 11107619847)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 2624610673,
+      "lat": 9.592953,
+      "lon": 41.856066,
+      "name": "Unnamed (node 2624610673)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 2624610795,
+      "lat": 9.594633,
+      "lon": 41.860683,
+      "name": "Unnamed (node 2624610795)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 2624610807,
+      "lat": 9.594681,
+      "lon": 41.86065,
+      "name": "Unnamed (node 2624610807)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 2624610814,
+      "lat": 9.594785,
+      "lon": 41.860578,
+      "name": "Unnamed (node 2624610814)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 4222946348,
+      "lat": 9.550928,
+      "lon": 41.196542,
+      "name": "Unnamed (node 4222946348)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 4438946930,
+      "lat": 11.146621,
+      "lon": 42.735056,
+      "name": "Unnamed (node 4438946930)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5465787506,
+      "lat": 9.627513,
+      "lon": 41.776768,
+      "name": "Unnamed (node 5465787506)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5465787606,
+      "lat": 11.526017,
+      "lon": 43.128657,
+      "name": "Unnamed (node 5465787606)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5672411920,
+      "lat": 9.629671,
+      "lon": 41.777925,
+      "name": "Unnamed (node 5672411920)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5672411926,
+      "lat": 9.629803,
+      "lon": 41.781977,
+      "name": "Unnamed (node 5672411926)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5923800309,
+      "lat": 11.510756,
+      "lon": 43.11741,
+      "name": "Unnamed (node 5923800309)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 5941665912,
+      "lat": 11.155611,
+      "lon": 42.7432,
+      "name": "Unnamed (node 5941665912)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 6800862214,
+      "lat": 11.588658,
+      "lon": 43.068501,
+      "name": "Unnamed (node 6800862214)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 6800862215,
+      "lat": 11.588307,
+      "lon": 43.068302,
+      "name": "Unnamed (node 6800862215)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 6800862221,
+      "lat": 11.587864,
+      "lon": 43.068615,
+      "name": "Unnamed (node 6800862221)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 6874960914,
+      "lat": 11.065693,
+      "lon": 42.635799,
+      "name": "Unnamed (node 6874960914)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 7196564203,
+      "lat": 11.57849,
+      "lon": 43.09796,
+      "name": "Unnamed (node 7196564203)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 7357062492,
+      "lat": 11.576872,
+      "lon": 43.109809,
+      "name": "Unnamed (node 7357062492)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 7357084979,
+      "lat": 11.588215,
+      "lon": 43.068304,
+      "name": "Unnamed (node 7357084979)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 7369414944,
+      "lat": 9.619318,
+      "lon": 41.759892,
+      "name": "Unnamed (node 7369414944)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 8875006317,
+      "lat": 9.628549,
+      "lon": 41.764387,
+      "name": "Unnamed (node 8875006317)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 8875006318,
+      "lat": 9.62858,
+      "lon": 41.765586,
+      "name": "Unnamed (node 8875006318)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268153025,
+      "lat": 11.51708,
+      "lon": 43.122597,
+      "name": "Unnamed (node 9268153025)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268153081,
+      "lat": 11.525114,
+      "lon": 43.128164,
+      "name": "Unnamed (node 9268153081)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268153092,
+      "lat": 11.524586,
+      "lon": 43.127822,
+      "name": "Unnamed (node 9268153092)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268643524,
+      "lat": 11.153695,
+      "lon": 42.741138,
+      "name": "Unnamed (node 9268643524)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268643531,
+      "lat": 11.142911,
+      "lon": 42.729072,
+      "name": "Unnamed (node 9268643531)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9268721851,
+      "lat": 11.061381,
+      "lon": 42.634383,
+      "name": "Unnamed (node 9268721851)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9792988421,
+      "lat": 10.747162,
+      "lon": 42.5526,
+      "name": "Unnamed (node 9792988421)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 9792988426,
+      "lat": 10.74051,
+      "lon": 42.544588,
+      "name": "Unnamed (node 9792988426)",
+      "type": "buffer_stop",
+      "country": "SO"
+    },
+    {
+      "id": 700210006,
+      "lat": 9.551158,
+      "lon": 41.192694,
+      "name": "Unnamed (way 700210006)",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 809971724,
+      "lat": 11.056144,
+      "lon": 42.632448,
+      "name": "Unnamed (way 809971724)",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4234829089,
+      "lat": 9.518526,
+      "lon": 45.539084,
+      "name": "waasac fuel station burco. by eng shibiin",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 4162413091,
+      "lat": 6.974178,
+      "lon": 45.342194,
+      "name": "Warder Central Stationary ",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 1401903383,
+      "lat": 5.224,
+      "lon": 47.144,
+      "name": "Xagarey",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 12913888829,
+      "lat": 10.672526,
+      "lon": 47.578927,
+      "name": "Ximan Gareen",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 12947398997,
+      "lat": 10.646714,
+      "lon": 47.579567,
+      "name": "Ximan Gareen",
+      "type": "station",
+      "country": "SO"
+    },
+    {
+      "id": 223383556,
+      "lat": 9.595066,
+      "lon": 41.861013,
+      "name": "የቀድሞው ድሬዳዋ ባቡር ጣቢያ",
+      "type": "station",
+      "country": "SO"
+    }
+  ]
+}

@@ -1,0 +1,7663 @@
+{
+  "country": "NG",
+  "name": "Nigeria",
+  "region": "West Africa",
+  "bbox": [
+    4.27,
+    2.69,
+    13.89,
+    14.68
+  ],
+  "extracted": "2026-03-03T12:30:27.713Z",
+  "count": 956,
+  "stations": [
+    {
+      "id": 13047975346,
+      "lat": 8.48939,
+      "lon": 4.562281,
+      "name": "38 Emirs Rd, adjacent Total Filling Station, Post Office, Oko Erin 240103, Kwara, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1749635568,
+      "lat": 5.95421,
+      "lon": 10.14844,
+      "name": "3rd District Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975307,
+      "lat": 8.47951,
+      "lon": 4.563252,
+      "name": "A Division Police Station, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327908289,
+      "lat": 10.276823,
+      "lon": 11.229835,
+      "name": "A Y M Shafa filling station liji cross",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9774491141,
+      "lat": 9.95991,
+      "lon": 8.870126,
+      "name": "A-l zira filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7232656385,
+      "lat": 10.594286,
+      "lon": 7.45034,
+      "name": "A. A. Rano filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5522410225,
+      "lat": 5.550663,
+      "lon": 5.781463,
+      "name": "A. A. Rano Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329858,
+      "lat": 12.983627,
+      "lon": 7.602238,
+      "name": "A.A. Rano Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 168652859,
+      "lat": 7.37794,
+      "lon": 3.854776,
+      "name": "A/P Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 755055896,
+      "lat": 5.123914,
+      "lon": 7.370416,
+      "name": "Aba Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8841632699,
+      "lat": 7.128851,
+      "lon": 3.398474,
+      "name": "Abeokuta",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252091757,
+      "lat": 5.843094,
+      "lon": 6.110143,
+      "name": "Abraka Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091758,
+      "lat": 5.843205,
+      "lon": 6.10988,
+      "name": "Abraka Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6145928693,
+      "lat": 9.050461,
+      "lon": 7.471781,
+      "name": "Abuja Metro",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 607064259,
+      "lat": 9.050403,
+      "lon": 7.471811,
+      "name": "Abuja Metro Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11969111063,
+      "lat": 7.89891,
+      "lon": 4.312057,
+      "name": "Adebayo Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5392679224,
+      "lat": 5.198008,
+      "lon": 6.489732,
+      "name": "Adibawa Flow Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501442021,
+      "lat": 7.394461,
+      "lon": 3.748076,
+      "name": "Adio Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5569733030,
+      "lat": 5.51966,
+      "lon": 5.756125,
+      "name": "Admuscon Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252092152,
+      "lat": 7.503512,
+      "lon": 6.544115,
+      "name": "Adogo Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252092153,
+      "lat": 7.503452,
+      "lon": 6.543976,
+      "name": "Adogo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11969142606,
+      "lat": 7.89762,
+      "lon": 4.311248,
+      "name": "Afazib Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501492139,
+      "lat": 5.899223,
+      "lon": 7.549774,
+      "name": "Afikpo Road Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9074714192,
+      "lat": 6.687097,
+      "lon": 3.303112,
+      "name": "Agbado",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 9074714193,
+      "lat": 6.687031,
+      "lon": 3.303005,
+      "name": "Agbado",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 5049311505,
+      "lat": 5.585452,
+      "lon": 5.887454,
+      "name": "Agbarho Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 9264707924,
+      "lat": 5.585598,
+      "lon": 5.88724,
+      "name": "Agbarho Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252092454,
+      "lat": 6.132979,
+      "lon": 6.218712,
+      "name": "Agbor",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 893021658,
+      "lat": 6.133023,
+      "lon": 6.218518,
+      "name": "Agbor Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2627690899,
+      "lat": 7.44114,
+      "lon": 3.907606,
+      "name": "Agbowo Fire Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8540613736,
+      "lat": 6.619462,
+      "lon": 3.326104,
+      "name": "Agege",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 8540613737,
+      "lat": 6.619503,
+      "lon": 3.326222,
+      "name": "Agege",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 1157159790,
+      "lat": 6.621496,
+      "lon": 3.325834,
+      "name": "Agege LRMT Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 332286296,
+      "lat": 4.734695,
+      "lon": 11.221539,
+      "name": "Agence de Voyage LEADER",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252092482,
+      "lat": 7.032443,
+      "lon": 6.521778,
+      "name": "Agenebode Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252092483,
+      "lat": 7.032311,
+      "lon": 6.521888,
+      "name": "Agenebode Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586213222,
+      "lat": 5.577449,
+      "lon": 5.877724,
+      "name": "Aghofure Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995025,
+      "lat": 5.577496,
+      "lon": 5.87763,
+      "name": "Aghofure Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11337332869,
+      "lat": 10.287368,
+      "lon": 11.133789,
+      "name": "Ahajas Filling Station Bauchi Road Branch",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048286769,
+      "lat": 8.475374,
+      "lon": 4.52749,
+      "name": "Ahmadiyya Mosque, Akérébìátá Ilorin, kwara state., Onituwo street, off okiki model school, behind U-Sanda filling station, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 956517522,
+      "lat": 11.154199,
+      "lon": 7.650456,
+      "name": "Ahmadu Bello Campus Fire Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2155671729,
+      "lat": 6.318845,
+      "lon": 5.607128,
+      "name": "Air port police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5754152726,
+      "lat": 9.00671,
+      "lon": 7.272395,
+      "name": "Airport",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 661529968,
+      "lat": 9.006274,
+      "lon": 7.272042,
+      "name": "Airport",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1820951954,
+      "lat": 7.44064,
+      "lon": 6.625752,
+      "name": "Ajaokuta Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252092459,
+      "lat": 7.440766,
+      "lon": 6.625607,
+      "name": "Ajaokuta Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773300986,
+      "lat": 8.136463,
+      "lon": 4.23781,
+      "name": "Akanni Books and Stationery Store",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975295,
+      "lat": 8.415912,
+      "lon": 4.498942,
+      "name": "Al-Faoz group of schools, Ilorin, opposite Top-Zion Filling Station, Eyenkorin, Ilorin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5396198481,
+      "lat": 6.464378,
+      "lon": 3.324486,
+      "name": "Alaba",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 1322975309,
+      "lat": 6.464317,
+      "lon": 3.324396,
+      "name": "Alaba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773139280,
+      "lat": 8.123304,
+      "lon": 4.225432,
+      "name": "Alade Global Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327940887,
+      "lat": 10.27675,
+      "lon": 11.256453,
+      "name": "Alhaji Ibrahim G Abdulkarim filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975288,
+      "lat": 8.518858,
+      "lon": 4.564213,
+      "name": "Along Harmony, GHC7+2JH, behind Toplad Filling Station, Oko Erin 240101, Kwara, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6344748690,
+      "lat": 10.541301,
+      "lon": 7.432622,
+      "name": "Alshabab gas station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5569591524,
+      "lat": 5.535891,
+      "lon": 5.758697,
+      "name": "Amefua Investment Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4440481289,
+      "lat": 6.428084,
+      "lon": 7.49366,
+      "name": "Anchor Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3084908547,
+      "lat": 7.356023,
+      "lon": 3.919011,
+      "name": "Anetosh Global Ltd. Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3435844907,
+      "lat": 10.234764,
+      "lon": 12.045705,
+      "name": "Anguwan Police Station Sobo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9776615866,
+      "lat": 9.944525,
+      "lon": 8.889068,
+      "name": "Angwan rogo police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769718565,
+      "lat": 9.933294,
+      "lon": 8.909779,
+      "name": "Angwan Rukuba Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8942310417,
+      "lat": 7.634542,
+      "lon": 4.179736,
+      "name": "AP filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5427710223,
+      "lat": 5.568711,
+      "lon": 5.78419,
+      "name": "AP Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13087538616,
+      "lat": 8.45368,
+      "lon": 4.581096,
+      "name": "Ap Fuel Station Offa Garage Opp Bovas Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769339663,
+      "lat": 9.923587,
+      "lon": 8.889333,
+      "name": "AP fueling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2349475699,
+      "lat": 6.343292,
+      "lon": 5.634899,
+      "name": "AP Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048286759,
+      "lat": 8.470306,
+      "lon": 4.526865,
+      "name": "Araoje Filling Station, Abdul Azeez Attah Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975285,
+      "lat": 8.503274,
+      "lon": 4.625856,
+      "name": "Aremo, After F Division Police Station, Tanke, Ilorin, aremo, Ilorin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5425255225,
+      "lat": 5.569039,
+      "lon": 5.777329,
+      "name": "Aribet Ventures Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7857497531,
+      "lat": 7.240943,
+      "lon": 3.029005,
+      "name": "Arolat Petrol station, Ayetoro",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2152942584,
+      "lat": 6.329539,
+      "lon": 5.634752,
+      "name": "Ascon Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5431942654,
+      "lat": 5.565166,
+      "lon": 5.757801,
+      "name": "Ascon Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8191209117,
+      "lat": 5.632907,
+      "lon": 6.404841,
+      "name": "Ashaka Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 981038963,
+      "lat": 6.452001,
+      "lon": 3.368866,
+      "name": "Asiwaju Bola Tinubu Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5577106540,
+      "lat": 5.540979,
+      "lon": 5.753743,
+      "name": "Asolyn Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6783464824,
+      "lat": 8.142053,
+      "lon": 4.24609,
+      "name": "ATP Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1994158013,
+      "lat": 6.376847,
+      "lon": 5.630553,
+      "name": "Atupec gas station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501270183,
+      "lat": 11.414111,
+      "lon": 8.018316,
+      "name": "Auchan Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1091587612,
+      "lat": 13.66415,
+      "lon": 6.702159,
+      "name": "Autogar de Guidan Roumdji",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3353578958,
+      "lat": 13.498442,
+      "lon": 7.109581,
+      "name": "Autogare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1100650995,
+      "lat": 13.714183,
+      "lon": 9.15904,
+      "name": "Autogare de Mirriah",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4308782093,
+      "lat": 13.820559,
+      "lon": 8.980232,
+      "name": "Autogare Tachale Agadez - Zinder",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4311479949,
+      "lat": 13.808734,
+      "lon": 8.998304,
+      "name": "Autogare Tasha Zermou",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480895,
+      "lat": 5.455043,
+      "lon": 10.427533,
+      "name": "Avenir du Haut-Kam",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5593031523,
+      "lat": 4.853471,
+      "lon": 7.062757,
+      "name": "Avina Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5443784334,
+      "lat": 5.56006,
+      "lon": 5.793292,
+      "name": "Awenode Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5417271821,
+      "lat": 5.541812,
+      "lon": 5.766103,
+      "name": "Ayenayeri Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11175700938,
+      "lat": 11.986473,
+      "lon": 8.480708,
+      "name": "AYM Shafa filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7253556086,
+      "lat": 10.256845,
+      "lon": 11.184886,
+      "name": "AYR filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6245897892,
+      "lat": 4.775628,
+      "lon": 7.010985,
+      "name": "Azikiwe Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 667068962,
+      "lat": 4.775652,
+      "lon": 7.011016,
+      "name": "Azikiwe Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5234383122,
+      "lat": 9.027732,
+      "lon": 7.578738,
+      "name": "Azman filling station Nyanya",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048286756,
+      "lat": 8.480508,
+      "lon": 4.536168,
+      "name": "B Division, Surulere Police Station, Ilorin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4193099604,
+      "lat": 7.76418,
+      "lon": 8.523944,
+      "name": "Baba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1286331625,
+      "lat": 6.619665,
+      "lon": 3.326581,
+      "name": "Babatunde Fashola Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3037426184,
+      "lat": 9.464421,
+      "lon": 13.637465,
+      "name": "Badjouma_guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503613599,
+      "lat": 11.4109,
+      "lon": 8.90138,
+      "name": "Bagagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501340879,
+      "lat": 12.508862,
+      "lon": 4.686042,
+      "name": "Bagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180445030,
+      "lat": 10.846426,
+      "lon": 11.437639,
+      "name": "Bajoga",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501526589,
+      "lat": 8.88331,
+      "lon": 6.183342,
+      "name": "Bakogi Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7328640185,
+      "lat": 10.276762,
+      "lon": 11.281423,
+      "name": "Bandirawo filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503395455,
+      "lat": 12.112,
+      "lon": 8.68359,
+      "name": "Bangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12950377682,
+      "lat": 6.658581,
+      "lon": 2.690439,
+      "name": "Banigbé-Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7956224599,
+      "lat": 4.82474,
+      "lon": 7.080658,
+      "name": "Barbizon Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501365050,
+      "lat": 9.233333,
+      "lon": 12.416667,
+      "name": "Bargare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3779460489,
+      "lat": 4.593405,
+      "lon": 9.467888,
+      "name": "Barombi",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 1067306295,
+      "lat": 9.392233,
+      "lon": 13.504011,
+      "name": "Barrier de Guizegare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6145928704,
+      "lat": 9.013681,
+      "lon": 7.282457,
+      "name": "Bassanjiwa",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6145928705,
+      "lat": 9.013702,
+      "lon": 7.282419,
+      "name": "Bassanjiwa",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660849726,
+      "lat": 9.013806,
+      "lon": 7.282503,
+      "name": "Bassanjiwa",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 871720002,
+      "lat": 9.013478,
+      "lon": 7.282725,
+      "name": "Bassanjiwa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467668765,
+      "lat": 4.282314,
+      "lon": 11.639993,
+      "name": "Batchenga",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180733740,
+      "lat": 10.293154,
+      "lon": 9.849096,
+      "name": "Bauchi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467949806,
+      "lat": 7.214451,
+      "lon": 13.355318,
+      "name": "Bawa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467918642,
+      "lat": 4.924627,
+      "lon": 13.289525,
+      "name": "Belabo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292602,
+      "lat": 13.160559,
+      "lon": 2.839772,
+      "name": "Bellare Jangarey",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5579266849,
+      "lat": 5.534059,
+      "lon": 5.760003,
+      "name": "Benjones Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11837320103,
+      "lat": 10.379889,
+      "lon": 7.396771,
+      "name": "Beside Startech Filing Station Kakau",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048286749,
+      "lat": 8.435658,
+      "lon": 4.57196,
+      "name": "Best life fuelling station, Osin olatunji, Asa-Dam Road, Ilorin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480899,
+      "lat": 5.447254,
+      "lon": 10.424575,
+      "name": "Binam Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586215721,
+      "lat": 4.855082,
+      "lon": 6.973196,
+      "name": "Bobby Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995825,
+      "lat": 4.85504,
+      "lon": 6.973206,
+      "name": "Bobby Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 639043270,
+      "lat": 6.489416,
+      "lon": 3.357203,
+      "name": "Bode Thomas Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871660,
+      "lat": 7.431769,
+      "lon": 3.915049,
+      "name": "Bodija Train Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3037426324,
+      "lat": 9.435611,
+      "lon": 13.359583,
+      "name": "Bogare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 226362692,
+      "lat": 9.304798,
+      "lon": 13.393683,
+      "name": "Bolloré",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3084918064,
+      "lat": 7.341319,
+      "lon": 3.90701,
+      "name": "Boluwaji Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5577106432,
+      "lat": 5.534239,
+      "lon": 5.761742,
+      "name": "Bonosik Oil and Gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5560442325,
+      "lat": 5.565218,
+      "lon": 5.759743,
+      "name": "Borosa Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773145353,
+      "lat": 8.135722,
+      "lon": 4.236964,
+      "name": "Bovas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769545093,
+      "lat": 9.979913,
+      "lon": 8.849078,
+      "name": "Bovas filling station Gamajigo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13078757802,
+      "lat": 8.500455,
+      "lon": 4.577182,
+      "name": "Bovas Fuel Station, Fate Road, Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8982448607,
+      "lat": 7.961395,
+      "lon": 3.610879,
+      "name": "Bovas Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871674,
+      "lat": 7.426828,
+      "lon": 3.910113,
+      "name": "Bovas Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586216921,
+      "lat": 4.829255,
+      "lon": 7.062949,
+      "name": "BSNNICC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3683074725,
+      "lat": 11.274485,
+      "lon": 12.007954,
+      "name": "Buni Yadi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 668542274,
+      "lat": 9.536559,
+      "lon": 6.455468,
+      "name": "Bus Park",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 670770746,
+      "lat": 5.828045,
+      "lon": 7.395389,
+      "name": "Bus Park",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975268,
+      "lat": 8.48489,
+      "lon": 4.562458,
+      "name": "By Railway Police Station, Obo Road, Ilorin, Nigeria",
+      "type": "milestone",
+      "country": "NG"
+    },
+    {
+      "id": 6246003236,
+      "lat": 5.043566,
+      "lon": 8.314596,
+      "name": "Calabar International Convention Centre",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6249046135,
+      "lat": 5.043489,
+      "lon": 8.314811,
+      "name": "Calabar International Convention Centre",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1837099455,
+      "lat": 7.337578,
+      "lon": 13.588678,
+      "name": "Carrefour de la gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5671967323,
+      "lat": 4.632045,
+      "lon": 9.442687,
+      "name": "Central Police Station Kumba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5602135521,
+      "lat": 4.869604,
+      "lon": 6.980627,
+      "name": "CGC Ventures Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 992340541,
+      "lat": 7.348165,
+      "lon": 3.878594,
+      "name": "Challenge Motor Park",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1067306174,
+      "lat": 9.392812,
+      "lon": 13.504717,
+      "name": "Chefferie de Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586215723,
+      "lat": 4.827937,
+      "lon": 7.063263,
+      "name": "Chelsea Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5431942238,
+      "lat": 5.568984,
+      "lon": 5.727846,
+      "name": "Chi Tim Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5560424224,
+      "lat": 5.565784,
+      "lon": 5.760131,
+      "name": "Chit-Lish Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5670330121,
+      "lat": 5.506141,
+      "lon": 5.813252,
+      "name": "Choilee Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995022,
+      "lat": 5.402547,
+      "lon": 6.058284,
+      "name": "Colizo Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480901,
+      "lat": 5.453525,
+      "lon": 10.427071,
+      "name": "Confort Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5670329921,
+      "lat": 5.499187,
+      "lon": 5.792134,
+      "name": "Conoil  Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2344512210,
+      "lat": 6.334626,
+      "lon": 5.6218,
+      "name": "Conoil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329856,
+      "lat": 12.984485,
+      "lon": 7.601131,
+      "name": "Conoil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5439619025,
+      "lat": 5.572784,
+      "lon": 5.788526,
+      "name": "Conoil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769394650,
+      "lat": 9.922007,
+      "lon": 8.889796,
+      "name": "Conoil fueling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871684,
+      "lat": 7.43797,
+      "lon": 3.908748,
+      "name": "Conoil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871686,
+      "lat": 7.437924,
+      "lon": 3.908257,
+      "name": "Conoil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871689,
+      "lat": 7.437847,
+      "lon": 3.907516,
+      "name": "Conoil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12788170428,
+      "lat": 6.298082,
+      "lon": 5.631011,
+      "name": "Conoil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3799232986,
+      "lat": 7.751941,
+      "lon": 4.521469,
+      "name": "ConOil Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1278524425,
+      "lat": 6.481851,
+      "lon": 3.369317,
+      "name": "Costain Bus stop",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5443810321,
+      "lat": 5.562316,
+      "lon": 5.747957,
+      "name": "Cumono Ventures  Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5562446528,
+      "lat": 5.569039,
+      "lon": 5.738213,
+      "name": "CVC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501288424,
+      "lat": 12.123551,
+      "lon": 8.980414,
+      "name": "Dabi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5629500721,
+      "lat": 5.014207,
+      "lon": 6.393371,
+      "name": "Danny Peace Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11185535837,
+      "lat": 5.508647,
+      "lon": 5.753472,
+      "name": "Daudu Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2350899853,
+      "lat": 6.347418,
+      "lon": 5.623314,
+      "name": "De Modern Bus Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3897278683,
+      "lat": 10.42099,
+      "lon": 11.370499,
+      "name": "Deba Fulani",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6146209617,
+      "lat": 9.106164,
+      "lon": 7.287241,
+      "name": "Deidei",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6146209618,
+      "lat": 9.106143,
+      "lon": 7.287306,
+      "name": "Deidei",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660799202,
+      "lat": 9.106227,
+      "lon": 7.287291,
+      "name": "Deidei",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 981008832,
+      "lat": 9.105903,
+      "lon": 7.287622,
+      "name": "Deidei",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3811805048,
+      "lat": 7.789182,
+      "lon": 4.505833,
+      "name": "Dele Yes Sir Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5418924632,
+      "lat": 5.57097,
+      "lon": 5.809391,
+      "name": "Delta Gasoline Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1049849444,
+      "lat": 9.395358,
+      "lon": 13.65502,
+      "name": "Djaouro (Chefferie) de Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1049705892,
+      "lat": 9.467473,
+      "lon": 13.637892,
+      "name": "Djaouro (Chefferie) Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6988249203,
+      "lat": 6.493977,
+      "lon": 3.388943,
+      "name": "Dominic PlayStation House",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5659392429,
+      "lat": 5.600566,
+      "lon": 5.693926,
+      "name": "Dominion Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2153200336,
+      "lat": 6.291869,
+      "lon": 5.587551,
+      "name": "Donason Oil {petrol Station}",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501475233,
+      "lat": 9.966673,
+      "lon": 8.15003,
+      "name": "Duchin Bako Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1905534064,
+      "lat": 9.958456,
+      "lon": 8.891288,
+      "name": "Echemas Fuel Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6169394275,
+      "lat": 7.314293,
+      "lon": 13.596854,
+      "name": "Ecole Maternelle Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4314596010,
+      "lat": 13.491417,
+      "lon": 7.134695,
+      "name": "École Station Avicole de Maradi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9655436479,
+      "lat": 9.953924,
+      "lon": 8.855505,
+      "name": "Ecwastaff Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501522526,
+      "lat": 7.75,
+      "lon": 4.433333,
+      "name": "Ede Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3779460490,
+      "lat": 4.533648,
+      "lon": 9.46586,
+      "name": "Ediki",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 6252091114,
+      "lat": 7.578059,
+      "lon": 6.444831,
+      "name": "Eganyi Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091115,
+      "lat": 7.578195,
+      "lon": 6.444871,
+      "name": "Eganyi Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 1049849526,
+      "lat": 9.395147,
+      "lon": 13.65541,
+      "name": "Eglis Baptist de Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6656092489,
+      "lat": 13.628333,
+      "lon": 4.032276,
+      "name": "EGO Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5418924628,
+      "lat": 5.551786,
+      "lon": 5.912476,
+      "name": "Eki 1 Global Energy Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773139281,
+      "lat": 8.128633,
+      "lon": 4.233449,
+      "name": "Emaayo Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5469650421,
+      "lat": 4.923292,
+      "lon": 6.314453,
+      "name": "Emily and Gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7486414886,
+      "lat": 6.461816,
+      "lon": 3.16692,
+      "name": "Energium filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975212,
+      "lat": 8.499272,
+      "lon": 4.595293,
+      "name": "Energy filling station, Basin Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7099720458,
+      "lat": 6.442456,
+      "lon": 7.493565,
+      "name": "Enugu",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6086651138,
+      "lat": 7.31482,
+      "lon": 13.59655,
+      "name": "EPP Bilingue station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13613907953,
+      "lat": 7.569662,
+      "lon": 4.890746,
+      "name": "Erin-Ijesa Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501249402,
+      "lat": 7.398268,
+      "lon": 3.48456,
+      "name": "Eruwa Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501256117,
+      "lat": 7.401192,
+      "lon": 3.482475,
+      "name": "Eruwa Road Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11782699409,
+      "lat": 10.496787,
+      "lon": 7.418722,
+      "name": "Es 5 Junction Road By Station Roundabout Kaduna",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599578854,
+      "lat": 4.825179,
+      "lon": 7.038602,
+      "name": "Eterna Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2157172236,
+      "lat": 8.276777,
+      "lon": 4.792106,
+      "name": "Etisalat Base Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6137347152,
+      "lat": 6.537021,
+      "lon": 3.260496,
+      "name": "EverJoy Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975207,
+      "lat": 8.489936,
+      "lon": 4.610666,
+      "name": "f division police station, F division, Tanke Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2665847667,
+      "lat": 9.082535,
+      "lon": 7.488616,
+      "name": "F&O Fuel Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871676,
+      "lat": 7.431304,
+      "lon": 3.912508,
+      "name": "Fabson Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995821,
+      "lat": 5.573161,
+      "lon": 5.800166,
+      "name": "Falcon Bay Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5659436725,
+      "lat": 5.507128,
+      "lon": 5.814055,
+      "name": "FE and S Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406823,
+      "lat": 5.584386,
+      "lon": 5.712264,
+      "name": "Fegor Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480906,
+      "lat": 5.454267,
+      "lon": 10.426687,
+      "name": "FERIC Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12287862273,
+      "lat": 6.528395,
+      "lon": 3.237727,
+      "name": "Fidelity filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2156299184,
+      "lat": 8.267087,
+      "lon": 4.799813,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995221,
+      "lat": 5.03155,
+      "lon": 6.402213,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5618994723,
+      "lat": 4.852879,
+      "lon": 7.061732,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7956224903,
+      "lat": 5.164914,
+      "lon": 6.205854,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11337919669,
+      "lat": 10.288206,
+      "lon": 11.131167,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11737939161,
+      "lat": 7.82846,
+      "lon": 4.134872,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12281544448,
+      "lat": 6.60912,
+      "lon": 3.423238,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3085043980,
+      "lat": 7.366017,
+      "lon": 3.904668,
+      "name": "Fire Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 593494003,
+      "lat": 6.442477,
+      "lon": 3.42725,
+      "name": "Five Cowries Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2344543048,
+      "lat": 6.337694,
+      "lon": 5.612571,
+      "name": "FO Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772510029,
+      "lat": 9.910922,
+      "lon": 8.894452,
+      "name": "Fomwan Mosque Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5416625435,
+      "lat": 5.540685,
+      "lon": 5.777589,
+      "name": "FORMAS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406444,
+      "lat": 5.563954,
+      "lon": 5.755172,
+      "name": "FORMAS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5415928323,
+      "lat": 5.547838,
+      "lon": 5.780019,
+      "name": "Forte Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599579430,
+      "lat": 4.847719,
+      "lon": 7.048952,
+      "name": "Forte Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5663903022,
+      "lat": 5.527434,
+      "lon": 5.774467,
+      "name": "Foyal Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406434,
+      "lat": 5.568615,
+      "lon": 5.744394,
+      "name": "French Joga Nig. Ltd Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6549211595,
+      "lat": 5.523223,
+      "lon": 7.267328,
+      "name": "fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6347203985,
+      "lat": 7.483553,
+      "lon": 10.357517,
+      "name": "Fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12569306561,
+      "lat": 6.204768,
+      "lon": 6.685721,
+      "name": "Fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1832628441,
+      "lat": 11.528812,
+      "lon": 7.320199,
+      "name": "Funtua",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11937537358,
+      "lat": 7.301576,
+      "lon": 5.131866,
+      "name": "FUTA Fire Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501271361,
+      "lat": 12.396442,
+      "lon": 9.588174,
+      "name": "Gagarwa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501278045,
+      "lat": 8.416605,
+      "lon": 4.590534,
+      "name": "Gamo Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7500360335,
+      "lat": 11.3795,
+      "lon": 7.75745,
+      "name": "Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7500672248,
+      "lat": 12.0184,
+      "lon": 7.94475,
+      "name": "Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7500711824,
+      "lat": 11.775,
+      "lon": 8.01749,
+      "name": "Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503704674,
+      "lat": 11.5644,
+      "lon": 8.63776,
+      "name": "Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7910240734,
+      "lat": 12.278418,
+      "lon": 4.004097,
+      "name": "Gangare Health Facility",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503343733,
+      "lat": 12.1208,
+      "lon": 8.45427,
+      "name": "Gangaren Dutse",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3037426608,
+      "lat": 8.494656,
+      "lon": 13.152509,
+      "name": "Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 894969961,
+      "lat": 5.154768,
+      "lon": 10.169294,
+      "name": "Gare de Bafang",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4440611718,
+      "lat": 13.04263,
+      "lon": 3.180147,
+      "name": "Gare de Dosso",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2427781888,
+      "lat": 11.888834,
+      "lon": 3.4561,
+      "name": "Gare de Gaya",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3439943248,
+      "lat": 4.634059,
+      "lon": 9.463698,
+      "name": "Gare de Kumba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3392673444,
+      "lat": 4.746121,
+      "lon": 11.226313,
+      "name": "Gare de Mbangassina",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 449711196,
+      "lat": 4.935882,
+      "lon": 12.755412,
+      "name": "Gare de Mengue Bibey",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9994500260,
+      "lat": 13.661333,
+      "lon": 6.698136,
+      "name": "Gare de Nakori",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 254674491,
+      "lat": 7.338415,
+      "lon": 13.589763,
+      "name": "Gare de Ngaoundéré",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5911875118,
+      "lat": 7.320145,
+      "lon": 13.59305,
+      "name": "Gare routi?re taxi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5911875120,
+      "lat": 7.319871,
+      "lon": 13.59387,
+      "name": "Gare routi?re taxi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 690433557,
+      "lat": 9.075488,
+      "lon": 12.975004,
+      "name": "Gare routier de Touroua",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 354325768,
+      "lat": 5.538962,
+      "lon": 12.320175,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4200200892,
+      "lat": 5.495353,
+      "lon": 10.152844,
+      "name": "Gare routière de Baleveng",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 332283717,
+      "lat": 4.73244,
+      "lon": 11.223013,
+      "name": "Gare Routière de Bokito",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 312038652,
+      "lat": 13.629371,
+      "lon": 4.032297,
+      "name": "Gare Routière de Doutchi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3782415093,
+      "lat": 5.722003,
+      "lon": 10.865848,
+      "name": "Gare Routière de Foumban",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7434013540,
+      "lat": 9.189463,
+      "lon": 3.054202,
+      "name": "Gare routière de Kabo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480908,
+      "lat": 5.457243,
+      "lon": 10.427474,
+      "name": "Gare Routiere de Ndiengdam",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 447692834,
+      "lat": 4.602776,
+      "lon": 9.666998,
+      "name": "Gare routière de Njombé",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4501372778,
+      "lat": 4.73187,
+      "lon": 11.222276,
+      "name": "Gare Routière de Ombessa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4421938889,
+      "lat": 13.806842,
+      "lon": 8.988138,
+      "name": "Gare Routiere de Zinder",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5909851528,
+      "lat": 11.13318,
+      "lon": 2.934811,
+      "name": "Gare routière SONEF",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5911875115,
+      "lat": 7.297092,
+      "lon": 13.555644,
+      "name": "Gare routiére taxi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11102687243,
+      "lat": 13.501475,
+      "lon": 7.108102,
+      "name": "Gare Sonef Maradi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7937985218,
+      "lat": 10.515387,
+      "lon": 14.228722,
+      "name": "Garel",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501369561,
+      "lat": 13.07401,
+      "lon": 12.795271,
+      "name": "Garema-Maleri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3463510059,
+      "lat": 12.650961,
+      "lon": 13.088821,
+      "name": "Garemiri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501529722,
+      "lat": 10.783333,
+      "lon": 11.366667,
+      "name": "Garenji",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 473431419,
+      "lat": 13.665209,
+      "lon": 9.450253,
+      "name": "Gareré",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501416592,
+      "lat": 13.293496,
+      "lon": 13.341248,
+      "name": "Garere Kiriye",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3380371323,
+      "lat": 13.197566,
+      "lon": 13.265999,
+      "name": "Garere Kiriye",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2933225779,
+      "lat": 10.03055,
+      "lon": 14.33421,
+      "name": "Garey Kaele",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2933225780,
+      "lat": 10.0333,
+      "lon": 14.3333,
+      "name": "Garey_djidoma",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501282987,
+      "lat": 12.665785,
+      "lon": 10.079689,
+      "name": "Garun Gabbas",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 4467918644,
+      "lat": 6.215827,
+      "lon": 13.352324,
+      "name": "Gaza Gazade",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6146209619,
+      "lat": 9.153791,
+      "lon": 7.311036,
+      "name": "Gbazango",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6146209620,
+      "lat": 9.153747,
+      "lon": 7.311072,
+      "name": "Gbazango",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660799204,
+      "lat": 9.153824,
+      "lon": 7.31113,
+      "name": "Gbazango",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607110015,
+      "lat": 9.153488,
+      "lon": 7.311183,
+      "name": "Gbazango",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480910,
+      "lat": 5.454034,
+      "lon": 10.426381,
+      "name": "Géneral Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501297119,
+      "lat": 9.462852,
+      "lon": 8.252918,
+      "name": "Gerti",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501257440,
+      "lat": 9.737707,
+      "lon": 6.236197,
+      "name": "Gidan Mata Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501277745,
+      "lat": 11.335944,
+      "lon": 7.917581,
+      "name": "Gimi Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11178521269,
+      "lat": 7.307845,
+      "lon": 5.13858,
+      "name": "Glofes Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501291112,
+      "lat": 10.123052,
+      "lon": 7.164541,
+      "name": "Godani Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406130,
+      "lat": 5.562123,
+      "lon": 5.7442,
+      "name": "Godstime Pet. Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10663376585,
+      "lat": 10.256198,
+      "lon": 7.225507,
+      "name": "Gogwada",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1955905479,
+      "lat": 10.286736,
+      "lon": 11.186781,
+      "name": "Gombe",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292513,
+      "lat": 13.1793,
+      "lon": 2.82674,
+      "name": "Gorora Guingarey",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 781366073,
+      "lat": 5.216949,
+      "lon": 13.377585,
+      "name": "Goyoum",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7252796485,
+      "lat": 10.302548,
+      "lon": 11.1706,
+      "name": "Gsu filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7252706385,
+      "lat": 10.305458,
+      "lon": 11.177639,
+      "name": "GSU meteorological station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501250102,
+      "lat": 11.252604,
+      "lon": 7.551754,
+      "name": "Guga",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501521125,
+      "lat": 12.336205,
+      "lon": 6.699893,
+      "name": "Guidan Gagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9482338890,
+      "lat": 12.558711,
+      "lon": 2.699194,
+      "name": "Guingarey Koira",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3037426692,
+      "lat": 9.56598,
+      "lon": 13.7599,
+      "name": "Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2279518368,
+      "lat": 12.165676,
+      "lon": 6.671209,
+      "name": "Gusau",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6146209613,
+      "lat": 9.089707,
+      "lon": 7.285219,
+      "name": "Gwagwa",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660799201,
+      "lat": 9.08983,
+      "lon": 7.285186,
+      "name": "Gwagwa",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 871668049,
+      "lat": 9.089607,
+      "lon": 7.285732,
+      "name": "Gwagwa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4515491137,
+      "lat": 12.027895,
+      "lon": 8.551224,
+      "name": "Gwagwarwa police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501466631,
+      "lat": 12.542809,
+      "lon": 4.108698,
+      "name": "Gwargare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6545953545,
+      "lat": 9.017413,
+      "lon": 13.50896,
+      "name": "Hangar stationnement",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10716734310,
+      "lat": 13.349759,
+      "lon": 10.410539,
+      "name": "Haougare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180823975,
+      "lat": 9.643171,
+      "lon": 8.879223,
+      "name": "Heipang",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6121181788,
+      "lat": 9.910111,
+      "lon": 8.879441,
+      "name": "Hillstation Swimming Pool",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501278137,
+      "lat": 9.606576,
+      "lon": 8.746769,
+      "name": "Hoss",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 2350899865,
+      "lat": 6.349922,
+      "lon": 5.621026,
+      "name": "Hydret Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5589845321,
+      "lat": 4.849953,
+      "lon": 7.053888,
+      "name": "Hydropet Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5618995023,
+      "lat": 4.849941,
+      "lon": 7.05388,
+      "name": "Hydropet Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8579023753,
+      "lat": 7.559527,
+      "lon": 3.896427,
+      "name": "Ibadan",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 8851491819,
+      "lat": 7.559607,
+      "lon": 3.89638,
+      "name": "Ibadan",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 5512142252,
+      "lat": 4.946134,
+      "lon": 6.329562,
+      "name": "Ido Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5754031475,
+      "lat": 9.047081,
+      "lon": 7.342417,
+      "name": "Idu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6145928700,
+      "lat": 9.046429,
+      "lon": 7.34286,
+      "name": "Idu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6145928701,
+      "lat": 9.046462,
+      "lon": 7.342879,
+      "name": "Idu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6146209615,
+      "lat": 9.046299,
+      "lon": 7.3428,
+      "name": "Idu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660810222,
+      "lat": 9.046976,
+      "lon": 7.342506,
+      "name": "Idu",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10678648883,
+      "lat": 9.046997,
+      "lon": 7.342383,
+      "name": "Idu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10678648884,
+      "lat": 9.04638,
+      "lon": 7.342841,
+      "name": "Idu",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607064215,
+      "lat": 9.046192,
+      "lon": 7.342202,
+      "name": "Idu Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 738682066,
+      "lat": 6.551581,
+      "lon": 3.241053,
+      "name": "Igando",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5326846775,
+      "lat": 6.551129,
+      "lon": 3.238814,
+      "name": "Igando Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288801278,
+      "lat": 6.47754,
+      "lon": 3.343124,
+      "name": "Iganmu",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10777382244,
+      "lat": 6.477553,
+      "lon": 3.343117,
+      "name": "Iganmu",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6251679285,
+      "lat": 6.360988,
+      "lon": 6.250301,
+      "name": "Igbanke",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 893030423,
+      "lat": 6.361185,
+      "lon": 6.250155,
+      "name": "Igbanke Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091561,
+      "lat": 6.619919,
+      "lon": 6.260077,
+      "name": "Igueben-Ekhen Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091562,
+      "lat": 6.619885,
+      "lon": 6.260247,
+      "name": "Igueben-Ekhen Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 1258445858,
+      "lat": 6.427996,
+      "lon": 3.258812,
+      "name": "Ijegun Egba Ferry Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658321,
+      "lat": 6.662078,
+      "lon": 3.319271,
+      "name": "Iju",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658337,
+      "lat": 6.591909,
+      "lon": 3.337346,
+      "name": "Ikeja",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 704979167,
+      "lat": 6.591343,
+      "lon": 3.338909,
+      "name": "Ikeja Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1157269475,
+      "lat": 6.591853,
+      "lon": 3.337826,
+      "name": "Ikeja Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671811998,
+      "lat": 6.621182,
+      "lon": 3.501987,
+      "name": "Ikorodu Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 659370442,
+      "lat": 6.602258,
+      "lon": 3.486168,
+      "name": "Ikorodu Ferry Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3085114204,
+      "lat": 6.549378,
+      "lon": 3.267998,
+      "name": "Ikotun Bus Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501264137,
+      "lat": 8.303122,
+      "lon": 4.670912,
+      "name": "Ila Market Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501472301,
+      "lat": 7.599298,
+      "lon": 4.280222,
+      "name": "Ile Igbo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4982548148,
+      "lat": 7.598019,
+      "lon": 4.281366,
+      "name": "Ile Igbo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321837211,
+      "lat": 6.633759,
+      "lon": 3.301423,
+      "name": "Ile-Epo Bus Stop",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501461521,
+      "lat": 13.354787,
+      "lon": 5.621441,
+      "name": "Illela Dawagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9675814322,
+      "lat": 11.923248,
+      "lon": 3.334544,
+      "name": "INRAN Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501352309,
+      "lat": 10.101596,
+      "lon": 7.842207,
+      "name": "Iri",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 11737950392,
+      "lat": 7.826382,
+      "lon": 4.125637,
+      "name": "Isbra Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12845281516,
+      "lat": 7.463853,
+      "lon": 5.405038,
+      "name": "Ise Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5663921922,
+      "lat": 5.508439,
+      "lon": 5.827182,
+      "name": "Itaigho Ventures Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091690,
+      "lat": 7.620425,
+      "lon": 6.322465,
+      "name": "Itakpe Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091693,
+      "lat": 7.620541,
+      "lon": 6.32242,
+      "name": "Itakpe Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252091571,
+      "lat": 7.173731,
+      "lon": 6.675868,
+      "name": "Itogbo Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6252091572,
+      "lat": 7.173684,
+      "lon": 6.675773,
+      "name": "Itogbo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4917044812,
+      "lat": 6.92947,
+      "lon": 3.223562,
+      "name": "Itori",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501255812,
+      "lat": 7.556517,
+      "lon": 4.204803,
+      "name": "Iwo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501245258,
+      "lat": 9.344295,
+      "lon": 8.228899,
+      "name": "Jagindi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503462550,
+      "lat": 12.0643,
+      "lon": 8.8713,
+      "name": "Jalogare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292565,
+      "lat": 13.209425,
+      "lon": 2.913802,
+      "name": "Jangarey Daney",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292543,
+      "lat": 13.202449,
+      "lon": 2.872666,
+      "name": "Jangarey Dolli",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3420600755,
+      "lat": 10.201432,
+      "lon": 11.845705,
+      "name": "Jauro Ngare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406822,
+      "lat": 5.571371,
+      "lon": 5.723684,
+      "name": "Jebale Pet. and Gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288472616,
+      "lat": 9.570721,
+      "lon": 7.453958,
+      "name": "Jere",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671524580,
+      "lat": 9.570683,
+      "lon": 7.453769,
+      "name": "Jere Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5509045623,
+      "lat": 5.065768,
+      "lon": 6.445554,
+      "name": "Jezco Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8845867389,
+      "lat": 8.983983,
+      "lon": 7.564147,
+      "name": "Jikwoyi Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11976212025,
+      "lat": 7.653418,
+      "lon": 4.207516,
+      "name": "Jim-Ris Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292515,
+      "lat": 13.204453,
+      "lon": 2.939395,
+      "name": "Jingarey Kalla Pathé",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5457836929,
+      "lat": 5.566013,
+      "lon": 5.743874,
+      "name": "Joceco Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4182959731,
+      "lat": 12.023023,
+      "lon": 8.704982,
+      "name": "Jogana",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2350920108,
+      "lat": 6.339414,
+      "lon": 5.618301,
+      "name": "josudum Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5470817321,
+      "lat": 4.925757,
+      "lon": 6.318932,
+      "name": "Jovero Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8752844313,
+      "lat": 6.460884,
+      "lon": 7.509289,
+      "name": "Juhel Filing Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7922825459,
+      "lat": 7.780764,
+      "lon": 4.552823,
+      "name": "Jumia Pick up Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 366479398,
+      "lat": 6.229873,
+      "lon": 10.696965,
+      "name": "Junction Park",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5738103123,
+      "lat": 4.858034,
+      "lon": 6.968328,
+      "name": "Just One Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5418924631,
+      "lat": 5.510973,
+      "lon": 5.989629,
+      "name": "JVT Oil gas filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9256506447,
+      "lat": 4.775322,
+      "lon": 12.470545,
+      "name": "Kaa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501255818,
+      "lat": 7.383333,
+      "lon": 11.45,
+      "name": "Kaa Sangare Hill",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501244099,
+      "lat": 8.25,
+      "lon": 8.533333,
+      "name": "Kaderko",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3677156385,
+      "lat": 10.548712,
+      "lon": 7.354936,
+      "name": "Kaduna - Rigasa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 488660318,
+      "lat": 10.548736,
+      "lon": 7.355131,
+      "name": "Kaduna - Rigasa Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4809747986,
+      "lat": 10.492132,
+      "lon": 7.416385,
+      "name": "Kaduna Junction",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4809747985,
+      "lat": 10.540572,
+      "lon": 7.426118,
+      "name": "Kaduna North",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2222000243,
+      "lat": 9.591101,
+      "lon": 8.303015,
+      "name": "Kafanchan",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4599347187,
+      "lat": 13.502762,
+      "lon": 12.865657,
+      "name": "Kagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3968587796,
+      "lat": 13.759271,
+      "lon": 13.866395,
+      "name": "Kagarerom Centre",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3985132772,
+      "lat": 13.743911,
+      "lon": 13.871565,
+      "name": "Kagarerom Karia",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3985132635,
+      "lat": 13.770941,
+      "lon": 13.864081,
+      "name": "Kagarerom Nord",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6146209621,
+      "lat": 9.124647,
+      "lon": 7.292179,
+      "name": "Kagini",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6146209622,
+      "lat": 9.124659,
+      "lon": 7.292114,
+      "name": "Kagini",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10660799203,
+      "lat": 9.124585,
+      "lon": 7.292122,
+      "name": "Kagini",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 607109992,
+      "lat": 9.124405,
+      "lon": 7.292619,
+      "name": "Kagini",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4181268020,
+      "lat": 9.613108,
+      "lon": 8.400118,
+      "name": "Kagoro",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9074714185,
+      "lat": 6.814648,
+      "lon": 3.231215,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 9827816153,
+      "lat": 6.814605,
+      "lon": 3.231083,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 9827816154,
+      "lat": 6.814569,
+      "lon": 3.230974,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 981033737,
+      "lat": 6.814707,
+      "lon": 3.231423,
+      "name": "Kajola Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501281354,
+      "lat": 10.263591,
+      "lon": 7.621844,
+      "name": "Kajuru",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288547068,
+      "lat": 10.374337,
+      "lon": 7.349988,
+      "name": "Kakau",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671539730,
+      "lat": 10.374363,
+      "lon": 7.349786,
+      "name": "Kakau Train Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327908286,
+      "lat": 10.277753,
+      "lon": 11.267683,
+      "name": "Kamhan filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501360302,
+      "lat": 9.889206,
+      "lon": 8.18885,
+      "name": "Kamuru",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2222000552,
+      "lat": 9.671914,
+      "lon": 8.321144,
+      "name": "Kankada",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191193401,
+      "lat": 10.338058,
+      "lon": 7.525904,
+      "name": "Kankomi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1737874144,
+      "lat": 11.999497,
+      "lon": 8.539424,
+      "name": "Kano",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772575421,
+      "lat": 9.915141,
+      "lon": 8.893518,
+      "name": "Kanuri mosque Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3084907698,
+      "lat": 7.358525,
+      "lon": 3.914207,
+      "name": "Kappan Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10716734233,
+      "lat": 13.292138,
+      "lon": 9.915525,
+      "name": "Katagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321838523,
+      "lat": 6.642083,
+      "lon": 3.304664,
+      "name": "Katangua Bus Stop",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4182751963,
+      "lat": 12.477789,
+      "lon": 9.736307,
+      "name": "Kaugama",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 4184967568,
+      "lat": 12.574313,
+      "lon": 6.573409,
+      "name": "Kaura-Namoda",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5418933426,
+      "lat": 5.503855,
+      "lon": 6.019927,
+      "name": "Keljos and Philnas filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3084918065,
+      "lat": 7.342128,
+      "lon": 3.906677,
+      "name": "Kicks Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4569016278,
+      "lat": 13.647333,
+      "lon": 11.555417,
+      "name": "Kilakan Kadangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4136197112,
+      "lat": 4.813438,
+      "lon": 6.983607,
+      "name": "Kilmongare Restaurant",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5407647921,
+      "lat": 5.120981,
+      "lon": 6.296047,
+      "name": "Kimiowe Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7956218494,
+      "lat": 4.934099,
+      "lon": 6.28548,
+      "name": "Kimiowei Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292572,
+      "lat": 13.224258,
+      "lon": 2.90949,
+      "name": "Kindo Baba Fari Djingarey",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5417271621,
+      "lat": 5.544181,
+      "lon": 5.76954,
+      "name": "Kinmason Pet Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5550172221,
+      "lat": 5.52928,
+      "lon": 5.722551,
+      "name": "Kobay Filling Station, Warri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5457818087,
+      "lat": 5.569332,
+      "lon": 5.743127,
+      "name": "Kobay Ventures Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5473648821,
+      "lat": 4.923064,
+      "lon": 6.314063,
+      "name": "Kobison Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5473632922,
+      "lat": 4.922149,
+      "lon": 6.313735,
+      "name": "Kofaben Intl Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5499894621,
+      "lat": 4.937715,
+      "lon": 6.313274,
+      "name": "KOFABEN Intl Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191704807,
+      "lat": 9.247975,
+      "lon": 8.227681,
+      "name": "Kogum River",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10720292610,
+      "lat": 13.178702,
+      "lon": 2.914622,
+      "name": "Kohinza Jingarey",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4597112606,
+      "lat": 9.163979,
+      "lon": 7.325268,
+      "name": "Kubwa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607110013,
+      "lat": 9.164128,
+      "lon": 7.325128,
+      "name": "Kubwa Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5754032240,
+      "lat": 9.040247,
+      "lon": 7.441051,
+      "name": "Kukwaba I",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 6145928696,
+      "lat": 9.040272,
+      "lon": 7.441038,
+      "name": "Kukwaba I",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754032230,
+      "lat": 9.030765,
+      "lon": 7.422663,
+      "name": "Kukwaba II",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6145928699,
+      "lat": 9.030745,
+      "lon": 7.422671,
+      "name": "Kukwaba II",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 2098418094,
+      "lat": 10.040314,
+      "lon": 8.02138,
+      "name": "Kurmin Biri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501271588,
+      "lat": 9.647954,
+      "lon": 8.808965,
+      "name": "Kuru",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2787411810,
+      "lat": 11.832187,
+      "lon": 7.02136,
+      "name": "Kutcheri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501512023,
+      "lat": 10.1976,
+      "lon": 7.692327,
+      "name": "Kutura",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191853342,
+      "lat": 9.19071,
+      "lon": 8.166628,
+      "name": "Kwakwasa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501277870,
+      "lat": 9.581356,
+      "lon": 8.666656,
+      "name": "Kwakwi",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 501423677,
+      "lat": 5.716667,
+      "lon": 6.447437,
+      "name": "Kwale Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 87798461,
+      "lat": 6.469867,
+      "lon": 3.382517,
+      "name": "Lagos Terminus",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6690843418,
+      "lat": 9.311685,
+      "lon": 13.351681,
+      "name": "Lamidat Boggare Plateau",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6690843421,
+      "lat": 9.310066,
+      "lon": 13.347686,
+      "name": "Lamidat De Boggare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4184990352,
+      "lat": 12.360211,
+      "lon": 6.590634,
+      "name": "Lango",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 936680134,
+      "lat": 6.68729,
+      "lon": 3.303531,
+      "name": "Lateef Jakande Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467918645,
+      "lat": 5.436209,
+      "lon": 13.355286,
+      "name": "Liguim",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180773164,
+      "lat": 10.005957,
+      "lon": 9.78201,
+      "name": "Liman Katagum",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599578824,
+      "lat": 4.852947,
+      "lon": 7.061798,
+      "name": "Liquid Bulk Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327941088,
+      "lat": 10.277695,
+      "lon": 11.198883,
+      "name": "Liquid power filling station BCJ",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995422,
+      "lat": 5.560258,
+      "lon": 5.793388,
+      "name": "Livelong Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467918646,
+      "lat": 5.341906,
+      "lon": 13.398535,
+      "name": "Lom",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4461955129,
+      "lat": 4.676391,
+      "lon": 9.720115,
+      "name": "Loum Chantier Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501416154,
+      "lat": 10.046984,
+      "lon": 13.076792,
+      "name": "Luggarewa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6172863387,
+      "lat": 5.579704,
+      "lon": 5.830831,
+      "name": "MA Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3779460491,
+      "lat": 4.573644,
+      "lon": 9.477173,
+      "name": "Mabondji",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 1144287447,
+      "lat": 6.555738,
+      "lon": 3.324266,
+      "name": "Mafoluku Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1838737235,
+      "lat": 11.862572,
+      "lon": 13.156795,
+      "name": "Maiduguri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180791372,
+      "lat": 9.747905,
+      "lon": 9.156046,
+      "name": "Maijuju",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1003013337,
+      "lat": 6.850534,
+      "lon": 13.25395,
+      "name": "Makor",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3519910459,
+      "lat": 7.726356,
+      "lon": 8.532984,
+      "name": "Makurdi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4182757658,
+      "lat": 12.5598,
+      "lon": 9.885948,
+      "name": "Malam-Maduri",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772474269,
+      "lat": 9.909241,
+      "lon": 8.895184,
+      "name": "Mallam Aliyu mosque Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4181268013,
+      "lat": 9.654576,
+      "lon": 8.520118,
+      "name": "Manchok",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3037427005,
+      "lat": 10.56608,
+      "lon": 13.82696,
+      "name": "Mangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5560418224,
+      "lat": 5.565164,
+      "lon": 5.760884,
+      "name": "Manz Petrol Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3085002625,
+      "lat": 7.376291,
+      "lon": 3.897713,
+      "name": "Mapo Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1842662605,
+      "lat": 7.564671,
+      "lon": 6.608875,
+      "name": "Margareth Cafe",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10776098576,
+      "lat": 6.44616,
+      "lon": 3.395029,
+      "name": "Marina",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321599125,
+      "lat": 6.446131,
+      "lon": 3.394823,
+      "name": "Marina Train Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5412482624,
+      "lat": 5.532587,
+      "lon": 5.741524,
+      "name": "Martrix Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772674829,
+      "lat": 9.917629,
+      "lon": 8.895644,
+      "name": "Massallaci Gindin Dirimi Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772537743,
+      "lat": 9.91379,
+      "lon": 8.894759,
+      "name": "Massallacin Center Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772571788,
+      "lat": 9.914663,
+      "lon": 8.893668,
+      "name": "Massallacin Mallam Dayyabu Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772669224,
+      "lat": 9.916167,
+      "lon": 8.895331,
+      "name": "Massallacin Sarki fulani Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772636927,
+      "lat": 9.916401,
+      "lon": 8.895669,
+      "name": "Massallacin Yan kashi Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995822,
+      "lat": 5.569069,
+      "lon": 5.79787,
+      "name": "Matrix Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5670318123,
+      "lat": 5.497265,
+      "lon": 5.793805,
+      "name": "Matrix Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3611234680,
+      "lat": 4.45768,
+      "lon": 11.90259,
+      "name": "Mbandjock",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3779460492,
+      "lat": 4.496621,
+      "lon": 9.565358,
+      "name": "Mbanga",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4466475974,
+      "lat": 4.910898,
+      "lon": 13.068581,
+      "name": "Mbargué",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4467918647,
+      "lat": 5.705183,
+      "lon": 13.329159,
+      "name": "Mbitom",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12192734280,
+      "lat": 4.93459,
+      "lon": 8.316613,
+      "name": "Mbukpa Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11176190138,
+      "lat": 10.305481,
+      "lon": 11.177653,
+      "name": "Meteorological Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11939966096,
+      "lat": 7.288855,
+      "lon": 5.147452,
+      "name": "Mighty Manifestation Of Word Of God Ministry",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671812228,
+      "lat": 6.605471,
+      "lon": 3.39961,
+      "name": "Mile 12 Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288801244,
+      "lat": 6.459976,
+      "lon": 3.311754,
+      "name": "Mile 2",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10777382245,
+      "lat": 6.45993,
+      "lon": 3.311727,
+      "name": "Mile 2",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1322975948,
+      "lat": 6.459877,
+      "lon": 3.311633,
+      "name": "Mile 2",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11331045770,
+      "lat": 4.625585,
+      "lon": 9.42022,
+      "name": "Mile one police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11331078469,
+      "lat": 4.625545,
+      "lon": 9.420187,
+      "name": "Mile one police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599578833,
+      "lat": 4.837452,
+      "lon": 7.037549,
+      "name": "Mini Okoro Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7260806785,
+      "lat": 10.320926,
+      "lon": 9.821543,
+      "name": "Mobil Car station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2155705400,
+      "lat": 6.333956,
+      "lon": 5.634858,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2349475751,
+      "lat": 6.34232,
+      "lon": 5.633794,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329862,
+      "lat": 12.987129,
+      "lon": 7.599665,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4228151315,
+      "lat": 4.816437,
+      "lon": 7.009189,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4440481389,
+      "lat": 6.428222,
+      "lon": 7.493806,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5415928322,
+      "lat": 5.547699,
+      "lon": 5.78049,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599585529,
+      "lat": 4.836899,
+      "lon": 7.035976,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5602331722,
+      "lat": 5.016427,
+      "lon": 6.394967,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7247565387,
+      "lat": 10.320416,
+      "lon": 9.821496,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7798307588,
+      "lat": 6.321441,
+      "lon": 5.63656,
+      "name": "Mobil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769449830,
+      "lat": 9.920007,
+      "lon": 8.889363,
+      "name": "Mobil fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769551551,
+      "lat": 9.909968,
+      "lon": 8.891353,
+      "name": "Mobil fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769640177,
+      "lat": 9.911857,
+      "lon": 8.889674,
+      "name": "Mobil fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11011685954,
+      "lat": 10.317626,
+      "lon": 9.833793,
+      "name": "Mobil fueling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 93683519,
+      "lat": 6.650403,
+      "lon": 3.30343,
+      "name": "Mobil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871671,
+      "lat": 7.416351,
+      "lon": 3.911245,
+      "name": "Mobil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6371384381,
+      "lat": 6.589605,
+      "lon": 3.517927,
+      "name": "Mobile Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658320,
+      "lat": 6.501766,
+      "lon": 3.373685,
+      "name": "Mobolaji Johnson Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327940885,
+      "lat": 10.276877,
+      "lon": 11.279803,
+      "name": "Modibbo filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3084930762,
+      "lat": 7.379656,
+      "lon": 3.898796,
+      "name": "mol mutlad filling stations",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2467814260,
+      "lat": 4.571478,
+      "lon": 9.592639,
+      "name": "Mombo Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5934689002,
+      "lat": 7.33775,
+      "lon": 13.588973,
+      "name": "Mosquee Alahdji abbo de la gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6691373013,
+      "lat": 9.311483,
+      "lon": 13.351779,
+      "name": "Mosquée Lamidat Boggare Plateau",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7331035086,
+      "lat": 10.291893,
+      "lon": 11.065021,
+      "name": "MRS filing station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2177222464,
+      "lat": 11.977647,
+      "lon": 8.565007,
+      "name": "Mrs Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1874622338,
+      "lat": 9.958632,
+      "lon": 8.879094,
+      "name": "MRS filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2349475747,
+      "lat": 6.346064,
+      "lon": 5.629417,
+      "name": "MRS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329857,
+      "lat": 12.984732,
+      "lon": 7.600752,
+      "name": "MRS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5593031128,
+      "lat": 4.835865,
+      "lon": 7.025771,
+      "name": "MRS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5597053923,
+      "lat": 4.843605,
+      "lon": 7.038933,
+      "name": "MRS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5622936823,
+      "lat": 4.835828,
+      "lon": 7.025744,
+      "name": "MRS Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9774420198,
+      "lat": 9.948936,
+      "lon": 8.891362,
+      "name": "MRS fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2161071111,
+      "lat": 6.319858,
+      "lon": 5.627478,
+      "name": "Mrs petrol station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871678,
+      "lat": 7.433453,
+      "lon": 3.912524,
+      "name": "MRS Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2156355913,
+      "lat": 8.274392,
+      "lon": 4.793166,
+      "name": "MTN Base Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6004534728,
+      "lat": 11.965397,
+      "lon": 8.404449,
+      "name": "Musba'u Garba Fuel Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658330,
+      "lat": 6.532482,
+      "lon": 3.361425,
+      "name": "Mushin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6546028895,
+      "lat": 9.018624,
+      "lon": 13.50933,
+      "name": "Mutuelles reunies de la gare routiere ngon",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3273008473,
+      "lat": 4.694985,
+      "lon": 12.380707,
+      "name": "Nanga Eboko",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288801277,
+      "lat": 6.474559,
+      "lon": 3.368737,
+      "name": "National Theatre",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10777382247,
+      "lat": 6.474679,
+      "lon": 3.36877,
+      "name": "National Theatre",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406821,
+      "lat": 5.569329,
+      "lon": 5.734771,
+      "name": "NELMIC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5454962622,
+      "lat": 5.545718,
+      "lon": 5.772914,
+      "name": "NELMIC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5528050474,
+      "lat": 5.582581,
+      "lon": 5.714146,
+      "name": "NEPA Substation",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5584935527,
+      "lat": 5.552384,
+      "lon": 5.744102,
+      "name": "New Citizen Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 254679047,
+      "lat": 6.446123,
+      "lon": 13.276638,
+      "name": "Ngaoundal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2604857312,
+      "lat": 7.338647,
+      "lon": 13.589727,
+      "name": "Ngaoundéré",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2461916345,
+      "lat": 4.397885,
+      "lon": 14.636024,
+      "name": "Ngarendembo II",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1923645503,
+      "lat": 12.859464,
+      "lon": 10.434894,
+      "name": "Nguru",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4306979961,
+      "lat": 13.802307,
+      "lon": 8.981488,
+      "name": "Niger 24 - Station de télévision",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772570835,
+      "lat": 9.915958,
+      "lon": 8.893396,
+      "name": "Nigeria police force gangare station jos",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2671711111,
+      "lat": 6.496742,
+      "lon": 8.551875,
+      "name": "Nigeria Police Force Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3793175078,
+      "lat": 7.768557,
+      "lon": 4.392188,
+      "name": "Nigeria Police Force Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9774599175,
+      "lat": 9.97231,
+      "lon": 8.894604,
+      "name": "Nigeria police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772530908,
+      "lat": 9.929131,
+      "lon": 8.871658,
+      "name": "Nigeria police station kabong",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4198918402,
+      "lat": 7.894559,
+      "lon": 4.307371,
+      "name": "Nigeria Police Station( EJIGBO)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8753295007,
+      "lat": 6.45798,
+      "lon": 7.525389,
+      "name": "Nipco Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327941086,
+      "lat": 10.275003,
+      "lon": 11.209835,
+      "name": "NNPC filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5412456824,
+      "lat": 5.547571,
+      "lon": 5.777856,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5418938122,
+      "lat": 5.562385,
+      "lon": 5.769403,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5427746032,
+      "lat": 5.569305,
+      "lon": 5.727992,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5468995025,
+      "lat": 5.017735,
+      "lon": 6.395644,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5469001934,
+      "lat": 4.926956,
+      "lon": 6.319578,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5521857832,
+      "lat": 4.955638,
+      "lon": 6.360201,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5590674422,
+      "lat": 4.835863,
+      "lon": 7.085202,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599590262,
+      "lat": 4.819158,
+      "lon": 7.050764,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11944678281,
+      "lat": 7.641502,
+      "lon": 4.166266,
+      "name": "NNPC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8753687542,
+      "lat": 6.459264,
+      "lon": 7.537633,
+      "name": "NNPC Mega filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7956224899,
+      "lat": 4.909739,
+      "lon": 6.294603,
+      "name": "NNPC Mega Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4558755569,
+      "lat": 6.435714,
+      "lon": 5.685443,
+      "name": "NNPC Mega Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1874622346,
+      "lat": 9.890662,
+      "lon": 8.881229,
+      "name": "NNPC mega station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4873800959,
+      "lat": 6.214306,
+      "lon": 6.660687,
+      "name": "NNPC Mega Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773178302,
+      "lat": 8.165927,
+      "lon": 4.260934,
+      "name": "NNPC Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480916,
+      "lat": 5.452775,
+      "lon": 10.426906,
+      "name": "Noblesse Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 711998140,
+      "lat": 7.307656,
+      "lon": 5.138744,
+      "name": "Northgate Garage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5611495224,
+      "lat": 5.088005,
+      "lon": 8.346056,
+      "name": "Northwest Megastation",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13170601824,
+      "lat": 6.482365,
+      "lon": 7.501311,
+      "name": "Nowas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2706126482,
+      "lat": 11.810637,
+      "lon": 13.140075,
+      "name": "NTA Radio Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773279260,
+      "lat": 8.156325,
+      "lon": 4.22634,
+      "name": "NTA Station Ogbomoso",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5234383123,
+      "lat": 9.023419,
+      "lon": 7.570635,
+      "name": "Nyanya bus station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1874622336,
+      "lat": 9.95943,
+      "lon": 8.876164,
+      "name": "Oando Filing Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327940985,
+      "lat": 10.276853,
+      "lon": 11.235805,
+      "name": "Oando filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2344503126,
+      "lat": 6.330295,
+      "lon": 5.594908,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2349475753,
+      "lat": 6.342791,
+      "lon": 5.634253,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329860,
+      "lat": 12.983356,
+      "lon": 7.602716,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2570329861,
+      "lat": 12.986792,
+      "lon": 7.599768,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4440481189,
+      "lat": 6.417724,
+      "lon": 7.510448,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5243197441,
+      "lat": 4.789712,
+      "lon": 7.111242,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5421895321,
+      "lat": 5.549054,
+      "lon": 5.780413,
+      "name": "Oando Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13062029361,
+      "lat": 8.478801,
+      "lon": 4.519442,
+      "name": "OANDO Filling Station. Adewole, Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772391322,
+      "lat": 9.929509,
+      "lon": 8.874317,
+      "name": "Oando fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9952551218,
+      "lat": 9.288346,
+      "lon": 5.040832,
+      "name": "Oando Gas station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2350899872,
+      "lat": 6.347219,
+      "lon": 5.62351,
+      "name": "Oando Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2350899873,
+      "lat": 6.350214,
+      "lon": 5.620856,
+      "name": "Oando Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 863990411,
+      "lat": 7.559368,
+      "lon": 3.896621,
+      "name": "Obafemi Awolowo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 738528609,
+      "lat": 6.449579,
+      "lon": 3.408711,
+      "name": "Obalende Bus Terminus",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586862021,
+      "lat": 4.827608,
+      "lon": 7.063795,
+      "name": "Ochet Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13087551522,
+      "lat": 8.456363,
+      "lon": 4.579138,
+      "name": "Offa Garage Eternal Fuel Station Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3830325370,
+      "lat": 8.154893,
+      "lon": 4.72658,
+      "name": "Offa Railway",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5567219024,
+      "lat": 5.496052,
+      "lon": 5.796251,
+      "name": "Ogale Nig. Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11396426694,
+      "lat": 6.441747,
+      "lon": 7.49527,
+      "name": "Ogui Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3863218190,
+      "lat": 5.857755,
+      "lon": 7.102377,
+      "name": "Okata Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9534954211,
+      "lat": 6.473096,
+      "lon": 3.18529,
+      "name": "Okoko Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091691,
+      "lat": 5.662905,
+      "lon": 5.951143,
+      "name": "Okpara Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091694,
+      "lat": 5.662772,
+      "lon": 5.951366,
+      "name": "Okpara Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 501283648,
+      "lat": 8.033333,
+      "lon": 4.683333,
+      "name": "Okuku Railway Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6172862686,
+      "lat": 5.578694,
+      "lon": 5.824172,
+      "name": "Okuokoko Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3605463946,
+      "lat": 4.792176,
+      "lon": 7.054148,
+      "name": "Okuru Injection Substation",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773139279,
+      "lat": 8.118258,
+      "lon": 4.223635,
+      "name": "Ola Central Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13082242405,
+      "lat": 8.477832,
+      "lon": 4.562218,
+      "name": "Olak Filling Station Beside Aromokeye Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12845281512,
+      "lat": 7.460346,
+      "lon": 5.42191,
+      "name": "Olorunkemi Gas station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 863764134,
+      "lat": 7.40908,
+      "lon": 3.747443,
+      "name": "Omi-Adio Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501248980,
+      "lat": 5.245429,
+      "lon": 7.407087,
+      "name": "Omoba Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 837276050,
+      "lat": 7.261185,
+      "lon": 5.174664,
+      "name": "Ondo State Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13087549682,
+      "lat": 8.467589,
+      "lon": 4.569349,
+      "name": "Orange Filling Station Gaa Akanbi Junction Ajasepo Road Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13078767852,
+      "lat": 8.484805,
+      "lon": 4.59335,
+      "name": "Orange Fuel Station Tanke Ilorin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13047975419,
+      "lat": 8.482326,
+      "lon": 4.547644,
+      "name": "Orange, Taiwo oke, 153 Ibrahim Taiwo Rd, inside bovas petrol station, Ilorin 240242, Kwara, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501285926,
+      "lat": 7.692229,
+      "lon": 4.365094,
+      "name": "Origo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 670003658,
+      "lat": 6.463582,
+      "lon": 3.416048,
+      "name": "Osborne Ferry Terminal Ikoyi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658336,
+      "lat": 6.557253,
+      "lon": 3.351407,
+      "name": "Oshodi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 693552184,
+      "lat": 6.554916,
+      "lon": 3.351237,
+      "name": "Oshodi Transport Interchange - Terminal 1",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 693552185,
+      "lat": 6.555814,
+      "lon": 3.350837,
+      "name": "Oshodi Transport Interchange - Terminal 2",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 693552186,
+      "lat": 6.556593,
+      "lon": 3.352712,
+      "name": "Oshodi Transport Interchange - Terminal 3",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1964870331,
+      "lat": 7.780399,
+      "lon": 4.547765,
+      "name": "Osogbo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501268924,
+      "lat": 7.103026,
+      "lon": 8.070109,
+      "name": "Otobi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5659407323,
+      "lat": 5.030203,
+      "lon": 6.401802,
+      "name": "Otueyal Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4193185081,
+      "lat": 7.201609,
+      "lon": 8.150058,
+      "name": "Otukpo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1003023267,
+      "lat": 4.900795,
+      "lon": 12.615963,
+      "name": "Ouassa Bamvele",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5670321938,
+      "lat": 5.528303,
+      "lon": 5.780855,
+      "name": "Ovoh Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658324,
+      "lat": 6.48343,
+      "lon": 3.38146,
+      "name": "Oyingbo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658326,
+      "lat": 6.48341,
+      "lon": 3.381411,
+      "name": "Oyingbo",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 706089072,
+      "lat": 6.480871,
+      "lon": 3.382919,
+      "name": "Oyingbo Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1157080488,
+      "lat": 6.483289,
+      "lon": 3.381228,
+      "name": "Oyingbo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501526873,
+      "lat": 5.818103,
+      "lon": 7.532969,
+      "name": "Ozara Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480917,
+      "lat": 5.453908,
+      "lon": 10.427354,
+      "name": "Pacifique Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5577106539,
+      "lat": 5.542059,
+      "lon": 5.755378,
+      "name": "Pagson Motors Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5602128722,
+      "lat": 4.872759,
+      "lon": 6.961798,
+      "name": "Pamel Enterprise Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11144281505,
+      "lat": 6.007651,
+      "lon": 13.361786,
+      "name": "Pangar",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 449873284,
+      "lat": 6.007715,
+      "lon": 13.361722,
+      "name": "Pangar",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4663033129,
+      "lat": 10.266709,
+      "lon": 11.184394,
+      "name": "pantami police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9074714198,
+      "lat": 6.913354,
+      "lon": 3.23336,
+      "name": "Papalanto Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5503564522,
+      "lat": 4.943287,
+      "lon": 6.342664,
+      "name": "Patcey Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5533349924,
+      "lat": 5.541172,
+      "lon": 5.783379,
+      "name": "Pato Ohis Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5509059228,
+      "lat": 4.948259,
+      "lon": 6.333236,
+      "name": "Paudsiman Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5468995023,
+      "lat": 4.937149,
+      "lon": 6.33346,
+      "name": "Pet and Gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4411830697,
+      "lat": 5.806258,
+      "lon": 10.161332,
+      "name": "Petrol Station Santa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6352362785,
+      "lat": 5.440249,
+      "lon": 10.05008,
+      "name": "Phamarcie de la Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5940279340,
+      "lat": 7.333106,
+      "lon": 13.587113,
+      "name": "Pharmacie de la Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4519487492,
+      "lat": 5.798214,
+      "lon": 7.934859,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9770066487,
+      "lat": 9.916748,
+      "lon": 8.890344,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9771993485,
+      "lat": 9.897743,
+      "lon": 8.881557,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772342600,
+      "lat": 9.89623,
+      "lon": 8.871636,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772427103,
+      "lat": 9.900021,
+      "lon": 8.867284,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11737926883,
+      "lat": 7.830919,
+      "lon": 4.129624,
+      "name": "Police station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1754875885,
+      "lat": 10.508895,
+      "lon": 7.430827,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2157135110,
+      "lat": 8.275806,
+      "lon": 4.792753,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4247701496,
+      "lat": 7.167049,
+      "lon": 4.725905,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12353602200,
+      "lat": 6.688804,
+      "lon": 3.414225,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9796329426,
+      "lat": 9.942291,
+      "lon": 8.877735,
+      "name": "Police Station Katako Division",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13208448902,
+      "lat": 12.04111,
+      "lon": 5.74472,
+      "name": "Police Station Nasarawa Division",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4247715490,
+      "lat": 7.165693,
+      "lon": 4.728295,
+      "name": "Poplat filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1855084842,
+      "lat": 4.765095,
+      "lon": 7.016466,
+      "name": "Port Harcourt Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1323182112,
+      "lat": 7.129176,
+      "lon": 3.398436,
+      "name": "Professor Wole Shoyinka Station, Laderin",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599578845,
+      "lat": 4.835434,
+      "lon": 7.033717,
+      "name": "Propel Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599599721,
+      "lat": 4.851122,
+      "lon": 7.06015,
+      "name": "Propel Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1049849556,
+      "lat": 9.395014,
+      "lon": 13.656035,
+      "name": "Puit a ciel ouvert de Guizigare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11225355537,
+      "lat": 10.286699,
+      "lon": 11.186618,
+      "name": "railway station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11969237554,
+      "lat": 7.896472,
+      "lon": 4.316693,
+      "name": "Ramos Balo Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5425255227,
+      "lat": 5.562312,
+      "lon": 5.785286,
+      "name": "Rank Oil and Gas Filing Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11944678275,
+      "lat": 7.633355,
+      "lon": 4.158723,
+      "name": "Reality Radio Vision Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7503559595,
+      "lat": 11.8152,
+      "lon": 8.89196,
+      "name": "Rege Gangare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6288503111,
+      "lat": 10.04882,
+      "lon": 7.375975,
+      "name": "Rijana",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671531991,
+      "lat": 10.048947,
+      "lon": 7.376276,
+      "name": "Rijana Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4182806630,
+      "lat": 12.157891,
+      "lon": 9.167969,
+      "name": "Ringim",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617993922,
+      "lat": 5.494952,
+      "lon": 6.01457,
+      "name": "Robor Energy Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048283385,
+      "lat": 8.483889,
+      "lon": 4.591111,
+      "name": "Royalton Palace Hotel, Station Road, Tanke Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327940886,
+      "lat": 10.277875,
+      "lon": 11.266705,
+      "name": "Sadiqu shehu and sons filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7258257385,
+      "lat": 10.281792,
+      "lon": 11.120527,
+      "name": "Salida Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1449493454,
+      "lat": 6.741548,
+      "lon": 5.406232,
+      "name": "School Bus Pickup Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7956224894,
+      "lat": 4.825514,
+      "lon": 7.081326,
+      "name": "Sede Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11944678283,
+      "lat": 7.650502,
+      "lon": 4.171374,
+      "name": "See Bee Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 792829416,
+      "lat": 7.301897,
+      "lon": 5.140149,
+      "name": "Senate Bus Stop",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5412456825,
+      "lat": 5.544453,
+      "lon": 5.743578,
+      "name": "Senior Staff Cop Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9774808275,
+      "lat": 9.952957,
+      "lon": 8.878387,
+      "name": "Shafa filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6347194186,
+      "lat": 6.955152,
+      "lon": 11.119255,
+      "name": "Shago Oil and Gas Ltd Fuel Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501270667,
+      "lat": 9.664247,
+      "lon": 6.623307,
+      "name": "Shakwata Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 667068963,
+      "lat": 4.765583,
+      "lon": 7.018092,
+      "name": "Sharks Park Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5070530367,
+      "lat": 8.988435,
+      "lon": 7.355238,
+      "name": "Sharon Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1934376534,
+      "lat": 11.70819,
+      "lon": 7.162865,
+      "name": "Shemi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772651857,
+      "lat": 9.904796,
+      "lon": 8.910923,
+      "name": "Sheriff's Oil and Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 716662963,
+      "lat": 7.292994,
+      "lon": 5.149215,
+      "name": "SHUTTLE BUS PARK",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 93683512,
+      "lat": 6.647685,
+      "lon": 3.306563,
+      "name": "So Fine Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5589846824,
+      "lat": 4.864698,
+      "lon": 7.055469,
+      "name": "Sobaz Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5602337621,
+      "lat": 4.992498,
+      "lon": 6.377626,
+      "name": "Sobaz Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 318507720,
+      "lat": 13.058761,
+      "lon": 5.226043,
+      "name": "Sokoto Main Garage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5506376637,
+      "lat": 4.952335,
+      "lon": 6.355579,
+      "name": "South South Oil and gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5448418426,
+      "lat": 5.558948,
+      "lon": 5.776283,
+      "name": "St. Luke Pet. Ltd. Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6145928695,
+      "lat": 9.045929,
+      "lon": 7.451711,
+      "name": "Stadium",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 5599585524,
+      "lat": 4.848522,
+      "lon": 7.064452,
+      "name": "Stark Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4993915192,
+      "lat": 5.703608,
+      "lon": 10.666636,
+      "name": "Station d'Elévage de Nkouden",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2451952422,
+      "lat": 13.798265,
+      "lon": 8.926294,
+      "name": "station d'essence",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2451951736,
+      "lat": 13.798362,
+      "lon": 8.930953,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2451951740,
+      "lat": 13.798513,
+      "lon": 8.943228,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2451961239,
+      "lat": 13.798678,
+      "lon": 8.93637,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1067306253,
+      "lat": 9.378899,
+      "lon": 13.49091,
+      "name": "station de Pessage de Pitoa Bounguel",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11155984405,
+      "lat": 5.626111,
+      "lon": 10.678849,
+      "name": "station de pompage bafolé",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10792481105,
+      "lat": 5.532107,
+      "lon": 10.328859,
+      "name": "Station de traitement d‘eau potable de la Metché",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4515304773,
+      "lat": 4.271651,
+      "lon": 11.199331,
+      "name": "Station eau potable monatele",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4513622289,
+      "lat": 13.3128,
+      "lon": 12.609159,
+      "name": "Station essence AMH Diffa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4513760391,
+      "lat": 13.311266,
+      "lon": 12.60513,
+      "name": "Station essence BK",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4513741294,
+      "lat": 13.312577,
+      "lon": 12.599116,
+      "name": "Station essence Oriba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11030103298,
+      "lat": 13.55501,
+      "lon": 7.080281,
+      "name": "Station Groupe Amintchi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5900104742,
+      "lat": 11.122481,
+      "lon": 2.925801,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4422704547,
+      "lat": 13.805801,
+      "lon": 8.983528,
+      "name": "Station Lavage Tass-Press",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1880785903,
+      "lat": 10.494057,
+      "lon": 7.418245,
+      "name": "Station Market",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1067306290,
+      "lat": 9.386134,
+      "lon": 13.501678,
+      "name": "Station Mobile",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2427781882,
+      "lat": 11.893941,
+      "lon": 3.460803,
+      "name": "Station Nigrer oil",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4422704548,
+      "lat": 13.804733,
+      "lon": 8.988002,
+      "name": "Station Oilibya",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3353591250,
+      "lat": 13.498486,
+      "lon": 7.108678,
+      "name": "Station Ola",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3709912092,
+      "lat": 13.798734,
+      "lon": 5.241825,
+      "name": "station oriba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13310640809,
+      "lat": 13.704675,
+      "lon": 11.178353,
+      "name": "Station Oriba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2428001707,
+      "lat": 13.040017,
+      "lon": 3.217322,
+      "name": "Station Oriba de Dosso",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4308872465,
+      "lat": 13.824762,
+      "lon": 8.981348,
+      "name": "Station Oriba Petrolium",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4237488432,
+      "lat": 5.480386,
+      "lon": 10.413927,
+      "name": "Station Petrol",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13597410101,
+      "lat": 7.314493,
+      "lon": 13.583349,
+      "name": "Station Radio CRTV - Adamaoua",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2428047912,
+      "lat": 11.896651,
+      "lon": 3.463208,
+      "name": "Station Rissa Petrolium",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048283366,
+      "lat": 8.480712,
+      "lon": 4.589374,
+      "name": "Station Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048283367,
+      "lat": 8.48159,
+      "lon": 4.589506,
+      "name": "Station Road, Oko Erin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11030112682,
+      "lat": 13.558222,
+      "lon": 7.077212,
+      "name": "Station RPS",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3353771253,
+      "lat": 13.525551,
+      "lon": 7.104984,
+      "name": "Station Saddi Kemil 3SK",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11074133686,
+      "lat": 13.524492,
+      "lon": 7.116618,
+      "name": "Station Sadi Kemil",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9210525217,
+      "lat": 5.366471,
+      "lon": 10.411866,
+      "name": "Station service",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9038136014,
+      "lat": 5.388155,
+      "lon": 10.330491,
+      "name": "Station Service",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11042783711,
+      "lat": 13.549778,
+      "lon": 7.461158,
+      "name": "Station Service Barhama",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3353776386,
+      "lat": 13.59571,
+      "lon": 7.05275,
+      "name": "Station Service Dan Madaoua",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2456741267,
+      "lat": 13.815189,
+      "lon": 8.979956,
+      "name": "Station Service Nagari",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5641730821,
+      "lat": 13.312597,
+      "lon": 12.598229,
+      "name": "Station service ORIBA PETROLIUM",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4254428691,
+      "lat": 10.602111,
+      "lon": 14.344428,
+      "name": "Station Shel",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3900153030,
+      "lat": 13.494892,
+      "lon": 7.109954,
+      "name": "Station Total",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4959387236,
+      "lat": 13.640291,
+      "lon": 4.044354,
+      "name": "Station Total Services Doutchi",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2358423352,
+      "lat": 9.2987,
+      "lon": 13.403075,
+      "name": "Stationnement de Poli et Tcholliré",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6773139278,
+      "lat": 8.117501,
+      "lon": 4.224031,
+      "name": "Sunday Adeyi Olaogun Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446406038,
+      "lat": 5.597692,
+      "lon": 5.701917,
+      "name": "Supasa Oil and Gas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 326518188,
+      "lat": 4.732405,
+      "lon": 11.222645,
+      "name": "Super Amigo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480919,
+      "lat": 5.453571,
+      "lon": 10.427349,
+      "name": "Super Grand MIFI Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13339151638,
+      "lat": 7.6144,
+      "lon": 5.250968,
+      "name": "T and N Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1002646489,
+      "lat": 4.555236,
+      "lon": 12.14794,
+      "name": "Tabene",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501257360,
+      "lat": 9.49964,
+      "lon": 5.550708,
+      "name": "Tabu Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5503564523,
+      "lat": 4.939956,
+      "lon": 6.338054,
+      "name": "Tadaerigha Ventures Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 671991257,
+      "lat": 6.445717,
+      "lon": 3.400995,
+      "name": "Tafawa Balewa Square Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180779131,
+      "lat": 9.770682,
+      "lon": 9.556591,
+      "name": "Tafawa-Balewa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4185006571,
+      "lat": 11.622178,
+      "lon": 7.276252,
+      "name": "Tafoki",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5503608022,
+      "lat": 4.953377,
+      "lon": 6.344262,
+      "name": "TAMIC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5469001930,
+      "lat": 4.930595,
+      "lon": 6.324428,
+      "name": "Tamic Nig.Ltd Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599599424,
+      "lat": 4.84345,
+      "lon": 7.041001,
+      "name": "Tani-Tobi Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2344503129,
+      "lat": 6.328992,
+      "lon": 5.591175,
+      "name": "Tanyi Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 264961768,
+      "lat": 11.811446,
+      "lon": 13.182083,
+      "name": "Tashan Bama",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5427746124,
+      "lat": 5.564637,
+      "lon": 5.763152,
+      "name": "TEA Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1003015881,
+      "lat": 5.543968,
+      "lon": 13.370519,
+      "name": "Tête d'éléphant",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11144281506,
+      "lat": 5.544042,
+      "lon": 13.370448,
+      "name": "Tête d'Éléphant",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 593494006,
+      "lat": 6.464133,
+      "lon": 3.417493,
+      "name": "Texas Connection Ferries",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5443784340,
+      "lat": 5.562356,
+      "lon": 5.767977,
+      "name": "Tezinos Oil Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12287862270,
+      "lat": 6.527905,
+      "lon": 3.235899,
+      "name": "TFK filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4193099598,
+      "lat": 7.876651,
+      "lon": 8.569501,
+      "name": "Tilegu",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6246003208,
+      "lat": 5.051287,
+      "lon": 8.315963,
+      "name": "Tinapa Business and Resort",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6246001462,
+      "lat": 5.04824,
+      "lon": 8.315527,
+      "name": "Tinapa Lakeside Hotel",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6249046136,
+      "lat": 5.048218,
+      "lon": 8.315592,
+      "name": "Tinapa Lakeside Hotel",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180466852,
+      "lat": 10.70542,
+      "lon": 11.36713,
+      "name": "Tongo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8852934987,
+      "lat": 9.46854,
+      "lon": 12.030981,
+      "name": "Total - Numan Ferry Service Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13048283353,
+      "lat": 8.463031,
+      "lon": 4.587709,
+      "name": "Total comfort filling station, Agbabiaka Rd, Ilorin, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9772692337,
+      "lat": 9.919505,
+      "lon": 8.894442,
+      "name": "Total filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1068916294,
+      "lat": 5.986592,
+      "lon": 10.434568,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3085053658,
+      "lat": 7.388921,
+      "lon": 3.893541,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3812586159,
+      "lat": 11.967518,
+      "lon": 8.530118,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5170502647,
+      "lat": 11.103999,
+      "lon": 7.720807,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5410190723,
+      "lat": 5.531708,
+      "lon": 5.740505,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5427746031,
+      "lat": 5.568147,
+      "lon": 5.784901,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586215925,
+      "lat": 4.812694,
+      "lon": 7.043872,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5595091321,
+      "lat": 4.845258,
+      "lon": 7.041212,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5597053725,
+      "lat": 4.839292,
+      "lon": 7.029008,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5599578825,
+      "lat": 4.850734,
+      "lon": 7.057939,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5619023421,
+      "lat": 4.845298,
+      "lon": 7.041574,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5659408222,
+      "lat": 5.529515,
+      "lon": 5.746511,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6786096376,
+      "lat": 8.13531,
+      "lon": 4.218873,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9751713670,
+      "lat": 8.747805,
+      "lon": 4.132482,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 10718820435,
+      "lat": 6.856972,
+      "lon": 3.629881,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11121944341,
+      "lat": 6.473347,
+      "lon": 3.624825,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7327941085,
+      "lat": 10.276653,
+      "lon": 11.230414,
+      "name": "Total filling station liji",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 9769420117,
+      "lat": 9.921152,
+      "lon": 8.890427,
+      "name": "Total fuel station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6004537927,
+      "lat": 11.964487,
+      "lon": 8.404476,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6684833088,
+      "lat": 9.306201,
+      "lon": 13.397865,
+      "name": "TOTAL Garoua Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2349475765,
+      "lat": 6.343017,
+      "lon": 5.634474,
+      "name": "Total Gas Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4975392789,
+      "lat": 5.115482,
+      "lon": 7.381318,
+      "name": "Total petrol station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2594871738,
+      "lat": 7.423264,
+      "lon": 3.898237,
+      "name": "Total Petrol station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2275945924,
+      "lat": 5.140384,
+      "lon": 10.52276,
+      "name": "TOTAL Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 582926770,
+      "lat": 5.883526,
+      "lon": 14.554688,
+      "name": "TOURISTIQUE EXPRESS",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 304762630,
+      "lat": 5.889881,
+      "lon": 14.547196,
+      "name": "Touristique express Garoua - boulaï",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5943305911,
+      "lat": 7.33791,
+      "lon": 13.587774,
+      "name": "TRADEX Gare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480921,
+      "lat": 5.454076,
+      "lon": 10.427295,
+      "name": "Tresor Voyage",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 397480923,
+      "lat": 5.462949,
+      "lon": 10.423921,
+      "name": "Tresor Voyages",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4180802846,
+      "lat": 9.672928,
+      "lon": 9.073106,
+      "name": "Tsofo",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 501519145,
+      "lat": 11.466808,
+      "lon": 3.670558,
+      "name": "Tungan Daudu Ngare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5656690602,
+      "lat": 12.990254,
+      "lon": 7.585907,
+      "name": "Turare Filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 8753726471,
+      "lat": 6.445276,
+      "lon": 7.496321,
+      "name": "UBA bank 10 Station Road",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091692,
+      "lat": 5.468535,
+      "lon": 5.811574,
+      "name": "Ujevwu Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252091695,
+      "lat": 5.468361,
+      "lon": 5.811609,
+      "name": "Ujevwu Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 6030052385,
+      "lat": 9.910119,
+      "lon": 11.216644,
+      "name": "Ummodah filling station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 670739197,
+      "lat": 5.528068,
+      "lon": 7.492521,
+      "name": "Umuahia - Ibeku Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11152385205,
+      "lat": 10.302214,
+      "lon": 11.178257,
+      "name": "underground water monitoring station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 707240101,
+      "lat": 6.518422,
+      "lon": 3.394845,
+      "name": "Unilag Shuttle Bus Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11733991473,
+      "lat": 9.967341,
+      "lon": 8.880377,
+      "name": "university of weather station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 794643824,
+      "lat": 7.304118,
+      "lon": 5.134988,
+      "name": "UNIVERSITY SHUTTLE BUS STATION",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5512142257,
+      "lat": 4.94711,
+      "lon": 6.331241,
+      "name": "UnlessGod Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1020740968,
+      "lat": 6.470133,
+      "lon": 3.382563,
+      "name": "Unnamed (node 1020740968)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1020741012,
+      "lat": 6.470103,
+      "lon": 3.382485,
+      "name": "Unnamed (node 1020741012)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1020741115,
+      "lat": 6.470036,
+      "lon": 3.382309,
+      "name": "Unnamed (node 1020741115)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 10727987487,
+      "lat": 6.442993,
+      "lon": 3.39955,
+      "name": "Unnamed (node 10727987487)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 10967957846,
+      "lat": 6.470052,
+      "lon": 3.382351,
+      "name": "Unnamed (node 10967957846)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 10967957868,
+      "lat": 6.47047,
+      "lon": 3.382543,
+      "name": "Unnamed (node 10967957868)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1811011358,
+      "lat": 12.578573,
+      "lon": 6.574059,
+      "name": "Unnamed (node 1811011358)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832627635,
+      "lat": 11.112958,
+      "lon": 7.727087,
+      "name": "Unnamed (node 1832627635)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832627769,
+      "lat": 11.111014,
+      "lon": 7.724282,
+      "name": "Unnamed (node 1832627769)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832627812,
+      "lat": 11.113732,
+      "lon": 7.725715,
+      "name": "Unnamed (node 1832627812)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832628358,
+      "lat": 11.11475,
+      "lon": 7.726378,
+      "name": "Unnamed (node 1832628358)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832628379,
+      "lat": 11.113507,
+      "lon": 7.726706,
+      "name": "Unnamed (node 1832628379)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832628583,
+      "lat": 11.112807,
+      "lon": 7.726825,
+      "name": "Unnamed (node 1832628583)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1832628595,
+      "lat": 11.11375,
+      "lon": 7.725758,
+      "name": "Unnamed (node 1832628595)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1838694198,
+      "lat": 11.84076,
+      "lon": 13.114232,
+      "name": "Unnamed (node 1838694198)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1838694213,
+      "lat": 11.832934,
+      "lon": 13.100548,
+      "name": "Unnamed (node 1838694213)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1838694219,
+      "lat": 11.821375,
+      "lon": 13.080716,
+      "name": "Unnamed (node 1838694219)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1923645476,
+      "lat": 12.855037,
+      "lon": 10.437246,
+      "name": "Unnamed (node 1923645476)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1923645608,
+      "lat": 12.875819,
+      "lon": 10.444509,
+      "name": "Unnamed (node 1923645608)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2139320153,
+      "lat": 8.484614,
+      "lon": 4.562956,
+      "name": "Unnamed (node 2139320153)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2151716808,
+      "lat": 10.25838,
+      "lon": 10.225041,
+      "name": "Unnamed (node 2151716808)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2160937650,
+      "lat": 10.301347,
+      "lon": 9.907077,
+      "name": "Unnamed (node 2160937650)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2175103998,
+      "lat": 9.937171,
+      "lon": 7.020888,
+      "name": "Unnamed (node 2175103998)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2175104006,
+      "lat": 9.886282,
+      "lon": 6.978884,
+      "name": "Unnamed (node 2175104006)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2175105019,
+      "lat": 9.686057,
+      "lon": 6.784589,
+      "name": "Unnamed (node 2175105019)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2176933657,
+      "lat": 9.608922,
+      "lon": 6.544828,
+      "name": "Unnamed (node 2176933657)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2177013932,
+      "lat": 6.821773,
+      "lon": 3.234955,
+      "name": "Unnamed (node 2177013932)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2177013967,
+      "lat": 7.155701,
+      "lon": 3.324762,
+      "name": "Unnamed (node 2177013967)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2177038953,
+      "lat": 7.393993,
+      "lon": 3.74865,
+      "name": "Unnamed (node 2177038953)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2207944435,
+      "lat": 9.657235,
+      "lon": 5.903779,
+      "name": "Unnamed (node 2207944435)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2207944449,
+      "lat": 9.581581,
+      "lon": 5.806285,
+      "name": "Unnamed (node 2207944449)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2221899773,
+      "lat": 10.022885,
+      "lon": 7.107607,
+      "name": "Unnamed (node 2221899773)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 2248846908,
+      "lat": 7.478282,
+      "lon": 6.697645,
+      "name": "Unnamed (node 2248846908)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248846956,
+      "lat": 7.482898,
+      "lon": 6.698706,
+      "name": "Unnamed (node 2248846956)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248847551,
+      "lat": 7.496246,
+      "lon": 6.700534,
+      "name": "Unnamed (node 2248847551)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248847686,
+      "lat": 7.497651,
+      "lon": 6.701903,
+      "name": "Unnamed (node 2248847686)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248847690,
+      "lat": 7.49766,
+      "lon": 6.701838,
+      "name": "Unnamed (node 2248847690)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248848224,
+      "lat": 7.502403,
+      "lon": 6.690681,
+      "name": "Unnamed (node 2248848224)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248848623,
+      "lat": 7.506713,
+      "lon": 6.691832,
+      "name": "Unnamed (node 2248848623)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2248849730,
+      "lat": 7.530663,
+      "lon": 6.689972,
+      "name": "Unnamed (node 2248849730)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836595,
+      "lat": 7.344535,
+      "lon": 13.579752,
+      "name": "Unnamed (node 2329836595)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836596,
+      "lat": 7.34458,
+      "lon": 13.579749,
+      "name": "Unnamed (node 2329836596)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836601,
+      "lat": 7.345641,
+      "lon": 13.579077,
+      "name": "Unnamed (node 2329836601)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836602,
+      "lat": 7.34571,
+      "lon": 13.579043,
+      "name": "Unnamed (node 2329836602)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836607,
+      "lat": 7.34674,
+      "lon": 13.578502,
+      "name": "Unnamed (node 2329836607)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836608,
+      "lat": 7.346792,
+      "lon": 13.578502,
+      "name": "Unnamed (node 2329836608)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836613,
+      "lat": 7.347844,
+      "lon": 13.577861,
+      "name": "Unnamed (node 2329836613)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836614,
+      "lat": 7.347892,
+      "lon": 13.577879,
+      "name": "Unnamed (node 2329836614)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836619,
+      "lat": 7.348992,
+      "lon": 13.57712,
+      "name": "Unnamed (node 2329836619)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836627,
+      "lat": 7.350026,
+      "lon": 13.576472,
+      "name": "Unnamed (node 2329836627)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836628,
+      "lat": 7.350077,
+      "lon": 13.57648,
+      "name": "Unnamed (node 2329836628)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836636,
+      "lat": 7.350994,
+      "lon": 13.575942,
+      "name": "Unnamed (node 2329836636)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329836641,
+      "lat": 7.354337,
+      "lon": 13.574752,
+      "name": "Unnamed (node 2329836641)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329862405,
+      "lat": 7.338293,
+      "lon": 13.592237,
+      "name": "Unnamed (node 2329862405)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329862408,
+      "lat": 7.338369,
+      "lon": 13.592222,
+      "name": "Unnamed (node 2329862408)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329862414,
+      "lat": 7.338533,
+      "lon": 13.588518,
+      "name": "Unnamed (node 2329862414)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329862517,
+      "lat": 7.341911,
+      "lon": 13.581861,
+      "name": "Unnamed (node 2329862517)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329862533,
+      "lat": 7.343348,
+      "lon": 13.580503,
+      "name": "Unnamed (node 2329862533)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329877257,
+      "lat": 7.351934,
+      "lon": 13.565629,
+      "name": "Unnamed (node 2329877257)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329877272,
+      "lat": 7.362638,
+      "lon": 13.567462,
+      "name": "Unnamed (node 2329877272)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329877275,
+      "lat": 7.363463,
+      "lon": 13.567575,
+      "name": "Unnamed (node 2329877275)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2329877276,
+      "lat": 7.363491,
+      "lon": 13.567534,
+      "name": "Unnamed (node 2329877276)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2604840481,
+      "lat": 6.44161,
+      "lon": 13.27852,
+      "name": "Unnamed (node 2604840481)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2604840486,
+      "lat": 6.441626,
+      "lon": 13.278563,
+      "name": "Unnamed (node 2604840486)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 2787415461,
+      "lat": 11.946325,
+      "lon": 6.947152,
+      "name": "Unnamed (node 2787415461)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3174696145,
+      "lat": 4.635896,
+      "lon": 9.463962,
+      "name": "Unnamed (node 3174696145)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 3798761636,
+      "lat": 9.051648,
+      "lon": 7.474662,
+      "name": "Unnamed (node 3798761636)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 3798762165,
+      "lat": 9.051692,
+      "lon": 7.474639,
+      "name": "Unnamed (node 3798762165)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 3933944915,
+      "lat": 9.410023,
+      "lon": 7.377073,
+      "name": "Unnamed (node 3933944915)",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 4184995550,
+      "lat": 12.075246,
+      "lon": 6.785454,
+      "name": "Unnamed (node 4184995550)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4185029027,
+      "lat": 10.539951,
+      "lon": 7.426472,
+      "name": "Unnamed (node 4185029027)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 4191660506,
+      "lat": 9.54579,
+      "lon": 8.292228,
+      "name": "Unnamed (node 4191660506)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191912377,
+      "lat": 7.998691,
+      "lon": 8.534333,
+      "name": "Unnamed (node 4191912377)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5711965791,
+      "lat": 9.006335,
+      "lon": 7.272111,
+      "name": "Unnamed (node 5711965791)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754031483,
+      "lat": 9.042725,
+      "lon": 7.35128,
+      "name": "Unnamed (node 5754031483)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754032231,
+      "lat": 9.031144,
+      "lon": 7.423322,
+      "name": "Unnamed (node 5754032231)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754032232,
+      "lat": 9.032142,
+      "lon": 7.425379,
+      "name": "Unnamed (node 5754032232)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754152727,
+      "lat": 9.006301,
+      "lon": 7.272166,
+      "name": "Unnamed (node 5754152727)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754381231,
+      "lat": 9.155125,
+      "lon": 7.312925,
+      "name": "Unnamed (node 5754381231)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754381386,
+      "lat": 9.155072,
+      "lon": 7.312957,
+      "name": "Unnamed (node 5754381386)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754381480,
+      "lat": 9.045824,
+      "lon": 7.343682,
+      "name": "Unnamed (node 5754381480)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 5754419254,
+      "lat": 9.051789,
+      "lon": 7.474603,
+      "name": "Unnamed (node 5754419254)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 6251678686,
+      "lat": 6.138274,
+      "lon": 6.219846,
+      "name": "Unnamed (node 6251678686)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 6376919637,
+      "lat": 10.822382,
+      "lon": 7.545947,
+      "name": "Unnamed (node 6376919637)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6717887449,
+      "lat": 7.304191,
+      "lon": 5.141593,
+      "name": "Unnamed (node 6717887449)",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 8299952426,
+      "lat": 6.150035,
+      "lon": 6.222517,
+      "name": "Unnamed (node 8299952426)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 8299952541,
+      "lat": 6.148438,
+      "lon": 6.218581,
+      "name": "Unnamed (node 8299952541)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 8299952545,
+      "lat": 6.148433,
+      "lon": 6.218527,
+      "name": "Unnamed (node 8299952545)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 8579023789,
+      "lat": 7.550296,
+      "lon": 3.882986,
+      "name": "Unnamed (node 8579023789)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 1145600575,
+      "lat": 9.821456,
+      "lon": 7.414085,
+      "name": "Unnamed (way 1145600575)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1145844139,
+      "lat": 10.540564,
+      "lon": 7.426264,
+      "name": "Unnamed (way 1145844139)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321707672,
+      "lat": 6.576233,
+      "lon": 3.343412,
+      "name": "Unnamed (way 1321707672)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321707835,
+      "lat": 6.580473,
+      "lon": 3.341693,
+      "name": "Unnamed (way 1321707835)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321708000,
+      "lat": 6.571341,
+      "lon": 3.345398,
+      "name": "Unnamed (way 1321708000)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321709197,
+      "lat": 6.588196,
+      "lon": 3.338557,
+      "name": "Unnamed (way 1321709197)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321709319,
+      "lat": 6.595834,
+      "lon": 3.335434,
+      "name": "Unnamed (way 1321709319)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321785654,
+      "lat": 6.620123,
+      "lon": 3.479059,
+      "name": "Unnamed (way 1321785654)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321834204,
+      "lat": 6.607008,
+      "lon": 3.318993,
+      "name": "Unnamed (way 1321834204)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321835039,
+      "lat": 6.608091,
+      "lon": 3.326959,
+      "name": "Unnamed (way 1321835039)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321836890,
+      "lat": 6.629289,
+      "lon": 3.299694,
+      "name": "Unnamed (way 1321836890)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1321839817,
+      "lat": 6.620639,
+      "lon": 3.299816,
+      "name": "Unnamed (way 1321839817)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1323241558,
+      "lat": 6.561142,
+      "lon": 3.349546,
+      "name": "Unnamed (way 1323241558)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1323280714,
+      "lat": 6.611945,
+      "lon": 3.30529,
+      "name": "Unnamed (way 1323280714)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 161134222,
+      "lat": 10.491871,
+      "lon": 7.416283,
+      "name": "Unnamed (way 161134222)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 161134228,
+      "lat": 10.492975,
+      "lon": 7.416645,
+      "name": "Unnamed (way 161134228)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 161134236,
+      "lat": 10.492347,
+      "lon": 7.416448,
+      "name": "Unnamed (way 161134236)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 288800886,
+      "lat": 13.787957,
+      "lon": 5.251827,
+      "name": "Unnamed (way 288800886)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 336910690,
+      "lat": 4.634191,
+      "lon": 9.463702,
+      "name": "Unnamed (way 336910690)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 467240075,
+      "lat": 13.220432,
+      "lon": 12.028036,
+      "name": "Unnamed (way 467240075)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 543388071,
+      "lat": 9.125707,
+      "lon": 4.823943,
+      "name": "Unnamed (way 543388071)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607064221,
+      "lat": 9.02433,
+      "lon": 7.394761,
+      "name": "Unnamed (way 607064221)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607109943,
+      "lat": 9.039888,
+      "lon": 7.441175,
+      "name": "Unnamed (way 607109943)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 607109948,
+      "lat": 9.030386,
+      "lon": 7.422753,
+      "name": "Unnamed (way 607109948)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 662451287,
+      "lat": 6.474549,
+      "lon": 3.368723,
+      "name": "Unnamed (way 662451287)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 705004780,
+      "lat": 7.726381,
+      "lon": 8.532452,
+      "name": "Unnamed (way 705004780)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 707457331,
+      "lat": 12.859625,
+      "lon": 10.434933,
+      "name": "Unnamed (way 707457331)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 707648525,
+      "lat": 6.640073,
+      "lon": 3.370995,
+      "name": "Unnamed (way 707648525)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 707648541,
+      "lat": 6.640048,
+      "lon": 3.369664,
+      "name": "Unnamed (way 707648541)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 708294462,
+      "lat": 7.299788,
+      "lon": 5.135793,
+      "name": "Unnamed (way 708294462)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 714680930,
+      "lat": 7.303138,
+      "lon": 5.139403,
+      "name": "Unnamed (way 714680930)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 734438177,
+      "lat": 6.617772,
+      "lon": 3.299535,
+      "name": "Unnamed (way 734438177)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 734438184,
+      "lat": 6.620322,
+      "lon": 3.301561,
+      "name": "Unnamed (way 734438184)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 747160992,
+      "lat": 6.605511,
+      "lon": 3.398791,
+      "name": "Unnamed (way 747160992)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 787313504,
+      "lat": 6.672253,
+      "lon": 3.270641,
+      "name": "Unnamed (way 787313504)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 813882443,
+      "lat": 10.256124,
+      "lon": 7.225651,
+      "name": "Unnamed (way 813882443)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4339521840,
+      "lat": 5.949937,
+      "lon": 10.165564,
+      "name": "Up Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6252092455,
+      "lat": 6.799855,
+      "lon": 6.397499,
+      "name": "Uromi",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 893032628,
+      "lat": 6.799782,
+      "lon": 6.397589,
+      "name": "Uromi Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 6245897677,
+      "lat": 4.781237,
+      "lon": 7.006118,
+      "name": "UTC Station",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 667068961,
+      "lat": 4.781272,
+      "lon": 7.00615,
+      "name": "UTC Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3816861435,
+      "lat": 6.950103,
+      "lon": 8.033071,
+      "name": "Utonkon",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5446405923,
+      "lat": 5.599594,
+      "lon": 5.697216,
+      "name": "Vic and CC Pet. Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 7843431385,
+      "lat": 10.290355,
+      "lon": 11.088489,
+      "name": "Vision FM station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5670176321,
+      "lat": 5.508869,
+      "lon": 5.827202,
+      "name": "Vwede Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5503594923,
+      "lat": 4.947353,
+      "lon": 6.348641,
+      "name": "Watgo Petroleum Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5425293422,
+      "lat": 5.568683,
+      "lon": 5.775007,
+      "name": "Wilmas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5617995421,
+      "lat": 5.479406,
+      "lon": 6.019262,
+      "name": "Wilmas Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5754031515,
+      "lat": 9.024683,
+      "lon": 7.3949,
+      "name": "Wupa",
+      "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 501295991,
+      "lat": 9.747647,
+      "lon": 6.046415,
+      "name": "Wushishi Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 12260658329,
+      "lat": 6.511469,
+      "lon": 3.369998,
+      "name": "Yaba",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 707609369,
+      "lat": 6.510815,
+      "lon": 3.370799,
+      "name": "Yaba Bus Terminal",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 11013558982,
+      "lat": 10.272061,
+      "lon": 9.791377,
+      "name": "Yelwa Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 5586216721,
+      "lat": 4.822478,
+      "lon": 7.05406,
+      "name": "YKC Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4182899168,
+      "lat": 12.097992,
+      "lon": 8.890746,
+      "name": "Zakirai",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 557035367,
+      "lat": 11.110166,
+      "lon": 7.723713,
+      "name": "Zaria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191860033,
+      "lat": 9.0252,
+      "lon": 8.199255,
+      "name": "Zaria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 557647660,
+      "lat": 11.080837,
+      "lon": 7.70915,
+      "name": "Zaria Firestation",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 4191654786,
+      "lat": 9.783478,
+      "lon": 8.283639,
+      "name": "Zenkuwa",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1002651231,
+      "lat": 4.968942,
+      "lon": 12.927139,
+      "name": "Zing",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 3619825762,
+      "lat": 9.811677,
+      "lon": 6.169377,
+      "name": "Zungeru",
+      "type": "station",
+      "country": "NG"
+    }
+  ]
+}

@@ -1,0 +1,1463 @@
+{
+  "country": "LS",
+  "name": "Lesotho",
+  "region": "Southern Africa",
+  "bbox": [
+    -30.67,
+    27.01,
+    -28.57,
+    29.46
+  ],
+  "extracted": "2026-03-03T12:12:35.599Z",
+  "count": 181,
+  "stations": [
+    {
+      "id": 13264887888,
+      "lat": -28.771456,
+      "lon": 28.454158,
+      "name": "'Muela Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 12919134316,
+      "lat": -28.780898,
+      "lon": 28.461516,
+      "name": "'Muela Power Station Bypass Outfall",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3031906142,
+      "lat": -29.378314,
+      "lon": 27.772998,
+      "name": "Agricultural Station Veterinary",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 662442941,
+      "lat": -30.407592,
+      "lon": 29.428125,
+      "name": "Bailden",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 1424326523,
+      "lat": -28.726742,
+      "lon": 29.347832,
+      "name": "Bergville",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325389,
+      "lat": -30.031885,
+      "lon": 27.116101,
+      "name": "Boesmanskop",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325395,
+      "lat": -29.276263,
+      "lon": 27.420443,
+      "name": "Cabriere",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247326009,
+      "lat": -30.379183,
+      "lon": 29.041059,
+      "name": "Cedarville",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325401,
+      "lat": -28.925218,
+      "lon": 27.583877,
+      "name": "Clocolan",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325424,
+      "lat": -29.306453,
+      "lon": 27.428177,
+      "name": "De Bruyn",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 4221187117,
+      "lat": -30.526434,
+      "lon": 27.668816,
+      "name": "Dilli-Dilli Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 662442920,
+      "lat": -30.427285,
+      "lon": 29.449327,
+      "name": "Ettrick",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 1368677515,
+      "lat": -29.151034,
+      "lon": 27.745869,
+      "name": "Fair Deal Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325428,
+      "lat": -28.864827,
+      "lon": 27.876607,
+      "name": "Ficksburg",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325427,
+      "lat": -28.583441,
+      "lon": 28.132055,
+      "name": "Fouriesburg",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 662443052,
+      "lat": -30.318154,
+      "lon": 29.453367,
+      "name": "Franklin",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3259186213,
+      "lat": -29.299973,
+      "lon": 27.456938,
+      "name": "Gateway Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325434,
+      "lat": -28.754185,
+      "lon": 28.053463,
+      "name": "Generaalsnek",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325449,
+      "lat": -28.86809,
+      "lon": 27.7102,
+      "name": "Gumtree",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13230368478,
+      "lat": -28.954761,
+      "lon": 27.734108,
+      "name": "Ha 'Musi Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1313949457,
+      "lat": -29.347566,
+      "lon": 27.518483,
+      "name": "Ha Mots'oeneng Filling station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325453,
+      "lat": -29.183438,
+      "lon": 27.089504,
+      "name": "Halkyn",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325473,
+      "lat": -29.140821,
+      "lon": 27.378443,
+      "name": "Hoogfontein",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3637010747,
+      "lat": -29.296103,
+      "lon": 27.475647,
+      "name": "Hoohlo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 662439913,
+      "lat": -30.293365,
+      "lon": 29.395648,
+      "name": "Houston's Hope",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 259130371,
+      "lat": -30.652762,
+      "lon": 27.926089,
+      "name": "Ice Station 2720",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325468,
+      "lat": -28.79229,
+      "lon": 28.030777,
+      "name": "Ionia",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264887856,
+      "lat": -28.852764,
+      "lon": 28.26965,
+      "name": "Khabo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325479,
+      "lat": -28.809088,
+      "lon": 28.009195,
+      "name": "Kommandonek",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325507,
+      "lat": -29.188996,
+      "lon": 27.447102,
+      "name": "Ladybrand",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1313949458,
+      "lat": -29.312795,
+      "lon": 27.510037,
+      "name": "Lake Site Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264993630,
+      "lat": -29.115994,
+      "lon": 28.485762,
+      "name": "Lejone Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247326198,
+      "lat": -30.341052,
+      "lon": 29.085764,
+      "name": "Levels",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 13264989590,
+      "lat": -30.126994,
+      "lon": 27.325095,
+      "name": "Liphiring Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 5287222522,
+      "lat": -29.363336,
+      "lon": 27.511419,
+      "name": "Lithoteng Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 10840139457,
+      "lat": -29.364225,
+      "lon": 27.511955,
+      "name": "Lithoteng Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 5244859426,
+      "lat": -30.39867,
+      "lon": 27.691189,
+      "name": "Lower-Moyeni Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13243401170,
+      "lat": -29.122675,
+      "lon": 27.824099,
+      "name": "Mamathe Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13381166011,
+      "lat": -29.535603,
+      "lon": 28.264419,
+      "name": "Mants'onyane Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 10674048347,
+      "lat": -29.200447,
+      "lon": 28.862908,
+      "name": "Mapholaneng Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13235260655,
+      "lat": -28.885819,
+      "lon": 27.89249,
+      "name": "Maputsoe Border Post Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325528,
+      "lat": -28.667657,
+      "lon": 27.440837,
+      "name": "Marquard",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325526,
+      "lat": -29.181805,
+      "lon": 27.28722,
+      "name": "Marseilles",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 632978617,
+      "lat": -29.297779,
+      "lon": 27.470448,
+      "name": "Maseru",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 115836532,
+      "lat": -29.313716,
+      "lon": 27.499162,
+      "name": "Maseru Bus Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 548179734,
+      "lat": -29.314249,
+      "lon": 27.497732,
+      "name": "Maseru Bus Station (External)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3259185461,
+      "lat": -29.298535,
+      "lon": 27.475452,
+      "name": "Maseru Industrial Puma Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 10859645903,
+      "lat": -29.334839,
+      "lon": 27.485155,
+      "name": "Maseru Mall Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 12834851539,
+      "lat": -29.40447,
+      "lon": 27.561851,
+      "name": "Masianokeng Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 4593471565,
+      "lat": -29.408407,
+      "lon": 27.55874,
+      "name": "Masianokeng Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13322810770,
+      "lat": -29.816784,
+      "lon": 27.512456,
+      "name": "Matelile Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 5448513422,
+      "lat": -29.813195,
+      "lon": 27.225985,
+      "name": "Matholeng Fire Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1737331105,
+      "lat": -28.975577,
+      "lon": 29.23574,
+      "name": "Met Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325515,
+      "lat": -28.651653,
+      "lon": 28.081289,
+      "name": "Meynell",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325516,
+      "lat": -28.575125,
+      "lon": 27.480435,
+      "name": "Middel",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247326299,
+      "lat": -30.278498,
+      "lon": 29.143934,
+      "name": "Midgley",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325550,
+      "lat": -29.104393,
+      "lon": 27.451081,
+      "name": "Modderpoort",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264887882,
+      "lat": -29.480388,
+      "lon": 28.058446,
+      "name": "Mohale Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 295053454,
+      "lat": -30.153426,
+      "lon": 27.481838,
+      "name": "Mohale's Hoek Bus Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264989552,
+      "lat": -30.164764,
+      "lon": 27.401313,
+      "name": "Mohale's-Hoek Border Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264887822,
+      "lat": -28.575849,
+      "lon": 28.653387,
+      "name": "Mononts'a Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247645244,
+      "lat": -28.688857,
+      "lon": 28.077131,
+      "name": "Mount Morkel",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13272588309,
+      "lat": -30.000309,
+      "lon": 27.577277,
+      "name": "Mpharane Polece Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247326269,
+      "lat": -30.282004,
+      "lon": 29.172722,
+      "name": "New Amalfi",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1451258860,
+      "lat": -30.365688,
+      "lon": 29.445971,
+      "name": "Newmarket",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 13264989462,
+      "lat": -29.171503,
+      "lon": 28.614479,
+      "name": "Palama Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13230368479,
+      "lat": -28.971941,
+      "lon": 27.764027,
+      "name": "Peka Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1604768099,
+      "lat": -29.314712,
+      "lon": 27.479493,
+      "name": "Pioneer Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3475053942,
+      "lat": -29.000633,
+      "lon": 28.208915,
+      "name": "Pitseng Total Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13183722927,
+      "lat": -28.697692,
+      "lon": 28.341297,
+      "name": "Qalo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13393084274,
+      "lat": -28.697645,
+      "lon": 28.341313,
+      "name": "Qalo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264887821,
+      "lat": -28.643128,
+      "lon": 28.449478,
+      "name": "Qholaqhoe Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 12951903101,
+      "lat": -29.666226,
+      "lon": 27.795132,
+      "name": "Ramabanta Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 12858913529,
+      "lat": -29.451802,
+      "lon": 27.720777,
+      "name": "Roma Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247326363,
+      "lat": -30.310211,
+      "lon": 29.111385,
+      "name": "Saamloop",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 11891171322,
+      "lat": -29.92011,
+      "lon": 29.036161,
+      "name": "Sehlaba-Thebe Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325610,
+      "lat": -28.819526,
+      "lon": 27.931522,
+      "name": "Sekonyela",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 10924986454,
+      "lat": -29.933751,
+      "lon": 28.136327,
+      "name": "Semonkong Radio Relay Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 12598722538,
+      "lat": -29.871166,
+      "lon": 28.037538,
+      "name": "Semonkong T.V. Relay Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3691004361,
+      "lat": -28.888031,
+      "lon": 27.905198,
+      "name": "Seotsanyane Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264989614,
+      "lat": -29.947315,
+      "lon": 27.199653,
+      "name": "Sephapo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 3682109020,
+      "lat": -28.890039,
+      "lon": 27.909816,
+      "name": "Shell Filling Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1424326535,
+      "lat": -28.745424,
+      "lon": 29.435315,
+      "name": "Suurlaer",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 662439881,
+      "lat": -30.240253,
+      "lon": 29.33978,
+      "name": "Swartberg",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13264887629,
+      "lat": -28.988233,
+      "lon": 28.139779,
+      "name": "Thaba Phatsoa Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 138936618,
+      "lat": -29.522549,
+      "lon": 28.60448,
+      "name": "Thaba-Tseka Bus Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 4271100692,
+      "lat": -29.339096,
+      "lon": 27.461921,
+      "name": "Thetsane Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13230368485,
+      "lat": -29.061582,
+      "lon": 27.692904,
+      "name": "Tlalinyane Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 5414263683,
+      "lat": -29.658089,
+      "lon": 27.170215,
+      "name": "Ts'akholo Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 13260500214,
+      "lat": -29.710343,
+      "lon": 27.072705,
+      "name": "Ts'upane Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325639,
+      "lat": -29.187278,
+      "lon": 27.03077,
+      "name": "Tweespruit",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1623400437,
+      "lat": -29.186482,
+      "lon": 27.029903,
+      "name": "Tweespruit Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 10560830674,
+      "lat": -29.299072,
+      "lon": 27.467064,
+      "name": "Unnamed (node 10560830674)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 10560850742,
+      "lat": -29.249981,
+      "lon": 27.3767,
+      "name": "Unnamed (node 10560850742)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 10560850854,
+      "lat": -29.176379,
+      "lon": 27.150941,
+      "name": "Unnamed (node 10560850854)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 10560850855,
+      "lat": -29.176326,
+      "lon": 27.150923,
+      "name": "Unnamed (node 10560850855)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 10560851837,
+      "lat": -29.18745,
+      "lon": 27.022868,
+      "name": "Unnamed (node 10560851837)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 10771230113,
+      "lat": -28.866262,
+      "lon": 27.874847,
+      "name": "Unnamed (node 10771230113)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1112211225,
+      "lat": -30.378659,
+      "lon": 29.043621,
+      "name": "Unnamed (node 1112211225)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1163474203,
+      "lat": -29.731921,
+      "lon": 27.021474,
+      "name": "Unnamed (node 1163474203)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1163474436,
+      "lat": -29.729677,
+      "lon": 27.020352,
+      "name": "Unnamed (node 1163474436)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1187748053,
+      "lat": -28.723342,
+      "lon": 29.34489,
+      "name": "Unnamed (node 1187748053)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1187771504,
+      "lat": -29.298967,
+      "lon": 27.483226,
+      "name": "Unnamed (node 1187771504)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1187771611,
+      "lat": -29.299032,
+      "lon": 27.467063,
+      "name": "Unnamed (node 1187771611)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1187771649,
+      "lat": -29.298457,
+      "lon": 27.483284,
+      "name": "Unnamed (node 1187771649)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1197848883,
+      "lat": -28.85592,
+      "lon": 27.88031,
+      "name": "Unnamed (node 1197848883)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1197849592,
+      "lat": -28.866939,
+      "lon": 27.875461,
+      "name": "Unnamed (node 1197849592)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1197849775,
+      "lat": -28.854475,
+      "lon": 27.884794,
+      "name": "Unnamed (node 1197849775)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 12072534353,
+      "lat": -30.338298,
+      "lon": 28.811562,
+      "name": "Unnamed (node 12072534353)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 12072534368,
+      "lat": -30.338274,
+      "lon": 28.807665,
+      "name": "Unnamed (node 12072534368)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 12074289661,
+      "lat": -30.378648,
+      "lon": 29.042824,
+      "name": "Unnamed (node 12074289661)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 12074289662,
+      "lat": -30.378604,
+      "lon": 29.043612,
+      "name": "Unnamed (node 12074289662)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 13413229154,
+      "lat": -28.867061,
+      "lon": 27.70848,
+      "name": "Unnamed (node 13413229154)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 1898797815,
+      "lat": -28.867015,
+      "lon": 27.875543,
+      "name": "Unnamed (node 1898797815)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2103147163,
+      "lat": -30.29394,
+      "lon": 27.090865,
+      "name": "Unnamed (node 2103147163)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2143385280,
+      "lat": -28.840644,
+      "lon": 28.00093,
+      "name": "Unnamed (node 2143385280)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2143385423,
+      "lat": -28.844245,
+      "lon": 28.002,
+      "name": "Unnamed (node 2143385423)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2419324986,
+      "lat": -29.110269,
+      "lon": 27.453058,
+      "name": "Unnamed (node 2419324986)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2862286623,
+      "lat": -28.922021,
+      "lon": 27.591452,
+      "name": "Unnamed (node 2862286623)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2862286624,
+      "lat": -28.922071,
+      "lon": 27.591416,
+      "name": "Unnamed (node 2862286624)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2862286639,
+      "lat": -28.923387,
+      "lon": 27.585785,
+      "name": "Unnamed (node 2862286639)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2862286687,
+      "lat": -28.926966,
+      "lon": 27.581781,
+      "name": "Unnamed (node 2862286687)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 2862286695,
+      "lat": -28.928517,
+      "lon": 27.580738,
+      "name": "Unnamed (node 2862286695)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3000030709,
+      "lat": -29.29757,
+      "lon": 27.482109,
+      "name": "Unnamed (node 3000030709)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3000031245,
+      "lat": -29.297407,
+      "lon": 27.482039,
+      "name": "Unnamed (node 3000031245)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3268544686,
+      "lat": -29.297172,
+      "lon": 27.466822,
+      "name": "Unnamed (node 3268544686)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3772649487,
+      "lat": -28.579104,
+      "lon": 28.132704,
+      "name": "Unnamed (node 3772649487)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3782452221,
+      "lat": -29.182499,
+      "lon": 27.292452,
+      "name": "Unnamed (node 3782452221)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3784338588,
+      "lat": -28.575799,
+      "lon": 27.479394,
+      "name": "Unnamed (node 3784338588)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3784338709,
+      "lat": -28.6696,
+      "lon": 27.444235,
+      "name": "Unnamed (node 3784338709)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3784338712,
+      "lat": -28.672066,
+      "lon": 27.443556,
+      "name": "Unnamed (node 3784338712)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 3784338713,
+      "lat": -28.672337,
+      "lon": 27.443575,
+      "name": "Unnamed (node 3784338713)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 4294422641,
+      "lat": -29.297097,
+      "lon": 27.474741,
+      "name": "Unnamed (node 4294422641)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 4294422643,
+      "lat": -29.297343,
+      "lon": 27.47347,
+      "name": "Unnamed (node 4294422643)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 4294493940,
+      "lat": -29.296431,
+      "lon": 27.48049,
+      "name": "Unnamed (node 4294493940)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 6010257507,
+      "lat": -28.729093,
+      "lon": 29.346511,
+      "name": "Unnamed (node 6010257507)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 6010257515,
+      "lat": -28.723608,
+      "lon": 29.344646,
+      "name": "Unnamed (node 6010257515)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 6010257518,
+      "lat": -28.723445,
+      "lon": 29.344735,
+      "name": "Unnamed (node 6010257518)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 6010257538,
+      "lat": -28.723574,
+      "lon": 29.34687,
+      "name": "Unnamed (node 6010257538)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 662489121,
+      "lat": -30.326882,
+      "lon": 29.450822,
+      "name": "Unnamed (node 662489121)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 662489144,
+      "lat": -30.322897,
+      "lon": 29.453951,
+      "name": "Unnamed (node 662489144)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 672122878,
+      "lat": -28.859812,
+      "lon": 27.877824,
+      "name": "Unnamed (node 672122878)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7010178177,
+      "lat": -29.176678,
+      "lon": 27.148338,
+      "name": "Unnamed (node 7010178177)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7010184800,
+      "lat": -29.175609,
+      "lon": 27.155465,
+      "name": "Unnamed (node 7010184800)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7087258539,
+      "lat": -29.298127,
+      "lon": 27.467657,
+      "name": "Unnamed (node 7087258539)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7087271586,
+      "lat": -29.297546,
+      "lon": 27.482141,
+      "name": "Unnamed (node 7087271586)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7087271590,
+      "lat": -29.298906,
+      "lon": 27.483301,
+      "name": "Unnamed (node 7087271590)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7087271692,
+      "lat": -29.297474,
+      "lon": 27.482239,
+      "name": "Unnamed (node 7087271692)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7087271693,
+      "lat": -29.297472,
+      "lon": 27.4823,
+      "name": "Unnamed (node 7087271693)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477198,
+      "lat": -28.810973,
+      "lon": 28.010111,
+      "name": "Unnamed (node 7124477198)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477322,
+      "lat": -28.841326,
+      "lon": 28.001121,
+      "name": "Unnamed (node 7124477322)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477372,
+      "lat": -28.82172,
+      "lon": 27.970948,
+      "name": "Unnamed (node 7124477372)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477390,
+      "lat": -28.852613,
+      "lon": 27.884041,
+      "name": "Unnamed (node 7124477390)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477453,
+      "lat": -28.864245,
+      "lon": 27.877761,
+      "name": "Unnamed (node 7124477453)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477459,
+      "lat": -28.864255,
+      "lon": 27.877803,
+      "name": "Unnamed (node 7124477459)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477460,
+      "lat": -28.864169,
+      "lon": 27.877911,
+      "name": "Unnamed (node 7124477460)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477469,
+      "lat": -28.85845,
+      "lon": 27.880537,
+      "name": "Unnamed (node 7124477469)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477478,
+      "lat": -28.858309,
+      "lon": 27.880669,
+      "name": "Unnamed (node 7124477478)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477489,
+      "lat": -28.860023,
+      "lon": 27.879793,
+      "name": "Unnamed (node 7124477489)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7124477524,
+      "lat": -28.86689,
+      "lon": 27.875423,
+      "name": "Unnamed (node 7124477524)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7343301707,
+      "lat": -28.924713,
+      "lon": 27.584068,
+      "name": "Unnamed (node 7343301707)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7616810202,
+      "lat": -30.29561,
+      "lon": 27.08983,
+      "name": "Unnamed (node 7616810202)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7616810222,
+      "lat": -30.294287,
+      "lon": 27.088364,
+      "name": "Unnamed (node 7616810222)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7616810560,
+      "lat": -29.733125,
+      "lon": 27.029543,
+      "name": "Unnamed (node 7616810560)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7616810568,
+      "lat": -29.732794,
+      "lon": 27.02656,
+      "name": "Unnamed (node 7616810568)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 7616810582,
+      "lat": -29.730468,
+      "lon": 27.02367,
+      "name": "Unnamed (node 7616810582)",
+      "type": "buffer_stop",
+      "country": "LS"
+    },
+    {
+      "id": 131873007,
+      "lat": -29.149051,
+      "lon": 27.751175,
+      "name": "Unnamed (way 131873007)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 133870236,
+      "lat": -28.886878,
+      "lon": 27.893436,
+      "name": "Unnamed (way 133870236)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 1453305142,
+      "lat": -29.310945,
+      "lon": 27.495028,
+      "name": "Unnamed (way 1453305142)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 331211376,
+      "lat": -29.289199,
+      "lon": 29.065524,
+      "name": "Unnamed (way 331211376)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 337595067,
+      "lat": -30.397955,
+      "lon": 27.691831,
+      "name": "Unnamed (way 337595067)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 474753301,
+      "lat": -29.512978,
+      "lon": 28.60018,
+      "name": "Unnamed (way 474753301)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 546426098,
+      "lat": -29.188722,
+      "lon": 27.447212,
+      "name": "Unnamed (way 546426098)",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325617,
+      "lat": -28.821575,
+      "lon": 27.971836,
+      "name": "Vailima",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325620,
+      "lat": -29.249489,
+      "lon": 27.374474,
+      "name": "Vinies",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 662439688,
+      "lat": -30.282377,
+      "lon": 29.22889,
+      "name": "Wanstead",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247326455,
+      "lat": -30.366163,
+      "lon": 28.932914,
+      "name": "Wembley",
+      "type": "halt",
+      "country": "LS"
+    },
+    {
+      "id": 247325663,
+      "lat": -29.731811,
+      "lon": 27.027522,
+      "name": "Wepener",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 11268689471,
+      "lat": -29.731202,
+      "lon": 27.037032,
+      "name": "Wepener Police Station",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325666,
+      "lat": -29.175997,
+      "lon": 27.14868,
+      "name": "Westminister",
+      "type": "station",
+      "country": "LS"
+    },
+    {
+      "id": 247325652,
+      "lat": -30.293961,
+      "lon": 27.087845,
+      "name": "Zastron",
+      "type": "station",
+      "country": "LS"
+    }
+  ]
+}

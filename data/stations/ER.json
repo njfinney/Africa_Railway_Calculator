@@ -1,0 +1,735 @@
+{
+  "country": "ER",
+  "name": "Eritrea",
+  "region": "East Africa",
+  "bbox": [
+    12.36,
+    36.44,
+    18,
+    43.12
+  ],
+  "extracted": "2026-03-03T12:12:18.288Z",
+  "count": 90,
+  "stations": [
+    {
+      "id": 3315655881,
+      "lat": 15.738847,
+      "lon": 38.323743,
+      "name": "/ اتسيوني / Aziona",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6024423295,
+      "lat": 15.326376,
+      "lon": 38.93819,
+      "name": "6th Police Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298025322,
+      "lat": 14.803219,
+      "lon": 42.977099,
+      "name": "7th Jul. Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 457515562,
+      "lat": 15.508957,
+      "lon": 38.735643,
+      "name": "Abrascico أبرشيكو",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 457538117,
+      "lat": 15.458496,
+      "lon": 38.761032,
+      "name": "Adennà",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 397482710,
+      "lat": 14.630636,
+      "lon": 38.834277,
+      "name": "Adi Quala bus station መዕረፎ ኣውቶቡስ ዓዲዃላ",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 224683399,
+      "lat": 14.275764,
+      "lon": 39.458064,
+      "name": "Adigrat Bus Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 324889040,
+      "lat": 15.546103,
+      "lon": 37.881177,
+      "name": "Akordat",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 224089646,
+      "lat": 14.123539,
+      "lon": 38.73988,
+      "name": "Aksum Bus Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1660206123,
+      "lat": 14.777385,
+      "lon": 43.026809,
+      "name": "Al Hudaydah Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 3415997539,
+      "lat": 14.808055,
+      "lon": 42.941755,
+      "name": "Al- Essi Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298021133,
+      "lat": 14.7959,
+      "lon": 43.070217,
+      "name": "Alakhwan Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298021301,
+      "lat": 14.775865,
+      "lon": 43.012051,
+      "name": "Alemad Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 432736154,
+      "lat": 15.579367,
+      "lon": 38.695422,
+      "name": "Amba Derhò إمبا درهو",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150900336,
+      "lat": 13.25,
+      "lon": 37.1,
+      "name": "Angareb",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972011,
+      "lat": 15.346677,
+      "lon": 39.007439,
+      "name": "Arbaroba أربروب",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 532246282,
+      "lat": 15.346068,
+      "lon": 38.935368,
+      "name": "Asmara Bus Station محطة حافلات أسمرة",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1092407340,
+      "lat": 15.338864,
+      "lon": 38.949346,
+      "name": "Asmara أسمرة",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 3431245606,
+      "lat": 13.872551,
+      "lon": 39.738234,
+      "name": "Atsbi Bus Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 3575358416,
+      "lat": 13.527774,
+      "lon": 39.502135,
+      "name": "Axum Adigrat bus station (new bus station)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6024425194,
+      "lat": 15.331826,
+      "lon": 38.93583,
+      "name": "Azeb stationery",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1281185175,
+      "lat": 12.553076,
+      "lon": 37.420437,
+      "name": "Azezo/Gondar Bus Terminal",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972012,
+      "lat": 15.401433,
+      "lon": 39.184963,
+      "name": "Baresa برسا",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 671560286,
+      "lat": 12.553104,
+      "lon": 37.427232,
+      "name": "Bus and Taxi Terminal",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4282743021,
+      "lat": 15.614243,
+      "lon": 39.444861,
+      "name": "Campo di Marte حقل المريخ",
+      "type": "halt",
+      "country": "ER"
+    },
+    {
+      "id": 595145510,
+      "lat": 12.611809,
+      "lon": 37.46938,
+      "name": "Desta Stationery & computer accessory",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 431924516,
+      "lat": 15.655365,
+      "lon": 38.133625,
+      "name": "Ex Mai Adarte",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 12734108103,
+      "lat": 16.094762,
+      "lon": 38.617981,
+      "name": "Felket Health station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 432450784,
+      "lat": 15.681943,
+      "lon": 38.614802,
+      "name": "Former railway station of Elabered (Former Asmara - Biscia railway line).",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 472548206,
+      "lat": 13.479987,
+      "lon": 39.47355,
+      "name": "Fuelstation",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150976611,
+      "lat": 12.43694,
+      "lon": 42.33,
+      "name": "Garento Le Balo",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298023806,
+      "lat": 14.779787,
+      "lon": 42.992291,
+      "name": "Ghar Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298023809,
+      "lat": 14.773851,
+      "lon": 42.954033,
+      "name": "Gheran Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972026,
+      "lat": 15.438359,
+      "lon": 39.101526,
+      "name": "Ghinda ጊንዳዕ جندع",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1328751277,
+      "lat": 15.438263,
+      "lon": 39.101759,
+      "name": "Ghinda ጊንዳዕ جندع",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 442906001,
+      "lat": 15.745357,
+      "lon": 38.547315,
+      "name": "Halib Mentel هاليب مينتل",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 8431154463,
+      "lat": 14.265345,
+      "lon": 36.540494,
+      "name": "Hamdayet Police Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 3315604719,
+      "lat": 15.77629,
+      "lon": 38.453728,
+      "name": "Keren Bus Station محطة كرن الحافلات",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 442906003,
+      "lat": 15.775006,
+      "lon": 38.467972,
+      "name": "Keren Villaggio كرن قرية",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 13593657712,
+      "lat": 15.342123,
+      "lon": 39.040875,
+      "name": "Lessa",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150898048,
+      "lat": 13.21667,
+      "lon": 40.25,
+      "name": "Mahalta",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972028,
+      "lat": 15.568176,
+      "lon": 39.243069,
+      "name": "Mai Atal ماء آتعل",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 5229070126,
+      "lat": 14.554727,
+      "lon": 38.502327,
+      "name": "Mai Mine Bus Station እንዳ ኣውቶቡስ ማይ ምነ محطة ماء منه الحافلات",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 429323353,
+      "lat": 15.609189,
+      "lon": 39.445313,
+      "name": "Massawa Bus Station محطة حافلات مصوع",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4286967143,
+      "lat": 15.609141,
+      "lon": 39.47203,
+      "name": "Massawa-Port /ወደብ ባጽዕ(ምጽዋዕ) ميناء مصوع",
+      "type": "halt",
+      "country": "ER"
+    },
+    {
+      "id": 4212964424,
+      "lat": 15.606672,
+      "lon": 39.465938,
+      "name": "Massawa-Taulud / مصوع-تولود",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 11794195470,
+      "lat": 15.339428,
+      "lon": 38.940312,
+      "name": "Meds Eritrea Bus station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 223100010,
+      "lat": 13.492991,
+      "lon": 39.4793,
+      "name": "Mekele Bus Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4286152537,
+      "lat": 15.610473,
+      "lon": 39.408695,
+      "name": "Moncullo منكولو",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150922261,
+      "lat": 13.05,
+      "lon": 37.61667,
+      "name": "Monte Angareb",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150893507,
+      "lat": 13.21667,
+      "lon": 40.03333,
+      "name": "Mount Uogare",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972259,
+      "lat": 15.335207,
+      "lon": 39.063356,
+      "name": "Nefasit ነፋሲት نفاسيت",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972033,
+      "lat": 15.623453,
+      "lon": 39.432854,
+      "name": "Otumlo حطملو",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4512789765,
+      "lat": 15.356659,
+      "lon": 38.987358,
+      "name": "P.M. Durfo ب م دورف",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 12347884958,
+      "lat": 17.384029,
+      "lon": 42.463467,
+      "name": "Padel Station - Baish",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4405068439,
+      "lat": 15.616018,
+      "lon": 39.401615,
+      "name": "Petrol Station محطة بنزين",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298024634,
+      "lat": 14.783478,
+      "lon": 42.954397,
+      "name": "Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 5840121589,
+      "lat": 15.337419,
+      "lon": 38.927225,
+      "name": "police station 1",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 5840991785,
+      "lat": 15.35061,
+      "lon": 38.943105,
+      "name": "police station 3",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4281023286,
+      "lat": 15.609029,
+      "lon": 39.451495,
+      "name": "Rail Halt توقف السكك الحديدية",
+      "type": "halt",
+      "country": "ER"
+    },
+    {
+      "id": 4298024894,
+      "lat": 14.791484,
+      "lon": 43.061921,
+      "name": "Shabwa Petroleumeum Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 5078775124,
+      "lat": 14.097929,
+      "lon": 38.280222,
+      "name": "Shire bus station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 5152551793,
+      "lat": 15.608979,
+      "lon": 39.452037,
+      "name": "Siem Stationery قرطاسية سيم",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 10181363513,
+      "lat": 14.697985,
+      "lon": 39.421284,
+      "name": "Station service Tamoil",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298024956,
+      "lat": 14.784465,
+      "lon": 42.979803,
+      "name": "Station.",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4298024993,
+      "lat": 14.792765,
+      "lon": 42.958795,
+      "name": "Taxi Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1150886635,
+      "lat": 14.171995,
+      "lon": 38.587996,
+      "name": "Tigare Terara",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6024430787,
+      "lat": 15.330903,
+      "lon": 38.936735,
+      "name": "Total Gas Station محطة وقود طوطال",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 11779904316,
+      "lat": 15.497015,
+      "lon": 39.207314,
+      "name": "Unnamed (node 11779904316)",
+      "type": "halt",
+      "country": "ER"
+    },
+    {
+      "id": 1281185170,
+      "lat": 12.552559,
+      "lon": 37.420526,
+      "name": "Unnamed (way 1281185170)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 431943789,
+      "lat": 15.738927,
+      "lon": 38.323638,
+      "name": "Unnamed (way 431943789)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 459883945,
+      "lat": 15.550237,
+      "lon": 37.888331,
+      "name": "Unnamed (way 459883945)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 580923049,
+      "lat": 15.080887,
+      "lon": 39.037346,
+      "name": "Unnamed (way 580923049)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 580923065,
+      "lat": 15.080602,
+      "lon": 39.036829,
+      "name": "Unnamed (way 580923065)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 580923072,
+      "lat": 15.080642,
+      "lon": 39.037802,
+      "name": "Unnamed (way 580923072)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 616928048,
+      "lat": 15.100427,
+      "lon": 37.584962,
+      "name": "Unnamed (way 616928048)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 732320572,
+      "lat": 15.338992,
+      "lon": 38.949376,
+      "name": "Unnamed (way 732320572)",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 471337510,
+      "lat": 13.785709,
+      "lon": 39.601916,
+      "name": "Wukro Bus Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6174778385,
+      "lat": 13.524634,
+      "lon": 39.456087,
+      "name": "Yetebaberut Gas Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4614126441,
+      "lat": 15.334463,
+      "lon": 38.968828,
+      "name": "تغيير Exchange",
+      "type": "halt",
+      "country": "ER"
+    },
+    {
+      "id": 529283708,
+      "lat": 16.708757,
+      "lon": 42.185705,
+      "name": "صالة انتظار ركاب العبارة",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 779122056,
+      "lat": 15.401476,
+      "lon": 39.18479,
+      "name": "محطة برسا القطار",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 437192255,
+      "lat": 15.438575,
+      "lon": 39.101535,
+      "name": "محطة جندع",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 358264473,
+      "lat": 15.335263,
+      "lon": 39.063267,
+      "name": "محطة نفاسيت القطار",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6398880685,
+      "lat": 14.120731,
+      "lon": 38.714807,
+      "name": "ብሌን መዐደሊ ነዳዲ Bilen Gas Station",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 6024424100,
+      "lat": 15.301114,
+      "lon": 38.930734,
+      "name": "ብሎኮ ጎዳይፍ፡ Bus Station محطة حافلات",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 311074169,
+      "lat": 15.342612,
+      "lon": 38.937233,
+      "name": "ኣስመራ ምውፋር ኣውቶቡስ محطة أسمرة الحافلات",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 324883754,
+      "lat": 15.776928,
+      "lon": 38.453627,
+      "name": "ከረን keren كرن",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 1668972017,
+      "lat": 15.476182,
+      "lon": 39.208186,
+      "name": "ደማስ Damas دماس",
+      "type": "station",
+      "country": "ER"
+    },
+    {
+      "id": 4690744789,
+      "lat": 14.098638,
+      "lon": 38.278889,
+      "name": "ጉዕሽ ነዳዲ መዐደሊ Guesh Fuel Station",
+      "type": "station",
+      "country": "ER"
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "version": "2.0",
+  "generated": "2026-03-03T12:43:21.976Z",
+  "countries": {
+    "AO": {
+      "name": "Angola",
+      "region": "Central Africa",
+      "bbox": [
+        -18.04,
+        11.64,
+        -4.38,
+        24.08
+      ],
+      "stationCount": 738,
+      "railwayCount": 2090,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "CM": {
+      "name": "Cameroon",
+      "region": "Central Africa",
+      "bbox": [
+        1.65,
+        8.49,
+        13.08,
+        16.19
+      ],
+      "stationCount": 416,
+      "railwayCount": 870,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "region": "Central Africa",
+      "bbox": [
+        2.22,
+        14.42,
+        11.01,
+        27.46
+      ],
+      "stationCount": 61,
+      "railwayCount": 179,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "TD": {
+      "name": "Chad",
+      "region": "Central Africa",
+      "bbox": [
+        7.44,
+        13.47,
+        23.45,
+        24
+      ],
+      "stationCount": 71,
+      "railwayCount": 4,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "CG": {
+      "name": "Congo (Brazzaville)",
+      "region": "Central Africa",
+      "bbox": [
+        -5.03,
+        11.2,
+        3.71,
+        18.65
+      ],
+      "stationCount": 258,
+      "railwayCount": 580,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "CD": {
+      "name": "Congo (DRC)",
+      "region": "Central Africa",
+      "bbox": [
+        -13.46,
+        12.18,
+        5.39,
+        31.31
+      ],
+      "stationCount": 1464,
+      "railwayCount": 4282,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "region": "Central Africa",
+      "bbox": [
+        0.92,
+        9.35,
+        2.35,
+        11.34
+      ],
+      "stationCount": 0,
+      "railwayCount": 0,
+      "hasData": false,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "GA": {
+      "name": "Gabon",
+      "region": "Central Africa",
+      "bbox": [
+        -3.98,
+        8.7,
+        2.32,
+        14.52
+      ],
+      "stationCount": 102,
+      "railwayCount": 391,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:26:15.080Z"
+    },
+    "BI": {
+      "name": "Burundi",
+      "region": "East Africa",
+      "bbox": [
+        -4.47,
+        28.99,
+        -2.31,
+        30.85
+      ],
+      "stationCount": 38,
+      "railwayCount": 0,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "region": "East Africa",
+      "bbox": [
+        10.93,
+        41.76,
+        12.71,
+        43.42
+      ],
+      "stationCount": 61,
+      "railwayCount": 289,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "ER": {
+      "name": "Eritrea",
+      "region": "East Africa",
+      "bbox": [
+        12.36,
+        36.44,
+        18,
+        43.12
+      ],
+      "stationCount": 90,
+      "railwayCount": 514,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "region": "East Africa",
+      "bbox": [
+        3.4,
+        32.99,
+        14.89,
+        47.99
+      ],
+      "stationCount": 541,
+      "railwayCount": 1738,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "KE": {
+      "name": "Kenya",
+      "region": "East Africa",
+      "bbox": [
+        -4.68,
+        33.89,
+        5.51,
+        41.91
+      ],
+      "stationCount": 1428,
+      "railwayCount": 1906,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "MG": {
+      "name": "Madagascar",
+      "region": "East Africa",
+      "bbox": [
+        -25.61,
+        43.19,
+        -11.95,
+        50.48
+      ],
+      "stationCount": 420,
+      "railwayCount": 909,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "RW": {
+      "name": "Rwanda",
+      "region": "East Africa",
+      "bbox": [
+        -2.84,
+        28.86,
+        -1.05,
+        30.9
+      ],
+      "stationCount": 110,
+      "railwayCount": 0,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "SO": {
+      "name": "Somalia",
+      "region": "East Africa",
+      "bbox": [
+        -1.66,
+        40.99,
+        11.98,
+        51.42
+      ],
+      "stationCount": 158,
+      "railwayCount": 648,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "SS": {
+      "name": "South Sudan",
+      "region": "East Africa",
+      "bbox": [
+        3.49,
+        23.44,
+        12.24,
+        35.95
+      ],
+      "stationCount": 78,
+      "railwayCount": 168,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "region": "East Africa",
+      "bbox": [
+        -11.75,
+        29.34,
+        -0.99,
+        40.44
+      ],
+      "stationCount": 2367,
+      "railwayCount": 3978,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "UG": {
+      "name": "Uganda",
+      "region": "East Africa",
+      "bbox": [
+        -1.48,
+        29.57,
+        4.23,
+        35.04
+      ],
+      "stationCount": 783,
+      "railwayCount": 471,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:33:12.470Z"
+    },
+    "DZ": {
+      "name": "Algeria",
+      "region": "North Africa",
+      "bbox": [
+        18.97,
+        -8.67,
+        37.09,
+        11.98
+      ],
+      "stationCount": 4655,
+      "railwayCount": 15267,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "EG": {
+      "name": "Egypt",
+      "region": "North Africa",
+      "bbox": [
+        21.73,
+        24.7,
+        31.67,
+        36.9
+      ],
+      "stationCount": 1595,
+      "railwayCount": 6283,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "LY": {
+      "name": "Libya",
+      "region": "North Africa",
+      "bbox": [
+        19.51,
+        9.39,
+        33.17,
+        25.15
+      ],
+      "stationCount": 48,
+      "railwayCount": 140,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "MA": {
+      "name": "Morocco",
+      "region": "North Africa",
+      "bbox": [
+        27.67,
+        -13.17,
+        35.93,
+        -0.99
+      ],
+      "stationCount": 1282,
+      "railwayCount": 4427,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "SD": {
+      "name": "Sudan",
+      "region": "North Africa",
+      "bbox": [
+        8.68,
+        21.84,
+        22.23,
+        38.58
+      ],
+      "stationCount": 284,
+      "railwayCount": 1842,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "TN": {
+      "name": "Tunisia",
+      "region": "North Africa",
+      "bbox": [
+        30.23,
+        7.52,
+        37.54,
+        11.6
+      ],
+      "stationCount": 1319,
+      "railwayCount": 3832,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:25:01.204Z"
+    },
+    "BW": {
+      "name": "Botswana",
+      "region": "Southern Africa",
+      "bbox": [
+        -26.91,
+        19.99,
+        -17.78,
+        29.37
+      ],
+      "stationCount": 2890,
+      "railwayCount": 13838,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "region": "Southern Africa",
+      "bbox": [
+        -27.32,
+        30.79,
+        -25.72,
+        32.13
+      ],
+      "stationCount": 86,
+      "railwayCount": 410,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "LS": {
+      "name": "Lesotho",
+      "region": "Southern Africa",
+      "bbox": [
+        -30.67,
+        27.01,
+        -28.57,
+        29.46
+      ],
+      "stationCount": 181,
+      "railwayCount": 396,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "MW": {
+      "name": "Malawi",
+      "region": "Southern Africa",
+      "bbox": [
+        -17.13,
+        32.67,
+        -9.37,
+        35.92
+      ],
+      "stationCount": 229,
+      "railwayCount": 777,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "region": "Southern Africa",
+      "bbox": [
+        -26.87,
+        30.21,
+        -10.47,
+        40.84
+      ],
+      "stationCount": 1273,
+      "railwayCount": 5339,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "NA": {
+      "name": "Namibia",
+      "region": "Southern Africa",
+      "bbox": [
+        -28.97,
+        11.73,
+        -16.96,
+        25.26
+      ],
+      "stationCount": 772,
+      "railwayCount": 3139,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "ZA": {
+      "name": "South Africa",
+      "region": "Southern Africa",
+      "bbox": [
+        -34.84,
+        16.45,
+        -22.13,
+        32.89
+      ],
+      "stationCount": 9155,
+      "railwayCount": 42014,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "ZM": {
+      "name": "Zambia",
+      "region": "Southern Africa",
+      "bbox": [
+        -18.08,
+        21.99,
+        -8.19,
+        33.71
+      ],
+      "stationCount": 736,
+      "railwayCount": 3138,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "region": "Southern Africa",
+      "bbox": [
+        -22.42,
+        25.24,
+        -15.61,
+        33.06
+      ],
+      "stationCount": 703,
+      "railwayCount": 3672,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:30:49.881Z"
+    },
+    "BJ": {
+      "name": "Benin",
+      "region": "West Africa",
+      "bbox": [
+        6.23,
+        0.77,
+        12.42,
+        3.85
+      ],
+      "stationCount": 381,
+      "railwayCount": 535,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "region": "West Africa",
+      "bbox": [
+        9.4,
+        -5.52,
+        15.08,
+        2.4
+      ],
+      "stationCount": 774,
+      "railwayCount": 626,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "CI": {
+      "name": "Côte d'Ivoire",
+      "region": "West Africa",
+      "bbox": [
+        4.36,
+        -8.6,
+        10.74,
+        -2.49
+      ],
+      "stationCount": 1355,
+      "railwayCount": 571,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "GM": {
+      "name": "Gambia",
+      "region": "West Africa",
+      "bbox": [
+        13.06,
+        -16.82,
+        13.83,
+        -13.8
+      ],
+      "stationCount": 53,
+      "railwayCount": 5,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "GH": {
+      "name": "Ghana",
+      "region": "West Africa",
+      "bbox": [
+        4.74,
+        -3.26,
+        11.17,
+        1.19
+      ],
+      "stationCount": 848,
+      "railwayCount": 328,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "GN": {
+      "name": "Guinea",
+      "region": "West Africa",
+      "bbox": [
+        7.19,
+        -15.08,
+        12.68,
+        -7.64
+      ],
+      "stationCount": 741,
+      "railwayCount": 1219,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "region": "West Africa",
+      "bbox": [
+        10.87,
+        -16.71,
+        12.68,
+        -13.64
+      ],
+      "stationCount": 53,
+      "railwayCount": 122,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "LR": {
+      "name": "Liberia",
+      "region": "West Africa",
+      "bbox": [
+        4.35,
+        -11.49,
+        8.55,
+        -7.37
+      ],
+      "stationCount": 189,
+      "railwayCount": 88,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "ML": {
+      "name": "Mali",
+      "region": "West Africa",
+      "bbox": [
+        10.16,
+        -12.24,
+        25,
+        4.27
+      ],
+      "stationCount": 1239,
+      "railwayCount": 1244,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "MR": {
+      "name": "Mauritania",
+      "region": "West Africa",
+      "bbox": [
+        14.72,
+        -17.07,
+        27.3,
+        -4.83
+      ],
+      "stationCount": 165,
+      "railwayCount": 346,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "NE": {
+      "name": "Niger",
+      "region": "West Africa",
+      "bbox": [
+        11.69,
+        0.17,
+        23.53,
+        15.99
+      ],
+      "stationCount": 462,
+      "railwayCount": 168,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "region": "West Africa",
+      "bbox": [
+        4.27,
+        2.69,
+        13.89,
+        14.68
+      ],
+      "stationCount": 956,
+      "railwayCount": 1919,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "SN": {
+      "name": "Senegal",
+      "region": "West Africa",
+      "bbox": [
+        12.31,
+        -17.54,
+        16.69,
+        -11.36
+      ],
+      "stationCount": 364,
+      "railwayCount": 449,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "region": "West Africa",
+      "bbox": [
+        6.93,
+        -13.3,
+        10,
+        -10.28
+      ],
+      "stationCount": 89,
+      "railwayCount": 224,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    },
+    "TG": {
+      "name": "Togo",
+      "region": "West Africa",
+      "bbox": [
+        6.11,
+        -0.15,
+        11.14,
+        1.81
+      ],
+      "stationCount": 249,
+      "railwayCount": 320,
+      "hasData": true,
+      "lastUpdated": "2026-03-03T12:40:01.474Z"
+    }
+  }
+}

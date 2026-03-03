@@ -1,0 +1,3375 @@
+{
+  "country": "MG",
+  "name": "Madagascar",
+  "region": "East Africa",
+  "bbox": [
+    -25.61,
+    43.19,
+    -11.95,
+    50.48
+  ],
+  "extracted": "2026-03-03T12:17:52.215Z",
+  "count": 420,
+  "stations": [
+    {
+      "id": 4726366112,
+      "lat": -18.870788,
+      "lon": 47.51838,
+      "name": "Alarobia Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6836793577,
+      "lat": -18.870875,
+      "lon": 47.5185,
+      "name": "Alarobia Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11085718217,
+      "lat": -19.068133,
+      "lon": 47.553939,
+      "name": "Ambatofotsy",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 710814399,
+      "lat": -19.382612,
+      "lon": 47.441467,
+      "name": "Ambatolampy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11089245532,
+      "lat": -18.927697,
+      "lon": 47.883168,
+      "name": "Ambatolaona",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1492685510,
+      "lat": -17.820407,
+      "lon": 48.422417,
+      "name": "Ambatondrazaka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1997089796,
+      "lat": -18.886278,
+      "lon": 48.56462,
+      "name": "Ambatovola",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335754325,
+      "lat": -22.003529,
+      "lon": 47.960537,
+      "name": "Ambila",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 3600257949,
+      "lat": -18.840827,
+      "lon": 49.153667,
+      "name": "Ambila Lemaitso",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335742626,
+      "lat": -21.669347,
+      "lon": 47.581504,
+      "name": "Ambinany Manampatrana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4271717790,
+      "lat": -21.615464,
+      "lon": 47.567713,
+      "name": "Amboanjobe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636457139,
+      "lat": -18.438751,
+      "lon": 48.272884,
+      "name": "Amboasary",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636457235,
+      "lat": -18.605707,
+      "lon": 48.277118,
+      "name": "Ambohidray",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11089065497,
+      "lat": -18.943125,
+      "lon": 47.59956,
+      "name": "Ambohimanambola",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1640752334,
+      "lat": -19.526079,
+      "lon": 47.431961,
+      "name": "Ambohimandroso",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1535757606,
+      "lat": -17.69966,
+      "lon": 48.467743,
+      "name": "Ambohitsilaozana Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1535757611,
+      "lat": -17.701357,
+      "lon": 48.465655,
+      "name": "Ambohitsilaozana Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11078885355,
+      "lat": -18.929987,
+      "lon": 47.583283,
+      "name": "Amoronakona",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 5555815894,
+      "lat": -18.930292,
+      "lon": 47.5811,
+      "name": "Amoronakona Lalam-by / Stationnement (By-Pass)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9910964313,
+      "lat": -22.884974,
+      "lon": 47.711413,
+      "name": "Ampangarena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11099064141,
+      "lat": -18.695503,
+      "lon": 49.207659,
+      "name": "Ampanotoamaizina",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 1997083407,
+      "lat": -18.962338,
+      "lon": 48.337338,
+      "name": "Ampasimpotsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335763648,
+      "lat": -21.48104,
+      "lon": 47.30706,
+      "name": "Ampitambe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 177123383,
+      "lat": -18.924524,
+      "lon": 48.416653,
+      "name": "Ancient Gare d'Andasibe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636457106,
+      "lat": -18.219847,
+      "lon": 48.266201,
+      "name": "Andaingo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 581190289,
+      "lat": -18.924326,
+      "lon": 48.416589,
+      "name": "Andasibe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1429796879,
+      "lat": -18.798142,
+      "lon": 48.601862,
+      "name": "Andekaleka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636456851,
+      "lat": -17.932995,
+      "lon": 48.235179,
+      "name": "Andilanatoby",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 335762937,
+      "lat": -21.513932,
+      "lon": 47.427991,
+      "name": "Andrambovato",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1425349507,
+      "lat": -18.598501,
+      "lon": 49.247719,
+      "name": "Andranokoditra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1640752335,
+      "lat": -19.772902,
+      "lon": 47.114833,
+      "name": "Andranomanelatra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11078885372,
+      "lat": -18.947552,
+      "lon": 47.533695,
+      "name": "Androndrakely",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1430311566,
+      "lat": -18.731173,
+      "lon": 48.980325,
+      "name": "Anivorano",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1095913452,
+      "lat": -18.942128,
+      "lon": 47.661316,
+      "name": "Anjeva",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1635338556,
+      "lat": -18.883769,
+      "lon": 47.977851,
+      "name": "Anjiro",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 754912163,
+      "lat": -12.782751,
+      "lon": 45.254573,
+      "name": "Anjouan Ferry Terminal",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636457116,
+      "lat": -18.280378,
+      "lon": 48.271404,
+      "name": "Ankodahoto",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11083622310,
+      "lat": -18.084866,
+      "lon": 48.240318,
+      "name": "Anoairoa",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335755592,
+      "lat": -21.866078,
+      "lon": 47.887791,
+      "name": "Antsaka",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 443387763,
+      "lat": -19.86487,
+      "lon": 47.0386,
+      "name": "Antsirabe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11089187725,
+      "lat": -18.903956,
+      "lon": 48.137592,
+      "name": "Antsirinala",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 13333766209,
+      "lat": -21.451646,
+      "lon": 47.090198,
+      "name": "arrêt28_stationnement",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 676825539,
+      "lat": -18.154982,
+      "lon": 49.409063,
+      "name": "Au bon coin de la gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 321489741,
+      "lat": -18.898567,
+      "lon": 47.518438,
+      "name": "Bâtiment Madarail",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1909997403,
+      "lat": -19.213427,
+      "lon": 47.488667,
+      "name": "Behenjy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6569163778,
+      "lat": -21.447083,
+      "lon": 47.089254,
+      "name": "Boulangerie de la Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 595731096,
+      "lat": -18.818312,
+      "lon": 49.066953,
+      "name": "Brickaville",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 552184425,
+      "lat": -18.81817,
+      "lon": 49.067037,
+      "name": "Brickaville",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9552440761,
+      "lat": -21.701758,
+      "lon": 43.749237,
+      "name": "Brigade de la Gendarmerie Tanandava station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 444408059,
+      "lat": -19.865186,
+      "lon": 47.038357,
+      "name": "Buffet de la Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8403206453,
+      "lat": -19.838284,
+      "lon": 46.854376,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4485441399,
+      "lat": -15.721952,
+      "lon": 46.325901,
+      "name": "Café de la gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4601777166,
+      "lat": -18.903585,
+      "lon": 47.520722,
+      "name": "Café de la Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6083089985,
+      "lat": -21.447633,
+      "lon": 47.089591,
+      "name": "Coin de la Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9552435790,
+      "lat": -21.701892,
+      "lon": 43.746671,
+      "name": "Commune Rurale Tanandava station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9552447189,
+      "lat": -21.704527,
+      "lon": 43.746551,
+      "name": "EPP Centre Tanandava Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1429862585,
+      "lat": -18.79638,
+      "lon": 48.794705,
+      "name": "Fanasana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1429796876,
+      "lat": -18.920169,
+      "lon": 48.536812,
+      "name": "Fanovana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335741448,
+      "lat": -21.767954,
+      "lon": 47.773263,
+      "name": "Fenomby",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 871386716,
+      "lat": -21.767915,
+      "lon": 47.77342,
+      "name": "Fenomby",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335746821,
+      "lat": -21.447825,
+      "lon": 47.090412,
+      "name": "Fianarantsoa",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1158536756,
+      "lat": -18.946301,
+      "lon": 47.524868,
+      "name": "FICOTRANS - Antananarivo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1158534343,
+      "lat": -19.855953,
+      "lon": 47.032803,
+      "name": "FICOTRANS - Antsirabe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 684349467,
+      "lat": -19.068245,
+      "lon": 47.554033,
+      "name": "Gare Ambatofotsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 12124334394,
+      "lat": -18.893935,
+      "lon": 47.548738,
+      "name": "Gare Ampasampito",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 669595307,
+      "lat": -18.798271,
+      "lon": 48.601872,
+      "name": "Gare Andekaleka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 2463210993,
+      "lat": -19.300588,
+      "lon": 47.458003,
+      "name": "Gare Andriambilany",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1060449903,
+      "lat": -18.927792,
+      "lon": 47.882985,
+      "name": "Gare d'Ambatolaona",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 37800989,
+      "lat": -19.864776,
+      "lon": 47.038373,
+      "name": "Gare d'Antsirabe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 371510154,
+      "lat": -21.447796,
+      "lon": 47.090219,
+      "name": "Gare de Fianarantsoa",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 785426044,
+      "lat": -18.880672,
+      "lon": 48.112602,
+      "name": "Gare de Mangoro",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 52158085,
+      "lat": -18.943992,
+      "lon": 48.230644,
+      "name": "Gare de Moramanga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 223969682,
+      "lat": -22.140237,
+      "lon": 48.013262,
+      "name": "Gare Ferroviaire Manakara",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7817513985,
+      "lat": -12.778166,
+      "lon": 45.232295,
+      "name": "Gare Maritime de Mamoudzou",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9491673894,
+      "lat": -21.883342,
+      "lon": 43.895454,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9491678922,
+      "lat": -21.606181,
+      "lon": 43.674762,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 13041278901,
+      "lat": -25.17848,
+      "lon": 46.080361,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 13041279001,
+      "lat": -25.318365,
+      "lon": 45.483937,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1807648483,
+      "lat": -15.721488,
+      "lon": 46.326854,
+      "name": "Gare Routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 727298887,
+      "lat": -20.524994,
+      "lon": 47.2494,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11259334757,
+      "lat": -18.997089,
+      "lon": 46.469329,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6411425186,
+      "lat": -19.525684,
+      "lon": 47.431629,
+      "name": "Gare Routière (Tana-Ambohimandroso, Ambohimandroso-Antanifotsy)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6411425185,
+      "lat": -19.522705,
+      "lon": 47.432054,
+      "name": "Gare Routière (Tana-Ambohimandroso, Ambohimandroso-Antsirabe)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6477016653,
+      "lat": -17.844799,
+      "lon": 48.42266,
+      "name": "Gare routière Ambatondrazaka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7193836860,
+      "lat": -14.462605,
+      "lon": 48.952563,
+      "name": "Gare routière Ambatoriha Est",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 70870494,
+      "lat": -18.893818,
+      "lon": 47.548873,
+      "name": "Gare routière Ampasampito",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11082697172,
+      "lat": -18.768096,
+      "lon": 46.047203,
+      "name": "Gare routière Ampivarotakisoa",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6539307193,
+      "lat": -17.010239,
+      "lon": 48.57174,
+      "name": "Gare routière Andilamena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8461265181,
+      "lat": -14.933156,
+      "lon": 50.290398,
+      "name": "Gare Routière Antalaha Sud",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 722853252,
+      "lat": -14.263431,
+      "lon": 50.137502,
+      "name": "Gare routière Antanifotsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11618748858,
+      "lat": -14.25796,
+      "lon": 50.145982,
+      "name": "Gare routière BIMBO",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11011661544,
+      "lat": -14.544127,
+      "lon": 48.749765,
+      "name": "Gare routière COTRAG",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1963917238,
+      "lat": -19.660427,
+      "lon": 46.532204,
+      "name": "Gare routière d'Ankazomiriotra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 662346901,
+      "lat": -14.899976,
+      "lon": 47.975163,
+      "name": "Gare routière d'Antsohihy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9945151817,
+      "lat": -16.946267,
+      "lon": 46.840369,
+      "name": "Gare routière de Maevatanàna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8956425985,
+      "lat": -17.38961,
+      "lon": 48.446016,
+      "name": "Gare routière de Tanambe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 191059788,
+      "lat": -18.768005,
+      "lon": 46.047382,
+      "name": "Gare routière de Tsiroanomandidy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 570702511,
+      "lat": -19.336899,
+      "lon": 48.976152,
+      "name": "Gare Routiere de Vatomandry",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 321487175,
+      "lat": -18.924366,
+      "lon": 47.513749,
+      "name": "Gare Routière du Sud",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6777604344,
+      "lat": -22.818765,
+      "lon": 47.81821,
+      "name": "Gare routière farafangana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11866141349,
+      "lat": -18.945401,
+      "lon": 47.524607,
+      "name": "Gare routière FICOTRANS Ankadimbahoaka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6561151626,
+      "lat": -18.939145,
+      "lon": 47.493974,
+      "name": "Gare routière Fihavanana Axe RN1",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 997900583,
+      "lat": -18.928596,
+      "lon": 47.581735,
+      "name": "Gare Routière Fisandratana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11041595762,
+      "lat": -20.419775,
+      "lon": 47.333336,
+      "name": "Gare Routière Imito",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1455968425,
+      "lat": -18.948147,
+      "lon": 48.230196,
+      "name": "Gare routière Kompima Kofima Tafita",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 5669675859,
+      "lat": -18.898092,
+      "lon": 47.496053,
+      "name": "Gare routière MAKI",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6372386616,
+      "lat": -18.898044,
+      "lon": 47.495961,
+      "name": "Gare routière MAKI",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 414444625,
+      "lat": -18.897624,
+      "lon": 47.496485,
+      "name": "Gare routière MAKI",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11866189234,
+      "lat": -19.380657,
+      "lon": 47.439814,
+      "name": "Gare routière SOATRANS AMBATOLAMPY",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7603506871,
+      "lat": -14.928721,
+      "lon": 50.289875,
+      "name": "Gare Routière Sud Antalaha",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 2640727191,
+      "lat": -25.027147,
+      "lon": 46.973522,
+      "name": "Gare Routière Taxi-brousse et Car",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 428921476,
+      "lat": -21.446034,
+      "lon": 47.259499,
+      "name": "Gare Sahambavy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 54466105,
+      "lat": -18.940214,
+      "lon": 47.522129,
+      "name": "Gare Soanierana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8400109926,
+      "lat": -15.721817,
+      "lon": 46.32724,
+      "name": "Hotel de la Gare Routiere",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4273745029,
+      "lat": -19.640165,
+      "lon": 47.31408,
+      "name": "Ilempona",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335742219,
+      "lat": -21.715646,
+      "lon": 47.631292,
+      "name": "Ionilahy",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 5060790627,
+      "lat": -18.902781,
+      "lon": 47.527034,
+      "name": "IT Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8544407478,
+      "lat": -15.72951,
+      "lon": 46.44121,
+      "name": "Jirama Station Andranotakatra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 586830789,
+      "lat": -18.150191,
+      "lon": 49.4053,
+      "name": "KOFIMANGA",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4601815040,
+      "lat": -18.884668,
+      "lon": 47.52305,
+      "name": "La Halte",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1429863889,
+      "lat": -18.788252,
+      "lon": 48.681142,
+      "name": "Lohariandava",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 310550096,
+      "lat": -18.165802,
+      "lon": 49.402654,
+      "name": "Madarail Depot",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335762214,
+      "lat": -21.535247,
+      "lon": 47.482478,
+      "name": "Madiorano",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3252778058,
+      "lat": -21.533961,
+      "lon": 47.478459,
+      "name": "Madiorano Gare",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335742608,
+      "lat": -21.752154,
+      "lon": 47.713731,
+      "name": "Mahabako",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 857790398,
+      "lat": -21.751655,
+      "lon": 47.713671,
+      "name": "Mahabako",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1636456812,
+      "lat": -17.851859,
+      "lon": 48.313131,
+      "name": "Manakambahiny",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335739804,
+      "lat": -22.140314,
+      "lon": 48.013452,
+      "name": "Manakara",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3751198074,
+      "lat": -18.164023,
+      "lon": 49.404285,
+      "name": "Manangareza",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8568469276,
+      "lat": -18.937645,
+      "lon": 47.553741,
+      "name": "Mandroseza",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 592534091,
+      "lat": -18.880778,
+      "lon": 48.112234,
+      "name": "Mangoro",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 590835598,
+      "lat": -18.924985,
+      "lon": 47.81447,
+      "name": "Manjakandriana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9544472514,
+      "lat": -21.703208,
+      "lon": 43.745594,
+      "name": "Marché Tanandava station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 344602584,
+      "lat": -22.026324,
+      "lon": 47.970462,
+      "name": "Marofarihy",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 4349656407,
+      "lat": -25.529612,
+      "lon": 45.276255,
+      "name": "Marovato Saturday taxi brousse station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335740773,
+      "lat": -21.930361,
+      "lon": 47.921515,
+      "name": "Mizilo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6281856206,
+      "lat": -18.943819,
+      "lon": 48.230694,
+      "name": "Moramanga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 37800986,
+      "lat": -19.844268,
+      "lon": 47.038289,
+      "name": "North Bus Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 53260159,
+      "lat": -18.903302,
+      "lon": 47.52115,
+      "name": "Orange Digital Center",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579219233,
+      "lat": -18.906568,
+      "lon": 47.520445,
+      "name": "primus -140- Tsaralalana-Ampitatafika",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 913833761,
+      "lat": -18.904514,
+      "lon": 47.520794,
+      "name": "Primus 009 Tsaralalana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 564931049,
+      "lat": -18.90528,
+      "lon": 47.525845,
+      "name": "primus 110 Ambodifilao",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 591587044,
+      "lat": -18.910955,
+      "lon": 47.52892,
+      "name": "Primus 116 Ambohijatovo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 605498761,
+      "lat": -18.914581,
+      "lon": 47.549477,
+      "name": "Primus 119",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 580358900,
+      "lat": -18.914763,
+      "lon": 47.549466,
+      "name": "Primus 128 Tsimbazaza",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 565439301,
+      "lat": -18.906508,
+      "lon": 47.520421,
+      "name": "Primus 140 Tsaralalana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 590449559,
+      "lat": -18.904643,
+      "lon": 47.5583,
+      "name": "Primus 141 Manga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 591357142,
+      "lat": -18.905931,
+      "lon": 47.522144,
+      "name": "Primus 143-Analakely",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579282552,
+      "lat": -18.918736,
+      "lon": 47.524673,
+      "name": "Primus 143-Mahamasina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579526038,
+      "lat": -18.897669,
+      "lon": 47.56001,
+      "name": "Primus 147 Bleu - 147 Rouge",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577987323,
+      "lat": -18.903915,
+      "lon": 47.567446,
+      "name": "Primus 147-D Bleu",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577987324,
+      "lat": -18.903843,
+      "lon": 47.567389,
+      "name": "Primus 147-D Rouge",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579806057,
+      "lat": -18.897984,
+      "lon": 47.519359,
+      "name": "Primus 153 Antanimena CEG",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579806050,
+      "lat": -18.897817,
+      "lon": 47.522009,
+      "name": "Primus 153 Antanimena Poste",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579613046,
+      "lat": -18.917963,
+      "lon": 47.522398,
+      "name": "Primus 163-Anosy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 576639303,
+      "lat": -18.915129,
+      "lon": 47.549337,
+      "name": "primus 166 Ankatso",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 592994556,
+      "lat": -18.914809,
+      "lon": 47.54944,
+      "name": "primus 187 Ankatso- Fiadanamanga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 594046131,
+      "lat": -18.912689,
+      "lon": 47.547879,
+      "name": "Primus 194 Analamahitsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188035855,
+      "lat": -15.721808,
+      "lon": 46.317854,
+      "name": "Primus Analakely-Ankorefo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 581582015,
+      "lat": -18.919392,
+      "lon": 47.520547,
+      "name": "Primus Anosy Soamanatombo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6034711648,
+      "lat": -19.844235,
+      "lon": 47.039074,
+      "name": "Primus bus ligne 12 Stationnement Vatofotsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 565393065,
+      "lat": -18.912718,
+      "lon": 47.51943,
+      "name": "Primus F Ambatofahavalo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577136637,
+      "lat": -18.91092,
+      "lon": 47.518319,
+      "name": "Primus F-Atalata",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 593869791,
+      "lat": -18.920794,
+      "lon": 47.517054,
+      "name": "Primus G Antsahadinta",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566118804,
+      "lat": -18.896694,
+      "lon": 47.533119,
+      "name": "primus H Sabotsy Mascar",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579282568,
+      "lat": -18.975205,
+      "lon": 47.458839,
+      "name": "Primus J Alatsinainy Ambazaha-Ampitatafika-CNaPs",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 576656034,
+      "lat": -18.918967,
+      "lon": 47.524167,
+      "name": "Primus Ligne 128 Tsimbazaza",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577152045,
+      "lat": -18.919125,
+      "lon": 47.52411,
+      "name": "Primus Ligne 184",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577152048,
+      "lat": -18.920076,
+      "lon": 47.536978,
+      "name": "Primus Ligne 184",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566343986,
+      "lat": -18.906634,
+      "lon": 47.520485,
+      "name": "Primus Ligne A-Ambaniala Tsaralalàna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 578748064,
+      "lat": -18.911198,
+      "lon": 47.517274,
+      "name": "Primus ligne J- CNaPs - Amptatafika- Alatsinainy Ambazaha",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1187852887,
+      "lat": -15.70341,
+      "lon": 46.351339,
+      "name": "Primus Ligne_11",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188232324,
+      "lat": -15.709533,
+      "lon": 46.307381,
+      "name": "Primus Ligne_11",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188395575,
+      "lat": -15.638117,
+      "lon": 46.343721,
+      "name": "Primus ligne_15",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188395576,
+      "lat": -15.715028,
+      "lon": 46.368143,
+      "name": "Primus ligne_15",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188398745,
+      "lat": -15.638187,
+      "lon": 46.343673,
+      "name": "Primus ligne_15",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188062044,
+      "lat": -15.718009,
+      "lon": 46.306177,
+      "name": "Primus Ligne_5",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1187802589,
+      "lat": -15.706796,
+      "lon": 46.387653,
+      "name": "Primus Ligne_7",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188262781,
+      "lat": -15.707207,
+      "lon": 46.311474,
+      "name": "Primus ligne_9",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1187852886,
+      "lat": -15.703513,
+      "lon": 46.351326,
+      "name": "Primus Ligne_9",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188082360,
+      "lat": -15.728447,
+      "lon": 46.465454,
+      "name": "Primus_Ankorefo-Analakely",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 568228097,
+      "lat": -18.898563,
+      "lon": 47.531332,
+      "name": "Primus_E-KOLOINA_R",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 564976356,
+      "lat": -18.914169,
+      "lon": 47.530435,
+      "name": "Primus_I_Ambohijatovo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188084309,
+      "lat": -15.722237,
+      "lon": 46.323484,
+      "name": "Primus_ligne_12_Aranta",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188394137,
+      "lat": -15.70658,
+      "lon": 46.38545,
+      "name": "Primus_ligne_18_Maintso_Mena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188254589,
+      "lat": -15.704761,
+      "lon": 46.380264,
+      "name": "Primus_ligne_3",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188069120,
+      "lat": -15.725792,
+      "lon": 46.312351,
+      "name": "Primus_ligne_6_Port",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1187852981,
+      "lat": -15.70295,
+      "lon": 46.36268,
+      "name": "Primus_ligne_8_Mangatokana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 568176748,
+      "lat": -18.89815,
+      "lon": 47.530972,
+      "name": "Primus_Ligne_E-KOFIATRA_R",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 911829614,
+      "lat": -18.879444,
+      "lon": 47.558621,
+      "name": "Primus/Terminus 161 Ambatobe",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 529667958,
+      "lat": -12.781786,
+      "lon": 45.257835,
+      "name": "Quai Issoufali",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335744728,
+      "lat": -21.477386,
+      "lon": 47.387204,
+      "name": "Ranomena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335745515,
+      "lat": -21.446134,
+      "lon": 47.259609,
+      "name": "Sahambavy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335757276,
+      "lat": -21.808256,
+      "lon": 47.839337,
+      "name": "Sahasinaka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4273741466,
+      "lat": -19.64167,
+      "lon": 47.15857,
+      "name": "Sambaina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4601780579,
+      "lat": -18.903321,
+      "lon": 47.52117,
+      "name": "Shamrock gare de Soarano",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11078885381,
+      "lat": -18.940348,
+      "lon": 47.522026,
+      "name": "Soanierana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335803824,
+      "lat": -18.903164,
+      "lon": 47.521035,
+      "name": "Soarano",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 518300259,
+      "lat": -18.90525,
+      "lon": 47.519141,
+      "name": "Soarano",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1158536757,
+      "lat": -18.920871,
+      "lon": 47.520791,
+      "name": "SOATRANS Antananarivo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 968720526,
+      "lat": -22.145836,
+      "lon": 48.012246,
+      "name": "Soatrans Plus",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1193764504,
+      "lat": -21.448297,
+      "lon": 47.090041,
+      "name": "Sonatra Plus(Cotisse)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6400949085,
+      "lat": -18.976687,
+      "lon": 47.326287,
+      "name": "Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7087485085,
+      "lat": -12.785756,
+      "lon": 45.228046,
+      "name": "Station d'épuration de M'tsapéré",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 667740294,
+      "lat": -18.921157,
+      "lon": 47.540471,
+      "name": "Station d'Essence Ambatoroka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6672765620,
+      "lat": -23.909118,
+      "lon": 43.675367,
+      "name": "Station de desalinisation Beheloka",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6672759184,
+      "lat": -23.994126,
+      "lon": 43.669436,
+      "name": "Station de desalinisation Besambay",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6679860980,
+      "lat": -18.868086,
+      "lon": 47.486085,
+      "name": "Station de lavage Mobidic",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3578397150,
+      "lat": -17.01019,
+      "lon": 46.806799,
+      "name": "Station de pesage de Maevatanana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7709440904,
+      "lat": -25.005455,
+      "lon": 46.875099,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7801614476,
+      "lat": -12.906857,
+      "lon": 45.157624,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 12843622927,
+      "lat": -23.50143,
+      "lon": 45.941382,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6679777878,
+      "lat": -23.87423,
+      "lon": 43.740754,
+      "name": "Station de pompage PEAR",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11893174637,
+      "lat": -18.977097,
+      "lon": 47.533028,
+      "name": "Station de Taxi Andoharanofotsy - Suburbaine",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7119996973,
+      "lat": -12.52586,
+      "lon": 49.171954,
+      "name": "Station des Roussettes",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3575108651,
+      "lat": -15.917366,
+      "lon": 45.839673,
+      "name": "Station électrique",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 595731095,
+      "lat": -18.81844,
+      "lon": 49.067531,
+      "name": "Station Galana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1497195528,
+      "lat": -18.937053,
+      "lon": 47.522578,
+      "name": "Station GALANA IARIVO",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6127508557,
+      "lat": -22.128675,
+      "lon": 48.016723,
+      "name": "Station Jovena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 12143692524,
+      "lat": -12.831216,
+      "lon": 45.132838,
+      "name": "Station météo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 12471264661,
+      "lat": -12.80548,
+      "lon": 45.282841,
+      "name": "Station météo Pamandzi",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 637732404,
+      "lat": -16.946025,
+      "lon": 46.832412,
+      "name": "Station service Jovenna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11267426571,
+      "lat": -16.947432,
+      "lon": 46.828939,
+      "name": "Station service Shell Maevatanàna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6373848488,
+      "lat": -18.980993,
+      "lon": 47.322612,
+      "name": "Station Service Total",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3549643051,
+      "lat": -18.903669,
+      "lon": 47.517375,
+      "name": "Station Service TOTAL",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 676825611,
+      "lat": -18.157218,
+      "lon": 49.412998,
+      "name": "Station Service Villa Plessis Bazar Be",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6839345585,
+      "lat": -15.441135,
+      "lon": 49.737601,
+      "name": "Station Shell",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11886594792,
+      "lat": -18.971669,
+      "lon": 46.719916,
+      "name": "Station Shell",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11873507778,
+      "lat": -18.933299,
+      "lon": 47.544124,
+      "name": "Station Taxi",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1211529690,
+      "lat": -19.703914,
+      "lon": 44.545564,
+      "name": "Station taxi-brousse",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1367273155,
+      "lat": -18.914914,
+      "lon": 47.518873,
+      "name": "Station télépherique d'Anosy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6673594616,
+      "lat": -18.056318,
+      "lon": 44.035347,
+      "name": "Station thermale Jirama",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 10247094409,
+      "lat": -19.206483,
+      "lon": 46.786575,
+      "name": "Station Thrive Ambohidanerana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7143138836,
+      "lat": -18.74768,
+      "lon": 47.344993,
+      "name": "Station Total Mahitsy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1365308804,
+      "lat": -22.831628,
+      "lon": 47.833194,
+      "name": "Station Vangaindraino",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6035991585,
+      "lat": -12.293468,
+      "lon": 43.756143,
+      "name": "Station Yousna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3755413486,
+      "lat": -16.952775,
+      "lon": 46.827187,
+      "name": "Station-service TotalEnergies Maevatanàna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6466496901,
+      "lat": -12.793463,
+      "lon": 45.131863,
+      "name": "Station-services TotalEnergies Combani",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9006954037,
+      "lat": -12.723723,
+      "lon": 45.122142,
+      "name": "Station-services TotalEnergies Dzoumogné",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7083421585,
+      "lat": -12.757358,
+      "lon": 45.232503,
+      "name": "Station-services TotalEnergies Jumbo-Score",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7083471585,
+      "lat": -12.769812,
+      "lon": 45.224151,
+      "name": "Station-services TotalEnergies Kawéni",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8809137056,
+      "lat": -12.72924,
+      "lon": 45.170653,
+      "name": "Station-services TotalEnergies Longoni",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 7184720385,
+      "lat": -12.792371,
+      "lon": 45.27054,
+      "name": "Station-services TotalEnergies Petite-Terre",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 2468468517,
+      "lat": -12.806266,
+      "lon": 45.208742,
+      "name": "Station-services TotalEnergies Tsoundzou",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11085659964,
+      "lat": -22.821792,
+      "lon": 47.824277,
+      "name": "Stationement Lotragnambo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 2952249561,
+      "lat": -25.019463,
+      "lon": 46.987707,
+      "name": "Stationne Amparihy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3511057480,
+      "lat": -25.021885,
+      "lon": 46.985699,
+      "name": "Stationne Doudou",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 301876570,
+      "lat": -25.021833,
+      "lon": 46.985761,
+      "name": "Stationne Doudou",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1300054998,
+      "lat": -21.451773,
+      "lon": 47.090398,
+      "name": "Stationnement",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6034746868,
+      "lat": -19.843564,
+      "lon": 47.036169,
+      "name": "Stationnement",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11035280858,
+      "lat": -21.451502,
+      "lon": 47.090151,
+      "name": "Stationnement",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9498103776,
+      "lat": -22.407509,
+      "lon": 46.12449,
+      "name": "Stationnement Analaliry",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9474084964,
+      "lat": -21.698923,
+      "lon": 47.961796,
+      "name": "Stationnement Analavory - Ampasimanjeva",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3944429780,
+      "lat": -19.009138,
+      "lon": 47.180041,
+      "name": "Stationnement Arivonimamo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 114984519,
+      "lat": -21.452315,
+      "lon": 47.09051,
+      "name": "Stationnement Atsimo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 2359208715,
+      "lat": -22.130873,
+      "lon": 48.013389,
+      "name": "Stationnement Avaratra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 114869455,
+      "lat": -21.449293,
+      "lon": 47.089657,
+      "name": "Stationnement Avaratra",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6711776947,
+      "lat": -20.296152,
+      "lon": 44.400997,
+      "name": "Stationnement Belo Tsiribihina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9492289898,
+      "lat": -22.104387,
+      "lon": 43.893884,
+      "name": "Stationnement de taxi brousse de befandriana -sud",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9544465227,
+      "lat": -21.703343,
+      "lon": 43.745404,
+      "name": "Stationnement de taxi brousse Tanandava",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6680031310,
+      "lat": -18.057028,
+      "lon": 44.027622,
+      "name": "Stationnement FIFITSI",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3696893901,
+      "lat": -21.426036,
+      "lon": 47.101108,
+      "name": "Stationnement Ikalamavony",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6673050656,
+      "lat": -18.057474,
+      "lon": 44.030468,
+      "name": "Stationnement KOFIMANDIDY",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 5250248274,
+      "lat": -18.938517,
+      "lon": 47.498439,
+      "name": "Stationnement KOFITSIRO",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 443403053,
+      "lat": -19.876199,
+      "lon": 47.035914,
+      "name": "Stationnement local",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 691477981,
+      "lat": -23.354761,
+      "lon": 43.680942,
+      "name": "Stationnement National et Régional Sanfily",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11090085421,
+      "lat": -21.23943,
+      "lon": 48.345867,
+      "name": "Stationnement régional",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 9354787407,
+      "lat": -21.74354,
+      "lon": 43.360694,
+      "name": "Stationnement Régional Morombe-Toliara",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 547830678,
+      "lat": -19.169885,
+      "lon": 46.738261,
+      "name": "Stationnement Soavinandriana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 6702213351,
+      "lat": -18.675705,
+      "lon": 44.62203,
+      "name": "Stationnement Taxi brousse",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 70257290,
+      "lat": -18.893003,
+      "lon": 47.529847,
+      "name": "Stationnement taxi-brousse d'Ambodivona",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8956455924,
+      "lat": -17.379203,
+      "lon": 48.455893,
+      "name": "Stationnement Taxi-brousse Tanambe-Vohimena-Imerimandroso",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 633295752,
+      "lat": -19.405125,
+      "lon": 46.950851,
+      "name": "STATIONNEMENT TAXIBROUSSE",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4047413245,
+      "lat": -18.898444,
+      "lon": 47.517415,
+      "name": "Stationnement Vassacos",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1455969071,
+      "lat": -18.94674,
+      "lon": 48.228141,
+      "name": "Tafita Class",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4288374702,
+      "lat": -18.524147,
+      "lon": 49.279189,
+      "name": "Tampina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4876122607,
+      "lat": -21.706621,
+      "lon": 43.742944,
+      "name": "Tanandava Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3256289566,
+      "lat": -18.732444,
+      "lon": 48.978777,
+      "name": "Taxi-Brousse Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 53578901,
+      "lat": -18.155465,
+      "lon": 49.409272,
+      "name": "TCE Tamatave",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566234042,
+      "lat": -18.904198,
+      "lon": 47.52169,
+      "name": "Terminus",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 564233531,
+      "lat": -18.9073,
+      "lon": 47.523354,
+      "name": "terminus 110 Ambodifilao",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 565427018,
+      "lat": -18.8329,
+      "lon": 47.495072,
+      "name": "Terminus 114 Ambohijanahary",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 576656043,
+      "lat": -18.914669,
+      "lon": 47.549528,
+      "name": "Terminus 128",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 576656038,
+      "lat": -18.918716,
+      "lon": 47.524301,
+      "name": "Terminus 128 Ambohijatovo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 591811168,
+      "lat": -18.90454,
+      "lon": 47.524589,
+      "name": "Terminus 129",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 590449558,
+      "lat": -18.904574,
+      "lon": 47.558458,
+      "name": "Terminus 141-Manga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579282550,
+      "lat": -18.918924,
+      "lon": 47.524607,
+      "name": "Terminus 143-Mahamasina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579526037,
+      "lat": -18.897612,
+      "lon": 47.559993,
+      "name": "Terminus 147 Bleu - 147 Rouge",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577987322,
+      "lat": -18.90409,
+      "lon": 47.567496,
+      "name": "Terminus 147-D Rouge/Bleu",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579806056,
+      "lat": -18.897915,
+      "lon": 47.519464,
+      "name": "Terminus 153 Antanimena CEG",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579806049,
+      "lat": -18.897815,
+      "lon": 47.521933,
+      "name": "Terminus 153 Antanimena Poste",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 591765198,
+      "lat": -18.898046,
+      "lon": 47.519295,
+      "name": "terminus 166 Antanimena",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 569828932,
+      "lat": -18.853348,
+      "lon": 47.559822,
+      "name": "Terminus 192 Ankadikely Ilafy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 569828938,
+      "lat": -18.932886,
+      "lon": 47.580391,
+      "name": "Terminus 192 Mandikanamana",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 561554114,
+      "lat": -18.904593,
+      "lon": 47.555369,
+      "name": "Terminus Bus 178 Manga Andraisoro",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 565393036,
+      "lat": -18.911196,
+      "lon": 47.517726,
+      "name": "Terminus F Ambatofahavalo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566079782,
+      "lat": -18.911494,
+      "lon": 47.517592,
+      "name": "Terminus G Ankaditany",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 578111543,
+      "lat": -18.97534,
+      "lon": 47.458843,
+      "name": "Terminus J-Alatsinainy Ambazaha",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 576656036,
+      "lat": -18.918892,
+      "lon": 47.524198,
+      "name": "Terminus Ligne 128 Tsimbazaza",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577152044,
+      "lat": -18.919038,
+      "lon": 47.524144,
+      "name": "Terminus Ligne 184",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566353520,
+      "lat": -18.906653,
+      "lon": 47.520499,
+      "name": "Terminus Ligne A-Ambaniala Tsaralalàna",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 579476484,
+      "lat": -18.911062,
+      "lon": 47.517136,
+      "name": "Terminus ligne J Alatsinainy Ambazaha- Ampitatfika- CNaPS",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188085488,
+      "lat": -15.709537,
+      "lon": 46.307482,
+      "name": "Terminus Ligne_11",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188232319,
+      "lat": -15.703452,
+      "lon": 46.351387,
+      "name": "Terminus Ligne_11",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 577152042,
+      "lat": -18.907765,
+      "lon": 47.524286,
+      "name": "Terminus Ligne_115_A",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188398744,
+      "lat": -15.715017,
+      "lon": 46.368212,
+      "name": "Terminus ligne_15",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188255415,
+      "lat": -15.707239,
+      "lon": 46.311437,
+      "name": "Terminus ligne_9",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 565388328,
+      "lat": -18.912671,
+      "lon": 47.547654,
+      "name": "terminus_146_Manga_Mausolée",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188069266,
+      "lat": -15.728392,
+      "lon": 46.465418,
+      "name": "Terminus_Analakely-Ankorefo",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188082359,
+      "lat": -15.722772,
+      "lon": 46.317816,
+      "name": "Terminus_Ankorefo-Analakely",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 564993431,
+      "lat": -18.912552,
+      "lon": 47.547651,
+      "name": "terminus_bus_146_Mena_Mausolée",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 566102512,
+      "lat": -18.912664,
+      "lon": 47.547611,
+      "name": "Terminus_Bus_146_Mena_Mausolée",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 568162194,
+      "lat": -18.898768,
+      "lon": 47.531851,
+      "name": "Terminus_E-KOFIATRA_A",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 568218207,
+      "lat": -18.898608,
+      "lon": 47.531402,
+      "name": "Terminus_E-KOLOINA_A",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188080900,
+      "lat": -15.660082,
+      "lon": 46.329521,
+      "name": "Terminus_ligne_12_CDA_Aqualma",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188253643,
+      "lat": -15.718055,
+      "lon": 46.306171,
+      "name": "Terminus_ligne_3_Androva",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188256637,
+      "lat": -15.69698,
+      "lon": 46.322563,
+      "name": "Terminus_ligne_5_Betamanga",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188072978,
+      "lat": -15.672584,
+      "lon": 46.353171,
+      "name": "Terminus_ligne_6_Pamba",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1188060579,
+      "lat": -15.677523,
+      "lon": 46.333674,
+      "name": "Terminus_ligne_8_Ankarobato",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 591830156,
+      "lat": -18.844617,
+      "lon": 47.485423,
+      "name": "Terminus/Primus_Ligne_114_Ambatolampy",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335761430,
+      "lat": -21.559913,
+      "lon": 47.515554,
+      "name": "Tolongoina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1281447865,
+      "lat": -19.051664,
+      "lon": 47.548553,
+      "name": "Transport STRF",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 580455587,
+      "lat": -18.918825,
+      "lon": 47.524181,
+      "name": "Tsimbazaza - Rasalama",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1640752337,
+      "lat": -18.998378,
+      "lon": 47.55744,
+      "name": "Tsinjony",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11078885358,
+      "lat": -18.934067,
+      "lon": 47.56602,
+      "name": "Unnamed (node 11078885358)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11078885386,
+      "lat": -18.921339,
+      "lon": 47.517068,
+      "name": "Unnamed (node 11078885386)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11080279185,
+      "lat": -18.944554,
+      "lon": 48.232326,
+      "name": "Unnamed (node 11080279185)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 11083622417,
+      "lat": -18.156505,
+      "lon": 48.253293,
+      "name": "Unnamed (node 11083622417)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 11083622459,
+      "lat": -18.498969,
+      "lon": 48.271423,
+      "name": "Unnamed (node 11083622459)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11083622483,
+      "lat": -18.782887,
+      "lon": 48.24757,
+      "name": "Unnamed (node 11083622483)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11083633139,
+      "lat": -18.852679,
+      "lon": 48.231368,
+      "name": "Unnamed (node 11083633139)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11085083854,
+      "lat": -19.300461,
+      "lon": 47.458797,
+      "name": "Unnamed (node 11085083854)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11099064148,
+      "lat": -18.404109,
+      "lon": 49.322469,
+      "name": "Unnamed (node 11099064148)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 11099763866,
+      "lat": -18.155379,
+      "lon": 49.409207,
+      "name": "Unnamed (node 11099763866)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 11099763872,
+      "lat": -18.155469,
+      "lon": 49.409224,
+      "name": "Unnamed (node 11099763872)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 11101356801,
+      "lat": -18.16406,
+      "lon": 49.424957,
+      "name": "Unnamed (node 11101356801)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 11101396204,
+      "lat": -18.153073,
+      "lon": 49.424301,
+      "name": "Unnamed (node 11101396204)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 1300055102,
+      "lat": -21.449681,
+      "lon": 47.091554,
+      "name": "Unnamed (node 1300055102)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 13112062457,
+      "lat": -17.764072,
+      "lon": 48.180124,
+      "name": "Unnamed (node 13112062457)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 13112062461,
+      "lat": -17.763744,
+      "lon": 48.178511,
+      "name": "Unnamed (node 13112062461)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 1636456914,
+      "lat": -18.003069,
+      "lon": 48.232894,
+      "name": "Unnamed (node 1636456914)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 1803267836,
+      "lat": -17.765371,
+      "lon": 48.178576,
+      "name": "Unnamed (node 1803267836)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 1997083444,
+      "lat": -18.92343,
+      "lon": 48.416797,
+      "name": "Unnamed (node 1997083444)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 3152155356,
+      "lat": -19.861387,
+      "lon": 47.036819,
+      "name": "Unnamed (node 3152155356)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 3152215727,
+      "lat": -18.168988,
+      "lon": 49.396888,
+      "name": "Unnamed (node 3152215727)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 335741254,
+      "lat": -21.837541,
+      "lon": 47.866507,
+      "name": "Unnamed (node 335741254)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 335754457,
+      "lat": -21.914649,
+      "lon": 47.91012,
+      "name": "Unnamed (node 335754457)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 335757280,
+      "lat": -21.799287,
+      "lon": 47.815486,
+      "name": "Unnamed (node 335757280)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 335762971,
+      "lat": -21.48257,
+      "lon": 47.348693,
+      "name": "Unnamed (node 335762971)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 4271142005,
+      "lat": -21.447897,
+      "lon": 47.25954,
+      "name": "Unnamed (node 4271142005)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 4275171960,
+      "lat": -19.397978,
+      "lon": 47.440605,
+      "name": "Unnamed (node 4275171960)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 4283888779,
+      "lat": -18.911676,
+      "lon": 47.706248,
+      "name": "Unnamed (node 4283888779)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 4288413945,
+      "lat": -18.166659,
+      "lon": 49.401001,
+      "name": "Unnamed (node 4288413945)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 676825536,
+      "lat": -18.15535,
+      "lon": 49.409143,
+      "name": "Unnamed (node 676825536)",
+      "type": "buffer_stop",
+      "country": "MG"
+    },
+    {
+      "id": 724366628,
+      "lat": -18.942092,
+      "lon": 47.661214,
+      "name": "Unnamed (node 724366628)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 8155334717,
+      "lat": -18.80563,
+      "lon": 48.82682,
+      "name": "Unnamed (node 8155334717)",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 1031265164,
+      "lat": -18.925306,
+      "lon": 47.814159,
+      "name": "Unnamed (way 1031265164)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1040428756,
+      "lat": -18.911818,
+      "lon": 47.706122,
+      "name": "Unnamed (way 1040428756)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1078400945,
+      "lat": -19.257817,
+      "lon": 47.11444,
+      "name": "Unnamed (way 1078400945)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1193705873,
+      "lat": -17.820534,
+      "lon": 48.422341,
+      "name": "Unnamed (way 1193705873)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1193715895,
+      "lat": -17.851819,
+      "lon": 48.31303,
+      "name": "Unnamed (way 1193715895)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1193715898,
+      "lat": -17.83605,
+      "lon": 48.221184,
+      "name": "Unnamed (way 1193715898)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1193715900,
+      "lat": -17.891592,
+      "lon": 48.260898,
+      "name": "Unnamed (way 1193715900)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194007407,
+      "lat": -18.084818,
+      "lon": 48.240452,
+      "name": "Unnamed (way 1194007407)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194010778,
+      "lat": -18.219962,
+      "lon": 48.266337,
+      "name": "Unnamed (way 1194010778)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194010779,
+      "lat": -18.43899,
+      "lon": 48.272664,
+      "name": "Unnamed (way 1194010779)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194010780,
+      "lat": -18.605738,
+      "lon": 48.277198,
+      "name": "Unnamed (way 1194010780)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194208177,
+      "lat": -19.30028,
+      "lon": 47.458878,
+      "name": "Unnamed (way 1194208177)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194236517,
+      "lat": -19.213319,
+      "lon": 47.488813,
+      "name": "Unnamed (way 1194236517)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194726379,
+      "lat": -18.943048,
+      "lon": 47.599497,
+      "name": "Unnamed (way 1194726379)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1194736900,
+      "lat": -18.883808,
+      "lon": 47.977779,
+      "name": "Unnamed (way 1194736900)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1195559796,
+      "lat": -18.920115,
+      "lon": 48.536621,
+      "name": "Unnamed (way 1195559796)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1195559797,
+      "lat": -18.920387,
+      "lon": 48.536787,
+      "name": "Unnamed (way 1195559797)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1195607863,
+      "lat": -18.886491,
+      "lon": 48.564826,
+      "name": "Unnamed (way 1195607863)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1195627303,
+      "lat": -18.788056,
+      "lon": 48.681359,
+      "name": "Unnamed (way 1195627303)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1196005847,
+      "lat": -18.796173,
+      "lon": 48.794701,
+      "name": "Unnamed (way 1196005847)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1196020519,
+      "lat": -18.6953,
+      "lon": 49.207638,
+      "name": "Unnamed (way 1196020519)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1196026537,
+      "lat": -18.193577,
+      "lon": 49.362532,
+      "name": "Unnamed (way 1196026537)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1425999968,
+      "lat": -18.937612,
+      "lon": 47.553516,
+      "name": "Unnamed (way 1425999968)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1444290466,
+      "lat": -18.003002,
+      "lon": 48.232983,
+      "name": "Unnamed (way 1444290466)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 169776733,
+      "lat": -20.291717,
+      "lon": 44.27715,
+      "name": "Unnamed (way 169776733)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 183038894,
+      "lat": -14.881133,
+      "lon": 47.987364,
+      "name": "Unnamed (way 183038894)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 277062705,
+      "lat": -18.162711,
+      "lon": 49.426699,
+      "name": "Unnamed (way 277062705)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 318955835,
+      "lat": -21.559912,
+      "lon": 47.515832,
+      "name": "Unnamed (way 318955835)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 319071408,
+      "lat": -21.615346,
+      "lon": 47.567673,
+      "name": "Unnamed (way 319071408)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 319343459,
+      "lat": -21.930429,
+      "lon": 47.921448,
+      "name": "Unnamed (way 319343459)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 321500053,
+      "lat": -18.891239,
+      "lon": 47.529184,
+      "name": "Unnamed (way 321500053)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 452701087,
+      "lat": -18.840811,
+      "lon": 49.153537,
+      "name": "Unnamed (way 452701087)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 510735097,
+      "lat": -20.290868,
+      "lon": 44.276539,
+      "name": "Unnamed (way 510735097)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 53183027,
+      "lat": -15.719671,
+      "lon": 46.317295,
+      "name": "Unnamed (way 53183027)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 53578792,
+      "lat": -18.150066,
+      "lon": 49.406881,
+      "name": "Unnamed (way 53578792)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 570665564,
+      "lat": -19.42744,
+      "lon": 48.932474,
+      "name": "Unnamed (way 570665564)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 584980362,
+      "lat": -18.852509,
+      "lon": 48.231449,
+      "name": "Unnamed (way 584980362)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 585639350,
+      "lat": -18.598463,
+      "lon": 49.24761,
+      "name": "Unnamed (way 585639350)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 585646782,
+      "lat": -18.524254,
+      "lon": 49.279266,
+      "name": "Unnamed (way 585646782)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 585657713,
+      "lat": -18.404113,
+      "lon": 49.3226,
+      "name": "Unnamed (way 585657713)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 607642982,
+      "lat": -19.52615,
+      "lon": 47.431771,
+      "name": "Unnamed (way 607642982)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 669916962,
+      "lat": -18.730964,
+      "lon": 48.980336,
+      "name": "Unnamed (way 669916962)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 670808640,
+      "lat": -18.96284,
+      "lon": 48.337181,
+      "name": "Unnamed (way 670808640)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 671156347,
+      "lat": -19.772879,
+      "lon": 47.114931,
+      "name": "Unnamed (way 671156347)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 671355947,
+      "lat": -19.641711,
+      "lon": 47.158436,
+      "name": "Unnamed (way 671355947)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 672132360,
+      "lat": -21.481067,
+      "lon": 47.306933,
+      "name": "Unnamed (way 672132360)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 672736430,
+      "lat": -19.640352,
+      "lon": 47.313989,
+      "name": "Unnamed (way 672736430)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 674811021,
+      "lat": -19.382466,
+      "lon": 47.441499,
+      "name": "Unnamed (way 674811021)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 721884862,
+      "lat": -19.955844,
+      "lon": 47.04057,
+      "name": "Unnamed (way 721884862)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 722350107,
+      "lat": -18.498984,
+      "lon": 48.271527,
+      "name": "Unnamed (way 722350107)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 735293080,
+      "lat": -21.477227,
+      "lon": 47.387172,
+      "name": "Unnamed (way 735293080)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 758168959,
+      "lat": -12.845981,
+      "lon": 45.190407,
+      "name": "Unnamed (way 758168959)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 785443617,
+      "lat": -18.903861,
+      "lon": 48.137608,
+      "name": "Unnamed (way 785443617)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 802938272,
+      "lat": -21.535141,
+      "lon": 47.482392,
+      "name": "Unnamed (way 802938272)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 815422484,
+      "lat": -21.669591,
+      "lon": 47.581402,
+      "name": "Unnamed (way 815422484)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 918551737,
+      "lat": -12.753958,
+      "lon": 45.22693,
+      "name": "Unnamed (way 918551737)",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335742186,
+      "lat": -21.731055,
+      "lon": 47.655955,
+      "name": "Vatomasina",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 1636456828,
+      "lat": -17.891759,
+      "lon": 48.260892,
+      "name": "Vohidiala",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 335745572,
+      "lat": -21.418973,
+      "lon": 47.16407,
+      "name": "Vohimasina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 672624647,
+      "lat": -21.419037,
+      "lon": 47.163893,
+      "name": "Vohimasina",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 1430320078,
+      "lat": -18.771068,
+      "lon": 48.879711,
+      "name": "Vohipeno Razanaka",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 335744693,
+      "lat": -21.59013,
+      "lon": 47.549758,
+      "name": "Volohosy",
+      "type": "halt",
+      "country": "MG"
+    },
+    {
+      "id": 3256291074,
+      "lat": -18.732289,
+      "lon": 48.977361,
+      "name": "Water Station",
+      "type": "station",
+      "country": "MG"
+    },
+    {
+      "id": 3256291501,
+      "lat": -18.732843,
+      "lon": 48.978546,
+      "name": "Water Station",
+      "type": "station",
+      "country": "MG"
+    }
+  ]
+}

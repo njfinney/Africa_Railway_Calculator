@@ -1,0 +1,639 @@
+{
+  "country": "SS",
+  "name": "South Sudan",
+  "region": "East Africa",
+  "bbox": [
+    3.49,
+    23.44,
+    12.24,
+    35.95
+  ],
+  "extracted": "2026-03-03T12:24:56.589Z",
+  "count": 78,
+  "stations": [
+    {
+      "id": 7731807687,
+      "lat": 10.633333,
+      "lon": 27.866667,
+      "name": "Al ‘Angareib",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 5594305120,
+      "lat": 3.579321,
+      "lon": 31.516821,
+      "name": "Aliodraanusi Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 9872513134,
+      "lat": 10.106519,
+      "lon": 30.082528,
+      "name": "Angareb Shop",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11276924677,
+      "lat": 3.746745,
+      "lon": 34.839327,
+      "name": "Aruai Kuel Play Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1829439679,
+      "lat": 10.058971,
+      "lon": 34.540887,
+      "name": "Assosa Busstation",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1354559801,
+      "lat": 8.761267,
+      "lon": 27.394746,
+      "name": "Aweil",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 6349156850,
+      "lat": 3.49721,
+      "lon": 31.333612,
+      "name": "Barakala Water Supply System Plant Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7731492964,
+      "lat": 10.145387,
+      "lon": 23.763854,
+      "name": "Bi’r Majangare",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1309021731,
+      "lat": 3.80867,
+      "lon": 23.669643,
+      "name": "Bondo",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 3344790856,
+      "lat": 4.093454,
+      "lon": 30.677828,
+      "name": "city links petrol station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10979300170,
+      "lat": 12.239901,
+      "lon": 29.048032,
+      "name": "Dawas Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 858947119,
+      "lat": 3.71,
+      "lon": 23.707,
+      "name": "Djete Moridila",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 4520549543,
+      "lat": 4.866677,
+      "lon": 31.542159,
+      "name": "Doha Petrol Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10979300178,
+      "lat": 12.125524,
+      "lon": 28.871267,
+      "name": "Eit Daggag Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11416733034,
+      "lat": 3.509783,
+      "lon": 34.136606,
+      "name": "Fuel station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2566092832,
+      "lat": 4.81659,
+      "lon": 31.614752,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 9010419273,
+      "lat": 9.913866,
+      "lon": 29.985266,
+      "name": "Gas/ Petro Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 3813814257,
+      "lat": 3.67,
+      "lon": 31.781,
+      "name": "Gwere-Luzira Power Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11001774231,
+      "lat": 3.742454,
+      "lon": 34.806465,
+      "name": "Hall Video Football Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7258036329,
+      "lat": 3.710856,
+      "lon": 34.855475,
+      "name": "Hashi Petrol Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 4520549522,
+      "lat": 4.859739,
+      "lon": 31.56988,
+      "name": "HASS Petrol Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7146728698,
+      "lat": 4.809386,
+      "lon": 31.633317,
+      "name": "Imatongas Jumba Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7731271032,
+      "lat": 11.833333,
+      "lon": 28.616667,
+      "name": "Jabal Abū Garein",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7731289152,
+      "lat": 11.866667,
+      "lon": 30.5,
+      "name": "Jabal al ‘Angareib",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10976825120,
+      "lat": 3.744166,
+      "lon": 34.819352,
+      "name": "K2 Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10996950084,
+      "lat": 3.753167,
+      "lon": 34.826849,
+      "name": "Kagema Bookshop,stationeries And Uniform",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12479651471,
+      "lat": 3.880464,
+      "lon": 31.66904,
+      "name": "Kajo Keji City and COunty Police Station Headquarters (SSNPS Kajo Keji City & County)",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10978585859,
+      "lat": 3.744406,
+      "lon": 34.819782,
+      "name": "Kakuma 2 Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10961758166,
+      "lat": 3.711019,
+      "lon": 34.857215,
+      "name": "Kakuma Police Station Turkana West Sub County",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 4520549533,
+      "lat": 4.867377,
+      "lon": 31.540941,
+      "name": "Kal Kaal Petrol Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10978991812,
+      "lat": 3.767508,
+      "lon": 34.621513,
+      "name": "Kalobeyei Police Station Office",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 765177046,
+      "lat": 4.802074,
+      "lon": 31.638879,
+      "name": "Kampala Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12483795195,
+      "lat": 3.753483,
+      "lon": 31.594966,
+      "name": "Kangepo 2 Payam Police station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12483761757,
+      "lat": 3.801606,
+      "lon": 31.71721,
+      "name": "kangepo Payam Police station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1546998193,
+      "lat": 3.564547,
+      "lon": 33.697813,
+      "name": "Karenga Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 7290956787,
+      "lat": 4.817498,
+      "lon": 31.612186,
+      "name": "King oul GAS station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12483796643,
+      "lat": 3.746607,
+      "lon": 31.461233,
+      "name": "Liwolo Payam Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11833531532,
+      "lat": 4.145971,
+      "lon": 33.683287,
+      "name": "Lobetangare",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11833531533,
+      "lat": 4.145189,
+      "lon": 33.684754,
+      "name": "Lobetangare Primiray School",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1357607843,
+      "lat": 4.204398,
+      "lon": 34.359607,
+      "name": "Lodwar Energy Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 6263675468,
+      "lat": 4.205423,
+      "lon": 34.359082,
+      "name": "Lodwar Energy Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12479697460,
+      "lat": 4.012411,
+      "lon": 31.535887,
+      "name": "Lori Boma Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 9301617319,
+      "lat": 4.887051,
+      "lon": 31.576124,
+      "name": "Mangateen bus station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11001365882,
+      "lat": 3.769635,
+      "lon": 34.729292,
+      "name": "Margaret Kiok Shop",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 11015867253,
+      "lat": 3.735891,
+      "lon": 34.805824,
+      "name": "Margaret Shop",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2766842189,
+      "lat": 4.57463,
+      "lon": 28.384896,
+      "name": "Masiya Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2566150110,
+      "lat": 4.409282,
+      "lon": 32.571674,
+      "name": "Minibus Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 832020327,
+      "lat": 6.997059,
+      "lon": 35.590896,
+      "name": "Mizan Teferi bus station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1979926493,
+      "lat": 4.857981,
+      "lon": 31.580698,
+      "name": "mosh petrol station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 9387601519,
+      "lat": 4.842555,
+      "lon": 31.583322,
+      "name": "Nyakuron East (777)Central police station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 3345487134,
+      "lat": 3.561881,
+      "lon": 23.728145,
+      "name": "Nzongia",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12701892540,
+      "lat": 8.849364,
+      "lon": 35.650989,
+      "name": "Police station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10978991806,
+      "lat": 3.763914,
+      "lon": 34.747774,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12241181564,
+      "lat": 3.845962,
+      "lon": 31.522005,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 4784271621,
+      "lat": 4.847399,
+      "lon": 31.559023,
+      "name": "Rock City Bus Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10989700512,
+      "lat": 3.769613,
+      "lon": 34.729244,
+      "name": "Shaheen Play Station Shop",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1212818392,
+      "lat": 3.70901,
+      "lon": 34.862199,
+      "name": "Taran Coach And Bus Services Office",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 3396881920,
+      "lat": 7.202777,
+      "lon": 35.421922,
+      "name": "Tepi Bus Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 10992101891,
+      "lat": 3.770634,
+      "lon": 34.824522,
+      "name": "Tutu Express Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2090798227,
+      "lat": 11.67725,
+      "lon": 25.703419,
+      "name": "Unnamed (node 2090798227)",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2589333224,
+      "lat": 11.337224,
+      "lon": 27.808536,
+      "name": "Unnamed (node 2589333224)",
+      "type": "buffer_stop",
+      "country": "SS"
+    },
+    {
+      "id": 576030263,
+      "lat": 8.249169,
+      "lon": 34.585775,
+      "name": "Unnamed (way 576030263)",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 675174581,
+      "lat": 11.722779,
+      "lon": 28.335286,
+      "name": "Unnamed (way 675174581)",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 832631015,
+      "lat": 7.202863,
+      "lon": 35.422,
+      "name": "Unnamed (way 832631015)",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 4782457503,
+      "lat": 11.734426,
+      "lon": 32.82688,
+      "name": "Water Cart Filling Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2766920549,
+      "lat": 4.569654,
+      "lon": 28.402351,
+      "name": "Yambio Bus station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2766953918,
+      "lat": 4.540976,
+      "lon": 28.395614,
+      "name": "Yambio Power Station",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12249294661,
+      "lat": 11.448066,
+      "lon": 26.270319,
+      "name": "الجلابي",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1323728325,
+      "lat": 11.448293,
+      "lon": 26.270349,
+      "name": "الجلابي",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2090823258,
+      "lat": 11.472585,
+      "lon": 26.132813,
+      "name": "الضعين",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 8903304088,
+      "lat": 11.472822,
+      "lon": 26.132935,
+      "name": "الضعين",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 6323046569,
+      "lat": 11.722957,
+      "lon": 28.335139,
+      "name": "الفولة",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 2589331718,
+      "lat": 11.333686,
+      "lon": 27.809994,
+      "name": "بابنوسة",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1323669079,
+      "lat": 11.333512,
+      "lon": 27.810036,
+      "name": "بابنوسة",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 12249253463,
+      "lat": 11.399583,
+      "lon": 26.575309,
+      "name": "محطة بخيت",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1323724900,
+      "lat": 11.399801,
+      "lon": 26.575344,
+      "name": "محطة بخيت",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 3889176872,
+      "lat": 12.067967,
+      "lon": 24.898781,
+      "name": "محطة نيالا القطارات",
+      "type": "station",
+      "country": "SS"
+    },
+    {
+      "id": 1323819674,
+      "lat": 7.716803,
+      "lon": 27.981417,
+      "name": "واو",
+      "type": "station",
+      "country": "SS"
+    }
+  ]
+}

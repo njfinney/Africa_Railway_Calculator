@@ -1,0 +1,1527 @@
+{
+  "country": "LR",
+  "name": "Liberia",
+  "region": "West Africa",
+  "bbox": [
+    4.35,
+    -11.49,
+    8.55,
+    -7.37
+  ],
+  "extracted": "2026-03-03T12:22:14.470Z",
+  "count": 189,
+  "stations": [
+    {
+      "id": 5024727352,
+      "lat": 6.068541,
+      "lon": -8.134788,
+      "name": "AAA Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4530647922,
+      "lat": 8.461612,
+      "lon": -10.338188,
+      "name": "Abu Jalloh's Charging Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033124,
+      "lat": 7.22816,
+      "lon": -8.983742,
+      "name": "Aminata Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5084329437,
+      "lat": 6.068278,
+      "lon": -8.13033,
+      "name": "Anbrite Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034897327,
+      "lat": 7.229852,
+      "lon": -8.984766,
+      "name": "Blessed Child Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4513738580,
+      "lat": 8.277385,
+      "lon": -10.37568,
+      "name": "Buedu Police Station Check Point",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541335358,
+      "lat": 7.728019,
+      "lon": -9.209492,
+      "name": "Cabine de vente de cigarette",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034472538,
+      "lat": 7.002325,
+      "lon": -9.564906,
+      "name": "CARI Fuel Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541927795,
+      "lat": 7.762105,
+      "lon": -8.81691,
+      "name": "Centre de Prestation Service D'informatique",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4488778290,
+      "lat": 7.874886,
+      "lon": -11.192092,
+      "name": "Centre Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3158049737,
+      "lat": 6.872,
+      "lon": -9.17484,
+      "name": "Chaltu Ta",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514072953,
+      "lat": 8.061482,
+      "lon": -10.507218,
+      "name": "Checkpoint At The Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3151467997,
+      "lat": 7.00707,
+      "lon": -9.37679,
+      "name": "Cigarette",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7007785386,
+      "lat": 7.873246,
+      "lon": -11.192734,
+      "name": "Conex Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034386131,
+      "lat": 6.998161,
+      "lon": -9.469485,
+      "name": "Cool J Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514671085,
+      "lat": 7.774493,
+      "lon": -9.429325,
+      "name": "Ecors Parking Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6792411543,
+      "lat": 7.226309,
+      "lon": -8.986811,
+      "name": "Edwin The Boss Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3209239171,
+      "lat": 6.073273,
+      "lon": -8.119464,
+      "name": "ELBC Relay Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5055007495,
+      "lat": 6.99268,
+      "lon": -9.454446,
+      "name": "Emergency Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4912797573,
+      "lat": 7.201888,
+      "lon": -9.017265,
+      "name": "Esther W Krua Company Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4918550494,
+      "lat": 7.210215,
+      "lon": -8.973852,
+      "name": "Family Tree Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4893342342,
+      "lat": 7.219931,
+      "lon": -8.97716,
+      "name": "Fear God Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4837079779,
+      "lat": 6.062038,
+      "lon": -8.139162,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4840421487,
+      "lat": 6.066766,
+      "lon": -8.136187,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4844628103,
+      "lat": 6.063648,
+      "lon": -8.141738,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4905954411,
+      "lat": 7.201964,
+      "lon": -8.915551,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4907050373,
+      "lat": 7.226554,
+      "lon": -8.933411,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5039934626,
+      "lat": 7.245005,
+      "lon": -8.982459,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033509,
+      "lat": 7.227262,
+      "lon": -8.983465,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5040072233,
+      "lat": 6.051796,
+      "lon": -8.142814,
+      "name": "Fred T. Drokopia New Day Charging And Play Station Booth",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5056606152,
+      "lat": 6.996093,
+      "lon": -9.445913,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6790918117,
+      "lat": 7.232812,
+      "lon": -8.988596,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5038066347,
+      "lat": 6.949736,
+      "lon": -9.446248,
+      "name": "Fueling station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 300274517,
+      "lat": 7.410107,
+      "lon": -7.551354,
+      "name": "Gare BAN",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6691723385,
+      "lat": 7.263368,
+      "lon": -8.142991,
+      "name": "Gare de Man",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 300274515,
+      "lat": 7.407717,
+      "lon": -7.551447,
+      "name": "Gare MTT",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4951017444,
+      "lat": 8.239305,
+      "lon": -7.868196,
+      "name": "Gare Ouaninou",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4256755253,
+      "lat": 7.863556,
+      "lon": -8.100722,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541917387,
+      "lat": 7.349064,
+      "lon": -8.944582,
+      "name": "Gare routière de Diecké",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4543522914,
+      "lat": 8.548216,
+      "lon": -9.47109,
+      "name": "Gare routière de Kankan, Siguiri, Gueckedou pour Syndicat Indépendant",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 427639311,
+      "lat": 7.80638,
+      "lon": -8.540346,
+      "name": "Gare routière de Lola",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 8886329317,
+      "lat": 7.760661,
+      "lon": -8.818308,
+      "name": "gare routi��re",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 8292745017,
+      "lat": 7.259815,
+      "lon": -8.15494,
+      "name": "Gare SDS",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 8521052817,
+      "lat": 7.259652,
+      "lon": -8.155718,
+      "name": "Gare ST DANANÉ",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 12287519436,
+      "lat": 7.757254,
+      "lon": -8.804772,
+      "name": "Gare ST Soumahoro Transport",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 300274516,
+      "lat": 7.407512,
+      "lon": -7.551187,
+      "name": "Gare STT",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 12736465701,
+      "lat": 7.401807,
+      "lon": -7.557223,
+      "name": "Gare TSR",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 11114383405,
+      "lat": 7.402334,
+      "lon": -7.557943,
+      "name": "Gare UTB",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 300274481,
+      "lat": 7.409259,
+      "lon": -7.554158,
+      "name": "Gare UTB",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3099598627,
+      "lat": 6.164443,
+      "lon": -10.23231,
+      "name": "Gareway",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514682818,
+      "lat": 7.573517,
+      "lon": -8.54618,
+      "name": "Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4903841871,
+      "lat": 7.230415,
+      "lon": -8.892468,
+      "name": "Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5055007430,
+      "lat": 6.995368,
+      "lon": -9.448494,
+      "name": "Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034344874,
+      "lat": 6.993269,
+      "lon": -9.460051,
+      "name": "Gasoline Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4872754316,
+      "lat": 5.971978,
+      "lon": -8.190693,
+      "name": "Gbarbo Town Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3021613173,
+      "lat": 7.28458,
+      "lon": -8.824939,
+      "name": "Gbedin Rice Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4912797738,
+      "lat": 7.215073,
+      "lon": -8.98669,
+      "name": "George Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4888195667,
+      "lat": 7.231971,
+      "lon": -8.990949,
+      "name": "God Willing Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4888555157,
+      "lat": 7.231687,
+      "lon": -8.99192,
+      "name": "God Willing Inc Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5041949354,
+      "lat": 6.995079,
+      "lon": -9.469321,
+      "name": "God's Might Blessing Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5052337042,
+      "lat": 7.006339,
+      "lon": -9.461686,
+      "name": "Good Power Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5025065336,
+      "lat": 7.234021,
+      "lon": -8.983524,
+      "name": "Good Sister Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4534094991,
+      "lat": 7.879582,
+      "lon": -11.189999,
+      "name": "Goverment Bus Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3050270055,
+      "lat": 4.383355,
+      "lon": -7.7167,
+      "name": "Hoffman Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5093266341,
+      "lat": 7.231669,
+      "lon": -8.994863,
+      "name": "HottFM Radio Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4902352873,
+      "lat": 6.0799,
+      "lon": -8.140873,
+      "name": "Human Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5037080888,
+      "lat": 7.004169,
+      "lon": -9.477639,
+      "name": "I.B. Enterprise Filling station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5069073340,
+      "lat": 7.008612,
+      "lon": -9.479105,
+      "name": "IB Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033487,
+      "lat": 7.226556,
+      "lon": -8.983319,
+      "name": "In God We Trust Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 300808513,
+      "lat": 6.069425,
+      "lon": -8.135262,
+      "name": "Inter-City Transport Area",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5054041688,
+      "lat": 6.993712,
+      "lon": -9.462925,
+      "name": "Ire Gate Feeling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4902352928,
+      "lat": 6.083722,
+      "lon": -8.142294,
+      "name": "J. K. Boy Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4100642430,
+      "lat": 8.42541,
+      "lon": -9.756082,
+      "name": "Jallah Woiwor Charging Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 9248914339,
+      "lat": 5.879222,
+      "lon": -10.044335,
+      "name": "JC Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5052337026,
+      "lat": 7.00753,
+      "lon": -9.466792,
+      "name": "Jeff Fueling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5031473273,
+      "lat": 7.01,
+      "lon": -9.47913,
+      "name": "Johnson Dehmine Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6790918067,
+      "lat": 7.23257,
+      "lon": -8.989416,
+      "name": "Joy Service Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5035942763,
+      "lat": 7.012268,
+      "lon": -9.463513,
+      "name": "Jugbemu Wain Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5069073328,
+      "lat": 7.009728,
+      "lon": -9.478905,
+      "name": "Koukalli Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4841757425,
+      "lat": 6.075715,
+      "lon": -8.131149,
+      "name": "Last Mile Health Guest House Fuel Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6021987086,
+      "lat": 6.32689,
+      "lon": -10.79617,
+      "name": "LEC Power Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5054040054,
+      "lat": 6.994456,
+      "lon": -9.46903,
+      "name": "Liberty Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033469,
+      "lat": 7.226962,
+      "lon": -8.983423,
+      "name": "Lord Brother Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4845931143,
+      "lat": 6.06971,
+      "lon": -8.13374,
+      "name": "M. J. Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514682817,
+      "lat": 7.565987,
+      "lon": -8.55213,
+      "name": "Ma Bee White Flower Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034532069,
+      "lat": 6.983201,
+      "lon": -9.460863,
+      "name": "Make It Simple Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5025229399,
+      "lat": 7.231997,
+      "lon": -8.984488,
+      "name": "Mark Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4530280417,
+      "lat": 8.27663,
+      "lon": -10.567498,
+      "name": "Morie Eddie's Charging Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033446,
+      "lat": 7.227821,
+      "lon": -8.983605,
+      "name": "Morning Star Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5027113945,
+      "lat": 7.216319,
+      "lon": -8.976106,
+      "name": "Mother Blessing Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5056605981,
+      "lat": 6.997149,
+      "lon": -9.441167,
+      "name": "Mulbah Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4846195574,
+      "lat": 6.066055,
+      "lon": -8.131993,
+      "name": "New Vision Play Station & Charging Business Center",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4489243892,
+      "lat": 7.869339,
+      "lon": -11.194289,
+      "name": "NP filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7007786685,
+      "lat": 7.880236,
+      "lon": -11.190575,
+      "name": "NP Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4513738584,
+      "lat": 8.279233,
+      "lon": -10.371738,
+      "name": "NP Fuel Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 8860978323,
+      "lat": 6.355362,
+      "lon": -10.731817,
+      "name": "NP Gas station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4888195687,
+      "lat": 7.232952,
+      "lon": -8.990328,
+      "name": "NTA Bus Parking Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5065190671,
+      "lat": 6.995175,
+      "lon": -9.470821,
+      "name": "Old Ganta Parking Fueling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5056789618,
+      "lat": 6.995866,
+      "lon": -9.449208,
+      "name": "One + One Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5033313669,
+      "lat": 6.994026,
+      "lon": -9.462888,
+      "name": "One +One filling station # 1",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4844628142,
+      "lat": 6.063743,
+      "lon": -8.141989,
+      "name": "One Love Cell Phone Charging And Play Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5025065234,
+      "lat": 7.233702,
+      "lon": -8.983471,
+      "name": "Oshel Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4517312144,
+      "lat": 7.229248,
+      "lon": -9.001467,
+      "name": "Part It Better Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4912797798,
+      "lat": 7.21403,
+      "lon": -8.988169,
+      "name": "Patrick Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514682798,
+      "lat": 7.573703,
+      "lon": -8.54615,
+      "name": "Peter Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034475286,
+      "lat": 7.028586,
+      "lon": -9.553717,
+      "name": "Phebe Fueling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5037823349,
+      "lat": 7.228749,
+      "lon": -8.987323,
+      "name": "Play Station and Bet",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3110521527,
+      "lat": 6.989842,
+      "lon": -10.7885,
+      "name": "Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4504604991,
+      "lat": 4.373715,
+      "lon": -7.716362,
+      "name": "Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514675516,
+      "lat": 7.233713,
+      "lon": -9.16677,
+      "name": "Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3708426534,
+      "lat": 6.401439,
+      "lon": -10.792013,
+      "name": "Police Station (Zone 6, Depot 1)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4893342381,
+      "lat": 7.220876,
+      "lon": -8.977691,
+      "name": "Powerful God Filling Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4893342384,
+      "lat": 7.220857,
+      "lon": -8.977793,
+      "name": "Powerful God Filling Station Fuel Store",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514682800,
+      "lat": 7.573924,
+      "lon": -8.54612,
+      "name": "Prince Daysee Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5012244684,
+      "lat": 6.020449,
+      "lon": -8.055628,
+      "name": "PTP Camp Police station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5037823367,
+      "lat": 7.229132,
+      "lon": -8.984477,
+      "name": "Puff Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3051775786,
+      "lat": 5.641782,
+      "lon": -8.144286,
+      "name": "Putu Penonen Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5028564477,
+      "lat": 7.236665,
+      "lon": -8.969523,
+      "name": "River Inn Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5025065362,
+      "lat": 7.234161,
+      "lon": -8.980958,
+      "name": "Rivet Inn Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4844270570,
+      "lat": 6.059359,
+      "lon": -8.136641,
+      "name": "Roger And Melvina Charging Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5028564455,
+      "lat": 7.246307,
+      "lon": -8.970551,
+      "name": "Rubber Purchasing Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034741517,
+      "lat": 7.231779,
+      "lon": -8.99026,
+      "name": "S. P. Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7205801875,
+      "lat": 6.371844,
+      "lon": -10.787846,
+      "name": "Sackie Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034897404,
+      "lat": 7.232692,
+      "lon": -8.985881,
+      "name": "Saclepea Car Parking Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4530474810,
+      "lat": 8.281884,
+      "lon": -10.371362,
+      "name": "Sahr K Bundor's Charging Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5024739596,
+      "lat": 7.215671,
+      "lon": -8.976031,
+      "name": "Same God Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4517312183,
+      "lat": 7.23397,
+      "lon": -8.983759,
+      "name": "Sanniquellie Parking Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4849888065,
+      "lat": 6.059948,
+      "lon": -8.139814,
+      "name": "Satta Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4849888069,
+      "lat": 6.059706,
+      "lon": -8.139885,
+      "name": "Satta Filling Station Mobile Money",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4912797610,
+      "lat": 7.213847,
+      "lon": -9.010814,
+      "name": "Savinah Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6791033260,
+      "lat": 7.228859,
+      "lon": -8.982902,
+      "name": "Seletowah Radio Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5067507097,
+      "lat": 6.991025,
+      "lon": -9.470073,
+      "name": "Senior Moye Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4537495792,
+      "lat": 7.020405,
+      "lon": -11.382365,
+      "name": "Shared Taxi Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4537714890,
+      "lat": 6.375572,
+      "lon": -10.786024,
+      "name": "Shared Taxi Station (long distance)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7212534433,
+      "lat": 6.37747,
+      "lon": -10.784404,
+      "name": "Sky one Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4517339685,
+      "lat": 7.360455,
+      "lon": -8.707369,
+      "name": "Small Brother Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4858066650,
+      "lat": 6.065687,
+      "lon": -8.130612,
+      "name": "Smile Fm Community Radio Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 11068708613,
+      "lat": 6.571344,
+      "lon": -8.005716,
+      "name": "SMT Gare de Bus",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4517339678,
+      "lat": 7.37214,
+      "lon": -8.706369,
+      "name": "St. Portin Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7503277864,
+      "lat": 4.526942,
+      "lon": -7.478683,
+      "name": "Station Blidouba",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541927511,
+      "lat": 7.760872,
+      "lon": -8.807041,
+      "name": "Station de l'essence",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541907869,
+      "lat": 7.900846,
+      "lon": -9.361843,
+      "name": "Station de l'essence de Mama Fait Guilavogui",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 11232470365,
+      "lat": 7.02062,
+      "lon": -9.494035,
+      "name": "Station ELF",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4569607698,
+      "lat": 7.454135,
+      "lon": -7.637145,
+      "name": "Station hertzienne de la Radiodiffusion Télévision Ivoirienne (RTI)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 12364657673,
+      "lat": 8.377585,
+      "lon": -9.292234,
+      "name": "Station service",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4556890493,
+      "lat": 7.01073,
+      "lon": -7.490624,
+      "name": "Station Service IDC Bangolo",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4256131090,
+      "lat": 7.408736,
+      "lon": -7.551262,
+      "name": "Station Service IDC Man",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4566536446,
+      "lat": 7.411882,
+      "lon": -7.549956,
+      "name": "Station Service Oilibya Man",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4313158790,
+      "lat": 7.364463,
+      "lon": -7.58611,
+      "name": "Station Service Petro Ivoire Zélé",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4557015770,
+      "lat": 7.102448,
+      "lon": -7.547685,
+      "name": "Station Service Sara Petroleum Logoualé",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4556890381,
+      "lat": 7.011885,
+      "lon": -7.490706,
+      "name": "Station Service Shell Bangolo",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4541927523,
+      "lat": 7.760319,
+      "lon": -8.817596,
+      "name": "Station Shell",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 11232500267,
+      "lat": 6.271715,
+      "lon": -10.342753,
+      "name": "Station Total",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5034897407,
+      "lat": 7.23304,
+      "lon": -8.986237,
+      "name": "Stationery store",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3167818980,
+      "lat": 4.847753,
+      "lon": -7.710298,
+      "name": "Stationken",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5619703221,
+      "lat": 6.315014,
+      "lon": -10.805471,
+      "name": "Stomach Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5024739546,
+      "lat": 7.209116,
+      "lon": -8.973494,
+      "name": "Super Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5093266355,
+      "lat": 7.230967,
+      "lon": -8.995534,
+      "name": "Supreme Square Gas Station Gas Store",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5082688469,
+      "lat": 6.066331,
+      "lon": -8.134066,
+      "name": "T. Neah Modern Photo Studio and Min Stationary",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3042308440,
+      "lat": 5.827475,
+      "lon": -7.506696,
+      "name": "Tempo Border Joint Security Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3042416534,
+      "lat": 6.407321,
+      "lon": -8.557158,
+      "name": "Toe Town Police Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4489200391,
+      "lat": 7.881414,
+      "lon": -11.190353,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4840421490,
+      "lat": 6.067982,
+      "lon": -8.135279,
+      "name": "Total Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 6850986245,
+      "lat": 5.014018,
+      "lon": -9.039136,
+      "name": "Total Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4906611244,
+      "lat": 7.203375,
+      "lon": -8.974577,
+      "name": "Truth Prayer Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4517339657,
+      "lat": 7.371769,
+      "lon": -8.706853,
+      "name": "Try & See Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5007909722,
+      "lat": 6.069879,
+      "lon": -8.135376,
+      "name": "Two Brothers Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514671080,
+      "lat": 7.776123,
+      "lon": -9.428527,
+      "name": "United Brother Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 3006590670,
+      "lat": 5.869195,
+      "lon": -10.038316,
+      "name": "Unnamed (node 3006590670)",
+      "type": "buffer_stop",
+      "country": "LR"
+    },
+    {
+      "id": 3006590710,
+      "lat": 5.873113,
+      "lon": -10.034531,
+      "name": "Unnamed (node 3006590710)",
+      "type": "buffer_stop",
+      "country": "LR"
+    },
+    {
+      "id": 3006590712,
+      "lat": 5.873126,
+      "lon": -10.034578,
+      "name": "Unnamed (node 3006590712)",
+      "type": "buffer_stop",
+      "country": "LR"
+    },
+    {
+      "id": 3089046701,
+      "lat": 7.452244,
+      "lon": -8.638804,
+      "name": "Unnamed (node 3089046701)",
+      "type": "buffer_stop",
+      "country": "LR"
+    },
+    {
+      "id": 1102519073,
+      "lat": 6.346771,
+      "lon": -9.629265,
+      "name": "Unnamed (way 1102519073)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 296697502,
+      "lat": 6.414862,
+      "lon": -10.738346,
+      "name": "Unnamed (way 296697502)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 308071767,
+      "lat": 7.222711,
+      "lon": -8.97939,
+      "name": "Unnamed (way 308071767)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 461171083,
+      "lat": 7.219443,
+      "lon": -8.976018,
+      "name": "Unnamed (way 461171083)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 484672307,
+      "lat": 6.076835,
+      "lon": -8.12732,
+      "name": "Unnamed (way 484672307)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 484677824,
+      "lat": 6.071124,
+      "lon": -8.133399,
+      "name": "Unnamed (way 484677824)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 500130105,
+      "lat": 6.064251,
+      "lon": -8.135241,
+      "name": "Unnamed (way 500130105)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 513704512,
+      "lat": 6.035988,
+      "lon": -8.053406,
+      "name": "Unnamed (way 513704512)",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 7205801654,
+      "lat": 6.366151,
+      "lon": -10.78763,
+      "name": "V. Sherruef Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5025229343,
+      "lat": 7.232893,
+      "lon": -8.984917,
+      "name": "Video Player Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4888555019,
+      "lat": 7.231901,
+      "lon": -8.993747,
+      "name": "Voice Of Gompa 106.5 MHZ Radio Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5039439759,
+      "lat": 7.222096,
+      "lon": -8.978513,
+      "name": "Wuo M. Dolo's Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5011612055,
+      "lat": 7.234626,
+      "lon": -8.988643,
+      "name": "Yei Gorma Stationery & Printing Center",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5093175038,
+      "lat": 7.227978,
+      "lon": -8.977431,
+      "name": "Young H R Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4874506493,
+      "lat": 7.226533,
+      "lon": -9.003006,
+      "name": "Young Philip Gas Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 4514671077,
+      "lat": 7.774317,
+      "lon": -9.428699,
+      "name": "Zorzor Filling Station",
+      "type": "station",
+      "country": "LR"
+    },
+    {
+      "id": 5024727232,
+      "lat": 6.06875,
+      "lon": -8.134143,
+      "name": "Zwedru Police Station",
+      "type": "station",
+      "country": "LR"
+    }
+  ]
+}

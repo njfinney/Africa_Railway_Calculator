@@ -1,0 +1,399 @@
+{
+  "country": "LY",
+  "name": "Libya",
+  "region": "North Africa",
+  "bbox": [
+    19.51,
+    9.39,
+    33.17,
+    25.15
+  ],
+  "extracted": "2026-03-03T12:13:37.088Z",
+  "count": 48,
+  "stations": [
+    {
+      "id": 12135368518,
+      "lat": 29.789235,
+      "lon": 17.554905,
+      "name": "Bahi Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 4646587589,
+      "lat": 28.163711,
+      "lon": 19.169474,
+      "name": "Balat Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 9063768422,
+      "lat": 31.866317,
+      "lon": 10.983303,
+      "name": "cigarette shop",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 7637452331,
+      "lat": 29.48056,
+      "lon": 17.931996,
+      "name": "Dahra Central Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 9875504629,
+      "lat": 27.670308,
+      "lon": 22.491327,
+      "name": "foam station 2",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 10793588105,
+      "lat": 27.668985,
+      "lon": 22.49246,
+      "name": "foam station no 1",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 10793586605,
+      "lat": 27.671332,
+      "lon": 22.490595,
+      "name": "foam station no3",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1462253419,
+      "lat": 24.515241,
+      "lon": 9.491555,
+      "name": "gare routière",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 296331904,
+      "lat": 33.155613,
+      "lon": 11.212968,
+      "name": "Gare routière de Ben Guerdane",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 7721875682,
+      "lat": 19.961816,
+      "lon": 21.324379,
+      "name": "Garet el Gorane",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 2486265812,
+      "lat": 32.925276,
+      "lon": 12.098258,
+      "name": "Gas Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 5163237121,
+      "lat": 28.699614,
+      "lon": 22.374498,
+      "name": "KK Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 878933048,
+      "lat": 33.058741,
+      "lon": 10.340564,
+      "name": "Mahatta",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1894874961,
+      "lat": 32.368826,
+      "lon": 15.096287,
+      "name": "Petrol station Shara Benghazi",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 2628393720,
+      "lat": 27.270094,
+      "lon": 14.883168,
+      "name": "Samnu Fire Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 884339828,
+      "lat": 33.140769,
+      "lon": 11.217383,
+      "name": "SRTM Agence Ben Guerdane",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1073011370,
+      "lat": 24.512289,
+      "lon": 9.492878,
+      "name": "Station Service NAFTAL",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 6574768355,
+      "lat": 32.735541,
+      "lon": 12.805494,
+      "name": "Swessi fuel station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 9428971065,
+      "lat": 30.506349,
+      "lon": 18.503168,
+      "name": "Unnamed (node 9428971065)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9428981580,
+      "lat": 30.495316,
+      "lon": 18.513439,
+      "name": "Unnamed (node 9428981580)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9428981585,
+      "lat": 30.495371,
+      "lon": 18.513477,
+      "name": "Unnamed (node 9428981585)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9428981589,
+      "lat": 30.499876,
+      "lon": 18.508826,
+      "name": "Unnamed (node 9428981589)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9428981647,
+      "lat": 30.506643,
+      "lon": 18.497641,
+      "name": "Unnamed (node 9428981647)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9429040225,
+      "lat": 30.506475,
+      "lon": 18.501752,
+      "name": "Unnamed (node 9429040225)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9429079982,
+      "lat": 30.496032,
+      "lon": 18.513389,
+      "name": "Unnamed (node 9429079982)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 9429439342,
+      "lat": 30.506308,
+      "lon": 18.503125,
+      "name": "Unnamed (node 9429439342)",
+      "type": "buffer_stop",
+      "country": "LY"
+    },
+    {
+      "id": 101512668,
+      "lat": 32.897053,
+      "lon": 13.197286,
+      "name": "Unnamed (way 101512668)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1117799180,
+      "lat": 33.155557,
+      "lon": 11.213324,
+      "name": "Unnamed (way 1117799180)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1131166201,
+      "lat": 31.572287,
+      "lon": 25.146081,
+      "name": "Unnamed (way 1131166201)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 831235280,
+      "lat": 33.142352,
+      "lon": 11.217219,
+      "name": "Unnamed (way 831235280)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 992354636,
+      "lat": 32.858638,
+      "lon": 13.174018,
+      "name": "Unnamed (way 992354636)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 5142690922,
+      "lat": 28.785171,
+      "lon": 22.457323,
+      "name": "UU Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 12284549249,
+      "lat": 28.450453,
+      "lon": 19.520018,
+      "name": "Zaggut Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 2486321691,
+      "lat": 32.927675,
+      "lon": 12.096027,
+      "name": "Zuara Police Station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1098334301,
+      "lat": 31.57238,
+      "lon": 25.14607,
+      "name": "السلوم",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1064362847,
+      "lat": 32.929237,
+      "lon": 10.447034,
+      "name": "الشركة الجهوية للنقل",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 8127158659,
+      "lat": 31.742334,
+      "lon": 12.369027,
+      "name": "المحطة الرئيسية سوف الجين للمياه-The main station Saof Elgin for Water",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1170071816,
+      "lat": 32.831707,
+      "lon": 13.134208,
+      "name": "سكة الحديد جنوب طرابلس",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 7603136053,
+      "lat": 32.884528,
+      "lon": 13.167408,
+      "name": "طرابلس الوسط",
+      "type": "historic_station",
+      "country": "LY"
+    },
+    {
+      "id": 1170071772,
+      "lat": 32.886319,
+      "lon": 13.188002,
+      "name": "طرابلس ريكردو",
+      "type": "historic_station",
+      "country": "LY"
+    },
+    {
+      "id": 779660643,
+      "lat": 31.755688,
+      "lon": 14.019669,
+      "name": "محطة التاكسي",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 766736305,
+      "lat": 32.890321,
+      "lon": 13.19796,
+      "name": "محطة الحافلات",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 945690856,
+      "lat": 32.62147,
+      "lon": 14.262892,
+      "name": "محطة القطار- الخمس ( قيد الإنشاء)",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 945670728,
+      "lat": 32.822244,
+      "lon": 13.100414,
+      "name": "محطة القطارات (قيد الانشاء)",
+      "type": "halt",
+      "country": "LY"
+    },
+    {
+      "id": 183603615,
+      "lat": 32.123022,
+      "lon": 20.072669,
+      "name": "محطة حافلات النقل السريع",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1931616151,
+      "lat": 31.91448,
+      "lon": 12.256218,
+      "name": "محطة وقود نفط ليبيا - Libya oil fuel station",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 328057935,
+      "lat": 32.119587,
+      "lon": 20.084585,
+      "name": "محطه الحديقة",
+      "type": "station",
+      "country": "LY"
+    },
+    {
+      "id": 1066883602,
+      "lat": 31.157914,
+      "lon": 16.612888,
+      "name": "مكتب الزرقاء لنقل الركاب",
+      "type": "station",
+      "country": "LY"
+    }
+  ]
+}

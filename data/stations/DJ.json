@@ -1,0 +1,503 @@
+{
+  "country": "DJ",
+  "name": "Djibouti",
+  "region": "East Africa",
+  "bbox": [
+    10.93,
+    41.76,
+    12.71,
+    43.42
+  ],
+  "extracted": "2026-03-03T12:10:04.772Z",
+  "count": 61,
+  "stations": [
+    {
+      "id": 7733142194,
+      "lat": 11.099822,
+      "lon": 41.895358,
+      "name": "‘Asbahaltou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 373606317,
+      "lat": 11.154251,
+      "lon": 42.705649,
+      "name": "Ancienne Gare d'Ali Sabieh",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733146275,
+      "lat": 12.158197,
+      "lon": 42.490406,
+      "name": "Bahalti Sokda",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733133765,
+      "lat": 11.889167,
+      "lon": 42.203889,
+      "name": "Bahaltou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733146279,
+      "lat": 12.164579,
+      "lon": 42.499583,
+      "name": "Bahaltou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 10612545424,
+      "lat": 11.545939,
+      "lon": 43.111847,
+      "name": "Balbala Bus Station",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 3751295541,
+      "lat": 11.056109,
+      "lon": 42.632467,
+      "name": "Dewele",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 6851442203,
+      "lat": 11.068685,
+      "lon": 42.637557,
+      "name": "Dewele customs and imigration",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 11107604140,
+      "lat": 11.149626,
+      "lon": 42.736305,
+      "name": "Gare d'Ali-sabieh",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 554730269,
+      "lat": 11.149538,
+      "lon": 42.736307,
+      "name": "Gare d'Ali-sabieh",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 568000828,
+      "lat": 11.523444,
+      "lon": 43.128169,
+      "name": "Gare de Nagad محطة نقاذ القطار",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 809971740,
+      "lat": 11.068702,
+      "lon": 42.637514,
+      "name": "Gare des douanes et de l'immigration de Dewele",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 3594394338,
+      "lat": 11.591413,
+      "lon": 43.146263,
+      "name": "Gare Routière Centrale محطة الحافلات",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 554730228,
+      "lat": 11.152418,
+      "lon": 42.713432,
+      "name": "Gare Routière d'Ali Sabieh محطة الباص علي صبيح",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733141927,
+      "lat": 11.711389,
+      "lon": 42.601944,
+      "name": "Garenle",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 2164654516,
+      "lat": 11.715317,
+      "lon": 42.601742,
+      "name": "Garenlhé غارنلهي",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733146137,
+      "lat": 12.255843,
+      "lon": 42.856565,
+      "name": "Garenlou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733141999,
+      "lat": 11.418333,
+      "lon": 42.501389,
+      "name": "Garento",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733171079,
+      "lat": 11.955278,
+      "lon": 42.825278,
+      "name": "Garento",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 1150976611,
+      "lat": 12.43694,
+      "lon": 42.33,
+      "name": "Garento Le Balo",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733133471,
+      "lat": 11.807778,
+      "lon": 42.679167,
+      "name": "Garentou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733134148,
+      "lat": 11.7575,
+      "lon": 42.513611,
+      "name": "Garentou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733148458,
+      "lat": 12.055551,
+      "lon": 42.838676,
+      "name": "Garentou",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 11107604167,
+      "lat": 11.319975,
+      "lon": 42.951721,
+      "name": "Holl-Holl",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733133541,
+      "lat": 11.853611,
+      "lon": 42.804722,
+      "name": "Kabhalto",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7529079671,
+      "lat": 11.154789,
+      "lon": 42.703788,
+      "name": "La Gare المحطة",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 3756114122,
+      "lat": 11.557053,
+      "lon": 43.144423,
+      "name": "Lotissement de l'Aérogare حي المحطة المطار",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 3750598501,
+      "lat": 11.523651,
+      "lon": 43.127957,
+      "name": "Nagâd نقاذ",
+      "type": "stop",
+      "country": "DJ"
+    },
+    {
+      "id": 2719511327,
+      "lat": 11.609088,
+      "lon": 43.13705,
+      "name": "Port de Djibouti ميناء جيبوتي",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 236017538,
+      "lat": 11.032023,
+      "lon": 42.631549,
+      "name": "railway station Dewele",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 5322664587,
+      "lat": 11.576423,
+      "lon": 43.15078,
+      "name": "RUBIS Station-service",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 7733134810,
+      "lat": 11.879444,
+      "lon": 42.710278,
+      "name": "Sabhalto",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 5311711681,
+      "lat": 11.554911,
+      "lon": 43.114167,
+      "name": "station",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 5719405432,
+      "lat": 11.788876,
+      "lon": 42.877791,
+      "name": "Station-service روبي",
+      "type": "station",
+      "country": "DJ"
+    },
+    {
+      "id": 11107365090,
+      "lat": 11.028014,
+      "lon": 42.624874,
+      "name": "Unnamed (node 11107365090)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107365096,
+      "lat": 11.027973,
+      "lon": 42.624848,
+      "name": "Unnamed (node 11107365096)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107365111,
+      "lat": 11.051886,
+      "lon": 42.630577,
+      "name": "Unnamed (node 11107365111)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107365114,
+      "lat": 11.064192,
+      "lon": 42.635606,
+      "name": "Unnamed (node 11107365114)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107604166,
+      "lat": 11.325307,
+      "lon": 42.954612,
+      "name": "Unnamed (node 11107604166)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107619818,
+      "lat": 11.530463,
+      "lon": 43.133317,
+      "name": "Unnamed (node 11107619818)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107619834,
+      "lat": 11.521706,
+      "lon": 43.125226,
+      "name": "Unnamed (node 11107619834)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107619844,
+      "lat": 11.577398,
+      "lon": 43.099121,
+      "name": "Unnamed (node 11107619844)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 11107619847,
+      "lat": 11.575585,
+      "lon": 43.112494,
+      "name": "Unnamed (node 11107619847)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 4438946930,
+      "lat": 11.146621,
+      "lon": 42.735056,
+      "name": "Unnamed (node 4438946930)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 5465787606,
+      "lat": 11.526017,
+      "lon": 43.128657,
+      "name": "Unnamed (node 5465787606)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 5923800309,
+      "lat": 11.510756,
+      "lon": 43.11741,
+      "name": "Unnamed (node 5923800309)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 5941665912,
+      "lat": 11.155611,
+      "lon": 42.7432,
+      "name": "Unnamed (node 5941665912)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 6800862214,
+      "lat": 11.588658,
+      "lon": 43.068501,
+      "name": "Unnamed (node 6800862214)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 6800862215,
+      "lat": 11.588307,
+      "lon": 43.068302,
+      "name": "Unnamed (node 6800862215)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 6800862221,
+      "lat": 11.587864,
+      "lon": 43.068615,
+      "name": "Unnamed (node 6800862221)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 6874960914,
+      "lat": 11.065693,
+      "lon": 42.635799,
+      "name": "Unnamed (node 6874960914)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 7196564203,
+      "lat": 11.57849,
+      "lon": 43.09796,
+      "name": "Unnamed (node 7196564203)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 7357062492,
+      "lat": 11.576872,
+      "lon": 43.109809,
+      "name": "Unnamed (node 7357062492)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 7357084979,
+      "lat": 11.588215,
+      "lon": 43.068304,
+      "name": "Unnamed (node 7357084979)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268153025,
+      "lat": 11.51708,
+      "lon": 43.122597,
+      "name": "Unnamed (node 9268153025)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268153081,
+      "lat": 11.525114,
+      "lon": 43.128164,
+      "name": "Unnamed (node 9268153081)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268153092,
+      "lat": 11.524586,
+      "lon": 43.127822,
+      "name": "Unnamed (node 9268153092)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268643524,
+      "lat": 11.153695,
+      "lon": 42.741138,
+      "name": "Unnamed (node 9268643524)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268643531,
+      "lat": 11.142911,
+      "lon": 42.729072,
+      "name": "Unnamed (node 9268643531)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 9268721851,
+      "lat": 11.061381,
+      "lon": 42.634383,
+      "name": "Unnamed (node 9268721851)",
+      "type": "buffer_stop",
+      "country": "DJ"
+    },
+    {
+      "id": 809971724,
+      "lat": 11.056144,
+      "lon": 42.632448,
+      "name": "Unnamed (way 809971724)",
+      "type": "station",
+      "country": "DJ"
+    }
+  ]
+}

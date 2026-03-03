@@ -1,0 +1,727 @@
+{
+  "country": "SL",
+  "name": "Sierra Leone",
+  "region": "West Africa",
+  "bbox": [
+    6.93,
+    -13.3,
+    10,
+    -10.28
+  ],
+  "extracted": "2026-03-03T12:35:45.386Z",
+  "count": 89,
+  "stations": [
+    {
+      "id": 4530647922,
+      "lat": 8.461612,
+      "lon": -10.338188,
+      "name": "Abu Jalloh's Charging Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 12261017272,
+      "lat": 8.460228,
+      "lon": -13.278823,
+      "name": "ACE Fibre landing station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 2888490537,
+      "lat": 8.685571,
+      "lon": -12.168006,
+      "name": "Addax - Climate Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4514040947,
+      "lat": 9.112161,
+      "lon": -12.925584,
+      "name": "Aliear filling station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7632677385,
+      "lat": 8.878382,
+      "lon": -12.051609,
+      "name": "Azzolini Highway filling station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3589607735,
+      "lat": 7.967383,
+      "lon": -11.741121,
+      "name": "Bo Central Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3589607741,
+      "lat": 7.948666,
+      "lon": -11.72001,
+      "name": "Bo Eastern Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4513738580,
+      "lat": 8.277385,
+      "lon": -10.37568,
+      "name": "Buedu Police Station Check Point",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 5440880621,
+      "lat": 8.431383,
+      "lon": -13.155377,
+      "name": "Calaba Town last station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4488778290,
+      "lat": 7.874886,
+      "lon": -11.192092,
+      "name": "Centre Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4514072953,
+      "lat": 8.061482,
+      "lon": -10.507218,
+      "name": "Checkpoint At The Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3589579878,
+      "lat": 7.961635,
+      "lon": -11.740663,
+      "name": "Conex Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7007785386,
+      "lat": 7.873246,
+      "lon": -11.192734,
+      "name": "Conex Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 393740286,
+      "lat": 8.48487,
+      "lon": -13.259899,
+      "name": "Conex Fuel Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 1765613666,
+      "lat": 8.466562,
+      "lon": -13.27376,
+      "name": "Conex Fuel Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 378731470,
+      "lat": 8.483232,
+      "lon": -13.259075,
+      "name": "Congo Cross Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 1890995534,
+      "lat": 9.883173,
+      "lon": -13.111418,
+      "name": "Debele",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3354032076,
+      "lat": 8.449975,
+      "lon": -13.236616,
+      "name": "Drive Hill Station Community",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3353967886,
+      "lat": 8.446742,
+      "lon": -13.231999,
+      "name": "Drive Imatt Hill Station Community",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 13355134390,
+      "lat": 9.900205,
+      "lon": -10.672769,
+      "name": "Faranah",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 370751258,
+      "lat": 8.458545,
+      "lon": -13.25287,
+      "name": "Former Hill Station",
+      "type": "halt",
+      "country": "SL"
+    },
+    {
+      "id": 370327628,
+      "lat": 8.43443,
+      "lon": -13.275357,
+      "name": "Former SLBC Goderich Shortwave station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 13565363712,
+      "lat": 9.587556,
+      "lon": -12.217611,
+      "name": "Gas station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4534094991,
+      "lat": 7.879582,
+      "lon": -11.189999,
+      "name": "Goverment Bus Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3356047557,
+      "lat": 8.457343,
+      "lon": -13.254126,
+      "name": "Government Quarter Hillstation",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 629364575,
+      "lat": 8.386464,
+      "lon": -13.13424,
+      "name": "Hastings",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11196003541,
+      "lat": 8.645881,
+      "lon": -10.960218,
+      "name": "Hill station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11196018437,
+      "lat": 8.645174,
+      "lon": -10.95997,
+      "name": "Hill station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 371009770,
+      "lat": 8.459407,
+      "lon": -13.253941,
+      "name": "Hill Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3124095918,
+      "lat": 8.456214,
+      "lon": -13.253446,
+      "name": "Hill Station Club",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3359248148,
+      "lat": 8.454636,
+      "lon": -13.243354,
+      "name": "Hill Station Community",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3353967885,
+      "lat": 8.44673,
+      "lon": -13.231908,
+      "name": "Junction Hill Station Community",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11758326230,
+      "lat": 9.585967,
+      "lon": -11.550622,
+      "name": "Kabala Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7632669286,
+      "lat": 8.889852,
+      "lon": -12.065873,
+      "name": "Kamathor fuel stations.",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11757909384,
+      "lat": 9.584009,
+      "lon": -11.55286,
+      "name": "lantej fuel station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3589640143,
+      "lat": 7.944078,
+      "lon": -11.728984,
+      "name": "Leonco Shell Mingo Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 12020259869,
+      "lat": 7.944863,
+      "lon": -11.727714,
+      "name": "Local car station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7006531222,
+      "lat": 7.94818,
+      "lon": -11.71335,
+      "name": "Malador Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4530280417,
+      "lat": 8.27663,
+      "lon": -10.567498,
+      "name": "Morie Eddie's Charging Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 2947470712,
+      "lat": 8.611626,
+      "lon": -11.019581,
+      "name": "Motema Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4861864811,
+      "lat": 8.87809,
+      "lon": -12.052585,
+      "name": "Nena Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4489243892,
+      "lat": 7.869339,
+      "lon": -11.194289,
+      "name": "NP filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3379671843,
+      "lat": 8.333712,
+      "lon": -13.069946,
+      "name": "NP Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4818907723,
+      "lat": 8.332076,
+      "lon": -13.046111,
+      "name": "NP Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7006533708,
+      "lat": 7.948188,
+      "lon": -11.708168,
+      "name": "NP Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7007786685,
+      "lat": 7.880236,
+      "lon": -11.190575,
+      "name": "NP Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4514040925,
+      "lat": 9.127666,
+      "lon": -12.921597,
+      "name": "NP Fuel station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 369417973,
+      "lat": 8.483699,
+      "lon": -13.259272,
+      "name": "NP Fuel Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4513738584,
+      "lat": 8.279233,
+      "lon": -10.371738,
+      "name": "NP Fuel Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4861867435,
+      "lat": 8.888756,
+      "lon": -12.054589,
+      "name": "NP Wusum Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 9803411758,
+      "lat": 8.469205,
+      "lon": -12.249078,
+      "name": "Oasis Gas Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4514040892,
+      "lat": 9.109364,
+      "lon": -12.92561,
+      "name": "Peterol Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 1890979320,
+      "lat": 9.876451,
+      "lon": -13.089681,
+      "name": "Pièrre",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 6360130144,
+      "lat": 8.456799,
+      "lon": -13.249576,
+      "name": "Police Post- Hill Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 12037781370,
+      "lat": 8.459922,
+      "lon": -13.270386,
+      "name": "Police station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3110521527,
+      "lat": 6.989842,
+      "lon": -10.7885,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3342206750,
+      "lat": 8.474646,
+      "lon": -13.191083,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7632563585,
+      "lat": 8.888107,
+      "lon": -12.043856,
+      "name": "PZ Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 2218430789,
+      "lat": 8.604588,
+      "lon": -13.18006,
+      "name": "Rotifunk Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4861867434,
+      "lat": 8.891764,
+      "lon": -12.04202,
+      "name": "Safecon Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4530474810,
+      "lat": 8.281884,
+      "lon": -10.371362,
+      "name": "Sahr K Bundor's Charging Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3371623410,
+      "lat": 8.447933,
+      "lon": -13.240891,
+      "name": "Sand Ground Hill Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4532060589,
+      "lat": 7.965084,
+      "lon": -11.737095,
+      "name": "Shared Taxi Park Station for Makeni Kono",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4537495792,
+      "lat": 7.020405,
+      "lon": -11.382365,
+      "name": "Shared Taxi Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4526166389,
+      "lat": 8.480643,
+      "lon": -13.207327,
+      "name": "Shared Taxi to Guinea Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4534062510,
+      "lat": 9.426699,
+      "lon": -13.081238,
+      "name": "Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11207992578,
+      "lat": 9.995026,
+      "lon": -12.753105,
+      "name": "Station BTH",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11199615047,
+      "lat": 9.867459,
+      "lon": -13.056667,
+      "name": "Station BtN",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 5516978681,
+      "lat": 7.952618,
+      "lon": -11.752006,
+      "name": "Station Conex",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4543182651,
+      "lat": 9.433011,
+      "lon": -13.093384,
+      "name": "Station Essence",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 6387433582,
+      "lat": 9.978848,
+      "lon": -12.914078,
+      "name": "Station Total",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4540110818,
+      "lat": 8.484673,
+      "lon": -13.238101,
+      "name": "stationary",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4540110915,
+      "lat": 8.488226,
+      "lon": -13.232625,
+      "name": "stationary shop",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 2888525430,
+      "lat": 8.833339,
+      "lon": -12.000088,
+      "name": "Teko Livestock Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3161754034,
+      "lat": 8.378059,
+      "lon": -13.101322,
+      "name": "Tombodu Gas Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 1607841634,
+      "lat": 8.640485,
+      "lon": -10.976901,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4489200391,
+      "lat": 7.881414,
+      "lon": -11.190353,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4861867432,
+      "lat": 8.8886,
+      "lon": -12.054263,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4514040778,
+      "lat": 9.105656,
+      "lon": -12.923656,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 3589576421,
+      "lat": 8.47317,
+      "lon": -13.23691,
+      "name": "Total Fuel Station- Jomo Kenyatta/Pademba Road",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 4861867431,
+      "lat": 8.887789,
+      "lon": -12.049964,
+      "name": "Total Sierra Leone(Filling Station)",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 7632669287,
+      "lat": 8.878851,
+      "lon": -12.049434,
+      "name": "Turn Table filling station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 13180582893,
+      "lat": 9.87581,
+      "lon": -13.089944,
+      "name": "Unnamed (node 13180582893)",
+      "type": "buffer_stop",
+      "country": "SL"
+    },
+    {
+      "id": 13180591244,
+      "lat": 9.883335,
+      "lon": -13.114114,
+      "name": "Unnamed (node 13180591244)",
+      "type": "buffer_stop",
+      "country": "SL"
+    },
+    {
+      "id": 1890979304,
+      "lat": 9.882462,
+      "lon": -13.089166,
+      "name": "Unnamed (node 1890979304)",
+      "type": "buffer_stop",
+      "country": "SL"
+    },
+    {
+      "id": 1890995510,
+      "lat": 9.882729,
+      "lon": -13.107322,
+      "name": "Unnamed (node 1890995510)",
+      "type": "buffer_stop",
+      "country": "SL"
+    },
+    {
+      "id": 3077192524,
+      "lat": 9.94008,
+      "lon": -13.062779,
+      "name": "Unnamed (node 3077192524)",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 401475830,
+      "lat": 8.339084,
+      "lon": -13.073611,
+      "name": "Waterloo",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 394687755,
+      "lat": 8.480362,
+      "lon": -13.259098,
+      "name": "Wilberforce Station",
+      "type": "station",
+      "country": "SL"
+    }
+  ]
+}

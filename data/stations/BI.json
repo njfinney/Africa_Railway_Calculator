@@ -1,0 +1,319 @@
+{
+  "country": "BI",
+  "name": "Burundi",
+  "region": "East Africa",
+  "bbox": [
+    -4.47,
+    28.99,
+    -2.31,
+    30.85
+  ],
+  "extracted": "2026-03-03T12:07:27.765Z",
+  "count": 38,
+  "stations": [
+    {
+      "id": 9108162708,
+      "lat": -2.706507,
+      "lon": 29.966486,
+      "name": "Bihangare",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 1344199948,
+      "lat": -3.363777,
+      "lon": 29.357378,
+      "name": "Bujumbura Bus Station (Siyoni)",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5297562023,
+      "lat": -2.332665,
+      "lon": 29.135745,
+      "name": "Delta Petrol / Gas Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10963818608,
+      "lat": -3.352099,
+      "lon": 29.387706,
+      "name": "Départ Gare du nord",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 1422788568,
+      "lat": -3.417558,
+      "lon": 29.374187,
+      "name": "Gare du Sud",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4685321089,
+      "lat": -2.473094,
+      "lon": 29.581519,
+      "name": "Gare Routière de Nyamagabe",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10542424409,
+      "lat": -2.310097,
+      "lon": 29.226807,
+      "name": "Gasharu Coffee Washing Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 3928444039,
+      "lat": -2.440586,
+      "lon": 29.092278,
+      "name": "Gisakura Ranger Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 12985088882,
+      "lat": -3.434602,
+      "lon": 29.937393,
+      "name": "Homurisa Radio Station Gitega",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10852912521,
+      "lat": -2.590547,
+      "lon": 29.743216,
+      "name": "Huye bus station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4297564589,
+      "lat": -2.590606,
+      "lon": 29.743519,
+      "name": "Huye/Butare Bus Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10543429509,
+      "lat": -2.315275,
+      "lon": 29.250513,
+      "name": "Karambi Coffee Washing Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4966130614,
+      "lat": -3.58598,
+      "lon": 30.72337,
+      "name": "kibondo bus station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4135092889,
+      "lat": -3.571126,
+      "lon": 30.735597,
+      "name": "Kibondo Bus Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4528663990,
+      "lat": -4.279982,
+      "lon": 30.424607,
+      "name": "Kitema Filling Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 8356747617,
+      "lat": -3.587718,
+      "lon": 30.719163,
+      "name": "Lake gas station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 9735283317,
+      "lat": -4.274187,
+      "lon": 30.432221,
+      "name": "Makere Police Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4347980658,
+      "lat": -3.586267,
+      "lon": 30.722728,
+      "name": "MM petrolium station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5362599323,
+      "lat": -2.511921,
+      "lon": 30.654873,
+      "name": "Ngara bus station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 8634918320,
+      "lat": -2.506655,
+      "lon": 30.658452,
+      "name": "Ngara District Police Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10092491218,
+      "lat": -2.512467,
+      "lon": 30.654322,
+      "name": "Ngara town bus station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5891239585,
+      "lat": -2.341479,
+      "lon": 29.768842,
+      "name": "Nyanza Bus Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 6316524785,
+      "lat": -2.352858,
+      "lon": 29.75147,
+      "name": "Nyanza Bus Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10575946841,
+      "lat": -2.36096,
+      "lon": 29.135928,
+      "name": "Nyungwe High Coffee Washing Station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10852971091,
+      "lat": -2.534057,
+      "lon": 29.761363,
+      "name": "Save bus station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5648260935,
+      "lat": -3.334399,
+      "lon": 29.255321,
+      "name": "station",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 4733482171,
+      "lat": -2.58736,
+      "lon": 30.091858,
+      "name": "station carburant",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 10872793905,
+      "lat": -4.243803,
+      "lon": 29.803286,
+      "name": "Station CARBURANT CAMP MABANDA",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 2115656547,
+      "lat": -3.380575,
+      "lon": 29.370309,
+      "name": "Station ENGEN",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5243985086,
+      "lat": -3.37113,
+      "lon": 29.364782,
+      "name": "Station king star",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 2163598216,
+      "lat": -3.383752,
+      "lon": 29.360923,
+      "name": "Station Liberte",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 7923569579,
+      "lat": -3.358844,
+      "lon": 29.152253,
+      "name": "Station pétrolière",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 3984242545,
+      "lat": -3.248579,
+      "lon": 29.269972,
+      "name": "Station Rukoko",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 2139114335,
+      "lat": -3.394428,
+      "lon": 29.366955,
+      "name": "Station service BUTANYERERA",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 2428447879,
+      "lat": -3.427405,
+      "lon": 29.925085,
+      "name": "Station Service de Gitega",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 5244286284,
+      "lat": -3.370762,
+      "lon": 29.371838,
+      "name": "Station Service E. Leclerc",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 7005781703,
+      "lat": -2.502533,
+      "lon": 30.650896,
+      "name": "Stationry",
+      "type": "station",
+      "country": "BI"
+    },
+    {
+      "id": 423653505,
+      "lat": -3.381231,
+      "lon": 29.142613,
+      "name": "Unnamed (way 423653505)",
+      "type": "station",
+      "country": "BI"
+    }
+  ]
+}

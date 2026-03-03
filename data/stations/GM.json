@@ -1,0 +1,439 @@
+{
+  "country": "GM",
+  "name": "Gambia",
+  "region": "West Africa",
+  "bbox": [
+    13.06,
+    -16.82,
+    13.83,
+    -13.8
+  ],
+  "extracted": "2026-03-03T12:11:39.357Z",
+  "count": 53,
+  "stations": [
+    {
+      "id": 6979290785,
+      "lat": 13.401233,
+      "lon": -16.655032,
+      "name": "Abuko police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158302143,
+      "lat": 13.404338,
+      "lon": -16.663811,
+      "name": "Abusey Gas station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 4513211090,
+      "lat": 13.41914,
+      "lon": -16.673786,
+      "name": "Atlas Gas Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6979290287,
+      "lat": 13.282334,
+      "lon": -16.654721,
+      "name": "Atlas petrol station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5167233097,
+      "lat": 13.477864,
+      "lon": -16.676822,
+      "name": "Atlas Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6024788738,
+      "lat": 13.441124,
+      "lon": -15.535222,
+      "name": "Atlast Petrol station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6979290685,
+      "lat": 13.37032,
+      "lon": -16.65346,
+      "name": "Banjulinding Police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 1064563866,
+      "lat": 13.484928,
+      "lon": -16.545763,
+      "name": "Barra Ferry Terminal",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6027550087,
+      "lat": 13.298101,
+      "lon": -14.21255,
+      "name": "Basse fire station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6299152602,
+      "lat": 13.310695,
+      "lon": -14.212359,
+      "name": "Basse Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 8397431517,
+      "lat": 13.2846,
+      "lon": -16.64144,
+      "name": "Brikama Misira police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 10655962605,
+      "lat": 13.410291,
+      "lon": -16.722877,
+      "name": "Brusubi Police Station and Immigration Office",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5836381291,
+      "lat": 13.418421,
+      "lon": -16.677465,
+      "name": "Bundung Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158301276,
+      "lat": 13.573713,
+      "lon": -15.601849,
+      "name": "car station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6988066189,
+      "lat": 13.415616,
+      "lon": -16.67519,
+      "name": "Castle petrol Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 2561169347,
+      "lat": 13.434322,
+      "lon": -16.676272,
+      "name": "Churchills Town Fire Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158197428,
+      "lat": 13.441806,
+      "lon": -15.518116,
+      "name": "Dibba fuel station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6031729286,
+      "lat": 13.572341,
+      "lon": -15.596552,
+      "name": "Farafeni Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5426413925,
+      "lat": 13.573121,
+      "lon": -15.597682,
+      "name": "Farafenni Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 2617342769,
+      "lat": 13.3219,
+      "lon": -16.666387,
+      "name": "Furtune petrol station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 2242576004,
+      "lat": 13.433865,
+      "lon": -16.690486,
+      "name": "Galp Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 545050858,
+      "lat": 13.292919,
+      "lon": -14.714749,
+      "name": "Garage de Medina Yoro Foulah",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 7104045485,
+      "lat": 13.335819,
+      "lon": -13.821875,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 370184285,
+      "lat": 13.452789,
+      "lon": -16.670776,
+      "name": "Green Bus Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 4315506596,
+      "lat": 13.169738,
+      "lon": -16.760827,
+      "name": "Gunjur police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6027550086,
+      "lat": 13.299364,
+      "lon": -14.207368,
+      "name": "Jah Oil Petrol Station - Mansajang",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6299152597,
+      "lat": 13.304941,
+      "lon": -14.210106,
+      "name": "Jallow's Gas Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6299161496,
+      "lat": 13.307543,
+      "lon": -14.210052,
+      "name": "Jallow's Petrol Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 3741578138,
+      "lat": 13.46232,
+      "lon": -16.687866,
+      "name": "Jet Stationary",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 3741582713,
+      "lat": 13.462826,
+      "lon": -16.688237,
+      "name": "Kairaba Stationary",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5307044027,
+      "lat": 13.492939,
+      "lon": -16.08883,
+      "name": "Kerewan Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6299160389,
+      "lat": 13.444743,
+      "lon": -16.703741,
+      "name": "Manjai Petrol Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 13340705740,
+      "lat": 13.444798,
+      "lon": -16.701561,
+      "name": "Manjay Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158173690,
+      "lat": 13.459707,
+      "lon": -15.537389,
+      "name": "Mansakonko police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 3741578139,
+      "lat": 13.462362,
+      "lon": -16.68789,
+      "name": "Modern Stationary",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 11913991836,
+      "lat": 13.314616,
+      "lon": -16.663656,
+      "name": "NP Petrol Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158214277,
+      "lat": 13.368361,
+      "lon": -16.679814,
+      "name": "police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 3741578144,
+      "lat": 13.462614,
+      "lon": -16.687391,
+      "name": "Prime Stationary",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9118721610,
+      "lat": 13.443834,
+      "lon": -15.536615,
+      "name": "Samboujang Fuel Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6498234685,
+      "lat": 13.572025,
+      "lon": -15.596722,
+      "name": "Sankareh’s Stationary and Book Shop",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5592103823,
+      "lat": 13.406331,
+      "lon": -16.730006,
+      "name": "Senegambia Gare",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 5235509513,
+      "lat": 13.817513,
+      "lon": -13.921949,
+      "name": "Sinthiou Maleme",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 371244323,
+      "lat": 13.440671,
+      "lon": -15.535003,
+      "name": "Soma Carpark",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158102886,
+      "lat": 13.454079,
+      "lon": -15.535854,
+      "name": "Soma Fire Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158117109,
+      "lat": 13.453229,
+      "lon": -15.535865,
+      "name": "Soma Fire Station Resident",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158165455,
+      "lat": 13.441602,
+      "lon": -15.53131,
+      "name": "Soma police station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 1477024843,
+      "lat": 13.407073,
+      "lon": -16.727902,
+      "name": "Unnamed (way 1477024843)",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 255213795,
+      "lat": 13.336032,
+      "lon": -13.821841,
+      "name": "Unnamed (way 255213795)",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 370435339,
+      "lat": 13.573092,
+      "lon": -15.591386,
+      "name": "Unnamed (way 370435339)",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 462820458,
+      "lat": 13.145673,
+      "lon": -14.103199,
+      "name": "Unnamed (way 462820458)",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6029690791,
+      "lat": 13.693086,
+      "lon": -14.879686,
+      "name": "Wassu Police and Immigration Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 4085411833,
+      "lat": 13.479516,
+      "lon": -15.558917,
+      "name": "Weigh Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 6988066585,
+      "lat": 13.398455,
+      "lon": -16.673526,
+      "name": "Wellingara Police Station",
+      "type": "station",
+      "country": "GM"
+    }
+  ]
+}

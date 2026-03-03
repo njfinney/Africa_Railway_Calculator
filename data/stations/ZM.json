@@ -1,0 +1,5903 @@
+{
+  "country": "ZM",
+  "name": "Zambia",
+  "region": "Southern Africa",
+  "bbox": [
+    -18.08,
+    21.99,
+    -8.19,
+    33.71
+  ],
+  "extracted": "2026-03-03T12:26:00.368Z",
+  "count": 736,
+  "stations": [
+    {
+      "id": 13336583423,
+      "lat": -15.498667,
+      "lon": 28.257924,
+      "name": "Admire Energy Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12057220466,
+      "lat": -12.834177,
+      "lon": 28.118436,
+      "name": "Alfa Filling station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10796906888,
+      "lat": -17.953309,
+      "lon": 31.013761,
+      "name": "All Stationary",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4735521921,
+      "lat": -17.793798,
+      "lon": 31.033796,
+      "name": "Avo Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 487762369,
+      "lat": -15.437917,
+      "lon": 28.244071,
+      "name": "Banda Masauko Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11153425443,
+      "lat": -17.39107,
+      "lon": 30.389298,
+      "name": "Banket",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146942914,
+      "lat": -16.776758,
+      "lon": 27.246637,
+      "name": "Batoka",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4120741046,
+      "lat": -11.868437,
+      "lon": 27.460279,
+      "name": "Baya",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991816,
+      "lat": -8.937284,
+      "lon": 33.416011,
+      "name": "Beta Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11428649567,
+      "lat": -10.206911,
+      "lon": 26.032135,
+      "name": "Biano",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11150774805,
+      "lat": -17.3097,
+      "lon": 31.327443,
+      "name": "Bindura",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991780,
+      "lat": -8.936585,
+      "lon": 33.417106,
+      "name": "BJM Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146660388,
+      "lat": -17.137526,
+      "lon": 25.333704,
+      "name": "Bombwe",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 5506070428,
+      "lat": -17.903356,
+      "lon": 30.930219,
+      "name": "Budiriro Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11417696916,
+      "lat": -9.201018,
+      "lon": 25.858719,
+      "name": "Bukama",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119088238,
+      "lat": -11.005728,
+      "lon": 26.823888,
+      "name": "Buluo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2266256952,
+      "lat": -13.544365,
+      "lon": 23.111022,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 243297039,
+      "lat": -15.272062,
+      "lon": 23.135486,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13345242476,
+      "lat": -15.532296,
+      "lon": 28.261367,
+      "name": "Camel Oil Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13345242477,
+      "lat": -15.530825,
+      "lon": 28.26208,
+      "name": "Camel Oil Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10973978826,
+      "lat": -17.30588,
+      "lon": 31.563067,
+      "name": "Candid Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4810797923,
+      "lat": -12.559574,
+      "lon": 28.255975,
+      "name": "CCS Gas Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4155824759,
+      "lat": -13.042945,
+      "lon": 30.485831,
+      "name": "Chakalamo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2743361310,
+      "lat": -10.962957,
+      "lon": 31.071388,
+      "name": "Chambeshi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4150955003,
+      "lat": -12.660975,
+      "lon": 28.075878,
+      "name": "Chambeshi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2779241448,
+      "lat": -9.79906,
+      "lon": 31.640291,
+      "name": "Chandaweyaya",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9613286480,
+      "lat": -14.334388,
+      "lon": 28.46645,
+      "name": "Chankwakwa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 541559878,
+      "lat": -17.834104,
+      "lon": 31.048873,
+      "name": "Charge Office Taxi Rank",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5856746487,
+      "lat": -15.370951,
+      "lon": 28.38304,
+      "name": "Chelstone police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9561247737,
+      "lat": -13.626618,
+      "lon": 29.394814,
+      "name": "Chibefwe Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5915557785,
+      "lat": -16.806572,
+      "lon": 29.697125,
+      "name": "Chikangwe Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6035902259,
+      "lat": -12.292099,
+      "lon": 33.174861,
+      "name": "Chikaya Community Radio Station(98.5FM)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557733,
+      "lat": -8.936133,
+      "lon": 33.153299,
+      "name": "Chikola",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 5197937722,
+      "lat": -14.758534,
+      "lon": 28.362174,
+      "name": "Chikonkomene",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1210163935,
+      "lat": -10.200498,
+      "lon": 31.194214,
+      "name": "Chikumanino Main Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2669252029,
+      "lat": -15.451075,
+      "lon": 28.337633,
+      "name": "Chilenje Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4149593418,
+      "lat": -12.387416,
+      "lon": 27.8485,
+      "name": "Chililabombwe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918147390,
+      "lat": -12.02587,
+      "lon": 31.275665,
+      "name": "Chilonga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2777688866,
+      "lat": -9.884788,
+      "lon": 31.538046,
+      "name": "Chimba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3097110710,
+      "lat": -12.540896,
+      "lon": 27.853466,
+      "name": "Chingola",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4881750223,
+      "lat": -12.5477,
+      "lon": 27.851365,
+      "name": "Chingola bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13368299906,
+      "lat": -15.372079,
+      "lon": 28.256432,
+      "name": "Chingwere (Main Station)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11153297607,
+      "lat": -17.372418,
+      "lon": 30.183885,
+      "name": "Chinhoyi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1298194246,
+      "lat": -17.37347,
+      "lon": 30.197819,
+      "name": "Chinhoyi main rank (bus terminus)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2688274474,
+      "lat": -13.671498,
+      "lon": 32.641621,
+      "name": "Chipata",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5410019947,
+      "lat": -13.634774,
+      "lon": 32.63765,
+      "name": "Chipata Fire Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4823140123,
+      "lat": -13.638265,
+      "lon": 32.645261,
+      "name": "Chipata Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13523875270,
+      "lat": -15.644054,
+      "lon": 28.260032,
+      "name": "Chipongwe",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 918272302,
+      "lat": -14.980768,
+      "lon": 28.379634,
+      "name": "Chisamba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11283066913,
+      "lat": -13.318843,
+      "lon": 29.997564,
+      "name": "Chisangwa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 6549310985,
+      "lat": -9.97483,
+      "lon": 33.392842,
+      "name": "Chisenga Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5597821322,
+      "lat": -9.70109,
+      "lon": 33.264522,
+      "name": "Chitipa Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2266243782,
+      "lat": -13.834744,
+      "lon": 23.209769,
+      "name": "Chitokoloki Mission Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918274005,
+      "lat": -16.811699,
+      "lon": 26.984407,
+      "name": "Choma",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5245377021,
+      "lat": -16.806309,
+      "lon": 26.991944,
+      "name": "Choma Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9561247736,
+      "lat": -14.452744,
+      "lon": 28.449109,
+      "name": "Chowa Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2781211910,
+      "lat": -9.397147,
+      "lon": 32.24883,
+      "name": "Chozi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7557167951,
+      "lat": -15.361558,
+      "lon": 28.251492,
+      "name": "Chunga bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11793294980,
+      "lat": -13.636021,
+      "lon": 32.648863,
+      "name": "Comesa Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10786878045,
+      "lat": -17.828604,
+      "lon": 31.043782,
+      "name": "Comtek Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152432649,
+      "lat": -17.393441,
+      "lon": 30.948454,
+      "name": "Concession",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991782,
+      "lat": -8.937178,
+      "lon": 33.416033,
+      "name": "D. Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 8746080946,
+      "lat": -10.698859,
+      "lon": 22.344234,
+      "name": "Dilolo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 629460305,
+      "lat": -10.698567,
+      "lon": 22.344235,
+      "name": "Dilolo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5648549744,
+      "lat": -10.39931,
+      "lon": 26.070334,
+      "name": "Dilongo Yulu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4113924338,
+      "lat": -10.598703,
+      "lon": 22.996412,
+      "name": "Divuma",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4621749790,
+      "lat": -12.796421,
+      "lon": 28.205997,
+      "name": "ECO Gas Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7912433802,
+      "lat": -15.453827,
+      "lon": 28.268068,
+      "name": "Engen Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10853161548,
+      "lat": -15.454874,
+      "lon": 28.267261,
+      "name": "Engen Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11809828718,
+      "lat": -15.407023,
+      "lon": 28.287217,
+      "name": "Engen Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5749901322,
+      "lat": -17.838516,
+      "lon": 31.119136,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4643939191,
+      "lat": -12.819417,
+      "lon": 28.207575,
+      "name": "Euro Bus Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5513621141,
+      "lat": -8.929118,
+      "lon": 33.416278,
+      "name": "Faith Stationary",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13051595929,
+      "lat": -17.849086,
+      "lon": 25.856969,
+      "name": "Fast Stationary",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918147815,
+      "lat": -12.718984,
+      "lon": 30.984035,
+      "name": "Finkuli",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12840712601,
+      "lat": -17.759856,
+      "lon": 31.087723,
+      "name": "Folio books and stationary",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3612513117,
+      "lat": -16.027812,
+      "lon": 27.549937,
+      "name": "Forest Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2296405746,
+      "lat": -16.158702,
+      "lon": 33.583345,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4013216603,
+      "lat": -12.987778,
+      "lon": 28.656149,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1308981660,
+      "lat": -8.484785,
+      "lon": 25.010516,
+      "name": "Fukui",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 902447610,
+      "lat": -13.800401,
+      "lon": 32.876078,
+      "name": "Fullstation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4118551611,
+      "lat": -10.617151,
+      "lon": 26.323934,
+      "name": "Fungurume",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 983268780,
+      "lat": -10.714279,
+      "lon": 25.482391,
+      "name": "Gare de Kolwezi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1173548974,
+      "lat": -10.633467,
+      "lon": 25.999442,
+      "name": "Gare de Pumpi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4151867974,
+      "lat": -12.737466,
+      "lon": 28.16988,
+      "name": "Garneton",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4019993589,
+      "lat": -12.847273,
+      "lon": 28.22218,
+      "name": "Gas station shop",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4778926121,
+      "lat": -17.895165,
+      "lon": 30.96717,
+      "name": "Glen Norah Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 307820913,
+      "lat": -17.357789,
+      "lon": 31.059405,
+      "name": "Glendale",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5506070426,
+      "lat": -17.90599,
+      "lon": 30.946867,
+      "name": "Glenview Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4757658645,
+      "lat": -15.442462,
+      "lon": 28.236131,
+      "name": "God is able stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4587854592,
+      "lat": -11.644666,
+      "lon": 27.43281,
+      "name": "GPM Station service",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9243653549,
+      "lat": -17.835067,
+      "lon": 31.052215,
+      "name": "Harare",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4767718121,
+      "lat": -17.836027,
+      "lon": 31.029695,
+      "name": "Harare Central Fire Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10864461095,
+      "lat": -17.881064,
+      "lon": 31.083553,
+      "name": "Hatfield Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9918976117,
+      "lat": -17.855555,
+      "lon": 30.543222,
+      "name": "Hunyani Estate pump  station 2",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1912650367,
+      "lat": -8.966279,
+      "lon": 33.266044,
+      "name": "Idiga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4181224736,
+      "lat": -11.242769,
+      "lon": 24.270796,
+      "name": "Ikelenge Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5407156021,
+      "lat": -9.106891,
+      "lon": 32.937645,
+      "name": "Ilas petro station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1168404489,
+      "lat": -15.406515,
+      "lon": 28.279771,
+      "name": "Impala Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11271729327,
+      "lat": -15.406553,
+      "lon": 28.279967,
+      "name": "Impala Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 99296406,
+      "lat": -15.421366,
+      "lon": 28.286077,
+      "name": "Intercity Bus Terminal",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2203442295,
+      "lat": -8.877513,
+      "lon": 33.604306,
+      "name": "Inyala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918124402,
+      "lat": -10.690219,
+      "lon": 31.16591,
+      "name": "Ishitu",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 6472253619,
+      "lat": -15.738568,
+      "lon": 26.033986,
+      "name": "Itezhi tezhi Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9561247729,
+      "lat": -15.745914,
+      "lon": 26.02484,
+      "name": "Itezhi-Tezhi Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 919473189,
+      "lat": -18.005878,
+      "lon": 25.779898,
+      "name": "Jafuta",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4739827884,
+      "lat": -15.422664,
+      "lon": 28.246621,
+      "name": "JAP Computer & Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10672701090,
+      "lat": -15.400107,
+      "lon": 28.375409,
+      "name": "Jemco Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4552103633,
+      "lat": -11.632426,
+      "lon": 27.48668,
+      "name": "Jeux Vidéos Play Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5514288627,
+      "lat": -8.936658,
+      "lon": 33.417223,
+      "name": "JJ Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5623535323,
+      "lat": -9.702023,
+      "lon": 33.271668,
+      "name": "Jose K Investments Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10037729760,
+      "lat": -12.378011,
+      "lon": 28.191437,
+      "name": "Kabemba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 1309180938,
+      "lat": -8.910606,
+      "lon": 25.666241,
+      "name": "Kabondo-Dianda",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3816695048,
+      "lat": -11.551532,
+      "lon": 31.275533,
+      "name": "Kabuka",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10037729758,
+      "lat": -12.671668,
+      "lon": 28.523721,
+      "name": "Kabumba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 13524388453,
+      "lat": -17.498112,
+      "lon": 26.000413,
+      "name": "Kabuyu Siding",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4736269225,
+      "lat": -15.434505,
+      "lon": 28.308799,
+      "name": "Kabwata Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 315812213,
+      "lat": -14.44781,
+      "lon": 28.440744,
+      "name": "Kabwe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11394060294,
+      "lat": -14.37838,
+      "lon": 28.454538,
+      "name": "Kabwe North",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 411184810,
+      "lat": -17.869261,
+      "lon": 30.915923,
+      "name": "Kafudzamomhe Avenue Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918271098,
+      "lat": -15.771376,
+      "lon": 28.177328,
+      "name": "Kafue",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435602587,
+      "lat": -13.311512,
+      "lon": 28.751513,
+      "name": "Kafulafuta",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 381274746,
+      "lat": -10.653638,
+      "lon": 22.672131,
+      "name": "Kahundu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 629090250,
+      "lat": -10.652141,
+      "lon": 22.674548,
+      "name": "Kahundu Gare",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1238284707,
+      "lat": -10.653511,
+      "lon": 22.671889,
+      "name": "Kahundu Railway Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 629096315,
+      "lat": -10.420428,
+      "lon": 23.668997,
+      "name": "Kakopa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245679273,
+      "lat": -17.635306,
+      "lon": 25.682983,
+      "name": "Kalamba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 10076334817,
+      "lat": -8.410352,
+      "lon": 31.948755,
+      "name": "Kalambanzitwe bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11428649557,
+      "lat": -10.134641,
+      "lon": 25.95481,
+      "name": "Kalenga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2713789833,
+      "lat": -17.02161,
+      "lon": 26.488293,
+      "name": "Kalomo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918146618,
+      "lat": -12.375801,
+      "lon": 31.101859,
+      "name": "Kalonje",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9969322267,
+      "lat": -12.606769,
+      "lon": 31.008012,
+      "name": "Kalonje Pump Station Clinic",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435408734,
+      "lat": -9.691906,
+      "lon": 25.876499,
+      "name": "Kalule",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2532306904,
+      "lat": -9.608687,
+      "lon": 31.987999,
+      "name": "Kalulu",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4119063576,
+      "lat": -10.872915,
+      "lon": 26.612181,
+      "name": "Kambove",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5245887393,
+      "lat": -8.73656,
+      "lon": 25.002982,
+      "name": "Kamina",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4625881790,
+      "lat": -12.566632,
+      "lon": 28.232888,
+      "name": "Kamuchanga Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4880152152,
+      "lat": -13.829606,
+      "lon": 33.040318,
+      "name": "Kamwembo Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118458,
+      "lat": -17.438218,
+      "lon": 25.439205,
+      "name": "Kanema",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 9557517171,
+      "lat": -14.531453,
+      "lon": 28.406986,
+      "name": "Kangomba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 11465792208,
+      "lat": -12.890721,
+      "lon": 28.55899,
+      "name": "Kaniki",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4155841284,
+      "lat": -13.048859,
+      "lon": 30.655005,
+      "name": "Kanona",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3915419957,
+      "lat": -10.313445,
+      "lon": 26.040036,
+      "name": "Kansenia",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1483877861,
+      "lat": -14.796299,
+      "lon": 24.796375,
+      "name": "Kaoma Main Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2546465866,
+      "lat": -13.632337,
+      "lon": 32.647754,
+      "name": "Kapata Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10076598717,
+      "lat": -8.376147,
+      "lon": 32.268524,
+      "name": "Kapeta police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2162271333,
+      "lat": -13.967843,
+      "lon": 28.676103,
+      "name": "Kapiri Mposhi Main Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4155926908,
+      "lat": -12.176525,
+      "lon": 31.177705,
+      "name": "Kapoko",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4119095139,
+      "lat": -11.044913,
+      "lon": 26.948608,
+      "name": "Kapolowe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4120551584,
+      "lat": -11.818238,
+      "lon": 27.393932,
+      "name": "Kaponda",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2732684717,
+      "lat": -9.309537,
+      "lon": 32.475526,
+      "name": "Kapwila",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 910830526,
+      "lat": -16.523403,
+      "lon": 28.76657,
+      "name": "Kariba Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 8474718029,
+      "lat": -15.150459,
+      "lon": 28.365226,
+      "name": "Karubwe",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 629090269,
+      "lat": -10.384859,
+      "lon": 23.4507,
+      "name": "Kasaji",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918097757,
+      "lat": -10.243463,
+      "lon": 31.206705,
+      "name": "Kasama",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 410655892,
+      "lat": -17.797028,
+      "lon": 25.156371,
+      "name": "Kasane Bus Rank",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435675170,
+      "lat": -8.560945,
+      "lon": 24.793335,
+      "name": "Kasao",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5197984788,
+      "lat": -14.577575,
+      "lon": 28.379366,
+      "name": "Kasavasa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 315814978,
+      "lat": -13.709655,
+      "lon": 28.665912,
+      "name": "Kashitu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3817081144,
+      "lat": -11.312975,
+      "lon": 31.233254,
+      "name": "Kasongo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1309182355,
+      "lat": -12.206327,
+      "lon": 27.80178,
+      "name": "Kasumbalesa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 2135846560,
+      "lat": -17.857002,
+      "lon": 25.389017,
+      "name": "Katamora Field station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5806317454,
+      "lat": -17.877523,
+      "lon": 30.672368,
+      "name": "Katanga Sub Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146445194,
+      "lat": -17.042931,
+      "lon": 25.297011,
+      "name": "Katemwa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 5193429025,
+      "lat": -14.064191,
+      "lon": 32.048643,
+      "name": "Katete Firestation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5491809524,
+      "lat": -14.09735,
+      "lon": 32.075738,
+      "name": "Katete Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3366477732,
+      "lat": -17.491052,
+      "lon": 24.278899,
+      "name": "Katima Mulilo Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7681780718,
+      "lat": -10.660979,
+      "lon": 22.747085,
+      "name": "Katoka Brethren Assembly (Garenganze)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 667945120,
+      "lat": -8.388599,
+      "lon": 24.661977,
+      "name": "Katongola",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3170460094,
+      "lat": -10.675808,
+      "lon": 22.50442,
+      "name": "Katshilao",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11494063743,
+      "lat": -13.71722,
+      "lon": 29.254902,
+      "name": "Katuba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 13368230200,
+      "lat": -15.372212,
+      "lon": 28.351072,
+      "name": "Kaunda Square Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11283092307,
+      "lat": -13.175012,
+      "lon": 30.333975,
+      "name": "Kawaluma",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4119108235,
+      "lat": -11.51114,
+      "lon": 27.428767,
+      "name": "Kawama",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118457,
+      "lat": -17.508253,
+      "lon": 25.551565,
+      "name": "Kawayo",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 6173735179,
+      "lat": -12.236228,
+      "lon": 27.930937,
+      "name": "Kawimba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 629097603,
+      "lat": -10.576107,
+      "lon": 24.724271,
+      "name": "Kayembe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 629099763,
+      "lat": -10.788415,
+      "lon": 25.623349,
+      "name": "Kazembe",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 5276892834,
+      "lat": -17.826689,
+      "lon": 25.300656,
+      "name": "Kazungula Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 282447271,
+      "lat": -17.807392,
+      "lon": 31.033676,
+      "name": "Kensington Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1309196974,
+      "lat": -10.656856,
+      "lon": 25.286337,
+      "name": "Kiala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 383717888,
+      "lat": -8.887623,
+      "lon": 25.452006,
+      "name": "Kibula",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1711335324,
+      "lat": -8.659246,
+      "lon": 24.869089,
+      "name": "Kikoko",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 383698447,
+      "lat": -9.129435,
+      "lon": 25.86288,
+      "name": "Kilenge",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119159064,
+      "lat": -11.773591,
+      "lon": 27.238741,
+      "name": "Kipushi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 382786322,
+      "lat": -10.68816,
+      "lon": 25.940455,
+      "name": "Kisanfu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4118491021,
+      "lat": -10.771455,
+      "lon": 25.818727,
+      "name": "Kisenda",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1808841170,
+      "lat": -10.694589,
+      "lon": 23.18565,
+      "name": "Kisenge",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435812522,
+      "lat": -9.386851,
+      "lon": 25.810372,
+      "name": "Kisulu",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 435630432,
+      "lat": -12.82249,
+      "lon": 28.206586,
+      "name": "Kitwe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1166316734,
+      "lat": -12.820057,
+      "lon": 28.204508,
+      "name": "Kitwe Central Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4620909592,
+      "lat": -12.816196,
+      "lon": 28.202526,
+      "name": "KMB Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 983144007,
+      "lat": -10.714024,
+      "lon": 25.482703,
+      "name": "Kolwezi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6312804685,
+      "lat": -12.666693,
+      "lon": 28.07762,
+      "name": "KS Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 283146355,
+      "lat": -15.423531,
+      "lon": 28.280317,
+      "name": "Kulima Tower Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3041481296,
+      "lat": -10.183819,
+      "lon": 31.240002,
+      "name": "Kungu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12625466803,
+      "lat": -17.91859,
+      "lon": 31.122052,
+      "name": "Kutsaga Reseach Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5228767122,
+      "lat": -17.822533,
+      "lon": 30.942351,
+      "name": "Kuwadzana Fire Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435722925,
+      "lat": -10.603512,
+      "lon": 26.222124,
+      "name": "Kwatebala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435406996,
+      "lat": -10.551188,
+      "lon": 25.175487,
+      "name": "Kyabuymbi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5203034823,
+      "lat": -12.997611,
+      "lon": 28.64314,
+      "name": "Lake Petroleum Gas Station Masala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5219734024,
+      "lat": -12.997596,
+      "lon": 28.642561,
+      "name": "Lake Petroleum Gas Station Masala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12749023801,
+      "lat": -13.140186,
+      "lon": 28.437438,
+      "name": "Leonard Mpundu Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1768435181,
+      "lat": -15.443224,
+      "lon": 28.321071,
+      "name": "Libala Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435439148,
+      "lat": -10.984434,
+      "lon": 26.734913,
+      "name": "Likasi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7169160888,
+      "lat": -10.205494,
+      "lon": 31.184026,
+      "name": "Likili Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4148773867,
+      "lat": -15.512709,
+      "lon": 28.297598,
+      "name": "Lilayi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 237638170,
+      "lat": -17.859265,
+      "lon": 25.856783,
+      "name": "Livingstone",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4181224732,
+      "lat": -13.405999,
+      "lon": 24.328794,
+      "name": "Loloma Mission Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7664006787,
+      "lat": -15.136445,
+      "lon": 23.654072,
+      "name": "Looma Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4463375000,
+      "lat": -17.788006,
+      "lon": 30.988683,
+      "name": "Lorraine Drive Petrol Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4118491010,
+      "lat": -10.781199,
+      "lon": 25.730562,
+      "name": "Lualaba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1309182354,
+      "lat": -10.820778,
+      "lon": 26.740236,
+      "name": "Luambo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11494103190,
+      "lat": -13.904626,
+      "lon": 28.846355,
+      "name": "Luanshimba",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 8746050618,
+      "lat": -10.704897,
+      "lon": 22.226369,
+      "name": "Luau",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 296194451,
+      "lat": -10.705248,
+      "lon": 22.226638,
+      "name": "Luau",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918273107,
+      "lat": -15.866095,
+      "lon": 27.872595,
+      "name": "Lubombo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7820871276,
+      "lat": -9.954688,
+      "lon": 25.964312,
+      "name": "Lubudi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1308996831,
+      "lat": -11.666323,
+      "lon": 27.490337,
+      "name": "Lubumbashi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4126647002,
+      "lat": -9.459623,
+      "lon": 32.023164,
+      "name": "Luchewe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 380982263,
+      "lat": -9.442329,
+      "lon": 25.784644,
+      "name": "Luena",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 382108102,
+      "lat": -10.624618,
+      "lon": 24.931786,
+      "name": "Lufupa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1308981653,
+      "lat": -8.647893,
+      "lon": 25.045408,
+      "name": "Lukoka",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11491919740,
+      "lat": -12.864876,
+      "lon": 30.843001,
+      "name": "Lukulu",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 1245678551,
+      "lat": -12.08119,
+      "lon": 27.513653,
+      "name": "Lumata",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557781,
+      "lat": -8.816241,
+      "lon": 33.643076,
+      "name": "Lumba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245676891,
+      "lat": -12.556544,
+      "lon": 28.471595,
+      "name": "Lumina",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13368269265,
+      "lat": -15.413617,
+      "lon": 28.276611,
+      "name": "Lumumba Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6031293478,
+      "lat": -12.292431,
+      "lon": 33.175663,
+      "name": "Lundazi Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435627958,
+      "lat": -10.492267,
+      "lon": 24.288152,
+      "name": "Lungenda",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11793294979,
+      "lat": -13.635275,
+      "lon": 32.64683,
+      "name": "Lunkhwakwa Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918163923,
+      "lat": -13.789764,
+      "lon": 29.050734,
+      "name": "Lunsemfwa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918269446,
+      "lat": -15.41952,
+      "lon": 28.283936,
+      "name": "Lusaka",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 288439175,
+      "lat": -15.419929,
+      "lon": 28.284187,
+      "name": "Lusaka Railway Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2715080014,
+      "lat": -12.950507,
+      "lon": 30.686345,
+      "name": "Lusiwasi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3300723268,
+      "lat": -8.803223,
+      "lon": 25.314155,
+      "name": "Luvua",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4149519554,
+      "lat": -14.146718,
+      "lon": 28.55164,
+      "name": "Lwanshimba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119096078,
+      "lat": -11.156522,
+      "lon": 27.015706,
+      "name": "Lwishia",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4461868136,
+      "lat": -17.894967,
+      "lon": 30.989138,
+      "name": "Machipisa Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4120781722,
+      "lat": -12.405302,
+      "lon": 28.241262,
+      "name": "Mafuta",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4147009668,
+      "lat": -16.005569,
+      "lon": 27.609226,
+      "name": "Magoye",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2779248279,
+      "lat": -9.665568,
+      "lon": 31.897767,
+      "name": "Makasa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1309180936,
+      "lat": -9.551444,
+      "lon": 25.805242,
+      "name": "Makulakulu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146706205,
+      "lat": -17.534324,
+      "lon": 25.643707,
+      "name": "Makunka",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 2969129536,
+      "lat": -16.312996,
+      "lon": 29.255789,
+      "name": "Makuti Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557784,
+      "lat": -8.803733,
+      "lon": 33.614759,
+      "name": "Malamba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 567596237,
+      "lat": -8.803932,
+      "lon": 33.614831,
+      "name": "Malamba Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 623055937,
+      "lat": -10.421786,
+      "lon": 23.168765,
+      "name": "Malonga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13368299917,
+      "lat": -15.369276,
+      "lon": 28.276318,
+      "name": "Mandevu bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4181209674,
+      "lat": -13.416483,
+      "lon": 24.332002,
+      "name": "Manyinga Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4296011295,
+      "lat": -13.409536,
+      "lon": 24.333855,
+      "name": "Manyinga Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118459,
+      "lat": -17.341948,
+      "lon": 25.363885,
+      "name": "Manzianzena",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 10665681977,
+      "lat": -15.394445,
+      "lon": 28.361773,
+      "name": "Margaret's Bar",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152669908,
+      "lat": -17.714213,
+      "lon": 30.55132,
+      "name": "Maringove",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 408937261,
+      "lat": -17.837021,
+      "lon": 31.042039,
+      "name": "Market Square",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152753536,
+      "lat": -17.649129,
+      "lon": 30.490412,
+      "name": "Maryland",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6467844187,
+      "lat": -13.005361,
+      "lon": 28.646069,
+      "name": "Masala Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918272259,
+      "lat": -15.856476,
+      "lon": 27.762991,
+      "name": "Mazabuka",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 8679561017,
+      "lat": -15.855042,
+      "lon": 27.760508,
+      "name": "Mazabuka main bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6480221341,
+      "lat": -8.935957,
+      "lon": 33.351208,
+      "name": "Mbailizi Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6911034985,
+      "lat": -8.843488,
+      "lon": 31.370882,
+      "name": "Mbala Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 180798271,
+      "lat": -8.941693,
+      "lon": 33.350267,
+      "name": "mbalizi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1912629184,
+      "lat": -8.941964,
+      "lon": 33.350261,
+      "name": "Mbalizi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11792928086,
+      "lat": -13.636099,
+      "lon": 32.646878,
+      "name": "Mbanyane Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 214613004,
+      "lat": -17.859987,
+      "lon": 31.038133,
+      "name": "Mbare Musika Bus Terminal",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1271643937,
+      "lat": -17.853292,
+      "lon": 31.033737,
+      "name": "Mbare Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13368269253,
+      "lat": -15.426842,
+      "lon": 28.24026,
+      "name": "Mbasela Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557795,
+      "lat": -8.932109,
+      "lon": 33.411865,
+      "name": "Mbeya",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2063469859,
+      "lat": -8.891245,
+      "lon": 33.440257,
+      "name": "Mbeya Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 180791950,
+      "lat": -8.931675,
+      "lon": 33.411817,
+      "name": "Mbeya Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1280410128,
+      "lat": -15.480868,
+      "lon": 28.257821,
+      "name": "Meru Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13293895843,
+      "lat": -15.457481,
+      "lon": 28.265754,
+      "name": "Meru Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5774976057,
+      "lat": -15.414083,
+      "lon": 28.279356,
+      "name": "Millennium Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 529841243,
+      "lat": -17.809886,
+      "lon": 31.033375,
+      "name": "Milton Park Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5863048050,
+      "lat": -13.620168,
+      "lon": 29.394528,
+      "name": "Minibus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4149120301,
+      "lat": -14.874285,
+      "lon": 28.339443,
+      "name": "Miswa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 918163919,
+      "lat": -13.640012,
+      "lon": 29.40357,
+      "name": "Mkushi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918163597,
+      "lat": -13.564577,
+      "lon": 29.710225,
+      "name": "Mkushi River",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 2225652210,
+      "lat": -9.014862,
+      "lon": 32.990369,
+      "name": "Mlowo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5305742622,
+      "lat": -9.016197,
+      "lon": 33.003301,
+      "name": "Mlowo petrol station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245678490,
+      "lat": -12.434259,
+      "lon": 28.342952,
+      "name": "Mokambo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918272119,
+      "lat": -16.269913,
+      "lon": 27.478527,
+      "name": "Monze",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5245370627,
+      "lat": -16.277167,
+      "lon": 27.483006,
+      "name": "Monze Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016058696,
+      "lat": -17.856678,
+      "lon": 25.814298,
+      "name": "Moshi Oa-Tunya",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 11152531818,
+      "lat": -17.747741,
+      "lon": 30.93736,
+      "name": "Mount Hampdon Junction",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557801,
+      "lat": -9.262307,
+      "lon": 32.855627,
+      "name": "Mpemba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3818586682,
+      "lat": -11.08218,
+      "lon": 31.10696,
+      "name": "Mpepo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918124685,
+      "lat": -11.847627,
+      "lon": 31.390845,
+      "name": "Mpika",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9561247746,
+      "lat": -14.352476,
+      "lon": 28.005017,
+      "name": "Mpunde Police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2781211928,
+      "lat": -9.313037,
+      "lon": 32.611086,
+      "name": "Msanza",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10783673770,
+      "lat": -15.402327,
+      "lon": 28.356147,
+      "name": "Mtendere Police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10672868671,
+      "lat": -15.40224,
+      "lon": 28.356172,
+      "name": "Mtendere Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4150967500,
+      "lat": -12.539495,
+      "lon": 28.257265,
+      "name": "Mufulira",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7682193285,
+      "lat": -14.781623,
+      "lon": 24.606928,
+      "name": "Mukunkiki Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118479,
+      "lat": -16.932471,
+      "lon": 25.258272,
+      "name": "Mulanga",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 667943918,
+      "lat": -8.20812,
+      "lon": 24.605671,
+      "name": "Muleba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146443606,
+      "lat": -16.777215,
+      "lon": 25.172596,
+      "name": "Mulobezi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1309182353,
+      "lat": -10.774595,
+      "lon": 26.628819,
+      "name": "Mulungwishi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1112871790,
+      "lat": -11.598305,
+      "lon": 27.496371,
+      "name": "Mulykap",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7511066486,
+      "lat": -14.982687,
+      "lon": 27.060808,
+      "name": "Mumbwa Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3290265227,
+      "lat": -11.781712,
+      "lon": 27.498236,
+      "name": "Munama",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1308996853,
+      "lat": -10.447468,
+      "lon": 24.024996,
+      "name": "Mungulunga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11283644310,
+      "lat": -12.648361,
+      "lon": 31.016565,
+      "name": "Mununga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4694703110,
+      "lat": -17.27191,
+      "lon": 30.023237,
+      "name": "Murereka police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11757424669,
+      "lat": -17.932733,
+      "lon": 25.816303,
+      "name": "Murugare Lodge",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245677013,
+      "lat": -12.248398,
+      "lon": 27.641672,
+      "name": "Musoshi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4120774941,
+      "lat": -12.263241,
+      "lon": 27.755332,
+      "name": "Musoshi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435491673,
+      "lat": -10.649098,
+      "lon": 24.462003,
+      "name": "Mutshatsha",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4114513828,
+      "lat": -10.440424,
+      "lon": 24.14441,
+      "name": "Mutwila",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12347700760,
+      "lat": -9.823316,
+      "lon": 28.759665,
+      "name": "Mwansabombwe Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5365660874,
+      "lat": -10.384924,
+      "lon": 28.696534,
+      "name": "Mwense Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2732710668,
+      "lat": -9.330488,
+      "lon": 32.671212,
+      "name": "Mwenzo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4681234989,
+      "lat": -11.735784,
+      "lon": 24.431214,
+      "name": "Mwinilunga Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2806579942,
+      "lat": -11.902454,
+      "lon": 33.599709,
+      "name": "Mzimba Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2104442890,
+      "lat": -9.309431,
+      "lon": 32.757895,
+      "name": "Nakonde",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7696012466,
+      "lat": -9.324258,
+      "lon": 32.762125,
+      "name": "Nakonde Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5849409886,
+      "lat": -14.021629,
+      "lon": 33.361589,
+      "name": "Namitete Fuelstation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 901123301,
+      "lat": -15.75088,
+      "lon": 26.437034,
+      "name": "Namwala Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11335771741,
+      "lat": -17.754988,
+      "lon": 25.867885,
+      "name": "Natebe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 245290279,
+      "lat": -17.834957,
+      "lon": 31.051674,
+      "name": "National Railways Of Zimbabwe, Harare Train Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918163730,
+      "lat": -13.492462,
+      "lon": 29.819091,
+      "name": "Ndabala",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 315429655,
+      "lat": -12.963606,
+      "lon": 28.65427,
+      "name": "Ndola",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6461642986,
+      "lat": -12.975297,
+      "lon": 28.635839,
+      "name": "Ndola Central Fire Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2577323217,
+      "lat": -12.967016,
+      "lon": 28.656781,
+      "name": "Ndola Power Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7249253586,
+      "lat": -15.091523,
+      "lon": 23.773321,
+      "name": "Ndondo Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245677989,
+      "lat": -17.745043,
+      "lon": 25.707682,
+      "name": "Ndreve",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4147040785,
+      "lat": -15.832008,
+      "lon": 28.03008,
+      "name": "Nega Nega",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918163598,
+      "lat": -13.954915,
+      "lon": 28.681182,
+      "name": "New Kapiri Mposhi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4118590838,
+      "lat": -10.674944,
+      "lon": 26.431979,
+      "name": "Nguba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5648519836,
+      "lat": -10.673911,
+      "lon": 26.431891,
+      "name": "Nguba Gare",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5963670511,
+      "lat": -15.30786,
+      "lon": 28.325857,
+      "name": "Ngwerere Siding",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146660994,
+      "lat": -17.455711,
+      "lon": 25.473817,
+      "name": "Ngwezi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918124799,
+      "lat": -10.536706,
+      "lon": 31.202778,
+      "name": "Nkolemfumu",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918163434,
+      "lat": -13.600091,
+      "lon": 29.617547,
+      "name": "Nkolonga",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 11434951544,
+      "lat": -10.715311,
+      "lon": 26.542628,
+      "name": "Nkubitwe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5514285610,
+      "lat": -8.936415,
+      "lon": 33.417213,
+      "name": "Nmk Stationey",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155575285,
+      "lat": -17.892578,
+      "lon": 30.69091,
+      "name": "Norton",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12347802041,
+      "lat": -17.372221,
+      "lon": 30.183811,
+      "name": "NRZ",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2774731229,
+      "lat": -9.943272,
+      "lon": 31.260239,
+      "name": "Nseluka",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11544930781,
+      "lat": -8.519594,
+      "lon": 30.481337,
+      "name": "Nsumbu Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991803,
+      "lat": -8.937305,
+      "lon": 33.417299,
+      "name": "Nuru Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152662239,
+      "lat": -17.675073,
+      "lon": 30.807968,
+      "name": "Nyabira",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9285154313,
+      "lat": -14.634193,
+      "lon": 28.35027,
+      "name": "Nyama",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4542544791,
+      "lat": -14.558169,
+      "lon": 30.821085,
+      "name": "Nyimba Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10893694520,
+      "lat": -14.557776,
+      "lon": 30.831422,
+      "name": "Nymbia Eastern Water and Sanistation Company Ltd.",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12529045037,
+      "lat": -15.769503,
+      "lon": 28.180123,
+      "name": "Old Kafue Police Station (closed)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6901514985,
+      "lat": -10.200028,
+      "lon": 31.192719,
+      "name": "Old Mpulunga Bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10672701076,
+      "lat": -15.395731,
+      "lon": 28.372041,
+      "name": "Old station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4973893018,
+      "lat": -18.04106,
+      "lon": 22.199331,
+      "name": "Omega Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3669879727,
+      "lat": -15.360775,
+      "lon": 28.436618,
+      "name": "Oryx Waterfall Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5514285607,
+      "lat": -8.936627,
+      "lon": 33.417223,
+      "name": "P Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4146974586,
+      "lat": -16.520729,
+      "lon": 27.359811,
+      "name": "Pemba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 910786702,
+      "lat": -15.522609,
+      "lon": 28.261844,
+      "name": "Petroda Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4759610251,
+      "lat": -15.447163,
+      "lon": 28.242591,
+      "name": "Petroda Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10944111880,
+      "lat": -15.433299,
+      "lon": 28.279276,
+      "name": "Petroda Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 902447599,
+      "lat": -13.792178,
+      "lon": 32.895539,
+      "name": "Petroda Fullstation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10076598917,
+      "lat": -8.358147,
+      "lon": 32.277555,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6356962286,
+      "lat": -17.829331,
+      "lon": 31.044947,
+      "name": "Planas Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10745187713,
+      "lat": -17.829251,
+      "lon": 31.049567,
+      "name": "Plans Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5313018010,
+      "lat": -18.03819,
+      "lon": 24.317941,
+      "name": "Police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5680941622,
+      "lat": -16.539081,
+      "lon": 28.715106,
+      "name": "Police station of Siavonga",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7117064687,
+      "lat": -10.205318,
+      "lon": 31.183238,
+      "name": "Power Tools Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5514285604,
+      "lat": -8.936717,
+      "lon": 33.417571,
+      "name": "Prophet Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9485274584,
+      "lat": -14.54616,
+      "lon": 28.311781,
+      "name": "Prospect Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 900772914,
+      "lat": -15.770059,
+      "lon": 28.180203,
+      "name": "Puma filling station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1280410099,
+      "lat": -15.451004,
+      "lon": 28.269702,
+      "name": "Puma Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4341295125,
+      "lat": -15.437618,
+      "lon": 28.274889,
+      "name": "Puma Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4621728091,
+      "lat": -12.795386,
+      "lon": 28.207997,
+      "name": "Puma Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5749901321,
+      "lat": -17.838348,
+      "lon": 31.1128,
+      "name": "Puma Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5406868422,
+      "lat": -17.824509,
+      "lon": 31.058846,
+      "name": "PUMA Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6160969673,
+      "lat": -18.064271,
+      "lon": 25.598896,
+      "name": "Pump Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 381505092,
+      "lat": -10.633648,
+      "lon": 25.999561,
+      "name": "Pumpi",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5623535321,
+      "lat": -9.702185,
+      "lon": 33.272072,
+      "name": "R.M. Stationery Supplier",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12347802538,
+      "lat": -17.372047,
+      "lon": 30.184131,
+      "name": "Railway station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12355297051,
+      "lat": -17.358982,
+      "lon": 30.194333,
+      "name": "Rapid Range Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 902447598,
+      "lat": -13.795775,
+      "lon": 32.890681,
+      "name": "Renergen Fullstation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2685071384,
+      "lat": -17.833377,
+      "lon": 31.090524,
+      "name": "Rhodesville Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 315786351,
+      "lat": -17.830195,
+      "lon": 31.057006,
+      "name": "Roadport",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10669137001,
+      "lat": -15.407797,
+      "lon": 28.350299,
+      "name": "Rubis filling station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10895375578,
+      "lat": -14.296548,
+      "lon": 31.335272,
+      "name": "Rubis Petauke Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118472,
+      "lat": -17.287954,
+      "lon": 25.34721,
+      "name": "Saala",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 918124065,
+      "lat": -11.757407,
+      "lon": 31.347252,
+      "name": "Sabwa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10693615791,
+      "lat": -8.912496,
+      "lon": 33.494309,
+      "name": "SAE bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10693615792,
+      "lat": -8.912533,
+      "lon": 33.494816,
+      "name": "SAE bus station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2274110947,
+      "lat": -12.750242,
+      "lon": 28.554257,
+      "name": "Sakania",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11491721901,
+      "lat": -12.483633,
+      "lon": 31.066173,
+      "name": "Salamo",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4113912179,
+      "lat": -10.651219,
+      "lon": 22.798214,
+      "name": "Sambembe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13328520751,
+      "lat": -15.48013,
+      "lon": 28.257052,
+      "name": "SCC Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2601430766,
+      "lat": -17.624972,
+      "lon": 25.940452,
+      "name": "Senkobo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918146361,
+      "lat": -13.233495,
+      "lon": 30.216067,
+      "name": "Serenje",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991758,
+      "lat": -8.937226,
+      "lon": 33.416269,
+      "name": "Shalom Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11150774713,
+      "lat": -17.317014,
+      "lon": 31.561994,
+      "name": "Shamva",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9561247732,
+      "lat": -15.455022,
+      "lon": 27.839949,
+      "name": "Shibuyunji Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11804795495,
+      "lat": -15.370503,
+      "lon": 28.291091,
+      "name": "Shokazi Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11338283882,
+      "lat": -16.817013,
+      "lon": 26.833622,
+      "name": "Sibanyati",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 3496476242,
+      "lat": -17.808652,
+      "lon": 25.717045,
+      "name": "Simonga",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 5517690635,
+      "lat": -17.807068,
+      "lon": 25.714591,
+      "name": "Simonga Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10895389489,
+      "lat": -14.219301,
+      "lon": 31.786839,
+      "name": "Sinda Police Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10016118490,
+      "lat": -16.831151,
+      "lon": 25.207368,
+      "name": "Situmpa",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 4845761521,
+      "lat": -12.18066,
+      "lon": 26.397634,
+      "name": "Solwezi Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4798262821,
+      "lat": -15.399205,
+      "lon": 28.394388,
+      "name": "Spectra Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5837805786,
+      "lat": -14.643132,
+      "lon": 28.679527,
+      "name": "St. Margaret",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4620909591,
+      "lat": -12.819116,
+      "lon": 28.210061,
+      "name": "St. Margaret UCZ",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6944437485,
+      "lat": -14.669652,
+      "lon": 28.610998,
+      "name": "St. Veronica Outstation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4312910329,
+      "lat": -9.200093,
+      "lon": 25.85537,
+      "name": "Station d'epuration d'eau",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3740388709,
+      "lat": -11.696073,
+      "lon": 27.444732,
+      "name": "Station La Boeme",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4472367894,
+      "lat": -11.665916,
+      "lon": 27.419884,
+      "name": "Station La Boème",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4843447188,
+      "lat": -11.626671,
+      "lon": 27.48398,
+      "name": "Station la promesse",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2737524520,
+      "lat": -11.669839,
+      "lon": 27.482331,
+      "name": "Station MFS",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4552021657,
+      "lat": -11.628291,
+      "lon": 27.493284,
+      "name": "station tawakal petrolium",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527730794,
+      "lat": -8.934512,
+      "lon": 33.417219,
+      "name": "Stationary Service",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5365660869,
+      "lat": -10.384887,
+      "lon": 28.697147,
+      "name": "Stationery Store",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2631166355,
+      "lat": -17.796703,
+      "lon": 31.022444,
+      "name": "Strathaven Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12355297054,
+      "lat": -17.358234,
+      "lon": 30.195592,
+      "name": "Sugarese",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5310179716,
+      "lat": -17.783074,
+      "lon": 23.326234,
+      "name": "Susuwe Ranger Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918272064,
+      "lat": -16.149984,
+      "lon": 27.551297,
+      "name": "Tambero",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 11429049976,
+      "lat": -10.602611,
+      "lon": 26.119295,
+      "name": "Tenke",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 756334433,
+      "lat": -10.602313,
+      "lon": 26.119299,
+      "name": "Tenke",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3948488255,
+      "lat": -17.800032,
+      "lon": 25.150225,
+      "name": "The Stationary Box",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13368299928,
+      "lat": -15.432618,
+      "lon": 28.278848,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5125772222,
+      "lat": -17.738045,
+      "lon": 31.102064,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 902447625,
+      "lat": -13.832246,
+      "lon": 33.042323,
+      "name": "Total Fuelstation 01",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 8164007217,
+      "lat": -17.754026,
+      "lon": 30.999633,
+      "name": "Total gas station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4528266939,
+      "lat": -17.837985,
+      "lon": 31.198474,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5749901221,
+      "lat": -17.836873,
+      "lon": 31.10797,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5749901222,
+      "lat": -17.838997,
+      "lon": 31.120017,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5749901122,
+      "lat": -17.836323,
+      "lon": 31.104825,
+      "name": "Total Services Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13301679452,
+      "lat": -15.438714,
+      "lon": 28.276175,
+      "name": "TotalEnergies Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11153434692,
+      "lat": -17.537595,
+      "lon": 30.455673,
+      "name": "Trelawney",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 4121437593,
+      "lat": -10.527399,
+      "lon": 26.023435,
+      "name": "Tshilongo",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1245678140,
+      "lat": -12.309617,
+      "lon": 27.961053,
+      "name": "Tshinsenda",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4854469455,
+      "lat": -9.084729,
+      "lon": 25.705212,
+      "name": "Tshyafwe",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 847699783,
+      "lat": -9.318332,
+      "lon": 32.767756,
+      "name": "Tunduma",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 564238991,
+      "lat": -9.292207,
+      "lon": 32.760824,
+      "name": "TUNDUMA TERMINAL",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 690415773,
+      "lat": -18.027183,
+      "lon": 31.097809,
+      "name": "Unit N Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1098625856,
+      "lat": -15.390617,
+      "lon": 28.246983,
+      "name": "Unnamed (node 1098625856)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11149883887,
+      "lat": -17.996781,
+      "lon": 31.318922,
+      "name": "Unnamed (node 11149883887)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11149883898,
+      "lat": -17.890608,
+      "lon": 31.240943,
+      "name": "Unnamed (node 11149883898)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11150286562,
+      "lat": -17.860577,
+      "lon": 31.176275,
+      "name": "Unnamed (node 11150286562)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11150286564,
+      "lat": -17.860022,
+      "lon": 31.175065,
+      "name": "Unnamed (node 11150286564)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152385468,
+      "lat": -17.357642,
+      "lon": 31.060743,
+      "name": "Unnamed (node 11152385468)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11152385471,
+      "lat": -17.357775,
+      "lon": 31.060689,
+      "name": "Unnamed (node 11152385471)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11152385474,
+      "lat": -17.358344,
+      "lon": 31.054118,
+      "name": "Unnamed (node 11152385474)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11152451598,
+      "lat": -17.582957,
+      "lon": 30.886072,
+      "name": "Unnamed (node 11152451598)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152515322,
+      "lat": -17.668281,
+      "lon": 30.900469,
+      "name": "Unnamed (node 11152515322)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152662244,
+      "lat": -17.65999,
+      "lon": 30.719569,
+      "name": "Unnamed (node 11152662244)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152662277,
+      "lat": -17.682965,
+      "lon": 30.639219,
+      "name": "Unnamed (node 11152662277)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11152993887,
+      "lat": -17.347069,
+      "lon": 30.609069,
+      "name": "Unnamed (node 11152993887)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11152993891,
+      "lat": -17.346726,
+      "lon": 30.609125,
+      "name": "Unnamed (node 11152993891)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11153015511,
+      "lat": -17.346873,
+      "lon": 30.609025,
+      "name": "Unnamed (node 11153015511)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11153015514,
+      "lat": -17.347754,
+      "lon": 30.609008,
+      "name": "Unnamed (node 11153015514)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11153015523,
+      "lat": -17.346869,
+      "lon": 30.609208,
+      "name": "Unnamed (node 11153015523)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11153201897,
+      "lat": -17.265735,
+      "lon": 30.024894,
+      "name": "Unnamed (node 11153201897)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11155575214,
+      "lat": -17.832535,
+      "lon": 30.827303,
+      "name": "Unnamed (node 11155575214)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155575243,
+      "lat": -17.873354,
+      "lon": 30.907662,
+      "name": "Unnamed (node 11155575243)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155588027,
+      "lat": -17.890787,
+      "lon": 30.576665,
+      "name": "Unnamed (node 11155588027)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155643746,
+      "lat": -17.907048,
+      "lon": 30.443166,
+      "name": "Unnamed (node 11155643746)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155643774,
+      "lat": -17.967946,
+      "lon": 30.425652,
+      "name": "Unnamed (node 11155643774)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155643788,
+      "lat": -18.018528,
+      "lon": 30.368147,
+      "name": "Unnamed (node 11155643788)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11155652218,
+      "lat": -18.022911,
+      "lon": 30.305188,
+      "name": "Unnamed (node 11155652218)",
+      "type": "service_station",
+      "country": "ZM"
+    },
+    {
+      "id": 11338052635,
+      "lat": -17.109109,
+      "lon": 26.282801,
+      "name": "Unnamed (node 11338052635)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 11338804127,
+      "lat": -17.273333,
+      "lon": 27.097145,
+      "name": "Unnamed (node 11338804127)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11338804137,
+      "lat": -17.275325,
+      "lon": 27.098234,
+      "name": "Unnamed (node 11338804137)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11338804151,
+      "lat": -17.27065,
+      "lon": 27.110652,
+      "name": "Unnamed (node 11338804151)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11383794925,
+      "lat": -16.270443,
+      "lon": 27.475565,
+      "name": "Unnamed (node 11383794925)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11383794942,
+      "lat": -16.258696,
+      "lon": 27.477048,
+      "name": "Unnamed (node 11383794942)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11383982184,
+      "lat": -15.855827,
+      "lon": 27.760144,
+      "name": "Unnamed (node 11383982184)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11383982187,
+      "lat": -15.855334,
+      "lon": 27.763746,
+      "name": "Unnamed (node 11383982187)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11393853328,
+      "lat": -14.452731,
+      "lon": 28.448315,
+      "name": "Unnamed (node 11393853328)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11394060311,
+      "lat": -14.372527,
+      "lon": 28.456287,
+      "name": "Unnamed (node 11394060311)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11420567656,
+      "lat": -9.954036,
+      "lon": 25.96829,
+      "name": "Unnamed (node 11420567656)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11429049983,
+      "lat": -10.602286,
+      "lon": 26.118632,
+      "name": "Unnamed (node 11429049983)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11429050007,
+      "lat": -10.606782,
+      "lon": 26.123683,
+      "name": "Unnamed (node 11429050007)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11465193005,
+      "lat": -12.43555,
+      "lon": 28.344343,
+      "name": "Unnamed (node 11465193005)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 11465753254,
+      "lat": -12.981033,
+      "lon": 28.696497,
+      "name": "Unnamed (node 11465753254)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 12347802042,
+      "lat": -17.372287,
+      "lon": 30.183609,
+      "name": "Unnamed (node 12347802042)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1239636486,
+      "lat": -12.582008,
+      "lon": 27.930395,
+      "name": "Unnamed (node 1239636486)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1647129418,
+      "lat": -17.315324,
+      "lon": 31.563916,
+      "name": "Unnamed (node 1647129418)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1808917538,
+      "lat": -10.385198,
+      "lon": 23.291227,
+      "name": "Unnamed (node 1808917538)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1912565492,
+      "lat": -8.931494,
+      "lon": 33.409875,
+      "name": "Unnamed (node 1912565492)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912567561,
+      "lat": -8.932057,
+      "lon": 33.403589,
+      "name": "Unnamed (node 1912567561)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912567569,
+      "lat": -8.932193,
+      "lon": 33.410472,
+      "name": "Unnamed (node 1912567569)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912567574,
+      "lat": -8.932355,
+      "lon": 33.403583,
+      "name": "Unnamed (node 1912567574)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912567631,
+      "lat": -8.932855,
+      "lon": 33.403593,
+      "name": "Unnamed (node 1912567631)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912576212,
+      "lat": -8.931654,
+      "lon": 33.401413,
+      "name": "Unnamed (node 1912576212)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912576213,
+      "lat": -8.93171,
+      "lon": 33.401348,
+      "name": "Unnamed (node 1912576213)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912586866,
+      "lat": -8.932721,
+      "lon": 33.412162,
+      "name": "Unnamed (node 1912586866)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912586869,
+      "lat": -8.932793,
+      "lon": 33.412182,
+      "name": "Unnamed (node 1912586869)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912586917,
+      "lat": -8.933169,
+      "lon": 33.411621,
+      "name": "Unnamed (node 1912586917)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912586926,
+      "lat": -8.933287,
+      "lon": 33.410271,
+      "name": "Unnamed (node 1912586926)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912621224,
+      "lat": -8.932343,
+      "lon": 33.421507,
+      "name": "Unnamed (node 1912621224)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1912621227,
+      "lat": -8.93242,
+      "lon": 33.420538,
+      "name": "Unnamed (node 1912621227)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2229558525,
+      "lat": -8.943365,
+      "lon": 33.239259,
+      "name": "Unnamed (node 2229558525)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2241433432,
+      "lat": -17.31501,
+      "lon": 31.323889,
+      "name": "Unnamed (node 2241433432)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2241434006,
+      "lat": -17.321953,
+      "lon": 31.32691,
+      "name": "Unnamed (node 2241434006)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2242508931,
+      "lat": -9.78518,
+      "lon": 25.932992,
+      "name": "Unnamed (node 2242508931)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2256373249,
+      "lat": -17.404817,
+      "lon": 30.945299,
+      "name": "Unnamed (node 2256373249)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2271234365,
+      "lat": -17.361331,
+      "lon": 31.055501,
+      "name": "Unnamed (node 2271234365)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2271234366,
+      "lat": -17.361373,
+      "lon": 31.055507,
+      "name": "Unnamed (node 2271234366)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2271234377,
+      "lat": -17.361502,
+      "lon": 31.055517,
+      "name": "Unnamed (node 2271234377)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494206299,
+      "lat": -13.94847,
+      "lon": 28.689221,
+      "name": "Unnamed (node 2494206299)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494206401,
+      "lat": -13.953612,
+      "lon": 28.679959,
+      "name": "Unnamed (node 2494206401)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494229701,
+      "lat": -13.95433,
+      "lon": 28.680593,
+      "name": "Unnamed (node 2494229701)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494229705,
+      "lat": -13.95439,
+      "lon": 28.680636,
+      "name": "Unnamed (node 2494229705)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494229707,
+      "lat": -13.954562,
+      "lon": 28.679885,
+      "name": "Unnamed (node 2494229707)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2494229711,
+      "lat": -13.954726,
+      "lon": 28.679465,
+      "name": "Unnamed (node 2494229711)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525137645,
+      "lat": -17.835134,
+      "lon": 31.054401,
+      "name": "Unnamed (node 2525137645)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525137646,
+      "lat": -17.835179,
+      "lon": 31.054426,
+      "name": "Unnamed (node 2525137646)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525137647,
+      "lat": -17.835218,
+      "lon": 31.054466,
+      "name": "Unnamed (node 2525137647)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525139783,
+      "lat": -17.835714,
+      "lon": 31.053185,
+      "name": "Unnamed (node 2525139783)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525139785,
+      "lat": -17.835793,
+      "lon": 31.053227,
+      "name": "Unnamed (node 2525139785)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2525139789,
+      "lat": -17.836286,
+      "lon": 31.052581,
+      "name": "Unnamed (node 2525139789)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2543903844,
+      "lat": -17.3159,
+      "lon": 31.560645,
+      "name": "Unnamed (node 2543903844)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2543903855,
+      "lat": -17.316,
+      "lon": 31.560996,
+      "name": "Unnamed (node 2543903855)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2569078108,
+      "lat": -12.823047,
+      "lon": 28.199309,
+      "name": "Unnamed (node 2569078108)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2569078125,
+      "lat": -12.820164,
+      "lon": 28.198799,
+      "name": "Unnamed (node 2569078125)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2574817335,
+      "lat": -12.958835,
+      "lon": 28.657002,
+      "name": "Unnamed (node 2574817335)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2578262785,
+      "lat": -14.379519,
+      "lon": 28.457333,
+      "name": "Unnamed (node 2578262785)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2672871463,
+      "lat": -10.604554,
+      "lon": 26.125293,
+      "name": "Unnamed (node 2672871463)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 2686703171,
+      "lat": -10.773594,
+      "lon": 25.54136,
+      "name": "Unnamed (node 2686703171)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 3304384476,
+      "lat": -10.60257,
+      "lon": 26.119599,
+      "name": "Unnamed (node 3304384476)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4114494288,
+      "lat": -10.452974,
+      "lon": 23.83203,
+      "name": "Unnamed (node 4114494288)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4114519693,
+      "lat": -10.660742,
+      "lon": 24.570904,
+      "name": "Unnamed (node 4114519693)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4115894373,
+      "lat": -10.674157,
+      "lon": 25.411659,
+      "name": "Unnamed (node 4115894373)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4115894386,
+      "lat": -10.68042,
+      "lon": 25.448895,
+      "name": "Unnamed (node 4115894386)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4118632520,
+      "lat": -10.930462,
+      "lon": 26.73377,
+      "name": "Unnamed (node 4118632520)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119102016,
+      "lat": -11.283214,
+      "lon": 27.195892,
+      "name": "Unnamed (node 4119102016)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119107237,
+      "lat": -11.332824,
+      "lon": 27.309831,
+      "name": "Unnamed (node 4119107237)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4119108217,
+      "lat": -11.439785,
+      "lon": 27.330261,
+      "name": "Unnamed (node 4119108217)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4123152469,
+      "lat": -9.44123,
+      "lon": 25.782931,
+      "name": "Unnamed (node 4123152469)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4123154003,
+      "lat": -9.441741,
+      "lon": 25.78242,
+      "name": "Unnamed (node 4123154003)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4123218919,
+      "lat": -9.200951,
+      "lon": 25.858547,
+      "name": "Unnamed (node 4123218919)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4123218920,
+      "lat": -9.200933,
+      "lon": 25.858595,
+      "name": "Unnamed (node 4123218920)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4126306641,
+      "lat": -17.358835,
+      "lon": 31.047249,
+      "name": "Unnamed (node 4126306641)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4147032605,
+      "lat": -15.830598,
+      "lon": 27.781343,
+      "name": "Unnamed (node 4147032605)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4150966444,
+      "lat": -12.537416,
+      "lon": 28.256685,
+      "name": "Unnamed (node 4150966444)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4157060786,
+      "lat": -9.400924,
+      "lon": 32.239849,
+      "name": "Unnamed (node 4157060786)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4157069299,
+      "lat": -9.401772,
+      "lon": 32.242141,
+      "name": "Unnamed (node 4157069299)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4157072190,
+      "lat": -9.308271,
+      "lon": 32.472101,
+      "name": "Unnamed (node 4157072190)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 435662800,
+      "lat": -11.235943,
+      "lon": 27.084092,
+      "name": "Unnamed (node 435662800)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 436027581,
+      "lat": -12.985356,
+      "lon": 28.703572,
+      "name": "Unnamed (node 436027581)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4848617851,
+      "lat": -17.350171,
+      "lon": 30.606897,
+      "name": "Unnamed (node 4848617851)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4876436876,
+      "lat": -17.268048,
+      "lon": 30.026112,
+      "name": "Unnamed (node 4876436876)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4876450873,
+      "lat": -17.388968,
+      "lon": 30.390651,
+      "name": "Unnamed (node 4876450873)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 4945645853,
+      "lat": -12.675807,
+      "lon": 31.028827,
+      "name": "Unnamed (node 4945645853)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 8300414315,
+      "lat": -17.838773,
+      "lon": 31.050375,
+      "name": "Unnamed (node 8300414315)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 8300430017,
+      "lat": -17.838691,
+      "lon": 31.050311,
+      "name": "Unnamed (node 8300430017)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 8300430019,
+      "lat": -17.838724,
+      "lon": 31.050359,
+      "name": "Unnamed (node 8300430019)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 8300430020,
+      "lat": -17.838602,
+      "lon": 31.050241,
+      "name": "Unnamed (node 8300430020)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 9243851856,
+      "lat": -13.687907,
+      "lon": 32.772606,
+      "name": "Unnamed (node 9243851856)",
+      "type": "halt",
+      "country": "ZM"
+    },
+    {
+      "id": 9381663907,
+      "lat": -8.909932,
+      "lon": 25.665533,
+      "name": "Unnamed (node 9381663907)",
+      "type": "buffer_stop",
+      "country": "ZM"
+    },
+    {
+      "id": 1001487537,
+      "lat": -13.7856,
+      "lon": 32.894763,
+      "name": "Unnamed (way 1001487537)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1001492556,
+      "lat": -13.829788,
+      "lon": 33.047359,
+      "name": "Unnamed (way 1001492556)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1001497704,
+      "lat": -13.918275,
+      "lon": 33.201427,
+      "name": "Unnamed (way 1001497704)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1001687568,
+      "lat": -13.897481,
+      "lon": 33.511181,
+      "name": "Unnamed (way 1001687568)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1001687572,
+      "lat": -13.890459,
+      "lon": 33.650892,
+      "name": "Unnamed (way 1001687572)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 100964367,
+      "lat": -12.822104,
+      "lon": 28.208641,
+      "name": "Unnamed (way 100964367)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 100964369,
+      "lat": -12.822179,
+      "lon": 28.210438,
+      "name": "Unnamed (way 100964369)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1036448079,
+      "lat": -12.648058,
+      "lon": 31.016401,
+      "name": "Unnamed (way 1036448079)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1042412361,
+      "lat": -10.820589,
+      "lon": 26.740103,
+      "name": "Unnamed (way 1042412361)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1042458588,
+      "lat": -10.715497,
+      "lon": 26.542781,
+      "name": "Unnamed (way 1042458588)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1068601992,
+      "lat": -10.873091,
+      "lon": 26.612352,
+      "name": "Unnamed (way 1068601992)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1074133465,
+      "lat": -13.492335,
+      "lon": 29.818984,
+      "name": "Unnamed (way 1074133465)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1167838187,
+      "lat": -9.443131,
+      "lon": 25.784758,
+      "name": "Unnamed (way 1167838187)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1202848674,
+      "lat": -17.317169,
+      "lon": 31.562193,
+      "name": "Unnamed (way 1202848674)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1202848690,
+      "lat": -17.309844,
+      "lon": 31.327089,
+      "name": "Unnamed (way 1202848690)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203040477,
+      "lat": -17.357636,
+      "lon": 31.058462,
+      "name": "Unnamed (way 1203040477)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203045447,
+      "lat": -17.393761,
+      "lon": 30.948581,
+      "name": "Unnamed (way 1203045447)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203054082,
+      "lat": -17.582903,
+      "lon": 30.885861,
+      "name": "Unnamed (way 1203054082)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203054086,
+      "lat": -17.668495,
+      "lon": 30.900304,
+      "name": "Unnamed (way 1203054086)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203067577,
+      "lat": -17.67506,
+      "lon": 30.807641,
+      "name": "Unnamed (way 1203067577)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203123258,
+      "lat": -17.220263,
+      "lon": 30.035964,
+      "name": "Unnamed (way 1203123258)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203152075,
+      "lat": -17.538736,
+      "lon": 30.456016,
+      "name": "Unnamed (way 1203152075)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203431926,
+      "lat": -17.873216,
+      "lon": 30.90822,
+      "name": "Unnamed (way 1203431926)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203433901,
+      "lat": -17.890944,
+      "lon": 30.576226,
+      "name": "Unnamed (way 1203433901)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1203443100,
+      "lat": -18.022727,
+      "lon": 30.304646,
+      "name": "Unnamed (way 1203443100)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1218293879,
+      "lat": -9.608567,
+      "lon": 31.988115,
+      "name": "Unnamed (way 1218293879)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1218456355,
+      "lat": -9.396927,
+      "lon": 32.248728,
+      "name": "Unnamed (way 1218456355)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1221957588,
+      "lat": -17.455672,
+      "lon": 25.473966,
+      "name": "Unnamed (way 1221957588)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1222468949,
+      "lat": -17.316632,
+      "lon": 26.195963,
+      "name": "Unnamed (way 1222468949)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1227808108,
+      "lat": -15.865894,
+      "lon": 27.872588,
+      "name": "Unnamed (way 1227808108)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1229652355,
+      "lat": -8.388714,
+      "lon": 24.661612,
+      "name": "Unnamed (way 1229652355)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1229701783,
+      "lat": -8.736396,
+      "lon": 25.003007,
+      "name": "Unnamed (way 1229701783)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231065582,
+      "lat": -8.803349,
+      "lon": 25.31396,
+      "name": "Unnamed (way 1231065582)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231065584,
+      "lat": -8.887444,
+      "lon": 25.45213,
+      "name": "Unnamed (way 1231065584)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231118164,
+      "lat": -8.91067,
+      "lon": 25.665937,
+      "name": "Unnamed (way 1231118164)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231118166,
+      "lat": -9.085237,
+      "lon": 25.704268,
+      "name": "Unnamed (way 1231118166)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231133686,
+      "lat": -9.129508,
+      "lon": 25.862697,
+      "name": "Unnamed (way 1231133686)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231394231,
+      "lat": -9.551425,
+      "lon": 25.805075,
+      "name": "Unnamed (way 1231394231)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231394232,
+      "lat": -9.692149,
+      "lon": 25.876317,
+      "name": "Unnamed (way 1231394232)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1231394235,
+      "lat": -9.785042,
+      "lon": 25.933101,
+      "name": "Unnamed (way 1231394235)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232146349,
+      "lat": -10.134463,
+      "lon": 25.954873,
+      "name": "Unnamed (way 1232146349)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232146351,
+      "lat": -10.207218,
+      "lon": 26.032142,
+      "name": "Unnamed (way 1232146351)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232148172,
+      "lat": -10.31325,
+      "lon": 26.039998,
+      "name": "Unnamed (way 1232148172)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232184569,
+      "lat": -10.399261,
+      "lon": 26.070132,
+      "name": "Unnamed (way 1232184569)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232184570,
+      "lat": -10.527378,
+      "lon": 26.023567,
+      "name": "Unnamed (way 1232184570)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232388674,
+      "lat": -10.603647,
+      "lon": 26.222054,
+      "name": "Unnamed (way 1232388674)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232655757,
+      "lat": -10.674872,
+      "lon": 26.431893,
+      "name": "Unnamed (way 1232655757)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1232680850,
+      "lat": -10.930553,
+      "lon": 26.733948,
+      "name": "Unnamed (way 1232680850)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234609469,
+      "lat": -11.235955,
+      "lon": 27.084299,
+      "name": "Unnamed (way 1234609469)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234609470,
+      "lat": -11.283361,
+      "lon": 27.195899,
+      "name": "Unnamed (way 1234609470)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234609471,
+      "lat": -11.439705,
+      "lon": 27.330457,
+      "name": "Unnamed (way 1234609471)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234621827,
+      "lat": -11.510985,
+      "lon": 27.428964,
+      "name": "Unnamed (way 1234621827)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234916761,
+      "lat": -11.773729,
+      "lon": 27.2385,
+      "name": "Unnamed (way 1234916761)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234916762,
+      "lat": -11.818398,
+      "lon": 27.393996,
+      "name": "Unnamed (way 1234916762)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234924538,
+      "lat": -12.081098,
+      "lon": 27.513784,
+      "name": "Unnamed (way 1234924538)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234924539,
+      "lat": -12.248223,
+      "lon": 27.64163,
+      "name": "Unnamed (way 1234924539)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1234930237,
+      "lat": -12.309356,
+      "lon": 27.961074,
+      "name": "Unnamed (way 1234930237)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1235139144,
+      "lat": -12.434173,
+      "lon": 28.343048,
+      "name": "Unnamed (way 1235139144)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1235146166,
+      "lat": -12.556532,
+      "lon": 28.471373,
+      "name": "Unnamed (way 1235146166)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1235146167,
+      "lat": -12.671881,
+      "lon": 28.523689,
+      "name": "Unnamed (way 1235146167)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1235207279,
+      "lat": -12.822228,
+      "lon": 28.206659,
+      "name": "Unnamed (way 1235207279)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236296897,
+      "lat": -12.7375,
+      "lon": 28.169968,
+      "name": "Unnamed (way 1236296897)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236298681,
+      "lat": -12.660876,
+      "lon": 28.075958,
+      "name": "Unnamed (way 1236298681)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236323654,
+      "lat": -12.581969,
+      "lon": 27.930545,
+      "name": "Unnamed (way 1236323654)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236538363,
+      "lat": -12.263021,
+      "lon": 27.755378,
+      "name": "Unnamed (way 1236538363)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236542034,
+      "lat": -13.70946,
+      "lon": 28.665729,
+      "name": "Unnamed (way 1236542034)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1236546415,
+      "lat": -13.311417,
+      "lon": 28.751796,
+      "name": "Unnamed (way 1236546415)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1237266602,
+      "lat": -12.176642,
+      "lon": 31.177873,
+      "name": "Unnamed (way 1237266602)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 1237295125,
+      "lat": -12.864671,
+      "lon": 30.842885,
+      "name": "Unnamed (way 1237295125)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 180800584,
+      "lat": -8.966037,
+      "lon": 33.265955,
+      "name": "Unnamed (way 180800584)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 210253440,
+      "lat": -8.877539,
+      "lon": 33.604476,
+      "name": "Unnamed (way 210253440)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 210253443,
+      "lat": -8.891125,
+      "lon": 33.531159,
+      "name": "Unnamed (way 210253443)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 212751829,
+      "lat": -9.015031,
+      "lon": 32.990553,
+      "name": "Unnamed (way 212751829)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216251,
+      "lat": -9.089637,
+      "lon": 32.931602,
+      "name": "Unnamed (way 213216251)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216254,
+      "lat": -9.31809,
+      "lon": 32.767946,
+      "name": "Unnamed (way 213216254)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216255,
+      "lat": -9.310082,
+      "lon": 32.758021,
+      "name": "Unnamed (way 213216255)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216272,
+      "lat": -8.936284,
+      "lon": 33.15315,
+      "name": "Unnamed (way 213216272)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216291,
+      "lat": -9.309583,
+      "lon": 32.757593,
+      "name": "Unnamed (way 213216291)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 213216293,
+      "lat": -8.816478,
+      "lon": 33.643132,
+      "name": "Unnamed (way 213216293)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 245290274,
+      "lat": -17.835223,
+      "lon": 31.050456,
+      "name": "Unnamed (way 245290274)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 245290275,
+      "lat": -17.834822,
+      "lon": 31.05231,
+      "name": "Unnamed (way 245290275)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 245290280,
+      "lat": -17.83521,
+      "lon": 31.050588,
+      "name": "Unnamed (way 245290280)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 249735949,
+      "lat": -15.771242,
+      "lon": 28.177532,
+      "name": "Unnamed (way 249735949)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 252059432,
+      "lat": -13.955178,
+      "lon": 28.681559,
+      "name": "Unnamed (way 252059432)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 252719463,
+      "lat": -13.233312,
+      "lon": 30.216291,
+      "name": "Unnamed (way 252719463)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 254038525,
+      "lat": -16.811466,
+      "lon": 26.984258,
+      "name": "Unnamed (way 254038525)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 264820727,
+      "lat": -11.847597,
+      "lon": 31.391288,
+      "name": "Unnamed (way 264820727)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 267625404,
+      "lat": -11.781705,
+      "lon": 27.49811,
+      "name": "Unnamed (way 267625404)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 272537464,
+      "lat": -9.943117,
+      "lon": 31.260026,
+      "name": "Unnamed (way 272537464)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 273032393,
+      "lat": -9.665321,
+      "lon": 31.897727,
+      "name": "Unnamed (way 273032393)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 300347868,
+      "lat": -9.201445,
+      "lon": 25.858703,
+      "name": "Unnamed (way 300347868)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 317765052,
+      "lat": -10.536645,
+      "lon": 31.202556,
+      "name": "Unnamed (way 317765052)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 323037345,
+      "lat": -12.750485,
+      "lon": 28.554251,
+      "name": "Unnamed (way 323037345)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 323038051,
+      "lat": -12.963739,
+      "lon": 28.654014,
+      "name": "Unnamed (way 323038051)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 343620045,
+      "lat": -13.63974,
+      "lon": 29.403761,
+      "name": "Unnamed (way 343620045)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 374060828,
+      "lat": -13.048787,
+      "lon": 30.654788,
+      "name": "Unnamed (way 374060828)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 376463630,
+      "lat": -13.599915,
+      "lon": 29.61769,
+      "name": "Unnamed (way 376463630)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 379732025,
+      "lat": -10.690157,
+      "lon": 31.165642,
+      "name": "Unnamed (way 379732025)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 396418889,
+      "lat": -10.984443,
+      "lon": 26.735179,
+      "name": "Unnamed (way 396418889)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 403846200,
+      "lat": -17.860274,
+      "lon": 31.174993,
+      "name": "Unnamed (way 403846200)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 407581884,
+      "lat": -10.183639,
+      "lon": 31.239865,
+      "name": "Unnamed (way 407581884)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 408027695,
+      "lat": -10.617379,
+      "lon": 26.323789,
+      "name": "Unnamed (way 408027695)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 432141803,
+      "lat": -17.624905,
+      "lon": 25.940641,
+      "name": "Unnamed (way 432141803)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 449687177,
+      "lat": -9.459402,
+      "lon": 32.023141,
+      "name": "Unnamed (way 449687177)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 477581596,
+      "lat": -16.269887,
+      "lon": 27.478694,
+      "name": "Unnamed (way 477581596)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 479241876,
+      "lat": -16.777049,
+      "lon": 25.172662,
+      "name": "Unnamed (way 479241876)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 482528670,
+      "lat": -17.021812,
+      "lon": 26.488252,
+      "name": "Unnamed (way 482528670)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 496411118,
+      "lat": -12.222119,
+      "lon": 25.415956,
+      "name": "Unnamed (way 496411118)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 497709951,
+      "lat": -17.26767,
+      "lon": 30.02152,
+      "name": "Unnamed (way 497709951)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 497741067,
+      "lat": -17.348379,
+      "lon": 30.609592,
+      "name": "Unnamed (way 497741067)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 498274388,
+      "lat": -17.377487,
+      "lon": 30.076039,
+      "name": "Unnamed (way 498274388)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 498505251,
+      "lat": -17.391322,
+      "lon": 30.389351,
+      "name": "Unnamed (way 498505251)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 498985165,
+      "lat": -17.649028,
+      "lon": 30.490639,
+      "name": "Unnamed (way 498985165)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499053438,
+      "lat": -17.714039,
+      "lon": 30.551396,
+      "name": "Unnamed (way 499053438)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499149992,
+      "lat": -17.683225,
+      "lon": 30.639539,
+      "name": "Unnamed (way 499149992)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499235667,
+      "lat": -17.747616,
+      "lon": 30.937506,
+      "name": "Unnamed (way 499235667)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499253963,
+      "lat": -17.907232,
+      "lon": 30.443327,
+      "name": "Unnamed (way 499253963)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499307464,
+      "lat": -18.018328,
+      "lon": 30.367987,
+      "name": "Unnamed (way 499307464)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499313740,
+      "lat": -17.9681,
+      "lon": 30.425825,
+      "name": "Unnamed (way 499313740)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499361357,
+      "lat": -17.892794,
+      "lon": 30.690727,
+      "name": "Unnamed (way 499361357)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 499394569,
+      "lat": -17.832445,
+      "lon": 30.828064,
+      "name": "Unnamed (way 499394569)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 532698251,
+      "lat": -17.841533,
+      "lon": 31.035303,
+      "name": "Unnamed (way 532698251)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 540255931,
+      "lat": -12.539719,
+      "lon": 28.257296,
+      "name": "Unnamed (way 540255931)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 553354357,
+      "lat": -15.345052,
+      "lon": 28.303635,
+      "name": "Unnamed (way 553354357)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 553380982,
+      "lat": -15.347345,
+      "lon": 28.302798,
+      "name": "Unnamed (way 553380982)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 569219354,
+      "lat": -9.262051,
+      "lon": 32.855438,
+      "name": "Unnamed (way 569219354)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 606592017,
+      "lat": -9.799255,
+      "lon": 31.640281,
+      "name": "Unnamed (way 606592017)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 606602806,
+      "lat": -9.884626,
+      "lon": 31.53789,
+      "name": "Unnamed (way 606602806)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 606950260,
+      "lat": -9.309329,
+      "lon": 32.475546,
+      "name": "Unnamed (way 606950260)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 606950954,
+      "lat": -9.313165,
+      "lon": 32.611185,
+      "name": "Unnamed (way 606950954)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 606954676,
+      "lat": -9.330659,
+      "lon": 32.671346,
+      "name": "Unnamed (way 606954676)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 665254743,
+      "lat": -12.387422,
+      "lon": 27.848015,
+      "name": "Unnamed (way 665254743)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 684798844,
+      "lat": -13.54432,
+      "lon": 23.110964,
+      "name": "Unnamed (way 684798844)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 695643775,
+      "lat": -13.915247,
+      "lon": 33.340359,
+      "name": "Unnamed (way 695643775)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 785378924,
+      "lat": -13.564504,
+      "lon": 29.709992,
+      "name": "Unnamed (way 785378924)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 816679000,
+      "lat": -10.774586,
+      "lon": 26.628311,
+      "name": "Unnamed (way 816679000)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 867778477,
+      "lat": -13.717105,
+      "lon": 29.254706,
+      "name": "Unnamed (way 867778477)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 87352012,
+      "lat": -11.666119,
+      "lon": 27.49007,
+      "name": "Unnamed (way 87352012)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 879192096,
+      "lat": -13.904375,
+      "lon": 28.846417,
+      "name": "Unnamed (way 879192096)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 881620537,
+      "lat": -13.789566,
+      "lon": 29.050531,
+      "name": "Unnamed (way 881620537)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 901683961,
+      "lat": -12.950382,
+      "lon": 30.68611,
+      "name": "Unnamed (way 901683961)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 912952435,
+      "lat": -11.044659,
+      "lon": 26.948633,
+      "name": "Unnamed (way 912952435)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 912952436,
+      "lat": -11.156314,
+      "lon": 27.015834,
+      "name": "Unnamed (way 912952436)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 917221349,
+      "lat": -11.551694,
+      "lon": 31.275702,
+      "name": "Unnamed (way 917221349)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 917795334,
+      "lat": -11.313018,
+      "lon": 31.2335,
+      "name": "Unnamed (way 917795334)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 918371340,
+      "lat": -10.962893,
+      "lon": 31.071616,
+      "name": "Unnamed (way 918371340)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 923065598,
+      "lat": -13.174864,
+      "lon": 30.333889,
+      "name": "Unnamed (way 923065598)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 925547087,
+      "lat": -13.319097,
+      "lon": 29.997321,
+      "name": "Unnamed (way 925547087)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 926400256,
+      "lat": -11.757362,
+      "lon": 31.347008,
+      "name": "Unnamed (way 926400256)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 928369116,
+      "lat": -13.042921,
+      "lon": 30.486056,
+      "name": "Unnamed (way 928369116)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 933370492,
+      "lat": -12.37572,
+      "lon": 31.101682,
+      "name": "Unnamed (way 933370492)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 942700831,
+      "lat": -12.483534,
+      "lon": 31.065957,
+      "name": "Unnamed (way 942700831)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 944696010,
+      "lat": -10.675882,
+      "lon": 22.504614,
+      "name": "Unnamed (way 944696010)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 945244891,
+      "lat": -10.69437,
+      "lon": 23.185471,
+      "name": "Unnamed (way 945244891)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 984550847,
+      "lat": -13.969115,
+      "lon": 28.675892,
+      "name": "Unnamed (way 984550847)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 987497181,
+      "lat": -12.025976,
+      "lon": 31.275846,
+      "name": "Unnamed (way 987497181)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 988307109,
+      "lat": -14.447864,
+      "lon": 28.44102,
+      "name": "Unnamed (way 988307109)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 989328223,
+      "lat": -11.082133,
+      "lon": 31.107146,
+      "name": "Unnamed (way 989328223)",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 9003332225,
+      "lat": -13.628531,
+      "lon": 32.602877,
+      "name": "Uno Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13289637043,
+      "lat": -15.516082,
+      "lon": 28.263236,
+      "name": "Uno Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 10895407513,
+      "lat": -14.21884,
+      "lon": 31.743009,
+      "name": "UNO Sinda Filling Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4010737442,
+      "lat": -15.433291,
+      "lon": 28.313541,
+      "name": "UTH police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2229557808,
+      "lat": -8.890957,
+      "lon": 33.530988,
+      "name": "Uyole",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 6477838038,
+      "lat": -8.900762,
+      "lon": 33.54247,
+      "name": "uyole filling station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 4757951446,
+      "lat": -15.443583,
+      "lon": 28.237962,
+      "name": "Vangus Barbershop And Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 471800894,
+      "lat": -17.92946,
+      "lon": 25.840929,
+      "name": "Victoria Falls",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 28367021,
+      "lat": -17.929441,
+      "lon": 25.841107,
+      "name": "Victoria Falls Train Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991752,
+      "lat": -8.937271,
+      "lon": 33.417064,
+      "name": "Vision Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5087935333,
+      "lat": -14.443009,
+      "lon": 28.444416,
+      "name": "Vwalika Bus Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 262107765,
+      "lat": -9.089544,
+      "lon": 32.931378,
+      "name": "Vwawa",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 581324970,
+      "lat": -9.109794,
+      "lon": 32.932014,
+      "name": "VWAWA BUS STERMINAL",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 435022847,
+      "lat": -13.130543,
+      "lon": 28.420493,
+      "name": "Wada Chovu bus terminal",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 315815917,
+      "lat": -13.48219,
+      "lon": 28.748138,
+      "name": "Walamba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 5527991802,
+      "lat": -8.936351,
+      "lon": 33.417063,
+      "name": "Wandago Stationery",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 12339845842,
+      "lat": -17.388527,
+      "lon": 30.193067,
+      "name": "Weather Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 900772888,
+      "lat": -15.391242,
+      "lon": 28.006999,
+      "name": "Westwood Police station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 249599024,
+      "lat": -15.856682,
+      "lon": 27.762964,
+      "name": "Zambia Railways",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 690425360,
+      "lat": -18.003161,
+      "lon": 31.062375,
+      "name": "Zengeza 2 terminus",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13088720442,
+      "lat": -18.017944,
+      "lon": 31.055422,
+      "name": "Zengeza 3 ext substation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13398145256,
+      "lat": -15.417525,
+      "lon": 28.309712,
+      "name": "Zesco Birdcage Substation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7557195926,
+      "lat": -15.36433,
+      "lon": 28.25607,
+      "name": "Zesco Substation",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2713781506,
+      "lat": -17.316752,
+      "lon": 26.19617,
+      "name": "Zimba",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 2873992872,
+      "lat": -16.524293,
+      "lon": 28.764544,
+      "name": "ZPC Kariba Power Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 13536341324,
+      "lat": -17.776781,
+      "lon": 31.065573,
+      "name": "ZUVA Fuel Station",
+      "type": "station",
+      "country": "ZM"
+    },
+    {
+      "id": 7851283185,
+      "lat": -17.73724,
+      "lon": 31.102626,
+      "name": "Zuva Helensvale Service Station",
+      "type": "station",
+      "country": "ZM"
+    }
+  ]
+}

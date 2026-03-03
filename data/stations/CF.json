@@ -1,0 +1,503 @@
+{
+  "country": "CF",
+  "name": "Central African Republic",
+  "region": "Central Africa",
+  "bbox": [
+    2.22,
+    14.42,
+    11.01,
+    27.46
+  ],
+  "extracted": "2026-03-03T12:13:40.718Z",
+  "count": 61,
+  "stations": [
+    {
+      "id": 5774446184,
+      "lat": 2.731224,
+      "lon": 23.787367,
+      "name": "Aketi",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309027664,
+      "lat": 3.059196,
+      "lon": 25.519454,
+      "name": "Andoma",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1354559801,
+      "lat": 8.761267,
+      "lon": 27.394746,
+      "name": "Aweil",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 7719727045,
+      "lat": 10.35,
+      "lon": 15.316667,
+      "name": "Bagareye",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021692,
+      "lat": 2.959797,
+      "lon": 25.77654,
+      "name": "Benge",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 7731492964,
+      "lat": 10.145387,
+      "lon": 23.763854,
+      "name": "Bi’r Majangare",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021731,
+      "lat": 3.80867,
+      "lon": 23.669643,
+      "name": "Bondo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 8318018940,
+      "lat": 5.925576,
+      "lon": 15.60004,
+      "name": "Bouar Total Fuel station",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 656303279,
+      "lat": 2.822084,
+      "lon": 24.744223,
+      "name": "Buta Triangle",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 51413246,
+      "lat": 2.799287,
+      "lon": 24.729716,
+      "name": "Buta Ville",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 3529052135,
+      "lat": 4.740246,
+      "lon": 22.807538,
+      "name": "Buvette Gare Routiere",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 858947119,
+      "lat": 3.71,
+      "lon": 23.707,
+      "name": "Djete Moridila",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 2130932299,
+      "lat": 2.955846,
+      "lon": 24.145292,
+      "name": "Dulia",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309027663,
+      "lat": 2.737702,
+      "lon": 27.184937,
+      "name": "Egbunda",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 11813934332,
+      "lat": 3.514497,
+      "lon": 15.050877,
+      "name": "Gare routiere",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 788452112,
+      "lat": 5.726776,
+      "lon": 19.078854,
+      "name": "Gare routière de Sibut",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 3529062091,
+      "lat": 4.74053,
+      "lon": 22.807515,
+      "name": "Gare Routiere Maliko",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309003027,
+      "lat": 2.874678,
+      "lon": 24.426622,
+      "name": "Gombo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 858946968,
+      "lat": 2.888497,
+      "lon": 24.033937,
+      "name": "Guma",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 6151222146,
+      "lat": 2.893359,
+      "lon": 26.051144,
+      "name": "Kana",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021727,
+      "lat": 2.888483,
+      "lon": 23.982159,
+      "name": "Komba",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 858965944,
+      "lat": 2.855927,
+      "lon": 24.550113,
+      "name": "Kotili",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 683289337,
+      "lat": 2.834125,
+      "lon": 24.710802,
+      "name": "Kotili-Malikuta",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309003013,
+      "lat": 2.880731,
+      "lon": 24.35675,
+      "name": "Lalu",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021719,
+      "lat": 3.430641,
+      "lon": 23.796439,
+      "name": "Libongo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309027661,
+      "lat": 2.737814,
+      "lon": 26.693079,
+      "name": "Mawa",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 362161731,
+      "lat": 2.738176,
+      "lon": 26.693022,
+      "name": "Mawa",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 6382714242,
+      "lat": 2.754727,
+      "lon": 26.653482,
+      "name": "Mawa Nao",
+      "type": "stop",
+      "country": "CF"
+    },
+    {
+      "id": 421589854,
+      "lat": 3.775255,
+      "lon": 18.575525,
+      "name": "Mongo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021715,
+      "lat": 2.728402,
+      "lon": 27.407159,
+      "name": "Neisu",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 4882352394,
+      "lat": 2.882329,
+      "lon": 26.277665,
+      "name": "Nemanzi",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309021705,
+      "lat": 2.838,
+      "lon": 26.463,
+      "name": "Neza",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 2461916345,
+      "lat": 4.397885,
+      "lon": 14.636024,
+      "name": "Ngarendembo II",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 7151407021,
+      "lat": 4.381971,
+      "lon": 14.694171,
+      "name": "Ngarendembo II",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 2461916346,
+      "lat": 3.558505,
+      "lon": 15.056616,
+      "name": "Ngaressingo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 2461916347,
+      "lat": 3.797256,
+      "lon": 15.082396,
+      "name": "Ngaresso",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 2461916348,
+      "lat": 3.770658,
+      "lon": 15.108771,
+      "name": "Ngareta",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 3345487134,
+      "lat": 3.561881,
+      "lon": 23.728145,
+      "name": "Nzongia",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 683291575,
+      "lat": 2.815447,
+      "lon": 24.95486,
+      "name": "Popoka",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 4534955691,
+      "lat": 10.545087,
+      "lon": 15.57848,
+      "name": "Station de Moulkou",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1984076770,
+      "lat": 8.678452,
+      "lon": 16.575978,
+      "name": "Station de Service Antilope Bebedjia",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1984128146,
+      "lat": 8.663985,
+      "lon": 16.849826,
+      "name": "Station de Service La Fontaine",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5000266557,
+      "lat": 4.731654,
+      "lon": 22.78367,
+      "name": "Station Missionnaire",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5454987621,
+      "lat": 4.278552,
+      "lon": 15.795005,
+      "name": "station radio communautaire Zoukpana",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5594610876,
+      "lat": 9.367138,
+      "lon": 14.901634,
+      "name": "Station service",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 3529052140,
+      "lat": 4.74087,
+      "lon": 22.807748,
+      "name": "Station Total",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 435513399,
+      "lat": 3.200502,
+      "lon": 23.907047,
+      "name": "Sungo",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1309027662,
+      "lat": 3.276423,
+      "lon": 25.523097,
+      "name": "Titulé",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 582926770,
+      "lat": 5.883526,
+      "lon": 14.554688,
+      "name": "TOURISTIQUE EXPRESS",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 304762630,
+      "lat": 5.889881,
+      "lon": 14.547196,
+      "name": "Touristique express Garoua - boulaï",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5904131701,
+      "lat": 8.722501,
+      "lon": 17.894836,
+      "name": "Unnamed (node 5904131701)",
+      "type": "stop",
+      "country": "CF"
+    },
+    {
+      "id": 262139081,
+      "lat": 4.256275,
+      "lon": 15.788483,
+      "name": "Unnamed (way 262139081)",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 52465273,
+      "lat": 2.731108,
+      "lon": 23.787525,
+      "name": "Unnamed (way 52465273)",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5771967940,
+      "lat": 2.27565,
+      "lon": 22.902607,
+      "name": "Yalingimba",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 5682846103,
+      "lat": 2.310369,
+      "lon": 22.322637,
+      "name": "Yamaluka",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 858868831,
+      "lat": 2.291864,
+      "lon": 22.424612,
+      "name": "Yamisiko",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 1080285736,
+      "lat": 2.265942,
+      "lon": 22.304522,
+      "name": "Yangunda",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 421624331,
+      "lat": 3.714533,
+      "lon": 18.58664,
+      "name": "Zinga",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 6151222279,
+      "lat": 2.909497,
+      "lon": 25.990182,
+      "name": "Zobia droite",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 6151222320,
+      "lat": 2.919822,
+      "lon": 25.890942,
+      "name": "Zobia gauche",
+      "type": "station",
+      "country": "CF"
+    },
+    {
+      "id": 8237336571,
+      "lat": 5.436238,
+      "lon": 15.629253,
+      "name": "Zotoua-Bangarem",
+      "type": "station",
+      "country": "CF"
+    }
+  ]
+}

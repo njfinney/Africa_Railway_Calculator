@@ -1,0 +1,6279 @@
+{
+  "country": "UG",
+  "name": "Uganda",
+  "region": "East Africa",
+  "bbox": [
+    -1.48,
+    29.57,
+    4.23,
+    35.04
+  ],
+  "extracted": "2026-03-03T12:32:41.456Z",
+  "count": 783,
+  "stations": [
+    {
+      "id": 3943997845,
+      "lat": 1.088456,
+      "lon": 34.176195,
+      "name": "A.M Stationery & Secretarial Services Ltd",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9280354453,
+      "lat": 0.306183,
+      "lon": 32.517538,
+      "name": "A&a Digital Printers And Stationaries",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8435473717,
+      "lat": 0.093022,
+      "lon": 32.499368,
+      "name": "Abaita Ababiri Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2874021631,
+      "lat": 0.466315,
+      "lon": 33.239026,
+      "name": "Abeat Petrol And gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4027558922,
+      "lat": 2.315783,
+      "lon": 32.687611,
+      "name": "Aboke Service Station (fuel Pump)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8422980117,
+      "lat": 0.560079,
+      "lon": 34.027078,
+      "name": "Abraham's Bosom Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8507567717,
+      "lat": 1.936102,
+      "lon": 32.125946,
+      "name": "Accurate Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5498385996,
+      "lat": 2.69818,
+      "lon": 30.855027,
+      "name": "Adraka Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7920478335,
+      "lat": 0.516313,
+      "lon": 34.14828,
+      "name": "Adungosi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6969176822,
+      "lat": -0.173263,
+      "lon": 34.927479,
+      "name": "Aftah Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6105571213,
+      "lat": -0.77267,
+      "lon": 34.941608,
+      "name": "Agip Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8516171717,
+      "lat": 0.463299,
+      "lon": 32.555125,
+      "name": "Agopex Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6969176820,
+      "lat": -0.173114,
+      "lon": 34.922916,
+      "name": "Ahero Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5966109520,
+      "lat": 0.157966,
+      "lon": 32.51957,
+      "name": "Akright Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10183931419,
+      "lat": -1.21552,
+      "lon": 31.698166,
+      "name": "Alchard filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5594305120,
+      "lat": 3.579321,
+      "lon": 31.516821,
+      "name": "Aliodraanusi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5579985263,
+      "lat": 3.464198,
+      "lon": 31.247875,
+      "name": "Allah Karim Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8487929617,
+      "lat": 0.36399,
+      "lon": 32.623923,
+      "name": "Amazon Digital Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6106058003,
+      "lat": 1.033629,
+      "lon": 34.994275,
+      "name": "Amuka Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5456937622,
+      "lat": 2.813769,
+      "lon": 31.860577,
+      "name": "Amuru Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10766113409,
+      "lat": 2.207275,
+      "lon": 33.824991,
+      "name": "Anyangareng",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3493040848,
+      "lat": 3.018352,
+      "lon": 30.912141,
+      "name": "Arua Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11276924677,
+      "lat": 3.746745,
+      "lon": 34.839327,
+      "name": "Aruai Kuel Play Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6957422194,
+      "lat": -0.071444,
+      "lon": 34.669379,
+      "name": "AS Fueling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8635408437,
+      "lat": 2.477147,
+      "lon": 30.852728,
+      "name": "Asada Water For Irrigation Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6241761814,
+      "lat": 0.319976,
+      "lon": 34.57116,
+      "name": "Asaph Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5576068241,
+      "lat": 3.439627,
+      "lon": 31.184535,
+      "name": "Asil Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5566721017,
+      "lat": 3.411222,
+      "lon": 31.111867,
+      "name": "Asil Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8515854818,
+      "lat": 0.391335,
+      "lon": 32.659195,
+      "name": "Asisi Stationery Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5456937621,
+      "lat": 3.260374,
+      "lon": 32.122324,
+      "name": "Attiak Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456551217,
+      "lat": 0.633816,
+      "lon": 32.533027,
+      "name": "Atusa Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8634316745,
+      "lat": 2.582235,
+      "lon": 30.932642,
+      "name": "Atyak Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6337599397,
+      "lat": 2.219199,
+      "lon": 31.143723,
+      "name": "Au - Djegu  Grains D'Or Coffee Micro-Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453947218,
+      "lat": 3.023386,
+      "lon": 30.912671,
+      "name": "Baby Coach Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 374896089,
+      "lat": 0.652865,
+      "lon": 30.272968,
+      "name": "baby coaches bus terminal",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8422311117,
+      "lat": 0.458027,
+      "lon": 33.481203,
+      "name": "Badco Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9147285483,
+      "lat": 0.342749,
+      "lon": 33.876658,
+      "name": "Bahman Stationary Namayingo (Enock)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6766509442,
+      "lat": -1.170648,
+      "lon": 29.587237,
+      "name": "Baj fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456548317,
+      "lat": 1.938665,
+      "lon": 32.128219,
+      "name": "Baj Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8512590817,
+      "lat": 0.392462,
+      "lon": 32.661049,
+      "name": "Baj Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8441957023,
+      "lat": 0.070084,
+      "lon": 32.115848,
+      "name": "Baraka Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6349156850,
+      "lat": 3.49721,
+      "lon": 31.333612,
+      "name": "Barakala Water Supply System Plant Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3944013937,
+      "lat": 1.072541,
+      "lon": 34.180045,
+      "name": "Beta Bookshop and Stationers Ltd",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4114161783,
+      "lat": 0.257849,
+      "lon": 32.628417,
+      "name": "Bicycle Repair Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217503707,
+      "lat": 0.195717,
+      "lon": 30.635486,
+      "name": "Bihanga",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 142100366,
+      "lat": 0.315225,
+      "lon": 32.605646,
+      "name": "Boda Boda Stage",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4443143889,
+      "lat": 0.320329,
+      "lon": 32.598727,
+      "name": "Boda station 1st street",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4839846257,
+      "lat": 0.175732,
+      "lon": 30.078032,
+      "name": "Boda station Margherita Street",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4839771523,
+      "lat": 0.176111,
+      "lon": 30.080239,
+      "name": "Boda station Renzori - Sandton",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5148231371,
+      "lat": 0.334946,
+      "lon": 32.562215,
+      "name": "Bodat station - Nanfumbambi Road - Kimara Road",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6102935024,
+      "lat": -0.733902,
+      "lon": 34.846099,
+      "name": "Boma Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7977345314,
+      "lat": -0.156214,
+      "lon": 34.981168,
+      "name": "Boya Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8507558719,
+      "lat": 1.018857,
+      "lon": 33.959149,
+      "name": "Budaka Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813814057,
+      "lat": -0.31,
+      "lon": 32.215,
+      "name": "Bugala Power Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 353703378,
+      "lat": 0.313726,
+      "lon": 32.57451,
+      "name": "Buganda Bus Park (Main/Old Bus Station)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3959682792,
+      "lat": 1.051206,
+      "lon": 34.177755,
+      "name": "Bugema Electricity Sub Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5670829496,
+      "lat": 1.043939,
+      "lon": 34.178069,
+      "name": "Bugema Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5670829508,
+      "lat": 1.043568,
+      "lon": 34.177953,
+      "name": "Bugema Water Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8414145426,
+      "lat": 0.293807,
+      "lon": 30.100418,
+      "name": "Bugoye Coffee Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8273456333,
+      "lat": -1.193543,
+      "lon": 29.729882,
+      "name": "Bukimbiri Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 207235687,
+      "lat": -1.348977,
+      "lon": 31.8161,
+      "name": "Bukoba Port",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6948177509,
+      "lat": 0.303453,
+      "lon": 34.204123,
+      "name": "Bumala Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6948177507,
+      "lat": 0.308781,
+      "lon": 34.200599,
+      "name": "Bumala Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6043419886,
+      "lat": 1.418442,
+      "lon": 34.352399,
+      "name": "Bunambutye Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4005905098,
+      "lat": 0.57163,
+      "lon": 34.560836,
+      "name": "Bungoma",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6236062019,
+      "lat": 0.592551,
+      "lon": 34.554156,
+      "name": "Bungoma Motor Vehicle Inspection Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6954407505,
+      "lat": 0.021978,
+      "lon": 34.589078,
+      "name": "Bunyore Filing Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8007203585,
+      "lat": 0.4671,
+      "lon": 34.087232,
+      "name": "Burar Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10149186467,
+      "lat": 0.86555,
+      "lon": 30.172973,
+      "name": "Burondo Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 136502896,
+      "lat": 1.070885,
+      "lon": 34.175738,
+      "name": "bus park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2687931730,
+      "lat": -1.329562,
+      "lon": 31.808877,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3777961271,
+      "lat": 0.602664,
+      "lon": 32.476885,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7154277185,
+      "lat": 1.334982,
+      "lon": 34.296883,
+      "name": "Bus station to Mbale",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9399647356,
+      "lat": -0.540867,
+      "lon": 30.185439,
+      "name": "Bushenyi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864848434,
+      "lat": 0.219312,
+      "lon": 34.502841,
+      "name": "Butere",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7844492585,
+      "lat": 0.217972,
+      "lon": 34.499195,
+      "name": "Butere Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7857648685,
+      "lat": 0.219347,
+      "lon": 34.502992,
+      "name": "Butere railway station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5919163767,
+      "lat": -0.885952,
+      "lon": 29.636794,
+      "name": "Butogota Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6752825693,
+      "lat": -0.885915,
+      "lon": 29.636569,
+      "name": "Butogota Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11759098642,
+      "lat": 0.474784,
+      "lon": 33.172818,
+      "name": "Buwenda Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8291382100,
+      "lat": -0.362013,
+      "lon": 31.748051,
+      "name": "Bwala Primary School Polling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6966338081,
+      "lat": 0.176602,
+      "lon": 32.538681,
+      "name": "Bwebajja Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1312757072,
+      "lat": 0.368763,
+      "lon": 32.596795,
+      "name": "Bytrust petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4109438369,
+      "lat": 0.279858,
+      "lon": 32.56591,
+      "name": "Calvin King Glorious Stationary Limited",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5360603460,
+      "lat": 2.949831,
+      "lon": 30.932984,
+      "name": "Candiru Margaret",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4858180621,
+      "lat": 3.017051,
+      "lon": 30.912772,
+      "name": "Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459116470,
+      "lat": 3.017763,
+      "lon": 30.910432,
+      "name": "Central Police Station Borehole",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459125331,
+      "lat": 3.017112,
+      "lon": 30.911448,
+      "name": "Central Police Station Borehole",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9319972617,
+      "lat": 1.915675,
+      "lon": 33.957482,
+      "name": "Central Police Station Katakwi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9396119324,
+      "lat": 1.914722,
+      "lon": 33.957587,
+      "name": "Central Police Station Katakwi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1647176829,
+      "lat": 2.248999,
+      "lon": 32.900786,
+      "name": "Central Police Station Lira",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459121028,
+      "lat": 3.01711,
+      "lon": 30.91126,
+      "name": "Central Police Station Tap Water Point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459121104,
+      "lat": 3.016785,
+      "lon": 30.912468,
+      "name": "Central Police Station Toilet",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459118472,
+      "lat": 3.01659,
+      "lon": 30.910463,
+      "name": "Central Police Station Water Point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459121038,
+      "lat": 3.01647,
+      "lon": 30.911327,
+      "name": "Central Police Station Water Point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5459125394,
+      "lat": 3.017205,
+      "lon": 30.91257,
+      "name": "Central Police Station Water Point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 606846792,
+      "lat": 0.323587,
+      "lon": 32.636888,
+      "name": "Chello Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3990323921,
+      "lat": 0.6399,
+      "lon": 34.259844,
+      "name": "Chesabiny Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8274132292,
+      "lat": -1.260468,
+      "lon": 29.707608,
+      "name": "Chuho Pumping Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3344790856,
+      "lat": 4.093454,
+      "lon": 30.677828,
+      "name": "city links petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6079547985,
+      "lat": -0.433957,
+      "lon": 34.209933,
+      "name": "Coldori Petrol Station Mbita",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11082995763,
+      "lat": -0.074744,
+      "lon": 34.782188,
+      "name": "Comfort Station bar",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8427509919,
+      "lat": 2.245796,
+      "lon": 32.32875,
+      "name": "Corner Kamdini Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3266620590,
+      "lat": 0.844345,
+      "lon": 32.488607,
+      "name": "CTS Enterprises Stationary & Photocopy",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10198842721,
+      "lat": 2.261542,
+      "lon": 32.901408,
+      "name": "Cuk Ebange Polling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6359351781,
+      "lat": 0.336504,
+      "lon": 32.58779,
+      "name": "Cuttion Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8481604118,
+      "lat": 0.156055,
+      "lon": 32.545701,
+      "name": "Dahab Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8420056617,
+      "lat": 0.602269,
+      "lon": 33.476392,
+      "name": "Dahable fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456544718,
+      "lat": 1.711724,
+      "lon": 32.028143,
+      "name": "Delta Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3832830517,
+      "lat": -0.540971,
+      "lon": 30.191488,
+      "name": "Delta Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1401379351,
+      "lat": -0.665983,
+      "lon": 34.760872,
+      "name": "Delta Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6095345534,
+      "lat": -0.666119,
+      "lon": 34.77254,
+      "name": "denmark petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6957422193,
+      "lat": -0.071754,
+      "lon": 34.664519,
+      "name": "Desnol Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7230512296,
+      "lat": -0.028457,
+      "lon": 34.749491,
+      "name": "Desnol Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453963517,
+      "lat": 2.169854,
+      "lon": 32.221744,
+      "name": "Diima Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5943975900,
+      "lat": 2.271914,
+      "lon": 32.730572,
+      "name": "District Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8415070920,
+      "lat": 0.175927,
+      "lon": 33.562988,
+      "name": "Don Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4097455439,
+      "lat": 0.335354,
+      "lon": 32.563439,
+      "name": "Dream Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11263979949,
+      "lat": 0.440706,
+      "lon": 32.562703,
+      "name": "Educare Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4180694916,
+      "lat": 1.341916,
+      "lon": 34.300992,
+      "name": "Electric Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4038323682,
+      "lat": 0.43248,
+      "lon": 33.210802,
+      "name": "Elite Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8420056717,
+      "lat": 0.598474,
+      "lon": 33.477019,
+      "name": "Elle Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813297688,
+      "lat": 0.05889,
+      "lon": 32.43399,
+      "name": "Entebbe Meteorological Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6976663166,
+      "lat": -0.52089,
+      "lon": 34.727581,
+      "name": "Eon Energy Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8497075317,
+      "lat": 1.810463,
+      "lon": 32.009934,
+      "name": "Everest Enterprise stationary and general merchandise",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8635408906,
+      "lat": 2.485838,
+      "lon": 30.765578,
+      "name": "F. Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6095562293,
+      "lat": -0.671684,
+      "lon": 34.769741,
+      "name": "Falcon Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5579985275,
+      "lat": 3.461767,
+      "lon": 31.247361,
+      "name": "Family Stationery And Printing Services",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3679438005,
+      "lat": 1.47453,
+      "lon": 32.52945,
+      "name": "Ferry station Zengebe",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4021862503,
+      "lat": 1.725707,
+      "lon": 31.544503,
+      "name": "Field Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8536689217,
+      "lat": 2.478249,
+      "lon": 31.08981,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8631222689,
+      "lat": 2.484335,
+      "lon": 30.763247,
+      "name": "Forest Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6244273108,
+      "lat": 0.298369,
+      "lon": 34.768209,
+      "name": "Fralet Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3743191234,
+      "lat": -1.282315,
+      "lon": 29.696997,
+      "name": "Friendly Service Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11416733034,
+      "lat": 3.509783,
+      "lon": 34.136606,
+      "name": "Fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4472708545,
+      "lat": 2.435778,
+      "lon": 34.395899,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4570014774,
+      "lat": 0.272562,
+      "lon": 32.555753,
+      "name": "Fuel/Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8440545321,
+      "lat": 0.309634,
+      "lon": 32.569435,
+      "name": "Fuelex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3829331201,
+      "lat": 0.654606,
+      "lon": 30.271701,
+      "name": "Fuelex Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1193851517,
+      "lat": 0.432669,
+      "lon": 33.213681,
+      "name": "Gapco Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2229107756,
+      "lat": 2.711274,
+      "lon": 33.608294,
+      "name": "Garegere",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3731351687,
+      "lat": 0.325195,
+      "lon": 34.503829,
+      "name": "Garissa Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6766509421,
+      "lat": -1.29422,
+      "lon": 29.603783,
+      "name": "Gas-Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8440110718,
+      "lat": 2.765586,
+      "lon": 32.248248,
+      "name": "Gasco Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456546717,
+      "lat": 1.954352,
+      "lon": 32.142148,
+      "name": "Gasco Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10048640736,
+      "lat": -0.347964,
+      "lon": 31.726774,
+      "name": "Gaz petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3612418871,
+      "lat": -0.662084,
+      "lon": 34.740679,
+      "name": "Gesonso Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5951653106,
+      "lat": 0.255402,
+      "lon": 32.632508,
+      "name": "Ggaba Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8440110719,
+      "lat": 2.780632,
+      "lon": 32.212813,
+      "name": "Giff Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453954221,
+      "lat": 3.099574,
+      "lon": 30.974233,
+      "name": "Gilberco Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3340189010,
+      "lat": 1.427389,
+      "lon": 31.358242,
+      "name": "Gimet Stationery Centre",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4107662764,
+      "lat": 0.317325,
+      "lon": 32.525926,
+      "name": "Global Stationery and Grafix",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453951424,
+      "lat": 2.563991,
+      "lon": 31.794019,
+      "name": "God Bless You Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8591739322,
+      "lat": 0.437185,
+      "lon": 32.603097,
+      "name": "Good Purchase Book Shop and Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9853606618,
+      "lat": 0.242432,
+      "lon": 32.572371,
+      "name": "Goodluck Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5515725124,
+      "lat": 2.535583,
+      "lon": 31.888837,
+      "name": "GS Energy Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6385268734,
+      "lat": 2.758177,
+      "lon": 32.296805,
+      "name": "Gulu",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813814257,
+      "lat": 3.67,
+      "lon": 31.781,
+      "name": "Gwere-Luzira Power Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11001774231,
+      "lat": 3.742454,
+      "lon": 34.806465,
+      "name": "Hall Video Football Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8591801517,
+      "lat": 0.436669,
+      "lon": 32.601884,
+      "name": "Hama Computer Training and Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5405078974,
+      "lat": 2.947042,
+      "lon": 30.960957,
+      "name": "Happy Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3790273057,
+      "lat": 0.945955,
+      "lon": 33.124096,
+      "name": "Hared Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1459913400,
+      "lat": 0.255801,
+      "lon": 32.634739,
+      "name": "Hared Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10149186486,
+      "lat": 0.677285,
+      "lon": 30.069066,
+      "name": "Harugali Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3731344105,
+      "lat": 0.230464,
+      "lon": 34.524081,
+      "name": "Hashi Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6241761817,
+      "lat": 0.318647,
+      "lon": 34.574447,
+      "name": "Hashi Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7258036329,
+      "lat": 3.710856,
+      "lon": 34.855475,
+      "name": "Hashi Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457262117,
+      "lat": 0.434982,
+      "lon": 33.164881,
+      "name": "Hass Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 639104969,
+      "lat": 0.276397,
+      "lon": 32.614858,
+      "name": "Hass Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1468016675,
+      "lat": 0.276716,
+      "lon": 32.61467,
+      "name": "Hass Gass Station Restaurant",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5223523504,
+      "lat": 1.433131,
+      "lon": 31.35005,
+      "name": "Hass petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10831400382,
+      "lat": 1.425681,
+      "lon": 31.360449,
+      "name": "Hass petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 294017593,
+      "lat": 0.302959,
+      "lon": 32.525321,
+      "name": "Hass Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1967500501,
+      "lat": -0.758648,
+      "lon": 34.601722,
+      "name": "Hass Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3493040616,
+      "lat": 3.013762,
+      "lon": 30.914051,
+      "name": "Hass Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6235985599,
+      "lat": 0.593434,
+      "lon": 34.564966,
+      "name": "Hass Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7095047607,
+      "lat": 2.530586,
+      "lon": 34.653036,
+      "name": "Hass Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8442765130,
+      "lat": 3.411683,
+      "lon": 30.959938,
+      "name": "Hass Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10077613615,
+      "lat": 1.40139,
+      "lon": 34.442861,
+      "name": "Hass Petroleum Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2574806581,
+      "lat": 0.33577,
+      "lon": 34.489482,
+      "name": "Hass Service Station - Mumias",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8487805017,
+      "lat": 0.36836,
+      "lon": 32.624768,
+      "name": "Hezekiah Stationery and BookShop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8415070919,
+      "lat": 0.175839,
+      "lon": 33.562636,
+      "name": "HHH Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6976663163,
+      "lat": -0.515003,
+      "lon": 34.732768,
+      "name": "Hilwa Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4100092131,
+      "lat": 0.291047,
+      "lon": 32.581468,
+      "name": "HK Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10736300514,
+      "lat": 1.430589,
+      "lon": 31.350976,
+      "name": "Hoima service station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1450213491,
+      "lat": -0.522131,
+      "lon": 34.454499,
+      "name": "Homa Bay Pier",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4102526898,
+      "lat": 0.333432,
+      "lon": 32.556074,
+      "name": "Hosana Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9177427691,
+      "lat": 0.321932,
+      "lon": 34.057121,
+      "name": "Hydromet monitoring station River Sio",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10147774119,
+      "lat": 0.653712,
+      "lon": 30.044762,
+      "name": "Icam Fresh Cocoa Buying Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1434603899,
+      "lat": 0.619997,
+      "lon": 33.472999,
+      "name": "Iganga",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 900897987,
+      "lat": 0.61321,
+      "lon": 33.476517,
+      "name": "Iganga Bus Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 900897996,
+      "lat": 0.613471,
+      "lon": 33.477306,
+      "name": "Iganga Taxi Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5969530985,
+      "lat": -0.803696,
+      "lon": 34.803802,
+      "name": "Igare Stage",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457174117,
+      "lat": 0.438218,
+      "lon": 33.174523,
+      "name": "Ileeye Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10212586444,
+      "lat": 0.444747,
+      "lon": 33.19736,
+      "name": "Ileeye Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2094019458,
+      "lat": 1.014635,
+      "lon": 35.00555,
+      "name": "Ilhub petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6079063244,
+      "lat": -0.541127,
+      "lon": 34.455791,
+      "name": "Imani fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5359098986,
+      "lat": 0.842771,
+      "lon": 32.492424,
+      "name": "Impact Stationery Luweero",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8591802420,
+      "lat": 0.436163,
+      "lon": 32.601945,
+      "name": "Imran Stationers and Digital Studio",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4404999144,
+      "lat": 0.528035,
+      "lon": 33.385118,
+      "name": "Independent Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 666885782,
+      "lat": 0.287883,
+      "lon": 34.755706,
+      "name": "Ingotse-Navakholo Bus Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8493896717,
+      "lat": -0.54495,
+      "lon": 30.139155,
+      "name": "Ishaka Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8796488651,
+      "lat": -0.541509,
+      "lon": 30.141797,
+      "name": "Ishaka Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5338650953,
+      "lat": 3.022872,
+      "lon": 30.91111,
+      "name": "Jaab Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6084917272,
+      "lat": -0.626629,
+      "lon": 34.504331,
+      "name": "Jakoyugi Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3281773295,
+      "lat": -0.422957,
+      "lon": 34.208703,
+      "name": "Jamafuta Filling Station (Caltexy)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4038278815,
+      "lat": 0.4294,
+      "lon": 33.210065,
+      "name": "Jess Will Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6212833797,
+      "lat": 0.803714,
+      "lon": 34.846755,
+      "name": "Jimmy filling station Maliki",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1434603900,
+      "lat": 0.445233,
+      "lon": 33.218839,
+      "name": "Jinja",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014800360,
+      "lat": 0.428908,
+      "lon": 33.209327,
+      "name": "Jinja Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3255579293,
+      "lat": 0.323321,
+      "lon": 32.601329,
+      "name": "Jinja Road Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 103386502,
+      "lat": 0.431378,
+      "lon": 33.214593,
+      "name": "Jinja Taxi Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701112,
+      "lat": 2.416645,
+      "lon": 30.988818,
+      "name": "Jk Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8493840017,
+      "lat": 2.480323,
+      "lon": 31.09411,
+      "name": "JK Filling Station Nebbi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4041833891,
+      "lat": 0.433351,
+      "lon": 33.21242,
+      "name": "Johach Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6244082975,
+      "lat": 0.28727,
+      "lon": 34.756158,
+      "name": "Julika Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456545126,
+      "lat": 0.766583,
+      "lon": 32.512667,
+      "name": "Julwo Energy Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10976825120,
+      "lat": 3.744166,
+      "lon": 34.819352,
+      "name": "K2 Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8439878617,
+      "lat": 0.371358,
+      "lon": 32.623963,
+      "name": "Kaan Stationery Services",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11089341376,
+      "lat": 1.333869,
+      "lon": 31.423443,
+      "name": "Kabagambe gas station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1277086528,
+      "lat": 1.430406,
+      "lon": 31.350461,
+      "name": "Kabagambe Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8424844782,
+      "lat": 1.508383,
+      "lon": 31.532753,
+      "name": "Kabagambe Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217504174,
+      "lat": 0.198128,
+      "lon": 30.898817,
+      "name": "Kabagole",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6295697896,
+      "lat": -0.815598,
+      "lon": 30.945445,
+      "name": "Kabahinda Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12124305801,
+      "lat": -1.257967,
+      "lon": 29.990103,
+      "name": "Kabale Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2344463101,
+      "lat": -1.257375,
+      "lon": 29.989739,
+      "name": "Kabale Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9679873699,
+      "lat": -0.953087,
+      "lon": 30.869776,
+      "name": "Kabatangare",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9680627666,
+      "lat": -0.996049,
+      "lon": 30.551226,
+      "name": "Kabatangare",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3991699549,
+      "lat": -0.973857,
+      "lon": 30.515204,
+      "name": "Kabatangare Primary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4029414587,
+      "lat": -0.891868,
+      "lon": 30.699954,
+      "name": "Kabatangare Primary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11755603675,
+      "lat": -0.376128,
+      "lon": 31.253322,
+      "name": "Kabbs Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9387051862,
+      "lat": 0.209746,
+      "lon": 30.542217,
+      "name": "Kabuga",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3964665258,
+      "lat": -0.579713,
+      "lon": 30.381862,
+      "name": "Kabwohe II Total Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9543325617,
+      "lat": -0.580064,
+      "lon": 30.383147,
+      "name": "Kabwohe Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10570774506,
+      "lat": 1.524948,
+      "lon": 33.216778,
+      "name": "Kadungulu Central police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6285338000,
+      "lat": 0.936477,
+      "lon": 30.809632,
+      "name": "Kagadi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6282700064,
+      "lat": -0.768592,
+      "lon": 31.019247,
+      "name": "Kagagare's Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10996950084,
+      "lat": 3.753167,
+      "lon": 34.826849,
+      "name": "Kagema Bookshop,stationeries And Uniform",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5989727716,
+      "lat": 1.156103,
+      "lon": 30.754455,
+      "name": "Kagoma Pump Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10183961119,
+      "lat": -1.311126,
+      "lon": 31.780454,
+      "name": "Kagondo filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5523619150,
+      "lat": 0.21102,
+      "lon": 32.541448,
+      "name": "Kajjansi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5525522640,
+      "lat": 0.211164,
+      "lon": 32.541622,
+      "name": "Kajjansi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9635596035,
+      "lat": 0.211011,
+      "lon": 32.541301,
+      "name": "Kajjansi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12479651471,
+      "lat": 3.880464,
+      "lon": 31.66904,
+      "name": "Kajo Keji City and COunty Police Station Headquarters (SSNPS Kajo Keji City & County)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8526140918,
+      "lat": 0.311128,
+      "lon": 32.556889,
+      "name": "KAKI petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10978585859,
+      "lat": 3.744406,
+      "lon": 34.819782,
+      "name": "Kakuma 2 Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10961758166,
+      "lat": 3.711019,
+      "lon": 34.857215,
+      "name": "Kakuma Police Station Turkana West Sub County",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2163351844,
+      "lat": -1.472688,
+      "lon": 31.675229,
+      "name": "Kalebe Gauging Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813890578,
+      "lat": 0.312855,
+      "lon": 32.573884,
+      "name": "Kalita Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10978991812,
+      "lat": 3.767508,
+      "lon": 34.621513,
+      "name": "Kalobeyei Police Station Office",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10026356933,
+      "lat": 1.07408,
+      "lon": 34.119209,
+      "name": "Kamonkoli police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 353699722,
+      "lat": 0.312162,
+      "lon": 32.588776,
+      "name": "Kampala",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10202230771,
+      "lat": 1.188391,
+      "lon": 33.805549,
+      "name": "Kamuge Station 'a'",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10202230772,
+      "lat": 1.183535,
+      "lon": 33.812184,
+      "name": "Kamuge Station 'b'",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3966680772,
+      "lat": 1.175286,
+      "lon": 33.810646,
+      "name": "Kamuge Station Primary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2365457229,
+      "lat": 0.944729,
+      "lon": 33.122859,
+      "name": "Kamuli Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217457742,
+      "lat": 0.188995,
+      "lon": 30.44572,
+      "name": "Kamwenge",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12483795195,
+      "lat": 3.753483,
+      "lon": 31.594966,
+      "name": "Kangepo 2 Payam Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12483761757,
+      "lat": 3.801606,
+      "lon": 31.71721,
+      "name": "kangepo Payam Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6191766016,
+      "lat": -0.748238,
+      "lon": 34.559556,
+      "name": "Kangeso Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 746425332,
+      "lat": -0.897776,
+      "lon": 29.775188,
+      "name": "Kanungu Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4387180834,
+      "lat": -0.895319,
+      "lon": 29.776118,
+      "name": "Kanungu Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1382880670,
+      "lat": -0.872295,
+      "lon": 29.665269,
+      "name": "Kanungu Power Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8494041617,
+      "lat": 2.477634,
+      "lon": 31.088191,
+      "name": "Kapil Stationary & Suppliers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6746548541,
+      "lat": -0.40756,
+      "lon": 29.774977,
+      "name": "Karaveri And Family Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1546998193,
+      "lat": 3.564547,
+      "lon": 33.697813,
+      "name": "Karenga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8427509717,
+      "lat": 2.235523,
+      "lon": 32.246039,
+      "name": "Karuma Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11030610607,
+      "lat": -0.111476,
+      "lon": 34.775717,
+      "name": "Kasagam police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4126474332,
+      "lat": 0.34449,
+      "lon": 32.551525,
+      "name": "Kasala Phone Tech And Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217511928,
+      "lat": 0.261332,
+      "lon": 31.32811,
+      "name": "Kasambia",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8616714022,
+      "lat": 0.439011,
+      "lon": 32.603232,
+      "name": "Kasangati Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3575149993,
+      "lat": 0.170599,
+      "lon": 30.092363,
+      "name": "Kasese",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4486173155,
+      "lat": 0.175139,
+      "lon": 30.0821,
+      "name": "Kasese Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6735356116,
+      "lat": -0.076538,
+      "lon": 30.174182,
+      "name": "Kashaka Police Station Toilet",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6320581952,
+      "lat": -0.7831,
+      "lon": 30.949409,
+      "name": "Kashojwa Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5639886669,
+      "lat": 1.185477,
+      "lon": 30.782831,
+      "name": "Kasonga Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4052772047,
+      "lat": 0.613742,
+      "lon": 33.478791,
+      "name": "Kasu Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8412765835,
+      "lat": 0.467699,
+      "lon": 33.465336,
+      "name": "Kasugu Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6746548538,
+      "lat": -0.135478,
+      "lon": 30.055857,
+      "name": "Katunguru Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1492354668,
+      "lat": 0.341245,
+      "lon": 32.553807,
+      "name": "Kawaala Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9596623717,
+      "lat": 0.417427,
+      "lon": 32.531014,
+      "name": "Kawanda police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9395428459,
+      "lat": 0.40048,
+      "lon": 32.18234,
+      "name": "Kawolongojo",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 235799543,
+      "lat": -0.368307,
+      "lon": 34.650835,
+      "name": "Kendu Bay Bus Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5995228162,
+      "lat": 1.149127,
+      "lon": 30.74094,
+      "name": "Kentomi Pump Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5995228161,
+      "lat": 1.149208,
+      "lon": 30.741233,
+      "name": "Kentomi Pump Station Block 05 Tap",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6105930788,
+      "lat": -0.778378,
+      "lon": 34.947585,
+      "name": "Keroka Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2060581637,
+      "lat": -0.070075,
+      "lon": 34.811837,
+      "name": "Kibos",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8314793030,
+      "lat": 1.808618,
+      "lon": 32.005201,
+      "name": "Kigumba Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2684889015,
+      "lat": -0.748606,
+      "lon": 29.701254,
+      "name": "Kihihi Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4839846264,
+      "lat": 0.17786,
+      "lon": 30.079651,
+      "name": "Kilembe Taxi Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9412355757,
+      "lat": 0.424766,
+      "lon": 32.528895,
+      "name": "Kilinyabingo service station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11187790124,
+      "lat": 0.789465,
+      "lon": 34.714179,
+      "name": "Kimilili police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1422995656,
+      "lat": 0.178952,
+      "lon": 34.297572,
+      "name": "Kinda Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6766509466,
+      "lat": -1.294087,
+      "lon": 29.60039,
+      "name": "Kindly Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8341600921,
+      "lat": -1.282329,
+      "lon": 29.697306,
+      "name": "Kindly Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8341600941,
+      "lat": -1.288672,
+      "lon": 29.686279,
+      "name": "Kindly Service station Rusiza",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6106202681,
+      "lat": 1.016972,
+      "lon": 35.002973,
+      "name": "Kipetro Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7206039236,
+      "lat": 0.608471,
+      "lon": 34.968276,
+      "name": "Kipkaren Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2093930744,
+      "lat": 0.610887,
+      "lon": 34.971897,
+      "name": "Kipkarren",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456547320,
+      "lat": 1.878176,
+      "lon": 32.062714,
+      "name": "Kiryandongo Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7414069982,
+      "lat": 0.379683,
+      "lon": 32.601709,
+      "name": "Kisasi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864892189,
+      "lat": -0.071196,
+      "lon": 34.677124,
+      "name": "Kisian",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9928099812,
+      "lat": -0.086103,
+      "lon": 34.757832,
+      "name": "Kisumu",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 10023365017,
+      "lat": -0.101403,
+      "lon": 34.753989,
+      "name": "Kisumu fire station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1083330025,
+      "lat": -0.086162,
+      "lon": 34.757999,
+      "name": "Kisumu Railway Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11915747670,
+      "lat": 1.01792,
+      "lon": 35.003608,
+      "name": "Kitale",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6106058065,
+      "lat": 1.023088,
+      "lon": 35.004395,
+      "name": "Kitale Link Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3282115382,
+      "lat": 0.844553,
+      "lon": 32.362695,
+      "name": "Kiwoko Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5841533385,
+      "lat": 0.317361,
+      "lon": 32.57476,
+      "name": "KK Coach bus station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453946318,
+      "lat": 3.02428,
+      "lon": 30.912165,
+      "name": "KK Travellers Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3176748872,
+      "lat": 0.43193,
+      "lon": 33.212379,
+      "name": "KO TV Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6535456885,
+      "lat": 0.332538,
+      "lon": 32.492793,
+      "name": "Kobil fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6447522585,
+      "lat": 0.554808,
+      "lon": 31.392989,
+      "name": "Kobil Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2857779900,
+      "lat": -0.676318,
+      "lon": 34.771259,
+      "name": "Kobil Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4037276212,
+      "lat": 0.255195,
+      "lon": 32.816801,
+      "name": "Kobil Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5066047095,
+      "lat": 3.404393,
+      "lon": 30.960441,
+      "name": "Koboko Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8173338750,
+      "lat": -0.074663,
+      "lon": 34.73407,
+      "name": "Kogony Bodaboda Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8414407544,
+      "lat": -0.073695,
+      "lon": 34.73399,
+      "name": "Kogony Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 582055175,
+      "lat": 0.326917,
+      "lon": 32.595172,
+      "name": "Kololo Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8867118919,
+      "lat": -1.428532,
+      "lon": 34.188808,
+      "name": "Komaswa Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10744961187,
+      "lat": -0.911825,
+      "lon": 34.795714,
+      "name": "Kosneb Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4114345233,
+      "lat": 0.306167,
+      "lon": 32.561631,
+      "name": "Krimline Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5576067820,
+      "lat": 3.419307,
+      "lon": 31.275565,
+      "name": "Kululu Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10099162239,
+      "lat": -0.338289,
+      "lon": 31.708039,
+      "name": "Kyabakuza Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 603797783,
+      "lat": 0.35034,
+      "lon": 32.62608,
+      "name": "Kyambogo University Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5350937423,
+      "lat": -1.24801,
+      "lon": 29.980931,
+      "name": "Kyamp’s Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8448367519,
+      "lat": 1.789376,
+      "lon": 31.879207,
+      "name": "Kyatiri Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8120779234,
+      "lat": 1.547814,
+      "lon": 30.250438,
+      "name": "La gare du nord",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864891854,
+      "lat": -0.029089,
+      "lon": 34.605608,
+      "name": "Lela",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6095562315,
+      "lat": -0.680028,
+      "lon": 34.775992,
+      "name": "Lexo Energy Petrol Station Kisii",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5942981642,
+      "lat": 3.060438,
+      "lon": 30.792281,
+      "name": "Lia Customs Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3791310213,
+      "lat": 1.431696,
+      "lon": 31.349324,
+      "name": "Link Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6385419445,
+      "lat": 2.252425,
+      "lon": 32.917049,
+      "name": "Lira",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813297808,
+      "lat": 0.02774,
+      "lon": 32.447081,
+      "name": "Livestock experimental station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12483796643,
+      "lat": 3.746607,
+      "lon": 31.461233,
+      "name": "Liwolo Payam Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8983583118,
+      "lat": -1.027153,
+      "lon": 30.270906,
+      "name": "Ll and bus station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11833531532,
+      "lat": 4.145971,
+      "lon": 33.683287,
+      "name": "Lobetangare",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11833531533,
+      "lat": 4.145189,
+      "lon": 33.684754,
+      "name": "Lobetangare Primiray School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453947226,
+      "lat": 3.41135,
+      "lon": 31.111435,
+      "name": "Lodonga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1357607843,
+      "lat": 4.204398,
+      "lon": 34.359607,
+      "name": "Lodwar Energy Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6263675468,
+      "lat": 4.205423,
+      "lon": 34.359082,
+      "name": "Lodwar Energy Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12479697460,
+      "lat": 4.012411,
+      "lon": 31.535887,
+      "name": "Lori Boma Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3281773309,
+      "lat": -0.424041,
+      "lon": 34.208518,
+      "name": "Love's Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864872277,
+      "lat": 0.034539,
+      "lon": 34.575528,
+      "name": "Luanda",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7414297115,
+      "lat": 0.298966,
+      "lon": 32.549576,
+      "name": "Lubaga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 993664537,
+      "lat": 0.243643,
+      "lon": 32.557736,
+      "name": "Lubowa Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11610837105,
+      "lat": 0.082415,
+      "lon": 34.001766,
+      "name": "Lugare B",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12009684994,
+      "lat": 0.665815,
+      "lon": 34.876841,
+      "name": "Lugari Station Market",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8438796617,
+      "lat": 0.231428,
+      "lon": 32.551708,
+      "name": "Luqman Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9820609425,
+      "lat": 0.299003,
+      "lon": 32.507583,
+      "name": "Luqman Petro station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7239126635,
+      "lat": 0.298894,
+      "lon": 34.767367,
+      "name": "Lurambi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5479443722,
+      "lat": -1.331947,
+      "lon": 31.813838,
+      "name": "Lutaremwa stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12121565601,
+      "lat": -0.795822,
+      "lon": 30.81665,
+      "name": "Mable Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014800510,
+      "lat": 0.522839,
+      "lon": 33.366448,
+      "name": "Magamaga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10992193221,
+      "lat": -0.130779,
+      "lon": 34.05118,
+      "name": "Magare Market",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6945529533,
+      "lat": 0.463561,
+      "lon": 34.103405,
+      "name": "Magharibi Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 321471841,
+      "lat": -0.421909,
+      "lon": 34.207589,
+      "name": "Main Bus and Matatu Stage",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4068203423,
+      "lat": 0.433806,
+      "lon": 33.213083,
+      "name": "Main Street Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8441957024,
+      "lat": -0.016913,
+      "lon": 32.028248,
+      "name": "Majab Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7009983171,
+      "lat": 0.197727,
+      "lon": 32.518011,
+      "name": "Makandwa Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1549363476,
+      "lat": 0.633257,
+      "lon": 34.272705,
+      "name": "Malaba",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7211829924,
+      "lat": 0.634708,
+      "lon": 34.272221,
+      "name": "Malaba Kenya Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7239126640,
+      "lat": 0.447239,
+      "lon": 34.853313,
+      "name": "Malava Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8439488318,
+      "lat": 2.767639,
+      "lon": 32.298729,
+      "name": "Malone Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8814482350,
+      "lat": -0.093052,
+      "lon": 34.760983,
+      "name": "Mamba Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 377104815,
+      "lat": 0.358988,
+      "lon": 32.573806,
+      "name": "Mambule Stage",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6244342620,
+      "lat": 0.607305,
+      "lon": 34.753402,
+      "name": "Manasseh Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2859449633,
+      "lat": -0.80644,
+      "lon": 34.728862,
+      "name": "Mandela filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9524918720,
+      "lat": 3.408253,
+      "lon": 31.029705,
+      "name": "Mangare",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 610963789,
+      "lat": -1.402235,
+      "lon": 35.025389,
+      "name": "Mara Serena Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11001365882,
+      "lat": 3.769635,
+      "lon": 34.729292,
+      "name": "Margaret Kiok Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4571464992,
+      "lat": 2.480486,
+      "lon": 31.097952,
+      "name": "Margaret Ongom",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4105542223,
+      "lat": 0.372617,
+      "lon": 32.603012,
+      "name": "Margaret Secondary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11015867253,
+      "lat": 3.735891,
+      "lon": 34.805824,
+      "name": "Margaret Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5985108844,
+      "lat": 3.336473,
+      "lon": 31.291407,
+      "name": "Margaret's Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864872445,
+      "lat": -0.018054,
+      "lon": 34.582163,
+      "name": "Maseno",
+      "type": "halt",
+      "country": "UG"
+    },
+    {
+      "id": 4120889498,
+      "lat": 0.315944,
+      "lon": 32.577038,
+      "name": "Mastery Book and Stationery Point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6106056674,
+      "lat": 1.037784,
+      "lon": 34.974196,
+      "name": "Matisi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5391573522,
+      "lat": 0.354629,
+      "lon": 32.572519,
+      "name": "Max Oil Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6901846853,
+      "lat": 0.555556,
+      "lon": 33.408101,
+      "name": "Mayuge Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1497281960,
+      "lat": 1.076992,
+      "lon": 34.157148,
+      "name": "Mbale",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10148137292,
+      "lat": 0.798405,
+      "lon": 30.143748,
+      "name": "Melodies Stationary Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457347320,
+      "lat": 0.362796,
+      "lon": 32.809426,
+      "name": "Meru Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10789979962,
+      "lat": 1.421281,
+      "lon": 31.367921,
+      "name": "Meru petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2272414867,
+      "lat": -0.814827,
+      "lon": 30.816277,
+      "name": "Meteriological station Isingiro",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 667211926,
+      "lat": -1.069299,
+      "lon": 34.469218,
+      "name": "Migori Bus Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456547324,
+      "lat": 1.508023,
+      "lon": 32.095027,
+      "name": "Mik Nakitoma Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5579898214,
+      "lat": 3.470147,
+      "lon": 31.246645,
+      "name": "Millia Police Station Borehole",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11031714405,
+      "lat": 0.406103,
+      "lon": 32.511803,
+      "name": "Min petro station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217464626,
+      "lat": 0.418702,
+      "lon": 32.0481,
+      "name": "Mityana",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3256041361,
+      "lat": -0.073331,
+      "lon": 34.984512,
+      "name": "Miwani",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9153137022,
+      "lat": 1.097856,
+      "lon": 34.180538,
+      "name": "mobile money station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2214813450,
+      "lat": -0.540273,
+      "lon": 30.186244,
+      "name": "Mogas Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3832834124,
+      "lat": -0.540178,
+      "lon": 30.166587,
+      "name": "Mogas Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7205344785,
+      "lat": 2.532112,
+      "lon": 34.6537,
+      "name": "Moroto Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3954783337,
+      "lat": 1.02515,
+      "lon": 34.371007,
+      "name": "Mosco Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4533259415,
+      "lat": 1.464357,
+      "lon": 33.984489,
+      "name": "Mother Magarete nursery and pfimary school",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217493337,
+      "lat": 0.424766,
+      "lon": 31.964909,
+      "name": "Mpanga",
+      "type": "halt",
+      "country": "UG"
+    },
+    {
+      "id": 4398595387,
+      "lat": 0.21923,
+      "lon": 32.332951,
+      "name": "Mpigi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4949995118,
+      "lat": 0.043221,
+      "lon": 29.721751,
+      "name": "Mpondwe customs police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3380711156,
+      "lat": 0.29179,
+      "lon": 32.500762,
+      "name": "Mugongo Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456544542,
+      "lat": 0.684921,
+      "lon": 32.52333,
+      "name": "Mukama Mulungi Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7414088085,
+      "lat": 0.340483,
+      "lon": 32.575246,
+      "name": "Mulago Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8494569518,
+      "lat": 2.477618,
+      "lon": 31.090108,
+      "name": "Mungumiyo Enterprises Book Shop and Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8494296420,
+      "lat": 0.627802,
+      "lon": 33.516601,
+      "name": "Musib Energy Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8684522928,
+      "lat": 0.368215,
+      "lon": 32.57753,
+      "name": "Musomesaz super Stationery and Movies",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217512076,
+      "lat": 0.365184,
+      "lon": 31.583236,
+      "name": "Musozi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8273456348,
+      "lat": -1.263313,
+      "lon": 29.722483,
+      "name": "Mutolere Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9748982518,
+      "lat": -1.001286,
+      "lon": 31.415626,
+      "name": "Mutukula bus station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7009665113,
+      "lat": 0.210258,
+      "lon": 32.575941,
+      "name": "Mutungo Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7920478334,
+      "lat": 0.458607,
+      "lon": 34.142765,
+      "name": "Mwari filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4573990850,
+      "lat": 0.177157,
+      "lon": 30.075999,
+      "name": "Mwine's Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6241479035,
+      "lat": 0.546617,
+      "lon": 34.556308,
+      "name": "Mwireri Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9062955417,
+      "lat": 0.392381,
+      "lon": 32.640585,
+      "name": "Mx Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217471454,
+      "lat": 0.41461,
+      "lon": 31.914868,
+      "name": "Myanzi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457585117,
+      "lat": 0.368708,
+      "lon": 32.713268,
+      "name": "Mystical investments stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4104825598,
+      "lat": 0.324159,
+      "lon": 32.560134,
+      "name": "Nabuyi Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1085361313,
+      "lat": 1.101097,
+      "lon": 34.174824,
+      "name": "nakaloke pumping station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11271179852,
+      "lat": 1.851522,
+      "lon": 34.720859,
+      "name": "Nakapiripirit Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3338274678,
+      "lat": 0.719711,
+      "lon": 32.396827,
+      "name": "Nakaseke Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11081137081,
+      "lat": 1.313979,
+      "lon": 32.464978,
+      "name": "Nakasongola Cental Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10050942983,
+      "lat": 0.351515,
+      "lon": 32.678498,
+      "name": "Namanve",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10033764306,
+      "lat": 1.116679,
+      "lon": 34.203393,
+      "name": "Namanyonyi Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864848854,
+      "lat": 0.125034,
+      "lon": 34.539133,
+      "name": "Namasoli",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11525833986,
+      "lat": 0.343525,
+      "lon": 33.869187,
+      "name": "Namayingo District Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10050942982,
+      "lat": 0.347726,
+      "lon": 32.661493,
+      "name": "Namboole",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 567554605,
+      "lat": 0.312711,
+      "lon": 32.571625,
+      "name": "Namirembe Road Taxi Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7165591271,
+      "lat": 0.363919,
+      "lon": 32.528394,
+      "name": "Nansana police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7414088087,
+      "lat": 0.300749,
+      "lon": 32.530485,
+      "name": "Natete Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6102845272,
+      "lat": -0.691168,
+      "lon": 34.77636,
+      "name": "National Oil Petro Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4999849945,
+      "lat": -0.535439,
+      "lon": 34.456428,
+      "name": "National Oil Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6644515685,
+      "lat": 0.207283,
+      "lon": 34.772277,
+      "name": "National Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6130562039,
+      "lat": -0.095408,
+      "lon": 34.752662,
+      "name": "National Petrol Station Ksm",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5670829741,
+      "lat": 1.046759,
+      "lon": 34.182574,
+      "name": "Nauyo Plice Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9602392220,
+      "lat": 0.455853,
+      "lon": 32.53228,
+      "name": "NB stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3528668981,
+      "lat": 0.605123,
+      "lon": 32.475821,
+      "name": "Ndejje Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8494569528,
+      "lat": 2.478308,
+      "lon": 31.087486,
+      "name": "Nebbi District Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10798941975,
+      "lat": 1.432423,
+      "lon": 31.348782,
+      "name": "Nesta fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10028903256,
+      "lat": 1.042602,
+      "lon": 34.178448,
+      "name": "Nesta petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12873206103,
+      "lat": 1.411483,
+      "lon": 31.374584,
+      "name": "Nevo petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10743535963,
+      "lat": -0.909704,
+      "lon": 34.795951,
+      "name": "New Magena Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6095415055,
+      "lat": -0.673359,
+      "lon": 34.774099,
+      "name": "New Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 255727382,
+      "lat": 0.31426,
+      "lon": 32.573371,
+      "name": "New Taxi Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2210087809,
+      "lat": -1.239277,
+      "lon": 31.595928,
+      "name": "Ngono Gauging Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453946319,
+      "lat": 3.025964,
+      "lon": 30.908289,
+      "name": "Nile Star Coaches Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2694504902,
+      "lat": 0.440802,
+      "lon": 33.179679,
+      "name": "Njeru Asa Service station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9500572017,
+      "lat": 0.239256,
+      "lon": 32.922769,
+      "name": "Nkokojeru Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1217505848,
+      "lat": 0.226854,
+      "lon": 31.16386,
+      "name": "Nkonge",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3973885246,
+      "lat": 0.002883,
+      "lon": 32.014894,
+      "name": "Nkozi University Polling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12135559701,
+      "lat": -1.009385,
+      "lon": 30.189359,
+      "name": "NM Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 590641774,
+      "lat": 0.35061,
+      "lon": 32.616061,
+      "name": "Ntinda Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3920281196,
+      "lat": -1.28214,
+      "lon": 29.695736,
+      "name": "Nyamagana B. Petrol Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8341574214,
+      "lat": -1.282063,
+      "lon": 29.695878,
+      "name": "Nyamagana Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4952579821,
+      "lat": -1.461966,
+      "lon": 34.531594,
+      "name": "Nyamongo Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6990251885,
+      "lat": -1.395777,
+      "lon": 34.576959,
+      "name": "Nyamwaga police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1419917018,
+      "lat": 0.182294,
+      "lon": 34.295183,
+      "name": "Nyaugenya Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10778664629,
+      "lat": -1.316375,
+      "lon": 34.214642,
+      "name": "Ochele Petroleum Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5563676555,
+      "lat": 3.375603,
+      "lon": 31.263007,
+      "name": "Odravu Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453954433,
+      "lat": 2.483887,
+      "lon": 31.099011,
+      "name": "Oil Energy Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456544526,
+      "lat": 1.873257,
+      "lon": 32.05752,
+      "name": "Oil Energy Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5447897728,
+      "lat": 0.171723,
+      "lon": 32.524275,
+      "name": "Old Akright Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4921096876,
+      "lat": -0.877423,
+      "lon": 30.266057,
+      "name": "Old Kabale Road Total Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5024418663,
+      "lat": -0.10465,
+      "lon": 34.747512,
+      "name": "Old Kisumu Train Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12915733201,
+      "lat": 1.062624,
+      "lon": 34.154411,
+      "name": "OMARA QUASENS (OQ)  PlayStation",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6004626406,
+      "lat": 3.280313,
+      "lon": 31.348632,
+      "name": "Ombeci Pump Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701105,
+      "lat": 2.416812,
+      "lon": 30.986383,
+      "name": "On Oil Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3612418875,
+      "lat": -0.735081,
+      "lon": 34.846812,
+      "name": "Orina Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6385257265,
+      "lat": 2.493217,
+      "lon": 32.718801,
+      "name": "Otwal",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10239955446,
+      "lat": -1.036779,
+      "lon": 34.588425,
+      "name": "Oyani Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457173818,
+      "lat": 0.441081,
+      "lon": 33.211159,
+      "name": "Oyster Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2858147155,
+      "lat": -0.505285,
+      "lon": 34.73689,
+      "name": "Oyugis Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8634294495,
+      "lat": 2.417092,
+      "lon": 30.987263,
+      "name": "Paidha Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1647360415,
+      "lat": 2.460558,
+      "lon": 31.504271,
+      "name": "Pakwach Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10997046505,
+      "lat": 0.357095,
+      "lon": 32.649731,
+      "name": "Paps Graphix Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4052772067,
+      "lat": 0.613982,
+      "lon": 33.478012,
+      "name": "Patu Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6976732377,
+      "lat": -0.622183,
+      "lon": 34.755527,
+      "name": "Pebo service station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701108,
+      "lat": 2.41626,
+      "lon": 30.986717,
+      "name": "Petro City Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6106202869,
+      "lat": 0.991016,
+      "lon": 35.006419,
+      "name": "Petro Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456544524,
+      "lat": 1.951811,
+      "lon": 32.139893,
+      "name": "Petro Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2858724780,
+      "lat": -1.064394,
+      "lon": 34.472108,
+      "name": "Petro Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4442270031,
+      "lat": 0.319232,
+      "lon": 32.60028,
+      "name": "Petro Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8219200237,
+      "lat": -0.616866,
+      "lon": 30.649103,
+      "name": "PetroCity Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5333938427,
+      "lat": -1.198389,
+      "lon": 29.92893,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9957443518,
+      "lat": 0.278612,
+      "lon": 32.51634,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3727815459,
+      "lat": 0.375649,
+      "lon": 34.488093,
+      "name": "Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6282700624,
+      "lat": -0.779673,
+      "lon": 30.950218,
+      "name": "Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6295698292,
+      "lat": -0.775375,
+      "lon": 30.961755,
+      "name": "Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10763879230,
+      "lat": 1.239412,
+      "lon": 30.736642,
+      "name": "Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 13420362001,
+      "lat": 0.944645,
+      "lon": 33.125929,
+      "name": "PITA Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701044,
+      "lat": 2.60095,
+      "lon": 30.891655,
+      "name": "Pock Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4473371621,
+      "lat": 2.436955,
+      "lon": 34.395751,
+      "name": "Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5208249146,
+      "lat": 3.478408,
+      "lon": 31.37193,
+      "name": "Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3828158363,
+      "lat": 2.77714,
+      "lon": 32.297653,
+      "name": "Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5319708517,
+      "lat": 3.074347,
+      "lon": 31.282427,
+      "name": "Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10978991806,
+      "lat": 3.763914,
+      "lon": 34.747774,
+      "name": "Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12241181564,
+      "lat": 3.845962,
+      "lon": 31.522005,
+      "name": "Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9740834015,
+      "lat": 0.041925,
+      "lon": 29.724156,
+      "name": "Police Station frontière",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4397054310,
+      "lat": -1.168295,
+      "lon": 34.038817,
+      "name": "Police Station Shirati",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8256991218,
+      "lat": 0.396237,
+      "lon": 32.636378,
+      "name": "Posh Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6246999979,
+      "lat": -1.030369,
+      "lon": 34.475705,
+      "name": "Premacy Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453947223,
+      "lat": 3.4304,
+      "lon": 30.977112,
+      "name": "Prince Fuel Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7518208113,
+      "lat": 1.842453,
+      "lon": 31.381371,
+      "name": "proposed site for petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5319708482,
+      "lat": 3.269655,
+      "lon": 31.272287,
+      "name": "Pump Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4680853178,
+      "lat": 0.152371,
+      "lon": 32.801875,
+      "name": "QC Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4102526906,
+      "lat": 0.334094,
+      "lon": 32.555795,
+      "name": "Quality Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 12121566001,
+      "lat": -0.995831,
+      "lon": 30.73257,
+      "name": "Quilno & Sons Electronics and Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9653418217,
+      "lat": -1.218009,
+      "lon": 31.408499,
+      "name": "R.J fire station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8244489718,
+      "lat": 0.369906,
+      "lon": 32.713364,
+      "name": "R&A Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6957422188,
+      "lat": -0.04018,
+      "lon": 34.636732,
+      "name": "Rabet Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2365538415,
+      "lat": 0.94696,
+      "lon": 33.122543,
+      "name": "Radio station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9147491818,
+      "lat": 2.427742,
+      "lon": 30.998005,
+      "name": "Radio station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3791299191,
+      "lat": 1.430013,
+      "lon": 31.349198,
+      "name": "Radio Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6976663165,
+      "lat": -0.518965,
+      "lon": 34.728939,
+      "name": "Ragama Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10198929380,
+      "lat": 2.265137,
+      "lon": 32.910435,
+      "name": "Railway Line",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10316604444,
+      "lat": 2.493134,
+      "lon": 32.717829,
+      "name": "Railway Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4048698399,
+      "lat": 0.520676,
+      "lon": 33.348702,
+      "name": "Rainbow Stationers And Conputer Center",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5587486605,
+      "lat": 3.467333,
+      "lon": 31.240088,
+      "name": "Rak Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 13389379602,
+      "lat": 0.499154,
+      "lon": 32.522109,
+      "name": "Ramex Petroleum Fuel and Gas station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6969176797,
+      "lat": -0.120265,
+      "lon": 34.790616,
+      "name": "Rasmi Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8539745323,
+      "lat": 0.384887,
+      "lon": 32.651867,
+      "name": "Regina Pacis Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9484434618,
+      "lat": 0.110683,
+      "lon": 32.525703,
+      "name": "Reginol Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10770885803,
+      "lat": 1.279686,
+      "lon": 34.374362,
+      "name": "Research Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7772471786,
+      "lat": 0.458601,
+      "lon": 34.081065,
+      "name": "Retta Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6092399428,
+      "lat": -0.769698,
+      "lon": 34.623861,
+      "name": "Riosiri Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456545031,
+      "lat": 0.38957,
+      "lon": 32.551541,
+      "name": "Rock Fill Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8631105218,
+      "lat": 0.389967,
+      "lon": 32.5512,
+      "name": "Rock filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9147491779,
+      "lat": 2.414298,
+      "lon": 30.981425,
+      "name": "Rock filling station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5344284522,
+      "lat": 2.480134,
+      "lon": 31.094561,
+      "name": "Rock Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6335000153,
+      "lat": 2.46091,
+      "lon": 31.491849,
+      "name": "Rock Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701132,
+      "lat": 2.414265,
+      "lon": 30.981583,
+      "name": "Rock Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8602808017,
+      "lat": 0.389859,
+      "lon": 32.551353,
+      "name": "Rock fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7246589801,
+      "lat": 3.461733,
+      "lon": 31.247873,
+      "name": "Rock Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453964118,
+      "lat": 1.961766,
+      "lon": 32.148106,
+      "name": "Rock Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1556646638,
+      "lat": 0.389416,
+      "lon": 32.625357,
+      "name": "Roil Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3143989389,
+      "lat": 0.378934,
+      "lon": 32.166031,
+      "name": "Rotal Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4123796174,
+      "lat": 0.307122,
+      "lon": 32.555878,
+      "name": "Royal Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1311765921,
+      "lat": 0.342454,
+      "lon": 32.589558,
+      "name": "Rubis Station Supermarket",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9500280628,
+      "lat": -1.130053,
+      "lon": 29.679811,
+      "name": "Rubuguri petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9740812062,
+      "lat": 0.655223,
+      "lon": 30.267458,
+      "name": "Ruby station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9740733789,
+      "lat": 0.655014,
+      "lon": 30.26759,
+      "name": "Ruby Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8458235518,
+      "lat": -0.30077,
+      "lon": 30.593518,
+      "name": "Ruhumba Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8442093824,
+      "lat": -0.630745,
+      "lon": 30.624226,
+      "name": "Ruti Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8341566423,
+      "lat": -1.143218,
+      "lon": 29.631696,
+      "name": "Ryakabagare water point",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6095345531,
+      "lat": -0.665857,
+      "lon": 34.770655,
+      "name": "SAB Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014799200,
+      "lat": 1.090772,
+      "lon": 34.177077,
+      "name": "Sagal Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4018299575,
+      "lat": 1.925207,
+      "lon": 33.054833,
+      "name": "Saint Margare Nursery School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4027863840,
+      "lat": 1.173817,
+      "lon": 33.909497,
+      "name": "Saint Margaret Grant Nursery and Primary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4023722884,
+      "lat": 0.913989,
+      "lon": 30.756041,
+      "name": "Saint Margaret Mary Muhorro Girl's Secondary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4025863837,
+      "lat": 0.799724,
+      "lon": 30.57637,
+      "name": "Saint Margaret Nursery School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3278732819,
+      "lat": 0.680896,
+      "lon": 32.524712,
+      "name": "San Africa Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8442096323,
+      "lat": -0.497198,
+      "lon": 30.907335,
+      "name": "Sanga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1497281963,
+      "lat": 1.074247,
+      "lon": 34.170409,
+      "name": "Sarope Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11294822922,
+      "lat": 0.460009,
+      "lon": 32.528681,
+      "name": "SB Stationers and Photocopy",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3776167069,
+      "lat": 0.369181,
+      "lon": 32.713197,
+      "name": "Seeta Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10989700512,
+      "lat": 3.769613,
+      "lon": 34.729244,
+      "name": "Shaheen Play Station Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456546720,
+      "lat": 0.346598,
+      "lon": 32.567524,
+      "name": "Shalru Fuesl Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014798975,
+      "lat": 1.079855,
+      "lon": 34.153875,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4017085265,
+      "lat": 0.36285,
+      "lon": 32.625197,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453946323,
+      "lat": 2.481433,
+      "lon": 31.096285,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456545125,
+      "lat": 0.843853,
+      "lon": 32.492274,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8481604217,
+      "lat": 0.167195,
+      "lon": 32.543163,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8575590319,
+      "lat": 0.250726,
+      "lon": 32.626081,
+      "name": "Shell Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8219163521,
+      "lat": -0.864496,
+      "lon": 30.270448,
+      "name": "Shell Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8465163117,
+      "lat": 0.396812,
+      "lon": 32.638512,
+      "name": "Shell Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8515863218,
+      "lat": 0.391194,
+      "lon": 32.658992,
+      "name": "Shell Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8575590119,
+      "lat": 0.318071,
+      "lon": 32.510811,
+      "name": "Shell Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1655924403,
+      "lat": 0.718484,
+      "lon": 32.528065,
+      "name": "Shell petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9957423518,
+      "lat": 0.298034,
+      "lon": 32.535956,
+      "name": "Shell petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6612618386,
+      "lat": 0.290848,
+      "lon": 32.498879,
+      "name": "Shell Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2321105578,
+      "lat": 0.338731,
+      "lon": 32.563472,
+      "name": "Shell Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3380754156,
+      "lat": 0.307055,
+      "lon": 32.562542,
+      "name": "Shell Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 598134741,
+      "lat": 0.317999,
+      "lon": 32.629321,
+      "name": "Shell Petrol Station Portbell",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4573888935,
+      "lat": 0.177362,
+      "lon": 30.079743,
+      "name": "Shell Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2365466189,
+      "lat": 0.945224,
+      "lon": 33.123507,
+      "name": "Shell Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8512563124,
+      "lat": 0.393822,
+      "lon": 32.663463,
+      "name": "Shery Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456545121,
+      "lat": 1.868348,
+      "lon": 32.052793,
+      "name": "Shine Energy Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4874044423,
+      "lat": -1.164146,
+      "lon": 34.036964,
+      "name": "Shirati Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4874050721,
+      "lat": -1.164303,
+      "lon": 34.037002,
+      "name": "Shirati Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8439488218,
+      "lat": 2.759892,
+      "lon": 32.300964,
+      "name": "Shire Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6945529548,
+      "lat": 0.457497,
+      "lon": 34.12049,
+      "name": "Shreeji Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2692735724,
+      "lat": 0.560027,
+      "lon": 34.561408,
+      "name": "Shreeji Service Station - Bungoma",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6235985638,
+      "lat": 0.59247,
+      "lon": 34.546751,
+      "name": "Shreeji Service Station - Kanduyi",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8414429559,
+      "lat": -0.119106,
+      "lon": 34.752844,
+      "name": "Simba Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2354898234,
+      "lat": 0.266049,
+      "lon": 32.624901,
+      "name": "Simple stationery Supplies",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7518198329,
+      "lat": 1.842183,
+      "lon": 31.381307,
+      "name": "Smas petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10058424420,
+      "lat": -0.346725,
+      "lon": 31.738294,
+      "name": "SMK stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456545119,
+      "lat": 1.95,
+      "lon": 32.138081,
+      "name": "Solitic Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456547322,
+      "lat": 1.798406,
+      "lon": 32.01116,
+      "name": "Solitic Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8407928817,
+      "lat": 1.797966,
+      "lon": 32.01141,
+      "name": "SOLTIC petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4123796176,
+      "lat": 0.308324,
+      "lon": 32.556202,
+      "name": "Son I Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6976663148,
+      "lat": -0.391505,
+      "lon": 35.017099,
+      "name": "Sondu Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 13413373941,
+      "lat": 0.847624,
+      "lon": 33.928463,
+      "name": "sonraz stationery supplies",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4550322890,
+      "lat": 1.716487,
+      "lon": 33.611932,
+      "name": "Soroti Central Police Station (CPS)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3079683000,
+      "lat": 1.715503,
+      "lon": 33.620381,
+      "name": "Spax Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8439017218,
+      "lat": 1.683607,
+      "lon": 31.719829,
+      "name": "Special stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4107447829,
+      "lat": 0.302412,
+      "lon": 32.525539,
+      "name": "St. Micheal Stationary Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10026348493,
+      "lat": 1.07418,
+      "lon": 34.118325,
+      "name": "St. Paul's stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7014288414,
+      "lat": 0.3445,
+      "lon": 32.562,
+      "name": "St.Margaret College",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8639701114,
+      "lat": 2.416593,
+      "lon": 30.989392,
+      "name": "Stabex Filling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1972281390,
+      "lat": 2.99496,
+      "lon": 30.91334,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3278682488,
+      "lat": 0.59429,
+      "lon": 32.532052,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3474118560,
+      "lat": 0.242334,
+      "lon": 32.556425,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8412773617,
+      "lat": 0.508323,
+      "lon": 33.416927,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8412784817,
+      "lat": 0.460491,
+      "lon": 33.476337,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456544534,
+      "lat": 0.871769,
+      "lon": 32.484718,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8474481717,
+      "lat": 0.263945,
+      "lon": 32.566184,
+      "name": "Stabex Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5255908822,
+      "lat": 2.598498,
+      "lon": 31.951814,
+      "name": "STABEX fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8435168121,
+      "lat": 0.504261,
+      "lon": 33.421241,
+      "name": "Stabex Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8435407017,
+      "lat": 0.106423,
+      "lon": 32.520903,
+      "name": "Stabex Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8341600954,
+      "lat": -1.282538,
+      "lon": 29.694969,
+      "name": "Stabex petro station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10023908333,
+      "lat": 1.131279,
+      "lon": 34.16648,
+      "name": "Stabex petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8449327123,
+      "lat": 0.449821,
+      "lon": 33.672772,
+      "name": "Stabex Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4003310817,
+      "lat": 0.329813,
+      "lon": 32.613855,
+      "name": "Star Stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7518219360,
+      "lat": 1.842119,
+      "lon": 31.381039,
+      "name": "Starbex petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10316522592,
+      "lat": 2.125224,
+      "lon": 32.338687,
+      "name": "Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9767342063,
+      "lat": 0.834205,
+      "lon": 34.162567,
+      "name": "Station 'a'",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9767342062,
+      "lat": 0.834449,
+      "lon": 34.154735,
+      "name": "Station 'b'",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4034401663,
+      "lat": 0.359965,
+      "lon": 32.926067,
+      "name": "Station Camp Primary School",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11037703278,
+      "lat": 1.544529,
+      "lon": 30.250148,
+      "name": "Station de service",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10313897399,
+      "lat": 1.572725,
+      "lon": 30.247515,
+      "name": "Station Dieu merci",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11365279242,
+      "lat": 1.540385,
+      "lon": 30.247453,
+      "name": "Station Dieu-merci",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 11038765235,
+      "lat": 1.543678,
+      "lon": 30.25048,
+      "name": "Station Jambo",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8120771214,
+      "lat": 1.559938,
+      "lon": 30.248204,
+      "name": "Station Pacific",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10550761824,
+      "lat": 1.573898,
+      "lon": 30.247431,
+      "name": "Station Pacifique",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8039440350,
+      "lat": 1.528753,
+      "lon": 30.255681,
+      "name": "Station Pamoja na yesu",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10221663666,
+      "lat": 1.530125,
+      "lon": 30.228457,
+      "name": "Station Radio Neno la Uzima",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9740824264,
+      "lat": 0.7062,
+      "lon": 30.063237,
+      "name": "Station service",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9740871747,
+      "lat": 0.706203,
+      "lon": 30.063359,
+      "name": "Station service",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10075839798,
+      "lat": 1.576338,
+      "lon": 30.247754,
+      "name": "Station service Peniel",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8039440344,
+      "lat": 1.532233,
+      "lon": 30.254292,
+      "name": "Station service Petro Maisha",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1915194022,
+      "lat": 0.658124,
+      "lon": 30.266568,
+      "name": "stationary",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4102724659,
+      "lat": 0.336397,
+      "lon": 32.576948,
+      "name": "Stationary Limited",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6257200886,
+      "lat": -1.329928,
+      "lon": 31.808011,
+      "name": "Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8494035119,
+      "lat": 2.476872,
+      "lon": 31.090671,
+      "name": "Stationery",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2483609232,
+      "lat": 0.091752,
+      "lon": 32.508527,
+      "name": "Stationery Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7232815594,
+      "lat": 0.111445,
+      "lon": 34.726044,
+      "name": "Stendikisa Fiiling Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6244342678,
+      "lat": 0.605289,
+      "lon": 34.771174,
+      "name": "Suez Energy Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4685811889,
+      "lat": 1.017626,
+      "lon": 33.878586,
+      "name": "Talibandula Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1212818392,
+      "lat": 3.70901,
+      "lon": 34.862199,
+      "name": "Taran Coach And Bus Services Office",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4577206193,
+      "lat": -1.163935,
+      "lon": 34.036407,
+      "name": "Taxi and Bus Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7150871385,
+      "lat": 0.43391,
+      "lon": 33.212075,
+      "name": "taxi station to Mbale",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6085580206,
+      "lat": -0.757442,
+      "lon": 34.603158,
+      "name": "Texas energy Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453966518,
+      "lat": 1.971175,
+      "lon": 32.156238,
+      "name": "Texas Fuel Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10827098963,
+      "lat": 0.242947,
+      "lon": 34.382732,
+      "name": "Tingare",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2629770660,
+      "lat": 0.243463,
+      "lon": 34.381517,
+      "name": "Tingare Market",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1427085439,
+      "lat": 0.689551,
+      "lon": 34.187723,
+      "name": "Tororo Fire Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8481604317,
+      "lat": 0.183082,
+      "lon": 32.538347,
+      "name": "Tosha fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6969176799,
+      "lat": -0.134242,
+      "lon": 34.796104,
+      "name": "Tosha Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6102845260,
+      "lat": -0.683057,
+      "lon": 34.777368,
+      "name": "Tosha Petrol Station Kisii",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5024418667,
+      "lat": -0.080494,
+      "lon": 34.741806,
+      "name": "Total Busia Road Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7095276967,
+      "lat": 3.00641,
+      "lon": 34.114175,
+      "name": "Total Fuel station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014798985,
+      "lat": 1.079011,
+      "lon": 34.153911,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1014800846,
+      "lat": 0.440973,
+      "lon": 33.212454,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8457245917,
+      "lat": 0.454438,
+      "lon": 33.219521,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8578451218,
+      "lat": 0.554971,
+      "lon": 31.39335,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8453947220,
+      "lat": 3.405655,
+      "lon": 30.959068,
+      "name": "Total Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8219076692,
+      "lat": -0.866755,
+      "lon": 30.269303,
+      "name": "Total Gas Station Ntungamo",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4908887352,
+      "lat": -0.867119,
+      "lon": 30.269178,
+      "name": "Total Highway Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6076313297,
+      "lat": -0.537291,
+      "lon": 34.456715,
+      "name": "Total Homabay Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 614132493,
+      "lat": 0.211322,
+      "lon": 32.542016,
+      "name": "Total Kajjansi Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3411816861,
+      "lat": 0.593153,
+      "lon": 34.554741,
+      "name": "Total Kanduyi Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8524656823,
+      "lat": 0.437815,
+      "lon": 32.602426,
+      "name": "Total Kasangati Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2825187335,
+      "lat": 0.174031,
+      "lon": 30.08206,
+      "name": "Total Kasese Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3725299548,
+      "lat": 0.34767,
+      "lon": 34.490462,
+      "name": "Total Mumias Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3639242096,
+      "lat": 0.333634,
+      "lon": 34.488898,
+      "name": "Total Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4999849940,
+      "lat": -0.534215,
+      "lon": 34.456357,
+      "name": "Total Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8412053617,
+      "lat": 1.072218,
+      "lon": 34.181356,
+      "name": "Total Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3946485262,
+      "lat": -0.616651,
+      "lon": 30.650778,
+      "name": "Total Rwizi Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4820488626,
+      "lat": 0.234613,
+      "lon": 32.553106,
+      "name": "Total Seguku Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4442145503,
+      "lat": 0.318428,
+      "lon": 32.598106,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5153631585,
+      "lat": 1.681404,
+      "lon": 31.702862,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8223275007,
+      "lat": 0.055811,
+      "lon": 32.433483,
+      "name": "Transformer station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3813297802,
+      "lat": 0.03221,
+      "lon": 32.435354,
+      "name": "Transmitter station Radio Uganda",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4104720711,
+      "lat": 0.311385,
+      "lon": 32.55751,
+      "name": "Trim Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 937846952,
+      "lat": 0.314243,
+      "lon": 32.56662,
+      "name": "Trinity Bus Terminal",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9822494742,
+      "lat": -1.271146,
+      "lon": 29.988197,
+      "name": "Triple 's' stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9822504053,
+      "lat": -1.271178,
+      "lon": 29.988246,
+      "name": "Tripple's Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10116713912,
+      "lat": -0.341696,
+      "lon": 31.737702,
+      "name": "Tusima Stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8515857422,
+      "lat": 0.390681,
+      "lon": 32.657822,
+      "name": "Tusu Petrol station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10992101891,
+      "lat": 3.770634,
+      "lon": 34.824522,
+      "name": "Tutu Express Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8414163381,
+      "lat": 0.276763,
+      "lon": 30.114742,
+      "name": "UGACOF Mubuku Washing Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5447897724,
+      "lat": 0.171325,
+      "lon": 32.52415,
+      "name": "Uganda Police - Akright Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6966365387,
+      "lat": 0.176538,
+      "lon": 32.538515,
+      "name": "Uganda Police - Bwebajja Police station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5581833343,
+      "lat": 3.469481,
+      "lon": 31.245701,
+      "name": "Uganda Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8433858218,
+      "lat": 2.164292,
+      "lon": 32.219785,
+      "name": "Uganda Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8273456340,
+      "lat": -1.27842,
+      "lon": 29.741682,
+      "name": "Uganda Police, Nyakabande Sub-Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8273456325,
+      "lat": -1.128333,
+      "lon": 29.680815,
+      "name": "Uganda police, Rubuguri Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3968719074,
+      "lat": 1.131428,
+      "lon": 33.881116,
+      "name": "Ugarembe Enterprises",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5088093022,
+      "lat": -1.326843,
+      "lon": 31.811598,
+      "name": "Umbya stationary & general supply",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3332224788,
+      "lat": 1.42774,
+      "lon": 31.356276,
+      "name": "Unganda National Roads Authority Hoima Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6643406640,
+      "lat": -1.145492,
+      "lon": 29.857175,
+      "name": "Universe Gas Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10050942984,
+      "lat": 0.312149,
+      "lon": 32.588493,
+      "name": "Unnamed (node 10050942984)",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 10903374806,
+      "lat": 2.757272,
+      "lon": 32.29764,
+      "name": "Unnamed (node 10903374806)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 10903374807,
+      "lat": 2.757246,
+      "lon": 32.297612,
+      "name": "Unnamed (node 10903374807)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2093930896,
+      "lat": 0.648812,
+      "lon": 34.876002,
+      "name": "Unnamed (node 2093930896)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2323755243,
+      "lat": 0.698227,
+      "lon": 34.184421,
+      "name": "Unnamed (node 2323755243)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2323755300,
+      "lat": 0.700154,
+      "lon": 34.182712,
+      "name": "Unnamed (node 2323755300)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2323755309,
+      "lat": 0.701017,
+      "lon": 34.183533,
+      "name": "Unnamed (node 2323755309)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102311,
+      "lat": 0.415575,
+      "lon": 33.207622,
+      "name": "Unnamed (node 2324102311)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102316,
+      "lat": 0.415665,
+      "lon": 33.20761,
+      "name": "Unnamed (node 2324102316)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102484,
+      "lat": 0.439025,
+      "lon": 33.215153,
+      "name": "Unnamed (node 2324102484)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102500,
+      "lat": 0.439654,
+      "lon": 33.215955,
+      "name": "Unnamed (node 2324102500)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102512,
+      "lat": 0.440519,
+      "lon": 33.218078,
+      "name": "Unnamed (node 2324102512)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102524,
+      "lat": 0.44099,
+      "lon": 33.242701,
+      "name": "Unnamed (node 2324102524)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102599,
+      "lat": 0.445305,
+      "lon": 33.247414,
+      "name": "Unnamed (node 2324102599)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102717,
+      "lat": 0.450671,
+      "lon": 33.247266,
+      "name": "Unnamed (node 2324102717)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102937,
+      "lat": 0.517528,
+      "lon": 33.25387,
+      "name": "Unnamed (node 2324102937)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102954,
+      "lat": 0.519106,
+      "lon": 33.249689,
+      "name": "Unnamed (node 2324102954)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324102987,
+      "lat": 0.534864,
+      "lon": 33.239747,
+      "name": "Unnamed (node 2324102987)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324103230,
+      "lat": 0.771177,
+      "lon": 33.631496,
+      "name": "Unnamed (node 2324103230)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324103443,
+      "lat": 0.881161,
+      "lon": 33.220135,
+      "name": "Unnamed (node 2324103443)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2324261436,
+      "lat": 0.569364,
+      "lon": 34.560337,
+      "name": "Unnamed (node 2324261436)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324261446,
+      "lat": 0.575227,
+      "lon": 34.562585,
+      "name": "Unnamed (node 2324261446)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2324261860,
+      "lat": 0.632037,
+      "lon": 34.272295,
+      "name": "Unnamed (node 2324261860)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 2337035394,
+      "lat": 0.7689,
+      "lon": 34.033764,
+      "name": "Unnamed (node 2337035394)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 3575149994,
+      "lat": 0.169069,
+      "lon": 30.089217,
+      "name": "Unnamed (node 3575149994)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 3575150029,
+      "lat": 0.170452,
+      "lon": 30.092066,
+      "name": "Unnamed (node 3575150029)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 3575479643,
+      "lat": 0.1673,
+      "lon": 30.089192,
+      "name": "Unnamed (node 3575479643)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 3575479650,
+      "lat": 0.168091,
+      "lon": 30.086963,
+      "name": "Unnamed (node 3575479650)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4862731153,
+      "lat": 0.992722,
+      "lon": 35.029002,
+      "name": "Unnamed (node 4862731153)",
+      "type": "halt",
+      "country": "UG"
+    },
+    {
+      "id": 4910656946,
+      "lat": -0.104528,
+      "lon": 34.747645,
+      "name": "Unnamed (node 4910656946)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4910656958,
+      "lat": -0.107991,
+      "lon": 34.746963,
+      "name": "Unnamed (node 4910656958)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4910656960,
+      "lat": -0.111115,
+      "lon": 34.744772,
+      "name": "Unnamed (node 4910656960)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932035824,
+      "lat": 0.292812,
+      "lon": 32.553508,
+      "name": "Unnamed (node 4932035824)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932035832,
+      "lat": 0.29282,
+      "lon": 32.555671,
+      "name": "Unnamed (node 4932035832)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932035853,
+      "lat": 0.293176,
+      "lon": 32.553868,
+      "name": "Unnamed (node 4932035853)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932035862,
+      "lat": 0.293524,
+      "lon": 32.553874,
+      "name": "Unnamed (node 4932035862)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932035955,
+      "lat": 0.29261,
+      "lon": 32.551944,
+      "name": "Unnamed (node 4932035955)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 4932843370,
+      "lat": 0.292837,
+      "lon": 32.550193,
+      "name": "Unnamed (node 4932843370)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 5559844044,
+      "lat": 0.291307,
+      "lon": 32.544822,
+      "name": "Unnamed (node 5559844044)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 5572319567,
+      "lat": 0.293407,
+      "lon": 32.554686,
+      "name": "Unnamed (node 5572319567)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 5572319579,
+      "lat": 0.293225,
+      "lon": 32.555783,
+      "name": "Unnamed (node 5572319579)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 5572319608,
+      "lat": 0.292714,
+      "lon": 32.556889,
+      "name": "Unnamed (node 5572319608)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 5745080050,
+      "lat": 0.416421,
+      "lon": 32.535302,
+      "name": "Unnamed (node 5745080050)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 579895461,
+      "lat": 0.314844,
+      "lon": 32.615317,
+      "name": "Unnamed (node 579895461)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 579895904,
+      "lat": 0.319516,
+      "lon": 32.616245,
+      "name": "Unnamed (node 579895904)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 6067273583,
+      "lat": 2.695358,
+      "lon": 32.421082,
+      "name": "Unnamed (node 6067273583)",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 6320828345,
+      "lat": 2.721034,
+      "lon": 32.540407,
+      "name": "Unnamed (node 6320828345)",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 6335555775,
+      "lat": 2.66629,
+      "lon": 31.955283,
+      "name": "Unnamed (node 6335555775)",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 6338404636,
+      "lat": -0.832187,
+      "lon": 34.848636,
+      "name": "Unnamed (node 6338404636)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 8787235955,
+      "lat": -0.102128,
+      "lon": 34.746162,
+      "name": "Unnamed (node 8787235955)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 9389718741,
+      "lat": 0.228912,
+      "lon": 31.162519,
+      "name": "Unnamed (node 9389718741)",
+      "type": "buffer_stop",
+      "country": "UG"
+    },
+    {
+      "id": 9537747672,
+      "lat": 3.405273,
+      "lon": 33.46533,
+      "name": "Unnamed (node 9537747672)",
+      "type": "stop",
+      "country": "UG"
+    },
+    {
+      "id": 1017942965,
+      "lat": 0.19805,
+      "lon": 30.898844,
+      "name": "Unnamed (way 1017942965)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 377087552,
+      "lat": 0.353758,
+      "lon": 32.572125,
+      "name": "Unnamed (way 377087552)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 377101715,
+      "lat": 0.356634,
+      "lon": 32.573438,
+      "name": "Unnamed (way 377101715)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 382656998,
+      "lat": 1.335321,
+      "lon": 34.377648,
+      "name": "Unnamed (way 382656998)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 382657029,
+      "lat": 1.334043,
+      "lon": 34.372011,
+      "name": "Unnamed (way 382657029)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 880289928,
+      "lat": -0.673278,
+      "lon": 34.773283,
+      "name": "Unnamed (way 880289928)",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8441963218,
+      "lat": -0.141296,
+      "lon": 31.883071,
+      "name": "UNRA Weigh Station Lukaya",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1748172428,
+      "lat": -0.362875,
+      "lon": 34.934288,
+      "name": "Upper Nyakach station and DO HQ",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3394179611,
+      "lat": 0.359216,
+      "lon": 32.748793,
+      "name": "URA Mukono Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10778692676,
+      "lat": -1.31729,
+      "lon": 34.220001,
+      "name": "Utegi Central Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3474020385,
+      "lat": 0.307323,
+      "lon": 32.559924,
+      "name": "UTL Radio Base Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3932009580,
+      "lat": -1.117758,
+      "lon": 29.709688,
+      "name": "UWA Ranger Station Rushaga",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5587557200,
+      "lat": 3.457492,
+      "lon": 31.248278,
+      "name": "View Fuel Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7232815587,
+      "lat": 0.039655,
+      "lon": 34.715894,
+      "name": "Vihiga Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4105120510,
+      "lat": 0.272372,
+      "lon": 32.609279,
+      "name": "Vipas Stationary and Gift Shop",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 937846953,
+      "lat": 0.313935,
+      "lon": 32.568042,
+      "name": "Volcano Bus Coaches",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5942966473,
+      "lat": 2.888487,
+      "lon": 30.879031,
+      "name": "Vurra Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3930314575,
+      "lat": 0.334652,
+      "lon": 32.571416,
+      "name": "Wandegeya stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 9147491978,
+      "lat": 2.590122,
+      "lon": 30.891463,
+      "name": "Warr Aniza Coffee Washing Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5493726364,
+      "lat": 3.018151,
+      "lon": 30.909464,
+      "name": "Water Station tank",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2491593555,
+      "lat": 0.603223,
+      "lon": 34.771553,
+      "name": "Webuye",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5083493895,
+      "lat": 0.608689,
+      "lon": 34.759159,
+      "name": "Webuye Corner Service Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 2483578508,
+      "lat": 0.094146,
+      "lon": 32.505256,
+      "name": "Wed stationers",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8524654165,
+      "lat": 0.522192,
+      "lon": 33.372827,
+      "name": "Weigh Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8456547326,
+      "lat": 0.862094,
+      "lon": 32.485554,
+      "name": "Weighing Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5462334192,
+      "lat": 0.573516,
+      "lon": 34.55756,
+      "name": "West FM Radio Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8591839218,
+      "lat": 0.438225,
+      "lon": 32.60231,
+      "name": "Will Smart Stationery and Photocopy",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 227338228,
+      "lat": 0.717589,
+      "lon": 32.527495,
+      "name": "Wobulenzi Taxi Park",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 1864848641,
+      "lat": 0.098453,
+      "lon": 34.536488,
+      "name": "Yala",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7222729629,
+      "lat": 0.09378,
+      "lon": 34.537968,
+      "name": "Yala Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 6105852753,
+      "lat": 1.037502,
+      "lon": 34.971908,
+      "name": "Yatcher Petrol Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5322284615,
+      "lat": 3.269622,
+      "lon": 31.272273,
+      "name": "Yinga 2 pump station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5036007022,
+      "lat": 3.469775,
+      "lon": 31.246292,
+      "name": "Yumbe Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 10116714292,
+      "lat": -0.341192,
+      "lon": 31.737571,
+      "name": "Zak Stationary and Computer Services",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 7158290349,
+      "lat": 0.32722,
+      "lon": 32.469859,
+      "name": "zed game station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 8634316737,
+      "lat": 2.505775,
+      "lon": 30.807013,
+      "name": "Zeu Police Station",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3474119140,
+      "lat": 0.225514,
+      "lon": 32.548262,
+      "name": "Zingarella Café and Resto",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 5454103745,
+      "lat": 0.176479,
+      "lon": 32.519522,
+      "name": "ZIngarella Cafe-resto",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 3229782083,
+      "lat": 0.845195,
+      "lon": 32.490803,
+      "name": "Zion Stationary & Computer Services",
+      "type": "station",
+      "country": "UG"
+    },
+    {
+      "id": 4075188863,
+      "lat": 0.338904,
+      "lon": 32.569948,
+      "name": "Zion Stationers",
+      "type": "station",
+      "country": "UG"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "country": "SZ",
+  "name": "Eswatini",
+  "region": "Southern Africa",
+  "bbox": [
+    -27.32,
+    30.79,
+    -25.72,
+    32.13
+  ],
+  "extracted": "2026-03-03T12:09:18.631Z",
+  "count": 86,
+  "stations": [
+    {
+      "id": 7560327956,
+      "lat": -25.869749,
+      "lon": 31.082234,
+      "name": "Angle Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1703665163,
+      "lat": -25.787732,
+      "lon": 31.046642,
+      "name": "Barberton",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1703665160,
+      "lat": -25.766423,
+      "lon": 31.032001,
+      "name": "Barberton Noord",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 599505697,
+      "lat": -26.87059,
+      "lon": 31.93081,
+      "name": "Big Bend Station",
+      "type": "halt",
+      "country": "SZ"
+    },
+    {
+      "id": 648631426,
+      "lat": -27.217111,
+      "lon": 30.887341,
+      "name": "Confidence",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 873934428,
+      "lat": -26.490787,
+      "lon": 31.306059,
+      "name": "Galp Fuel Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2642168389,
+      "lat": -26.48839,
+      "lon": 31.455168,
+      "name": "Galp petrol station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 5303371063,
+      "lat": -26.833852,
+      "lon": 31.972593,
+      "name": "Galp petrol station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 6290844472,
+      "lat": -26.490744,
+      "lon": 31.306099,
+      "name": "Gulp Filling Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2738237281,
+      "lat": -26.262556,
+      "lon": 31.768728,
+      "name": "Hlane",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 874037518,
+      "lat": -26.453845,
+      "lon": 31.210753,
+      "name": "Lobamba Filling Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2117057972,
+      "lat": -26.447151,
+      "lon": 31.200995,
+      "name": "Lobamba Police Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 11009824579,
+      "lat": -26.573406,
+      "lon": 31.777996,
+      "name": "Lubukhu",
+      "type": "service_station",
+      "country": "SZ"
+    },
+    {
+      "id": 599506470,
+      "lat": -26.282856,
+      "lon": 31.938112,
+      "name": "Lusoti Station",
+      "type": "halt",
+      "country": "SZ"
+    },
+    {
+      "id": 9211858218,
+      "lat": -26.321108,
+      "lon": 31.475828,
+      "name": "Luve bus station and complex",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2640804079,
+      "lat": -26.497842,
+      "lon": 31.379662,
+      "name": "Manzini Police Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1405223022,
+      "lat": -26.499141,
+      "lon": 31.31994,
+      "name": "Matsapha police station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 162185426,
+      "lat": -26.325892,
+      "lon": 31.141853,
+      "name": "Mbabane Bus Rank",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 648631914,
+      "lat": -27.098539,
+      "lon": 30.820924,
+      "name": "Mkondo",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 599506673,
+      "lat": -26.190999,
+      "lon": 32.007418,
+      "name": "Mlawula",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 429129342,
+      "lat": -26.190841,
+      "lon": 32.007723,
+      "name": "Mlawula Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 648631771,
+      "lat": -27.144653,
+      "lon": 30.881049,
+      "name": "Moolman",
+      "type": "halt",
+      "country": "SZ"
+    },
+    {
+      "id": 2736228902,
+      "lat": -26.416682,
+      "lon": 31.781511,
+      "name": "Mpaka",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 429912886,
+      "lat": -26.416691,
+      "lon": 31.781913,
+      "name": "Mpaka Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1362605929,
+      "lat": -27.109033,
+      "lon": 31.198272,
+      "name": "Nhlangano Bus Rank",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2276767784,
+      "lat": -27.113252,
+      "lon": 31.19688,
+      "name": "Nhlangano Mall Bus Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 431545325,
+      "lat": -27.03655,
+      "lon": 31.93304,
+      "name": "Nsoko",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 5303413400,
+      "lat": -26.04069,
+      "lon": 31.816946,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 11133533211,
+      "lat": -26.690931,
+      "lon": 31.739024,
+      "name": "Phuzamoya",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 649815952,
+      "lat": -27.008817,
+      "lon": 30.79148,
+      "name": "Piet Retief",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 12299043890,
+      "lat": -25.958349,
+      "lon": 31.253736,
+      "name": "Piggs Peak fire station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 5232606023,
+      "lat": -25.958831,
+      "lon": 31.24955,
+      "name": "Piggs Peak Police Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2330307289,
+      "lat": -26.452939,
+      "lon": 31.94754,
+      "name": "police station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1334511008,
+      "lat": -26.501341,
+      "lon": 31.373596,
+      "name": "Satillite Bus Rank",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2640805758,
+      "lat": -26.49759,
+      "lon": 31.372138,
+      "name": "Tinkers Filling Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 2641338459,
+      "lat": -26.494019,
+      "lon": 31.400596,
+      "name": "Total Energies Moneni Filling Station",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826844,
+      "lat": -26.497854,
+      "lon": 31.308538,
+      "name": "Unnamed (node 11078826844)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826858,
+      "lat": -26.501993,
+      "lon": 31.306866,
+      "name": "Unnamed (node 11078826858)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826859,
+      "lat": -26.501976,
+      "lon": 31.306829,
+      "name": "Unnamed (node 11078826859)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826865,
+      "lat": -26.502715,
+      "lon": 31.306487,
+      "name": "Unnamed (node 11078826865)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826887,
+      "lat": -26.504021,
+      "lon": 31.305842,
+      "name": "Unnamed (node 11078826887)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078826888,
+      "lat": -26.495074,
+      "lon": 31.310118,
+      "name": "Unnamed (node 11078826888)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11078828611,
+      "lat": -26.500883,
+      "lon": 31.307394,
+      "name": "Unnamed (node 11078828611)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11079031461,
+      "lat": -26.509585,
+      "lon": 31.295111,
+      "name": "Unnamed (node 11079031461)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11079031489,
+      "lat": -26.505747,
+      "lon": 31.303793,
+      "name": "Unnamed (node 11079031489)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11127003659,
+      "lat": -26.174376,
+      "lon": 32.088204,
+      "name": "Unnamed (node 11127003659)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 11127207378,
+      "lat": -26.415765,
+      "lon": 31.781332,
+      "name": "Unnamed (node 11127207378)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11127207393,
+      "lat": -26.42246,
+      "lon": 31.7823,
+      "name": "Unnamed (node 11127207393)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11127207401,
+      "lat": -26.414568,
+      "lon": 31.781528,
+      "name": "Unnamed (node 11127207401)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11127207402,
+      "lat": -26.414592,
+      "lon": 31.781429,
+      "name": "Unnamed (node 11127207402)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11133485349,
+      "lat": -26.420497,
+      "lon": 31.783439,
+      "name": "Unnamed (node 11133485349)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 11133605066,
+      "lat": -26.042469,
+      "lon": 31.774691,
+      "name": "Unnamed (node 11133605066)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1200815398,
+      "lat": -26.497164,
+      "lon": 31.308484,
+      "name": "Unnamed (node 1200815398)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1234331680,
+      "lat": -27.316694,
+      "lon": 31.897782,
+      "name": "Unnamed (node 1234331680)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 1234331714,
+      "lat": -27.31664,
+      "lon": 31.897559,
+      "name": "Unnamed (node 1234331714)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 1234332003,
+      "lat": -27.313046,
+      "lon": 31.897354,
+      "name": "Unnamed (node 1234332003)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 1703667184,
+      "lat": -25.761624,
+      "lon": 31.02689,
+      "name": "Unnamed (node 1703667184)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 1897238298,
+      "lat": -27.209623,
+      "lon": 30.87832,
+      "name": "Unnamed (node 1897238298)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 2736228928,
+      "lat": -26.420435,
+      "lon": 31.784488,
+      "name": "Unnamed (node 2736228928)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 2738236368,
+      "lat": -26.048065,
+      "lon": 31.773952,
+      "name": "Unnamed (node 2738236368)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 465172154,
+      "lat": -27.318169,
+      "lon": 31.894754,
+      "name": "Unnamed (node 465172154)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 5602701565,
+      "lat": -26.494554,
+      "lon": 31.309984,
+      "name": "Unnamed (node 5602701565)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6054476569,
+      "lat": -27.3189,
+      "lon": 31.888849,
+      "name": "Unnamed (node 6054476569)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6054476589,
+      "lat": -27.319147,
+      "lon": 31.889062,
+      "name": "Unnamed (node 6054476589)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6054476633,
+      "lat": -27.319882,
+      "lon": 31.891106,
+      "name": "Unnamed (node 6054476633)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6054476670,
+      "lat": -27.318365,
+      "lon": 31.888588,
+      "name": "Unnamed (node 6054476670)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6054476971,
+      "lat": -27.318148,
+      "lon": 31.894704,
+      "name": "Unnamed (node 6054476971)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6740143267,
+      "lat": -27.090108,
+      "lon": 30.81883,
+      "name": "Unnamed (node 6740143267)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 6943149303,
+      "lat": -25.760536,
+      "lon": 31.021282,
+      "name": "Unnamed (node 6943149303)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087196987,
+      "lat": -27.22333,
+      "lon": 30.891237,
+      "name": "Unnamed (node 7087196987)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197390,
+      "lat": -27.290754,
+      "lon": 30.879392,
+      "name": "Unnamed (node 7087197390)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197414,
+      "lat": -27.308689,
+      "lon": 30.885613,
+      "name": "Unnamed (node 7087197414)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197554,
+      "lat": -27.155326,
+      "lon": 30.884624,
+      "name": "Unnamed (node 7087197554)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197615,
+      "lat": -27.139544,
+      "lon": 30.877083,
+      "name": "Unnamed (node 7087197615)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197915,
+      "lat": -27.00712,
+      "lon": 30.791011,
+      "name": "Unnamed (node 7087197915)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087197935,
+      "lat": -27.006533,
+      "lon": 30.790846,
+      "name": "Unnamed (node 7087197935)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087198507,
+      "lat": -27.011707,
+      "lon": 30.791662,
+      "name": "Unnamed (node 7087198507)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087198539,
+      "lat": -27.011418,
+      "lon": 30.791443,
+      "name": "Unnamed (node 7087198539)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7087198562,
+      "lat": -27.015597,
+      "lon": 30.790174,
+      "name": "Unnamed (node 7087198562)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 7334966646,
+      "lat": -25.783171,
+      "lon": 31.043372,
+      "name": "Unnamed (node 7334966646)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 800975949,
+      "lat": -27.099783,
+      "lon": 30.816602,
+      "name": "Unnamed (node 800975949)",
+      "type": "buffer_stop",
+      "country": "SZ"
+    },
+    {
+      "id": 1199706698,
+      "lat": -26.174401,
+      "lon": 32.088036,
+      "name": "Unnamed (way 1199706698)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 1357142545,
+      "lat": -26.333894,
+      "lon": 31.13721,
+      "name": "Unnamed (way 1357142545)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 429005087,
+      "lat": -26.042919,
+      "lon": 31.774528,
+      "name": "Unnamed (way 429005087)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 429308139,
+      "lat": -26.262908,
+      "lon": 31.768839,
+      "name": "Unnamed (way 429308139)",
+      "type": "station",
+      "country": "SZ"
+    },
+    {
+      "id": 430574559,
+      "lat": -26.690887,
+      "lon": 31.739369,
+      "name": "Unnamed (way 430574559)",
+      "type": "station",
+      "country": "SZ"
+    }
+  ]
+}

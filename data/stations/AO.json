@@ -1,0 +1,5919 @@
+{
+  "country": "AO",
+  "name": "Angola",
+  "region": "Central Africa",
+  "bbox": [
+    -18.04,
+    11.64,
+    -4.38,
+    24.08
+  ],
+  "extracted": "2026-03-03T12:07:26.454Z",
+  "count": 738,
+  "stations": [
+    {
+      "id": 6214913335,
+      "lat": -8.911719,
+      "lon": 13.323936,
+      "name": "A.M.D.C Comercio e Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2378425769,
+      "lat": -12.489047,
+      "lon": 13.497343,
+      "name": "Aeroporto",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11412068983,
+      "lat": -9.052536,
+      "lon": 13.501242,
+      "name": "Aeroporto Internacional Dr. António Agostinho Neto",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11412068985,
+      "lat": -9.052554,
+      "lon": 13.50126,
+      "name": "Aeroporto Internacional Dr. António Agostinho Neto",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 7831128782,
+      "lat": -14.81164,
+      "lon": 13.248435,
+      "name": "Aguada (Km 147)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5837282853,
+      "lat": -8.895886,
+      "lon": 13.180706,
+      "name": "Albermália - Salão de Eventos e Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104894603,
+      "lat": -12.937505,
+      "lon": 14.759067,
+      "name": "Alto Catumbela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 789671977,
+      "lat": -5.859539,
+      "lon": 13.432533,
+      "name": "Ango-Ango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426335863,
+      "lat": -14.886605,
+      "lon": 13.523334,
+      "name": "Angoreal - Terminal Provincial da Huíla",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 10284921252,
+      "lat": -9.042299,
+      "lon": 13.403834,
+      "name": "Anioct Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 949093510,
+      "lat": -14.866304,
+      "lon": 13.485803,
+      "name": "Apeadeiro da Tchavola",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 955134856,
+      "lat": -14.882316,
+      "lon": 13.484355,
+      "name": "Apeadeiro de Nanguluve",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4097442697,
+      "lat": -14.945923,
+      "lon": 13.596733,
+      "name": "Arimba (Km 256)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8820508815,
+      "lat": -4.407429,
+      "lon": 15.37405,
+      "name": "Arrêt Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8820533551,
+      "lat": -4.406686,
+      "lon": 15.374533,
+      "name": "Arrêt Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808959231,
+      "lat": -14.865006,
+      "lon": 13.109444,
+      "name": "Assunção (Km 130)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104906409,
+      "lat": -12.900325,
+      "lon": 14.805551,
+      "name": "Babaera",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375694,
+      "lat": -12.90033,
+      "lon": 14.805779,
+      "name": "Babaera",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4107364764,
+      "lat": -8.970605,
+      "lon": 13.479086,
+      "name": "Baía",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6893972571,
+      "lat": -12.380806,
+      "lon": 13.540273,
+      "name": "Bairro da Luz",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736364705,
+      "lat": -12.381032,
+      "lon": 13.54045,
+      "name": "Bairro da Luz",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4851704159,
+      "lat": -4.893987,
+      "lon": 22.075369,
+      "name": "Bakwa-Kenge",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11396108811,
+      "lat": -4.871236,
+      "lon": 21.672868,
+      "name": "Bakwa-Mwanza",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11395834055,
+      "lat": -4.48494,
+      "lon": 21.049551,
+      "name": "Banwa-Balamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4107393700,
+      "lat": -9.184817,
+      "lon": 13.965804,
+      "name": "Barraca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916523448,
+      "lat": -14.782109,
+      "lon": 14.826288,
+      "name": "Bember (Km 402)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309056144,
+      "lat": -5.128026,
+      "lon": 22.171554,
+      "name": "Bena-Leka",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104403932,
+      "lat": -12.577171,
+      "lon": 13.412061,
+      "name": "Benguela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309064577,
+      "lat": -5.04702,
+      "lon": 22.166121,
+      "name": "Beya-Bwanga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099164211,
+      "lat": -14.759443,
+      "lon": 13.349688,
+      "name": "Bibala (Km162)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5670391124,
+      "lat": -4.511591,
+      "lon": 12.225428,
+      "name": "Bilala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5670391142,
+      "lat": -4.482883,
+      "lon": 12.248029,
+      "name": "Bilinga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2345455332,
+      "lat": -12.643015,
+      "lon": 13.46305,
+      "name": "Bimbas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7832953320,
+      "lat": -14.854303,
+      "lon": 13.884737,
+      "name": "Bindassa (Km 296)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 6378631467,
+      "lat": -4.544827,
+      "lon": 15.215815,
+      "name": "Bloc 329",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1541419178,
+      "lat": -12.69758,
+      "lon": 16.025199,
+      "name": "Boas Águas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844006,
+      "lat": -12.697366,
+      "lon": 16.025158,
+      "name": "Boas Agus",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309064568,
+      "lat": -4.705945,
+      "lon": 21.325761,
+      "name": "Bongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3336638787,
+      "lat": -4.753031,
+      "lon": 21.471595,
+      "name": "Bulongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 441601821,
+      "lat": -8.805348,
+      "lon": 13.24444,
+      "name": "Bungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 226831624,
+      "lat": -8.805272,
+      "lon": 13.24435,
+      "name": "Bungo - Estação Central de Luanda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2266256952,
+      "lat": -13.544365,
+      "lon": 23.111022,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 243297039,
+      "lat": -15.272062,
+      "lon": 23.135486,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6316579877,
+      "lat": -9.056879,
+      "lon": 13.413628,
+      "name": "C.S.S. Comercio & Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105130570,
+      "lat": -12.849673,
+      "lon": 15.555223,
+      "name": "Caála",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375664,
+      "lat": -12.849861,
+      "lon": 15.555349,
+      "name": "Caála",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193495445,
+      "lat": -14.603421,
+      "lon": 15.495007,
+      "name": "Cabanas (Km 480)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808830389,
+      "lat": -12.876898,
+      "lon": 13.809846,
+      "name": "Cábio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 569380924,
+      "lat": -12.876739,
+      "lon": 13.809972,
+      "name": "Cábio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7831170057,
+      "lat": -14.792122,
+      "lon": 13.27973,
+      "name": "Cacanda (Km 152)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 8745901679,
+      "lat": -11.928412,
+      "lon": 19.346121,
+      "name": "Cachipoque",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1251160324,
+      "lat": -12.568888,
+      "lon": 16.227902,
+      "name": "Cachiungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844015,
+      "lat": -12.568734,
+      "lon": 16.227951,
+      "name": "Cachiungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9960106226,
+      "lat": -9.780559,
+      "lon": 14.549726,
+      "name": "Caculo Cabaça Hydroelectric Power Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207842048,
+      "lat": -9.419623,
+      "lon": 15.739448,
+      "name": "Cacuso",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6716178055,
+      "lat": -11.33867,
+      "lon": 21.515441,
+      "name": "Caifuche",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104357212,
+      "lat": -13.006976,
+      "lon": 13.989704,
+      "name": "Caimbambo",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 4105038238,
+      "lat": -12.846309,
+      "lon": 15.466911,
+      "name": "Calenga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375674,
+      "lat": -12.846513,
+      "lon": 15.466909,
+      "name": "Calenga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808755035,
+      "lat": -13.035952,
+      "lon": 14.130558,
+      "name": "Calenguer",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736369715,
+      "lat": -13.035835,
+      "lon": 14.130764,
+      "name": "Calenguer",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7844836640,
+      "lat": -14.769194,
+      "lon": 14.888232,
+      "name": "Calheta (km 408)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 13243002987,
+      "lat": -12.022599,
+      "lon": 17.474111,
+      "name": "Camacupa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193496457,
+      "lat": -15.152537,
+      "lon": 12.16927,
+      "name": "Cambongue (Km 6)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 207842044,
+      "lat": -9.390844,
+      "lon": 15.63101,
+      "name": "Cambunze",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 474385268,
+      "lat": -12.339533,
+      "lon": 13.552387,
+      "name": "Caminho de Ferro de Benguela (CFB)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7830426748,
+      "lat": -14.99915,
+      "lon": 12.412335,
+      "name": "Campo Livre (Km 48)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4104548764,
+      "lat": -12.711521,
+      "lon": 13.587978,
+      "name": "Cango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736364700,
+      "lat": -12.711421,
+      "lon": 13.588119,
+      "name": "Cango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2927568125,
+      "lat": -12.135095,
+      "lon": 18.795415,
+      "name": "Cangonga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8745931747,
+      "lat": -11.955123,
+      "lon": 19.203887,
+      "name": "Cangumbe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714999898,
+      "lat": -11.955272,
+      "lon": 19.203789,
+      "name": "Cangumbe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2123967325,
+      "lat": -9.250922,
+      "lon": 14.681618,
+      "name": "Canhoca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 706199632,
+      "lat": -9.250802,
+      "lon": 14.681481,
+      "name": "Canhoca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4107362990,
+      "lat": -8.92146,
+      "lon": 13.40066,
+      "name": "Capalanca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5053888852,
+      "lat": -8.921385,
+      "lon": 13.4007,
+      "name": "Capalanca",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099134601,
+      "lat": -14.992555,
+      "lon": 12.819039,
+      "name": "Capangombe (Km 93)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105308930,
+      "lat": -12.333822,
+      "lon": 16.625631,
+      "name": "Capeio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375643,
+      "lat": -12.333542,
+      "lon": 16.625661,
+      "name": "Capeio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916523696,
+      "lat": -14.881093,
+      "lon": 14.092245,
+      "name": "Capembe (Km 319)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6717959355,
+      "lat": -12.601445,
+      "lon": 13.433481,
+      "name": "Caponte",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3301683185,
+      "lat": -14.586795,
+      "lon": 16.603915,
+      "name": "Capunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2484946401,
+      "lat": -15.020608,
+      "lon": 12.667861,
+      "name": "Caraculo (Km 76)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193493383,
+      "lat": -14.674623,
+      "lon": 15.915207,
+      "name": "Carvalhais",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8745977609,
+      "lat": -11.511155,
+      "lon": 20.954379,
+      "name": "Cassai",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9633825729,
+      "lat": -11.510303,
+      "lon": 20.951386,
+      "name": "Cassai-Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2527300781,
+      "lat": -9.485616,
+      "lon": 14.357301,
+      "name": "Cassoalala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105372652,
+      "lat": -12.149656,
+      "lon": 17.279986,
+      "name": "Catabola",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1809747288,
+      "lat": -9.084108,
+      "lon": 13.687575,
+      "name": "Catete",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104403949,
+      "lat": -12.431626,
+      "lon": 13.539604,
+      "name": "Catumbela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 300200880,
+      "lat": -12.431618,
+      "lon": 13.539786,
+      "name": "Catumbela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104403931,
+      "lat": -12.563168,
+      "lon": 13.419348,
+      "name": "Cavaco",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235089434,
+      "lat": -12.563283,
+      "lon": 13.41942,
+      "name": "Cavaco",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105394920,
+      "lat": -12.084464,
+      "lon": 18.987557,
+      "name": "Cavimbe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714999894,
+      "lat": -12.084331,
+      "lon": 18.987508,
+      "name": "Cavimbe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2139151265,
+      "lat": -15.239802,
+      "lon": 16.028652,
+      "name": "Chamutete Cidade",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2139153446,
+      "lat": -15.244072,
+      "lon": 16.062889,
+      "name": "Chamutete Minas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097389404,
+      "lat": -14.864266,
+      "lon": 13.759642,
+      "name": "Chanja (Km 280)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 956781894,
+      "lat": -5.461162,
+      "lon": 20.983073,
+      "name": "Charlesville",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2631795513,
+      "lat": -14.761417,
+      "lon": 13.505354,
+      "name": "Chela (Km 211)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9643718902,
+      "lat": -11.940484,
+      "lon": 19.631611,
+      "name": "Chicala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6718997073,
+      "lat": -12.636547,
+      "lon": 16.048774,
+      "name": "Chicala-Choloanga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844010,
+      "lat": -12.636384,
+      "lon": 16.048641,
+      "name": "Chicala-Choloanga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097344078,
+      "lat": -14.881607,
+      "lon": 14.176636,
+      "name": "Chicungo (Km 329)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104883096,
+      "lat": -12.981263,
+      "lon": 14.475705,
+      "name": "Chimboa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736369706,
+      "lat": -12.981422,
+      "lon": 14.475565,
+      "name": "Chimboa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105295720,
+      "lat": -12.557299,
+      "lon": 16.333102,
+      "name": "Chinguar",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844020,
+      "lat": -12.557477,
+      "lon": 16.333196,
+      "name": "Chinguar",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6894119911,
+      "lat": -12.827318,
+      "lon": 14.927414,
+      "name": "Chinjenje",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 369916796,
+      "lat": -12.827141,
+      "lon": 14.927391,
+      "name": "Chinjenje",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105371292,
+      "lat": -12.263554,
+      "lon": 17.125391,
+      "name": "Chipeta",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2266243782,
+      "lat": -13.834744,
+      "lon": 23.209769,
+      "name": "Chitokoloki Mission Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736369734,
+      "lat": -13.007291,
+      "lon": 13.989781,
+      "name": "Ciambambo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5053627776,
+      "lat": -5.510441,
+      "lon": 14.691381,
+      "name": "Cité Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9948697925,
+      "lat": -8.883105,
+      "lon": 13.208136,
+      "name": "CJA Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099327420,
+      "lat": -14.528716,
+      "lon": 15.998635,
+      "name": "Colui (Km 543)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2041623503,
+      "lat": -8.893883,
+      "lon": 13.357349,
+      "name": "Comarca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6329924545,
+      "lat": -9.026477,
+      "lon": 13.405512,
+      "name": "Comercio e Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105379167,
+      "lat": -11.992476,
+      "lon": 17.665349,
+      "name": "Cuanza",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6894001457,
+      "lat": -13.042153,
+      "lon": 14.243666,
+      "name": "Cubal",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736369709,
+      "lat": -13.042015,
+      "lon": 14.243744,
+      "name": "Cubal",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2099518677,
+      "lat": -14.650285,
+      "lon": 16.89279,
+      "name": "Cuchi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6173840163,
+      "lat": -12.064184,
+      "lon": 17.788113,
+      "name": "Cueli",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714994334,
+      "lat": -12.064276,
+      "lon": 17.787948,
+      "name": "Cueli",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2181665808,
+      "lat": -12.146263,
+      "lon": 18.094852,
+      "name": "Cuemba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2028188403,
+      "lat": -12.33255,
+      "lon": 16.937684,
+      "name": "Cuíto",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8745276314,
+      "lat": -12.130244,
+      "lon": 17.947707,
+      "name": "Cuiva",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714994339,
+      "lat": -12.130091,
+      "lon": 17.947732,
+      "name": "Cuiva",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2126024968,
+      "lat": -12.238812,
+      "lon": 16.785381,
+      "name": "Cunhinga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 370326705,
+      "lat": -12.238704,
+      "lon": 16.78558,
+      "name": "Cunhinga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2180316480,
+      "lat": -12.386057,
+      "lon": 16.438965,
+      "name": "Cutato",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844022,
+      "lat": -12.385898,
+      "lon": 16.438879,
+      "name": "Cutato",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193493388,
+      "lat": -14.466497,
+      "lon": 16.299518,
+      "name": "Cuvango (Km 579)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2378425822,
+      "lat": -12.530948,
+      "lon": 13.460593,
+      "name": "Damba Maria",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808751011,
+      "lat": -12.80823,
+      "lon": 15.645063,
+      "name": "Dango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375660,
+      "lat": -12.808453,
+      "lon": 15.644606,
+      "name": "Dango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1244257136,
+      "lat": -5.819279,
+      "lon": 13.461757,
+      "name": "de la Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309056135,
+      "lat": -5.493648,
+      "lon": 22.268093,
+      "name": "Demba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8746080946,
+      "lat": -10.698859,
+      "lon": 22.344234,
+      "name": "Dilolo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 629460305,
+      "lat": -10.698567,
+      "lon": 22.344235,
+      "name": "Dilolo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113924338,
+      "lat": -10.598703,
+      "lon": 22.996412,
+      "name": "Divuma",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7830474049,
+      "lat": -15.016352,
+      "lon": 12.608013,
+      "name": "Dois Irmãos (Km 70)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1309061459,
+      "lat": -4.616559,
+      "lon": 21.220943,
+      "name": "Domiongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 489806258,
+      "lat": -9.687834,
+      "lon": 14.424848,
+      "name": "Dondo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193493384,
+      "lat": -14.596812,
+      "lon": 15.711791,
+      "name": "Dongo (Km 508)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5563186429,
+      "lat": -8.902169,
+      "lon": 13.189087,
+      "name": "Dresstation",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6317319768,
+      "lat": -9.003484,
+      "lon": 13.400025,
+      "name": "Drogaria Zango - Desinfestação",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4855309444,
+      "lat": -8.891656,
+      "lon": 13.198977,
+      "name": "Dyna Fog Angola - A Maior Empresa de Desinfestação, Fumigação e Controle de Pragas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7235748078,
+      "lat": -14.92914,
+      "lon": 13.473814,
+      "name": "Ecadinha",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 4107362999,
+      "lat": -8.942305,
+      "lon": 13.433965,
+      "name": "Entroncamento",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8922260239,
+      "lat": -14.573292,
+      "lon": 15.771485,
+      "name": "Entroncamento (Km 516)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11794035684,
+      "lat": -14.905889,
+      "lon": 13.519198,
+      "name": "Estação",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781619,
+      "lat": -12.530739,
+      "lon": 13.460483,
+      "name": "Estação",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781809,
+      "lat": -12.48881,
+      "lon": 13.497228,
+      "name": "Estação",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 735174646,
+      "lat": -15.19144,
+      "lon": 12.149734,
+      "name": "Estação 1º de Maio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7007815564,
+      "lat": -15.939018,
+      "lon": 12.877285,
+      "name": "Estação Arqueológica do Chitundo-Hulu (Tchitundulo)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 301468574,
+      "lat": -12.577337,
+      "lon": 13.411856,
+      "name": "Estação Central do CFB",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426328131,
+      "lat": -14.929746,
+      "lon": 13.50875,
+      "name": "Estação Central do Lubango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375654,
+      "lat": -12.764086,
+      "lon": 15.745792,
+      "name": "Estação CFB Huambo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839203587,
+      "lat": -14.811456,
+      "lon": 13.248423,
+      "name": "Estação da Aguada",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699026299,
+      "lat": -14.946082,
+      "lon": 13.596742,
+      "name": "Estação da Arimba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 828019743,
+      "lat": -14.759384,
+      "lon": 13.349793,
+      "name": "Estação da Bibala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018149,
+      "lat": -14.761327,
+      "lon": 13.505234,
+      "name": "Estação da Chela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018215,
+      "lat": -14.829418,
+      "lon": 13.191169,
+      "name": "Estação da Garganta",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018152,
+      "lat": -14.730687,
+      "lon": 13.455402,
+      "name": "Estação da Humbia",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 840728730,
+      "lat": -14.739273,
+      "lon": 15.024587,
+      "name": "Estação da Matala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 826020098,
+      "lat": -14.953258,
+      "lon": 13.544905,
+      "name": "Estação da Mukanka",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 828019736,
+      "lat": -14.781136,
+      "lon": 13.495935,
+      "name": "Estação da Quilemba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 827978618,
+      "lat": -14.69893,
+      "lon": 13.476335,
+      "name": "Estação da Serra",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018225,
+      "lat": -14.865179,
+      "lon": 13.109475,
+      "name": "Estação de Assunção",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 840570179,
+      "lat": -14.782261,
+      "lon": 14.826219,
+      "name": "Estação de Bember",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839392980,
+      "lat": -14.854227,
+      "lon": 13.884732,
+      "name": "Estação de Bindassa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965785591,
+      "lat": -14.603529,
+      "lon": 15.494906,
+      "name": "Estação de Cabanas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839203592,
+      "lat": -14.906334,
+      "lon": 13.72944,
+      "name": "Estação de Caculuvar",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 683917699,
+      "lat": -14.992689,
+      "lon": 12.819101,
+      "name": "Estação de Capangombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839757667,
+      "lat": -14.881236,
+      "lon": 14.092177,
+      "name": "Estação de Capembe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207963592,
+      "lat": -15.020713,
+      "lon": 12.667801,
+      "name": "Estação de Caraculo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018119,
+      "lat": -14.864379,
+      "lon": 13.759787,
+      "name": "Estação de Chanja",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839530744,
+      "lat": -14.881463,
+      "lon": 14.1766,
+      "name": "Estação de Chicungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 966048290,
+      "lat": -14.528629,
+      "lon": 15.998745,
+      "name": "Estação de Colui",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3706692681,
+      "lat": -10.85097,
+      "lon": 14.370621,
+      "name": "Estação de Comboio",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 947760131,
+      "lat": -14.573157,
+      "lon": 15.771433,
+      "name": "Estação de Entroncamento",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965771168,
+      "lat": -14.679672,
+      "lon": 15.263315,
+      "name": "Estação de Laceiras",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965771185,
+      "lat": -14.731,
+      "lon": 15.123639,
+      "name": "Estação de Maquelo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 199966085,
+      "lat": -14.666517,
+      "lon": 17.69494,
+      "name": "Estação de Menongue",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965655814,
+      "lat": -14.634346,
+      "lon": 15.384559,
+      "name": "Estação de Micosse",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 976800844,
+      "lat": -15.017663,
+      "lon": 12.270902,
+      "name": "Estação de Mira-Praia",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699018284,
+      "lat": -14.941406,
+      "lon": 12.961432,
+      "name": "Estação de Munhino",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699026303,
+      "lat": -14.828072,
+      "lon": 13.490102,
+      "name": "Estação de Nangombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 840528278,
+      "lat": -14.797267,
+      "lon": 14.727783,
+      "name": "Estação de Nompeto",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699026288,
+      "lat": -14.861811,
+      "lon": 13.944424,
+      "name": "Estação de Olivença",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 699026297,
+      "lat": -14.916806,
+      "lon": 13.649028,
+      "name": "Estação de Poiares",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207963594,
+      "lat": -15.011127,
+      "lon": 12.509889,
+      "name": "Estação de Raposeira",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965655824,
+      "lat": -14.525046,
+      "lon": 15.895122,
+      "name": "Estação de Riunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3507093283,
+      "lat": -12.583012,
+      "lon": 13.410251,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3507104267,
+      "lat": -12.579712,
+      "lon": 13.409892,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3507149188,
+      "lat": -12.580612,
+      "lon": 13.405356,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4254428790,
+      "lat": -8.95191,
+      "lon": 13.174923,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4633617128,
+      "lat": -8.935677,
+      "lon": 13.170617,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4635421589,
+      "lat": -8.943042,
+      "lon": 13.175639,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4641433052,
+      "lat": -8.959781,
+      "lon": 13.20209,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4780554478,
+      "lat": -8.880449,
+      "lon": 13.209528,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5146755579,
+      "lat": -8.913378,
+      "lon": 13.174646,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5579694046,
+      "lat": -8.843479,
+      "lon": 13.240306,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5581067729,
+      "lat": -8.824846,
+      "lon": 13.256279,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139209728,
+      "lat": -8.973605,
+      "lon": 13.292109,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139209764,
+      "lat": -8.973572,
+      "lon": 13.296979,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139209785,
+      "lat": -8.973493,
+      "lon": 13.299454,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139209822,
+      "lat": -8.973336,
+      "lon": 13.303509,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6217809185,
+      "lat": -8.910825,
+      "lon": 13.261007,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6219854963,
+      "lat": -8.904395,
+      "lon": 13.215916,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6326838111,
+      "lat": -8.97697,
+      "lon": 13.367481,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8542464656,
+      "lat": -14.937709,
+      "lon": 13.482704,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8714541713,
+      "lat": -8.940172,
+      "lon": 13.239312,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8725092119,
+      "lat": -14.923554,
+      "lon": 13.492097,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8849498738,
+      "lat": -8.896048,
+      "lon": 13.213832,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8853940201,
+      "lat": -8.860621,
+      "lon": 13.215316,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 10654162455,
+      "lat": -14.949323,
+      "lon": 13.589323,
+      "name": "Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5580723129,
+      "lat": -8.837777,
+      "lon": 13.254907,
+      "name": "Estação de Serviço - Manutenção",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4641549386,
+      "lat": -8.9738,
+      "lon": 13.248158,
+      "name": "Estação de Serviço A.O.S.H",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3507023019,
+      "lat": -12.585914,
+      "lon": 13.40955,
+      "name": "Estação de Serviço Acácias",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4641456896,
+      "lat": -8.975047,
+      "lon": 13.205375,
+      "name": "Estação de Serviço Auto-Tech",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4792601936,
+      "lat": -8.882892,
+      "lon": 13.185075,
+      "name": "Estação de Serviço da Corimba (Serviços Rápidos)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5978420177,
+      "lat": -8.815542,
+      "lon": 13.276105,
+      "name": "Estação de Serviço da Cuca",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5580918672,
+      "lat": -8.83361,
+      "lon": 13.256759,
+      "name": "Estação de Serviço de Vila-Alice",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6231160245,
+      "lat": -8.927432,
+      "lon": 13.212983,
+      "name": "Estação de Serviço e Mecânica",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5664434732,
+      "lat": -8.912924,
+      "lon": 13.238651,
+      "name": "Estação de Serviço e Recauchoutagem",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8538411438,
+      "lat": -14.905614,
+      "lon": 13.519343,
+      "name": "Estação de Serviço e Restaurante",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6214913371,
+      "lat": -8.909961,
+      "lon": 13.321273,
+      "name": "Estação de Serviço Frioauto",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8489128055,
+      "lat": -14.921017,
+      "lon": 13.4842,
+      "name": "Estação de Serviço Lava Tudo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6136077644,
+      "lat": -8.901511,
+      "lon": 13.255436,
+      "name": "Estação de Serviço Sérgio de Nascimento",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5168357112,
+      "lat": -8.935557,
+      "lon": 13.161678,
+      "name": "Estação de Serviço VIP",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6136077595,
+      "lat": -8.902463,
+      "lon": 13.250202,
+      "name": "Estação de Serviço VIP",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8517678603,
+      "lat": -14.922429,
+      "lon": 13.491994,
+      "name": "Estação de Serviço VIP",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8878110645,
+      "lat": -8.887826,
+      "lon": 13.205293,
+      "name": "Estação de Serviço Xandrina",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11010625720,
+      "lat": -14.920753,
+      "lon": 13.486004,
+      "name": "Estação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138007596,
+      "lat": -12.573835,
+      "lon": 13.407477,
+      "name": "Estação de Serviços AC Geral Comercial",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3804191985,
+      "lat": -8.91623,
+      "lon": 13.212947,
+      "name": "Estação de Serviços Belmingo & Filhos",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 828019739,
+      "lat": -14.673676,
+      "lon": 13.470635,
+      "name": "Estação de Tolundo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839535717,
+      "lat": -14.83637,
+      "lon": 14.351207,
+      "name": "Estação de Tontum",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 965982212,
+      "lat": -14.626773,
+      "lon": 15.609912,
+      "name": "Estação de Trindade",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 386834118,
+      "lat": -14.466323,
+      "lon": 16.299479,
+      "name": "Estação do Cuvango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 841085664,
+      "lat": -14.596639,
+      "lon": 15.711738,
+      "name": "Estação do Dongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839784379,
+      "lat": -14.816894,
+      "lon": 14.617438,
+      "name": "Estação do Gungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 763174488,
+      "lat": -14.914229,
+      "lon": 12.997193,
+      "name": "Estação do Kilómetro 116",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1185256313,
+      "lat": -14.939735,
+      "lon": 13.526055,
+      "name": "Estação do Rio Capitão",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 912221957,
+      "lat": -15.117709,
+      "lon": 12.14402,
+      "name": "Estação do Sacomar",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1084618518,
+      "lat": -14.68131,
+      "lon": 16.036705,
+      "name": "Estação Ferroviária da Jamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 839763309,
+      "lat": -14.824543,
+      "lon": 14.543407,
+      "name": "Estação Ferroviária de Quipungo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7195248470,
+      "lat": -14.909465,
+      "lon": 13.321133,
+      "name": "Estação Zootécnica da Humpata",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7200056105,
+      "lat": -14.909648,
+      "lon": 13.319741,
+      "name": "Estação Zootécnica da Humpata",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8979828557,
+      "lat": -15.020975,
+      "lon": 12.658525,
+      "name": "Estação Zootécnica de Caraculo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2041597777,
+      "lat": -8.87976,
+      "lon": 13.334935,
+      "name": "Estalagem",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5166833948,
+      "lat": -8.915978,
+      "lon": 13.171449,
+      "name": "F.D Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8327416076,
+      "lat": -8.90191,
+      "lon": 13.228149,
+      "name": "Feitrans Comércio e Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8870369022,
+      "lat": -8.883079,
+      "lon": 13.208153,
+      "name": "Fidoch, Lda. - Prestação de Serviços Aeroportuários",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1651411879,
+      "lat": -8.85058,
+      "lon": 13.288605,
+      "name": "Filda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5073062621,
+      "lat": -5.89708,
+      "lon": 22.438019,
+      "name": "Filling station Biduaya Muamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6513383093,
+      "lat": -8.900427,
+      "lon": 13.191555,
+      "name": "Filoneu, Lda - Empresa de Prestação de Serviços e Catering",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5664434786,
+      "lat": -8.916253,
+      "lon": 13.238782,
+      "name": "Fotocópia Play Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2428285883,
+      "lat": -5.398942,
+      "lon": 12.199597,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11976499631,
+      "lat": -14.788517,
+      "lon": 13.711616,
+      "name": "Futura Subestação Electrica do Lubango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138034020,
+      "lat": -6.342436,
+      "lon": 22.877733,
+      "name": "Fwamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3764887127,
+      "lat": -17.778376,
+      "lon": 15.689946,
+      "name": "Fysal Service Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2041606698,
+      "lat": -8.867987,
+      "lon": 13.316285,
+      "name": "Gamek",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104883104,
+      "lat": -13.014684,
+      "lon": 14.637765,
+      "name": "Ganda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736369703,
+      "lat": -13.014348,
+      "lon": 14.637821,
+      "name": "Ganda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9903729904,
+      "lat": -8.813748,
+      "lon": 13.232238,
+      "name": "Gare - Mutamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5888220403,
+      "lat": -5.57037,
+      "lon": 17.153907,
+      "name": "Gare Bemba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1352534576,
+      "lat": -5.262245,
+      "lon": 14.855018,
+      "name": "Gare centrale",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 501171569,
+      "lat": -4.388447,
+      "lon": 15.352748,
+      "name": "Gare de Matete",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5107553539,
+      "lat": -5.533198,
+      "lon": 17.130316,
+      "name": "Gare Paul (Kihadi polo)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099148206,
+      "lat": -14.82955,
+      "lon": 13.191149,
+      "name": "Garganta (Km 140)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2594907168,
+      "lat": -15.071517,
+      "lon": 12.149949,
+      "name": "Giraúl (Km 16)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 5589221871,
+      "lat": -8.820138,
+      "lon": 13.251732,
+      "name": "Grupo Pitabel - Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099354337,
+      "lat": -14.545417,
+      "lon": 16.528071,
+      "name": "Gunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097318004,
+      "lat": -14.816753,
+      "lon": 14.617436,
+      "name": "Gungo (Km 378)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714800540,
+      "lat": -9.032795,
+      "lon": 13.57887,
+      "name": "Hia",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6231161377,
+      "lat": -8.930935,
+      "lon": 13.204043,
+      "name": "Hidraucruz - Comércio e Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030424,
+      "lat": -4.620356,
+      "lon": 12.042648,
+      "name": "Hinda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6445818337,
+      "lat": -7.013361,
+      "lon": 23.451347,
+      "name": "Hôtel de la Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105156944,
+      "lat": -12.763849,
+      "lon": 15.745651,
+      "name": "Huambo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099170981,
+      "lat": -14.730816,
+      "lon": 13.455474,
+      "name": "Humbia (Km180)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6871450366,
+      "lat": -4.788742,
+      "lon": 11.856782,
+      "name": "Hydro mega prestations",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5648211033,
+      "lat": -8.911317,
+      "lon": 13.208916,
+      "name": "J.C. Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2100103880,
+      "lat": -14.68121,
+      "lon": 16.036613,
+      "name": "Jamba (Km 43)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 916232388,
+      "lat": -14.924334,
+      "lon": 13.528214,
+      "name": "Jobita Transportes",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3340987950,
+      "lat": -4.388619,
+      "lon": 20.876786,
+      "name": "Kabote",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 381274746,
+      "lat": -10.653638,
+      "lon": 22.672131,
+      "name": "Kahundu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 629090250,
+      "lat": -10.652141,
+      "lon": 22.674548,
+      "name": "Kahundu Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1238284707,
+      "lat": -10.653511,
+      "lon": 22.671889,
+      "name": "Kahundu Railway Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309061456,
+      "lat": -4.870171,
+      "lon": 21.913153,
+      "name": "Kakenge",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 629096315,
+      "lat": -10.420428,
+      "lon": 23.668997,
+      "name": "Kakopa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138034012,
+      "lat": -6.255625,
+      "lon": 22.788493,
+      "name": "Kakunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309066971,
+      "lat": -7.128304,
+      "lon": 23.533766,
+      "name": "Kalenda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 889161657,
+      "lat": -6.03031,
+      "lon": 22.615544,
+      "name": "Kalumba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309066952,
+      "lat": -6.074791,
+      "lon": 22.707718,
+      "name": "Kamwandu",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1719215929,
+      "lat": -5.896389,
+      "lon": 22.416432,
+      "name": "Kananga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 80136704,
+      "lat": -5.895947,
+      "lon": 22.416315,
+      "name": "Kananga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 629090269,
+      "lat": -10.384859,
+      "lon": 23.4507,
+      "name": "Kasaji",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715922817,
+      "lat": -4.59103,
+      "lon": 15.173239,
+      "name": "Kasangulu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11397651779,
+      "lat": -4.969563,
+      "lon": 22.09984,
+      "name": "Katanga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7681780718,
+      "lat": -10.660979,
+      "lon": 22.747085,
+      "name": "Katoka Brethren Assembly (Garenganze)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3170460094,
+      "lat": -10.675808,
+      "lon": 22.50442,
+      "name": "Katshilao",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309066949,
+      "lat": -5.983296,
+      "lon": 22.49741,
+      "name": "Katumanga",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1309066962,
+      "lat": -6.614683,
+      "lon": 22.87152,
+      "name": "Kaulu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138132297,
+      "lat": -6.933475,
+      "lon": 23.203228,
+      "name": "Kele",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 617410445,
+      "lat": -5.767209,
+      "lon": 13.659453,
+      "name": "Kenge",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715913464,
+      "lat": -4.469384,
+      "lon": 15.31644,
+      "name": "Kilembo",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 7131532195,
+      "lat": -14.91441,
+      "lon": 12.997288,
+      "name": "Kilómetro 116 (Km 116)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7834100635,
+      "lat": -14.865454,
+      "lon": 14.211087,
+      "name": "Kilómetro 333/Toty (Km 333)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4113584460,
+      "lat": -9.520301,
+      "lon": 14.38451,
+      "name": "Kilómetro 34",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 7834112766,
+      "lat": -14.823859,
+      "lon": 14.483929,
+      "name": "Kilómetro 362 (Km 362)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4111872433,
+      "lat": -4.750539,
+      "lon": 15.141448,
+      "name": "Kilunga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 721880244,
+      "lat": -4.472734,
+      "lon": 15.281678,
+      "name": "Kimwenza",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309064571,
+      "lat": -4.807513,
+      "lon": 21.787375,
+      "name": "Kinda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2242566548,
+      "lat": -7.348095,
+      "lon": 24.025438,
+      "name": "Kisamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 10936807772,
+      "lat": -5.125883,
+      "lon": 15.069545,
+      "name": "Kisantu–Inkisi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808841170,
+      "lat": -10.694589,
+      "lon": 23.18565,
+      "name": "Kisenge",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715876841,
+      "lat": -4.42183,
+      "lon": 15.354595,
+      "name": "Kisenso / Riflart",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6957900980,
+      "lat": -4.41908,
+      "lon": 15.353899,
+      "name": "Kisenso Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9065941483,
+      "lat": -4.419303,
+      "lon": 15.35423,
+      "name": "kn Kisenso Gare Centre de Santé",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099430327,
+      "lat": -14.710134,
+      "lon": 17.408619,
+      "name": "Kuelei",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193495877,
+      "lat": -14.679551,
+      "lon": 15.26332,
+      "name": "Laceiras (Km 452)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193495479,
+      "lat": -14.605199,
+      "lon": 15.631989,
+      "name": "Leça (Km 499)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104997527,
+      "lat": -12.871962,
+      "lon": 15.399261,
+      "name": "Lépi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375676,
+      "lat": -12.871646,
+      "lon": 15.399482,
+      "name": "Lépi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3720540325,
+      "lat": -11.655304,
+      "lon": 20.448233,
+      "name": "Léua",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4099387109,
+      "lat": -14.636423,
+      "lon": 16.722473,
+      "name": "Liunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11435367169,
+      "lat": -11.745195,
+      "lon": 20.231448,
+      "name": "lLugarejo de Mwachilata",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11407391371,
+      "lat": -11.482617,
+      "lon": 19.841255,
+      "name": "lLugarejo Sateresa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6893980392,
+      "lat": -12.348667,
+      "lon": 13.54222,
+      "name": "Lobito",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 299033552,
+      "lat": -12.348448,
+      "lon": 13.542052,
+      "name": "Lobito Central Nova",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2181227456,
+      "lat": -9.488543,
+      "lon": 16.148006,
+      "name": "Lombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207879863,
+      "lat": -9.488444,
+      "lon": 16.148133,
+      "name": "Lombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1808753566,
+      "lat": -12.904926,
+      "lon": 15.249415,
+      "name": "Longonjo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375684,
+      "lat": -12.905126,
+      "lon": 15.249258,
+      "name": "Longonjo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7664006787,
+      "lat": -15.136445,
+      "lon": 23.654072,
+      "name": "Looma Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105406000,
+      "lat": -11.213505,
+      "lon": 21.653912,
+      "name": "Luacano",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2099519340,
+      "lat": -14.68897,
+      "lon": 17.174182,
+      "name": "Luasenha",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8746050618,
+      "lat": -10.704897,
+      "lon": 22.226369,
+      "name": "Luau",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 296194451,
+      "lat": -10.705248,
+      "lon": 22.226638,
+      "name": "Luau",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1948897114,
+      "lat": -14.929921,
+      "lon": 13.508781,
+      "name": "Lubango (Km 246)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138128073,
+      "lat": -6.85869,
+      "lon": 23.069176,
+      "name": "Lubi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207879864,
+      "lat": -9.272814,
+      "lon": 15.244505,
+      "name": "Lucala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715010238,
+      "lat": -11.678784,
+      "lon": 20.2596,
+      "name": "Luculo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1251073600,
+      "lat": -11.783083,
+      "lon": 19.90948,
+      "name": "Luena",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11595477569,
+      "lat": -12.156538,
+      "lon": 20.57179,
+      "name": "Lugarejo de Kalungwe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11435365481,
+      "lat": -12.589053,
+      "lon": 18.845497,
+      "name": "Lugarejo de Satchimbanda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11435365772,
+      "lat": -12.18643,
+      "lon": 20.412386,
+      "name": "Lugarejo Malowa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11407391570,
+      "lat": -11.47274,
+      "lon": 19.846725,
+      "name": "Lugarejo Mutenga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11715890169,
+      "lat": -11.535704,
+      "lon": 19.79067,
+      "name": "Lugarejo Mwakambaji",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11595477270,
+      "lat": -12.168105,
+      "lon": 20.564127,
+      "name": "Lugarejo Nhachissengo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11435365478,
+      "lat": -12.204267,
+      "lon": 20.4984,
+      "name": "Lugarejo Sr. Lucas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11407390071,
+      "lat": -11.529372,
+      "lon": 19.960332,
+      "name": "Lugarejo Viagem",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113597908,
+      "lat": -9.215731,
+      "lon": 14.459268,
+      "name": "Luinha",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 832203439,
+      "lat": -5.518852,
+      "lon": 14.516029,
+      "name": "Lukala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 889163489,
+      "lat": -6.945008,
+      "lon": 23.328883,
+      "name": "Lukola",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 3306517538,
+      "lat": -11.555453,
+      "lon": 20.782198,
+      "name": "Lumeje",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104403948,
+      "lat": -12.458735,
+      "lon": 13.519647,
+      "name": "Luongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781897,
+      "lat": -12.458872,
+      "lon": 13.519783,
+      "name": "Luongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309056136,
+      "lat": -7.165096,
+      "lon": 23.711589,
+      "name": "Luputa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4143186376,
+      "lat": -7.333305,
+      "lon": 23.887389,
+      "name": "Lusuku",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2913853434,
+      "lat": -4.826545,
+      "lon": 15.172505,
+      "name": "Lwila",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5670391125,
+      "lat": -4.41334,
+      "lon": 12.291765,
+      "name": "M'foubou",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 426335370,
+      "lat": -14.882185,
+      "lon": 13.530698,
+      "name": "Macon",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 837168442,
+      "lat": -12.764675,
+      "lon": 15.722409,
+      "name": "Macon",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1186482297,
+      "lat": -17.380002,
+      "lon": 15.886659,
+      "name": "Macon",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426328724,
+      "lat": -14.925095,
+      "lon": 13.528334,
+      "name": "Macon - Base Tchioco",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426322332,
+      "lat": -14.922222,
+      "lon": 13.495351,
+      "name": "Macon Executivo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 289208637,
+      "lat": -12.332787,
+      "lon": 16.938056,
+      "name": "Main Building",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1380929453,
+      "lat": -5.813599,
+      "lon": 20.709077,
+      "name": "Makumbi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113781153,
+      "lat": -9.542358,
+      "lon": 16.34801,
+      "name": "Malanje",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 623055937,
+      "lat": -10.421786,
+      "lon": 23.168765,
+      "name": "Malonga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916494464,
+      "lat": -14.900527,
+      "lon": 13.477291,
+      "name": "Mapunda (Km 239)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193496202,
+      "lat": -14.731132,
+      "lon": 15.123627,
+      "name": "Maquelo (Km 436)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715964332,
+      "lat": -4.3859,
+      "lon": 15.393735,
+      "name": "Masina Mapela",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3311959882,
+      "lat": -5.817824,
+      "lon": 13.45992,
+      "name": "Matadi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193493389,
+      "lat": -14.739493,
+      "lon": 15.0245,
+      "name": "Matala (Km 424)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 29752813,
+      "lat": -4.388441,
+      "lon": 15.353024,
+      "name": "Matete",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 2180949036,
+      "lat": -9.468209,
+      "lon": 15.894288,
+      "name": "Matete",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1146947786,
+      "lat": -5.262148,
+      "lon": 14.857549,
+      "name": "Mbanza-Ngungu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030433,
+      "lat": -4.531078,
+      "lon": 12.097339,
+      "name": "Mboukou",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2099518976,
+      "lat": -14.666617,
+      "lon": 17.695185,
+      "name": "Menongue (Km 756)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193495627,
+      "lat": -14.634495,
+      "lon": 15.384581,
+      "name": "Micosse (Km 466)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104525250,
+      "lat": -12.598909,
+      "lon": 13.507314,
+      "name": "Mina",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736364703,
+      "lat": -12.598961,
+      "lon": 13.50707,
+      "name": "Mina",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3295459084,
+      "lat": -15.017786,
+      "lon": 12.270901,
+      "name": "Mira-Praia (Km 32)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8820537828,
+      "lat": -4.413719,
+      "lon": 15.381068,
+      "name": "ML Station service",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4101699515,
+      "lat": -15.191351,
+      "lon": 12.149645,
+      "name": "Moçâmedes (Km 0)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5169888253,
+      "lat": -8.94153,
+      "lon": 13.159165,
+      "name": "Mofetahe Comércio Geral, Prestação de Serviços, Lda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6513758412,
+      "lat": -8.831203,
+      "lon": 13.27373,
+      "name": "Muceques",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105432451,
+      "lat": -11.026254,
+      "lon": 21.936642,
+      "name": "Mucussueje",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097504303,
+      "lat": -14.953193,
+      "lon": 13.545108,
+      "name": "Mukanka (Km 251)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5508540803,
+      "lat": -8.915902,
+      "lon": 13.169713,
+      "name": "Mulamba Comércio & Prestação de Serviço, Lda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1308996853,
+      "lat": -10.447468,
+      "lon": 24.024996,
+      "name": "Mungulunga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2595504927,
+      "lat": -12.161065,
+      "lon": 18.555381,
+      "name": "Munhango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7831027289,
+      "lat": -14.899711,
+      "lon": 13.027844,
+      "name": "Munhengo (Km 122)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 1808932895,
+      "lat": -14.941325,
+      "lon": 12.961314,
+      "name": "Munhino (Km 111)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309066961,
+      "lat": -6.161271,
+      "lon": 22.751406,
+      "name": "Mutefu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3660702569,
+      "lat": -5.268951,
+      "lon": 14.967161,
+      "name": "Mwala GTrain Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309061458,
+      "lat": -4.84504,
+      "lon": 21.561679,
+      "name": "Mweka",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309061460,
+      "lat": -7.013768,
+      "lon": 23.450135,
+      "name": "Mwene-Ditu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113589174,
+      "lat": -9.194109,
+      "lon": 14.391241,
+      "name": "N'dalahui",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 706349662,
+      "lat": -9.300567,
+      "lon": 14.909498,
+      "name": "N'dalantando",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916493594,
+      "lat": -14.828148,
+      "lon": 13.490196,
+      "name": "Nangombe (Km 227)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8840341480,
+      "lat": -14.88225,
+      "lon": 13.484325,
+      "name": "Nanguluve (Km 234)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 797799785,
+      "lat": -4.391607,
+      "lon": 15.444974,
+      "name": "Ndjili Aéroport",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7249253586,
+      "lat": -15.091523,
+      "lon": 23.773321,
+      "name": "Ndondo Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030443,
+      "lat": -4.49072,
+      "lon": 12.349845,
+      "name": "Nemba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9905844352,
+      "lat": -8.848574,
+      "lon": 13.211434,
+      "name": "Neoliv Comercio e Prestação de Serviços, Lda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030444,
+      "lat": -4.741528,
+      "lon": 11.955351,
+      "name": "Ngondji",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 13188741949,
+      "lat": -4.807,
+      "lon": 21.788,
+      "name": "Nkinda Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030445,
+      "lat": -4.517109,
+      "lon": 12.300069,
+      "name": "Nkoungi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097318000,
+      "lat": -14.797125,
+      "lon": 14.727799,
+      "name": "Nompeto (Km 391)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104403933,
+      "lat": -12.55144,
+      "lon": 13.433335,
+      "name": "Nossa Senhora da Graça",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030446,
+      "lat": -4.672998,
+      "lon": 11.992779,
+      "name": "Ntombo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030447,
+      "lat": -4.433508,
+      "lon": 12.597835,
+      "name": "Nzombo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8746088802,
+      "lat": -14.917526,
+      "lon": 13.492865,
+      "name": "OBRAMA - Prestação de Serviços, Lda.",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6214913404,
+      "lat": -8.90849,
+      "lon": 13.319048,
+      "name": "Oficina AB Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4641433051,
+      "lat": -8.958319,
+      "lon": 13.201235,
+      "name": "Oficina Auto - Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9980223671,
+      "lat": -8.97275,
+      "lon": 13.337866,
+      "name": "Oficina Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4092118078,
+      "lat": -17.468108,
+      "lon": 15.88133,
+      "name": "Ohangwena",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3764887166,
+      "lat": -17.776831,
+      "lon": 15.694627,
+      "name": "Okatana Service Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916523612,
+      "lat": -14.861658,
+      "lon": 13.944357,
+      "name": "Olivença(Km 303)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 709647409,
+      "lat": -17.774086,
+      "lon": 15.698841,
+      "name": "Omatara Bus Terminal",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104548754,
+      "lat": -12.886589,
+      "lon": 13.678599,
+      "name": "Ombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736364698,
+      "lat": -12.886642,
+      "lon": 13.678459,
+      "name": "Ombe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1299298360,
+      "lat": -17.899708,
+      "lon": 15.979075,
+      "name": "Ondangwa",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5163886024,
+      "lat": -8.826218,
+      "lon": 13.215479,
+      "name": "One Stop - Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4092153703,
+      "lat": -17.649048,
+      "lon": 15.917894,
+      "name": "Ongha",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426327498,
+      "lat": -14.921553,
+      "lon": 13.496783,
+      "name": "Orcalves",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 955349068,
+      "lat": -14.8962,
+      "lon": 13.506617,
+      "name": "Orcalves - Parque Logístico",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1822385845,
+      "lat": -17.396839,
+      "lon": 15.879175,
+      "name": "Oshikango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139209754,
+      "lat": -8.973573,
+      "lon": 13.294986,
+      "name": "Otoniel Prestação de Serviços, Lda - Oficina Express",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4792601818,
+      "lat": -8.875547,
+      "lon": 13.191394,
+      "name": "Paltra, Lda Prestação de Serviço & Agência de Viagens",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11395901369,
+      "lat": -4.547916,
+      "lon": 21.148263,
+      "name": "Pamba",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1271039885,
+      "lat": -14.902476,
+      "lon": 13.514136,
+      "name": "Parque da Staff \"Tá Limpo\"",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 912789870,
+      "lat": -14.881268,
+      "lon": 13.534471,
+      "name": "Parque de Viagem do Nambambi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1308973726,
+      "lat": -4.444394,
+      "lon": 20.942614,
+      "name": "Pebeangu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 748782908,
+      "lat": -5.846503,
+      "lon": 13.433583,
+      "name": "Petrocongo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1161447893,
+      "lat": -4.58338,
+      "lon": 18.69082,
+      "name": "Pindi Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916494610,
+      "lat": -14.916939,
+      "lon": 13.649042,
+      "name": "Poiares (Km 264)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3312362171,
+      "lat": -4.801389,
+      "lon": 11.84015,
+      "name": "Pointe-Noire",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4303890693,
+      "lat": -4.980604,
+      "lon": 14.710301,
+      "name": "police station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5596166227,
+      "lat": -8.840855,
+      "lon": 13.230158,
+      "name": "Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8450070062,
+      "lat": -17.064144,
+      "lon": 15.706495,
+      "name": "Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8722085467,
+      "lat": -14.924274,
+      "lon": 13.536778,
+      "name": "Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8854036936,
+      "lat": -8.8608,
+      "lon": 13.215451,
+      "name": "Prestação de Serviços - Auto Frio e Electricidade",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8522869962,
+      "lat": -14.925354,
+      "lon": 13.5214,
+      "name": "Prestação de Serviços A.D.P",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5580722592,
+      "lat": -8.839174,
+      "lon": 13.250997,
+      "name": "Prestação de Serviços de Contabilidade",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6219110243,
+      "lat": -8.901442,
+      "lon": 13.25236,
+      "name": "Prestação de Serviços em Artes Gráficas",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9094287568,
+      "lat": -17.44681,
+      "lon": 15.885856,
+      "name": "Puma Service Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7730023742,
+      "lat": -14.781205,
+      "lon": 13.495946,
+      "name": "Quilemba (Km 218)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4096999016,
+      "lat": -14.824437,
+      "lon": 14.543224,
+      "name": "Quipungo (Km 369)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113705890,
+      "lat": -9.362571,
+      "lon": 15.472686,
+      "name": "Quizenga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2182327121,
+      "lat": -15.011014,
+      "lon": 12.509975,
+      "name": "Raposeira (Km 59)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916494763,
+      "lat": -14.939762,
+      "lon": 13.526006,
+      "name": "Rio Capitão (Km 248)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 3193494850,
+      "lat": -14.524945,
+      "lon": 15.895083,
+      "name": "Riunda (Km 531)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4257105053,
+      "lat": -8.796333,
+      "lon": 13.277729,
+      "name": "Rotunda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 860417995,
+      "lat": -17.932073,
+      "lon": 19.77028,
+      "name": "Rundu Bus Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6139526678,
+      "lat": -8.987537,
+      "lon": 13.395389,
+      "name": "S.S-G Comércio e Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097602233,
+      "lat": -15.117804,
+      "lon": 12.143698,
+      "name": "Saco-Mar (Km 10)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3906603429,
+      "lat": -5.841227,
+      "lon": 13.454759,
+      "name": "Salle de manifestation (fête, spectacle, réunion)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4113912179,
+      "lat": -10.651219,
+      "lon": 22.798214,
+      "name": "Sambembe",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3720540220,
+      "lat": -11.599759,
+      "lon": 20.628156,
+      "name": "Sandando",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 557465311,
+      "lat": -11.599921,
+      "lon": 20.628213,
+      "name": "Sandando",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 12610650976,
+      "lat": -11.600576,
+      "lon": 20.630012,
+      "name": "Sandando Gare",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3041927764,
+      "lat": -12.407358,
+      "lon": 13.5399,
+      "name": "Santa Cruz",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 302874420,
+      "lat": -12.407348,
+      "lon": 13.539698,
+      "name": "Santa Cruz",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4105186010,
+      "lat": -12.751964,
+      "lon": 15.773524,
+      "name": "Santa Iria",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6718997031,
+      "lat": -12.716457,
+      "lon": 15.865592,
+      "name": "Santo Amaro",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916523507,
+      "lat": -14.820947,
+      "lon": 14.433414,
+      "name": "Sanzala (Km 357)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4105145725,
+      "lat": -12.769044,
+      "lon": 15.727998,
+      "name": "São Pedro",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375656,
+      "lat": -12.769294,
+      "lon": 15.728016,
+      "name": "São Pedro",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2595504920,
+      "lat": -12.160109,
+      "lon": 18.389604,
+      "name": "Savinguila",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714999885,
+      "lat": -12.159939,
+      "lon": 18.389664,
+      "name": "Savinguila",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7729587543,
+      "lat": -14.698798,
+      "lon": 13.476438,
+      "name": "Serra (Km 198)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5693978147,
+      "lat": -8.926548,
+      "lon": 13.263547,
+      "name": "Sessang Comercial - Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 957145092,
+      "lat": -14.924306,
+      "lon": 13.528956,
+      "name": "SGO - Transportes Urbano",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 389446823,
+      "lat": -4.395642,
+      "lon": 15.416806,
+      "name": "Site transco",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5549261745,
+      "lat": -8.811069,
+      "lon": 13.253906,
+      "name": "Sonangol - Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 426337102,
+      "lat": -14.897277,
+      "lon": 13.507495,
+      "name": "Sotrans - Transporte Interprovincial",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714844003,
+      "lat": -12.716613,
+      "lon": 15.865688,
+      "name": "St Amaro",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 448372641,
+      "lat": -12.75171,
+      "lon": 15.773676,
+      "name": "St Iria",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7124323285,
+      "lat": -4.394033,
+      "lon": 15.332112,
+      "name": "Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6581917730,
+      "lat": -4.410181,
+      "lon": 15.316415,
+      "name": "Station Africain Oil",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5241592816,
+      "lat": -4.416002,
+      "lon": 15.314092,
+      "name": "Station Cobil",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 330335224,
+      "lat": -5.261154,
+      "lon": 14.859014,
+      "name": "Station COBIL",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5241628103,
+      "lat": -4.389855,
+      "lon": 15.314768,
+      "name": "Station COBIL",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5168323613,
+      "lat": -4.588579,
+      "lon": 15.16468,
+      "name": "Station de Pêche de Kasangulu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5674818460,
+      "lat": -4.688468,
+      "lon": 11.943496,
+      "name": "Station de Pesage",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5674848068,
+      "lat": -4.415917,
+      "lon": 12.146775,
+      "name": "Station de Pesage",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1763491533,
+      "lat": -4.429618,
+      "lon": 15.280398,
+      "name": "Station de police",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7074470189,
+      "lat": -5.259782,
+      "lon": 14.859309,
+      "name": "Station Engen",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6018279286,
+      "lat": -4.415445,
+      "lon": 15.31403,
+      "name": "Station Intendance Universitaire",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6574947758,
+      "lat": -4.441051,
+      "lon": 15.375971,
+      "name": "Station Kimbanseke",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9635402557,
+      "lat": -5.850932,
+      "lon": 13.053088,
+      "name": "Station kuntuala",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4793446056,
+      "lat": -4.390332,
+      "lon": 15.370312,
+      "name": "Station ML",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5765508588,
+      "lat": -4.406624,
+      "lon": 15.339519,
+      "name": "Station Oil",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6257867376,
+      "lat": -4.795829,
+      "lon": 11.869111,
+      "name": "Station puma",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7997182785,
+      "lat": -4.760782,
+      "lon": 11.89685,
+      "name": "Station PUMA",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8129832932,
+      "lat": -4.786046,
+      "lon": 11.894588,
+      "name": "Station PUMA",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4378071291,
+      "lat": -4.466675,
+      "lon": 15.235886,
+      "name": "Station Service Mazarine",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2452525178,
+      "lat": -4.764806,
+      "lon": 11.865374,
+      "name": "Station service PUMA",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2452525203,
+      "lat": -4.761828,
+      "lon": 11.870529,
+      "name": "Station service X-OIL Loandjili",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2456738889,
+      "lat": -4.788404,
+      "lon": 11.872749,
+      "name": "Station Service X-OIL Mawata",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6447347187,
+      "lat": -4.774476,
+      "lon": 11.879281,
+      "name": "Station services Puma",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8814257348,
+      "lat": -4.406892,
+      "lon": 15.374447,
+      "name": "Station St Thérèse",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6257868394,
+      "lat": -4.800234,
+      "lon": 11.842965,
+      "name": "Station Total",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6371096687,
+      "lat": -4.785321,
+      "lon": 11.877799,
+      "name": "Station Total de Mahouata",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9977000444,
+      "lat": -4.39554,
+      "lon": 15.307619,
+      "name": "Station Triangle",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 616509873,
+      "lat": -4.405733,
+      "lon": 15.256421,
+      "name": "Station UPN",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 6257867375,
+      "lat": -4.788384,
+      "lon": 11.872767,
+      "name": "Station Xoil",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11993349758,
+      "lat": -9.105557,
+      "lon": 13.689011,
+      "name": "Subestação",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4230382009,
+      "lat": -8.99783,
+      "lon": 13.25653,
+      "name": "Subestação de energia Bloco E",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4635223493,
+      "lat": -8.94123,
+      "lon": 13.17466,
+      "name": "Sultec Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5310179716,
+      "lat": -17.783074,
+      "lon": 23.326234,
+      "name": "Susuwe Ranger Station",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4783570644,
+      "lat": -8.833426,
+      "lon": 13.217768,
+      "name": "T.D.T Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8521711253,
+      "lat": -14.887329,
+      "lon": 13.523159,
+      "name": "Ta Quang Binh - Comercio, Prestação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8786151197,
+      "lat": -14.866296,
+      "lon": 13.485731,
+      "name": "Tchavola (Km 232)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 5670391122,
+      "lat": -4.538281,
+      "lon": 12.147338,
+      "name": "Tchitondi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 958698567,
+      "lat": -8.881692,
+      "lon": 13.207557,
+      "name": "Terminal Interprovincial",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8474238275,
+      "lat": -15.119484,
+      "lon": 12.139197,
+      "name": "Terminal Mineraleiro do Sacomar (Virador de Vagões)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 778150147,
+      "lat": -14.874243,
+      "lon": 13.583925,
+      "name": "Terminal Rodoviário do Mutundo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 643462597,
+      "lat": -8.800888,
+      "lon": 13.261349,
+      "name": "Textang",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 915941368,
+      "lat": -14.924078,
+      "lon": 13.530581,
+      "name": "TGL",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 824504053,
+      "lat": -14.888789,
+      "lon": 13.520549,
+      "name": "TGL - Lubango",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2456739254,
+      "lat": -4.804956,
+      "lon": 11.897452,
+      "name": "TiéTié",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 7729704013,
+      "lat": -14.673743,
+      "lon": 13.470697,
+      "name": "Tolundo (Km 192)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 9952119909,
+      "lat": -8.829007,
+      "lon": 13.221688,
+      "name": "Tom e Mini - Prestação de Serviços, Lda",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5476375171,
+      "lat": -12.617123,
+      "lon": 13.447677,
+      "name": "Tombua",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4097344072,
+      "lat": -14.836216,
+      "lon": 14.351206,
+      "name": "Tontum (Km 349)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4641433056,
+      "lat": -8.960239,
+      "lon": 13.202298,
+      "name": "Torneiro Mecânico - Estação de Serviço",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3193495563,
+      "lat": -14.6269,
+      "lon": 15.609998,
+      "name": "Trindade (Km 496)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030453,
+      "lat": -4.492523,
+      "lon": 12.543815,
+      "name": "Tsessi",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4142368018,
+      "lat": -7.255595,
+      "lon": 23.80308,
+      "name": "Tshabebo",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309064579,
+      "lat": -5.335847,
+      "lon": 22.19012,
+      "name": "Tshibumbula",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309064580,
+      "lat": -5.625001,
+      "lon": 22.266279,
+      "name": "Tshibungu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1309056140,
+      "lat": -6.473318,
+      "lon": 22.865646,
+      "name": "Tshimbulu",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4136117896,
+      "lat": -5.708001,
+      "lon": 22.328973,
+      "name": "Tshitenge",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3302030450,
+      "lat": -4.460104,
+      "lon": 12.451672,
+      "name": "TSoumbou",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8856925877,
+      "lat": -14.928168,
+      "lon": 13.5078,
+      "name": "TURP - LINHA 1 - Estação CFM",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8872969583,
+      "lat": -14.928343,
+      "lon": 13.507924,
+      "name": "TURP - LINHA 1 - Estação CFM",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104977570,
+      "lat": -12.864203,
+      "lon": 15.069294,
+      "name": "Ukuma",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 736375687,
+      "lat": -12.864034,
+      "lon": 15.069308,
+      "name": "Ukuma",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 8491161063,
+      "lat": -14.920841,
+      "lon": 13.499889,
+      "name": "Unavi Prestação de Serviços",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 11412069040,
+      "lat": -9.05275,
+      "lon": 13.500998,
+      "name": "Unnamed (node 11412069040)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 11412069041,
+      "lat": -9.052713,
+      "lon": 13.500969,
+      "name": "Unnamed (node 11412069041)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 13464190791,
+      "lat": -12.758083,
+      "lon": 15.761737,
+      "name": "Unnamed (node 13464190791)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 13464258889,
+      "lat": -12.336789,
+      "lon": 13.584738,
+      "name": "Unnamed (node 13464258889)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 13464333693,
+      "lat": -12.336873,
+      "lon": 13.584754,
+      "name": "Unnamed (node 13464333693)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1808917538,
+      "lat": -10.385198,
+      "lon": 23.291227,
+      "name": "Unnamed (node 1808917538)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1822385846,
+      "lat": -17.392114,
+      "lon": 15.879071,
+      "name": "Unnamed (node 1822385846)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1844015783,
+      "lat": -12.652364,
+      "lon": 13.464568,
+      "name": "Unnamed (node 1844015783)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1844015872,
+      "lat": -12.647035,
+      "lon": 13.468361,
+      "name": "Unnamed (node 1844015872)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1916492644,
+      "lat": -14.500039,
+      "lon": 16.147289,
+      "name": "Unnamed (node 1916492644)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1916494601,
+      "lat": -14.915157,
+      "lon": 13.489099,
+      "name": "Unnamed (node 1916494601)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1916494605,
+      "lat": -14.915495,
+      "lon": 13.489626,
+      "name": "Unnamed (node 1916494605)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2099518542,
+      "lat": -14.45907,
+      "lon": 16.404722,
+      "name": "Unnamed (node 2099518542)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2099518882,
+      "lat": -14.663739,
+      "lon": 17.6968,
+      "name": "Unnamed (node 2099518882)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2099519008,
+      "lat": -14.667349,
+      "lon": 17.695011,
+      "name": "Unnamed (node 2099519008)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2099519093,
+      "lat": -14.669963,
+      "lon": 17.695825,
+      "name": "Unnamed (node 2099519093)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2099519103,
+      "lat": -14.670831,
+      "lon": 17.692918,
+      "name": "Unnamed (node 2099519103)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2100103844,
+      "lat": -14.676687,
+      "lon": 16.04222,
+      "name": "Unnamed (node 2100103844)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2139151935,
+      "lat": -15.040235,
+      "lon": 15.981356,
+      "name": "Unnamed (node 2139151935)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 2139153416,
+      "lat": -15.243769,
+      "lon": 16.068828,
+      "name": "Unnamed (node 2139153416)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2181226734,
+      "lat": -9.2723,
+      "lon": 15.23599,
+      "name": "Unnamed (node 2181226734)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2181226892,
+      "lat": -9.275721,
+      "lon": 15.235885,
+      "name": "Unnamed (node 2181226892)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2182327252,
+      "lat": -15.019711,
+      "lon": 12.665879,
+      "name": "Unnamed (node 2182327252)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2182327255,
+      "lat": -15.01974,
+      "lon": 12.661849,
+      "name": "Unnamed (node 2182327255)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2182327261,
+      "lat": -15.019793,
+      "lon": 12.664467,
+      "name": "Unnamed (node 2182327261)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2182327266,
+      "lat": -15.019755,
+      "lon": 12.665147,
+      "name": "Unnamed (node 2182327266)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2182327281,
+      "lat": -15.020048,
+      "lon": 12.664144,
+      "name": "Unnamed (node 2182327281)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2355657660,
+      "lat": -8.80722,
+      "lon": 13.241638,
+      "name": "Unnamed (node 2355657660)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2751510060,
+      "lat": -12.161295,
+      "lon": 18.558079,
+      "name": "Unnamed (node 2751510060)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 2927637025,
+      "lat": -15.190514,
+      "lon": 12.15033,
+      "name": "Unnamed (node 2927637025)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193494567,
+      "lat": -14.466877,
+      "lon": 16.297708,
+      "name": "Unnamed (node 3193494567)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193494596,
+      "lat": -14.467419,
+      "lon": 16.296129,
+      "name": "Unnamed (node 3193494596)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193495082,
+      "lat": -14.572059,
+      "lon": 15.775352,
+      "name": "Unnamed (node 3193495082)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193495181,
+      "lat": -14.574148,
+      "lon": 15.769925,
+      "name": "Unnamed (node 3193495181)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193495201,
+      "lat": -14.575518,
+      "lon": 15.772662,
+      "name": "Unnamed (node 3193495201)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3193496445,
+      "lat": -14.955103,
+      "lon": 15.935196,
+      "name": "Unnamed (node 3193496445)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 3885207155,
+      "lat": -5.260606,
+      "lon": 14.859071,
+      "name": "Unnamed (node 3885207155)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4076577754,
+      "lat": -14.740738,
+      "lon": 15.027658,
+      "name": "Unnamed (node 4076577754)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4076577775,
+      "lat": -14.741914,
+      "lon": 15.025432,
+      "name": "Unnamed (node 4076577775)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4096998376,
+      "lat": -14.825333,
+      "lon": 14.54228,
+      "name": "Unnamed (node 4096998376)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4096999015,
+      "lat": -14.822629,
+      "lon": 14.545195,
+      "name": "Unnamed (node 4096999015)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097014033,
+      "lat": -14.743559,
+      "lon": 15.023862,
+      "name": "Unnamed (node 4097014033)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097014036,
+      "lat": -14.738662,
+      "lon": 15.020982,
+      "name": "Unnamed (node 4097014036)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269551,
+      "lat": -14.57912,
+      "lon": 15.774225,
+      "name": "Unnamed (node 4097269551)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269556,
+      "lat": -14.581298,
+      "lon": 15.776594,
+      "name": "Unnamed (node 4097269556)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269560,
+      "lat": -14.58007,
+      "lon": 15.774701,
+      "name": "Unnamed (node 4097269560)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269564,
+      "lat": -14.582336,
+      "lon": 15.777549,
+      "name": "Unnamed (node 4097269564)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269569,
+      "lat": -14.580874,
+      "lon": 15.775512,
+      "name": "Unnamed (node 4097269569)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097269572,
+      "lat": -14.578608,
+      "lon": 15.772325,
+      "name": "Unnamed (node 4097269572)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097272099,
+      "lat": -14.597293,
+      "lon": 15.715454,
+      "name": "Unnamed (node 4097272099)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097272102,
+      "lat": -14.59661,
+      "lon": 15.707615,
+      "name": "Unnamed (node 4097272102)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097276012,
+      "lat": -14.625066,
+      "lon": 15.611846,
+      "name": "Unnamed (node 4097276012)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097344077,
+      "lat": -14.880403,
+      "lon": 14.17898,
+      "name": "Unnamed (node 4097344077)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442707,
+      "lat": -14.942825,
+      "lon": 13.605533,
+      "name": "Unnamed (node 4097442707)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442708,
+      "lat": -14.942575,
+      "lon": 13.606093,
+      "name": "Unnamed (node 4097442708)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442710,
+      "lat": -14.942431,
+      "lon": 13.60646,
+      "name": "Unnamed (node 4097442710)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442719,
+      "lat": -14.941063,
+      "lon": 13.610191,
+      "name": "Unnamed (node 4097442719)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442720,
+      "lat": -14.939437,
+      "lon": 13.612384,
+      "name": "Unnamed (node 4097442720)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442732,
+      "lat": -14.940785,
+      "lon": 13.610045,
+      "name": "Unnamed (node 4097442732)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442733,
+      "lat": -14.940736,
+      "lon": 13.609989,
+      "name": "Unnamed (node 4097442733)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442739,
+      "lat": -14.937805,
+      "lon": 13.616094,
+      "name": "Unnamed (node 4097442739)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097442740,
+      "lat": -14.941026,
+      "lon": 13.610073,
+      "name": "Unnamed (node 4097442740)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097566564,
+      "lat": -14.930936,
+      "lon": 13.505267,
+      "name": "Unnamed (node 4097566564)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097616080,
+      "lat": -15.120404,
+      "lon": 12.139175,
+      "name": "Unnamed (node 4097616080)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4097618507,
+      "lat": -15.117416,
+      "lon": 12.140122,
+      "name": "Unnamed (node 4097618507)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099113850,
+      "lat": -15.017705,
+      "lon": 12.268303,
+      "name": "Unnamed (node 4099113850)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099134675,
+      "lat": -14.943236,
+      "lon": 12.957666,
+      "name": "Unnamed (node 4099134675)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099147880,
+      "lat": -14.865865,
+      "lon": 13.10699,
+      "name": "Unnamed (node 4099147880)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099148214,
+      "lat": -14.829092,
+      "lon": 13.188323,
+      "name": "Unnamed (node 4099148214)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4099430334,
+      "lat": -14.690653,
+      "lon": 17.605663,
+      "name": "Unnamed (node 4099430334)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4104513085,
+      "lat": -12.532965,
+      "lon": 13.497694,
+      "name": "Unnamed (node 4104513085)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4104513593,
+      "lat": -12.540296,
+      "lon": 13.495565,
+      "name": "Unnamed (node 4104513593)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4105156928,
+      "lat": -12.761216,
+      "lon": 15.745256,
+      "name": "Unnamed (node 4105156928)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4114494288,
+      "lat": -10.452974,
+      "lon": 23.83203,
+      "name": "Unnamed (node 4114494288)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4129054062,
+      "lat": -5.832648,
+      "lon": 13.621261,
+      "name": "Unnamed (node 4129054062)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 4136055294,
+      "lat": -4.384172,
+      "lon": 20.822071,
+      "name": "Unnamed (node 4136055294)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138075981,
+      "lat": -6.69927,
+      "lon": 22.930046,
+      "name": "Unnamed (node 4138075981)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4138127998,
+      "lat": -6.749948,
+      "lon": 23.007838,
+      "name": "Unnamed (node 4138127998)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 4759873189,
+      "lat": -12.635602,
+      "lon": 13.461665,
+      "name": "Unnamed (node 4759873189)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 4759873200,
+      "lat": -12.639891,
+      "lon": 13.465291,
+      "name": "Unnamed (node 4759873200)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 6173811920,
+      "lat": -12.146847,
+      "lon": 17.284406,
+      "name": "Unnamed (node 6173811920)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 6173944300,
+      "lat": -11.218725,
+      "lon": 21.648994,
+      "name": "Unnamed (node 6173944300)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7118654484,
+      "lat": -15.195078,
+      "lon": 12.133202,
+      "name": "Unnamed (node 7118654484)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7118663395,
+      "lat": -15.195109,
+      "lon": 12.133134,
+      "name": "Unnamed (node 7118663395)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 715959275,
+      "lat": -4.388435,
+      "lon": 15.412394,
+      "name": "Unnamed (node 715959275)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 7294732517,
+      "lat": -14.931621,
+      "lon": 13.507595,
+      "name": "Unnamed (node 7294732517)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7542283236,
+      "lat": -14.945325,
+      "lon": 13.599537,
+      "name": "Unnamed (node 7542283236)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7580227564,
+      "lat": -14.931162,
+      "lon": 13.504601,
+      "name": "Unnamed (node 7580227564)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7580243886,
+      "lat": -14.931281,
+      "lon": 13.50568,
+      "name": "Unnamed (node 7580243886)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7583847533,
+      "lat": -14.930405,
+      "lon": 13.506975,
+      "name": "Unnamed (node 7583847533)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7590737147,
+      "lat": -14.930069,
+      "lon": 13.506931,
+      "name": "Unnamed (node 7590737147)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7590737152,
+      "lat": -14.930018,
+      "lon": 13.50626,
+      "name": "Unnamed (node 7590737152)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7590737155,
+      "lat": -14.930418,
+      "lon": 13.503243,
+      "name": "Unnamed (node 7590737155)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7590737160,
+      "lat": -14.930514,
+      "lon": 13.503243,
+      "name": "Unnamed (node 7590737160)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7761063635,
+      "lat": -5.84248,
+      "lon": 13.432952,
+      "name": "Unnamed (node 7761063635)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7832953335,
+      "lat": -14.860852,
+      "lon": 13.946377,
+      "name": "Unnamed (node 7832953335)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7833998475,
+      "lat": -14.866656,
+      "lon": 14.010963,
+      "name": "Unnamed (node 7833998475)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 7844863500,
+      "lat": -14.739659,
+      "lon": 15.025729,
+      "name": "Unnamed (node 7844863500)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7844863521,
+      "lat": -14.739169,
+      "lon": 15.023639,
+      "name": "Unnamed (node 7844863521)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7847942253,
+      "lat": -14.574369,
+      "lon": 15.768777,
+      "name": "Unnamed (node 7847942253)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7855646213,
+      "lat": -15.119342,
+      "lon": 12.143442,
+      "name": "Unnamed (node 7855646213)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 7944074228,
+      "lat": -14.919953,
+      "lon": 13.471749,
+      "name": "Unnamed (node 7944074228)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 8390180527,
+      "lat": -12.535671,
+      "lon": 13.496413,
+      "name": "Unnamed (node 8390180527)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8397215113,
+      "lat": -14.929539,
+      "lon": 13.512995,
+      "name": "Unnamed (node 8397215113)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8397224017,
+      "lat": -14.929573,
+      "lon": 13.513,
+      "name": "Unnamed (node 8397224017)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8412496992,
+      "lat": -14.667446,
+      "lon": 17.694658,
+      "name": "Unnamed (node 8412496992)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8451542902,
+      "lat": -15.736996,
+      "lon": 13.886696,
+      "name": "Unnamed (node 8451542902)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8584415235,
+      "lat": -14.914965,
+      "lon": 13.490009,
+      "name": "Unnamed (node 8584415235)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8584415251,
+      "lat": -14.915127,
+      "lon": 13.489979,
+      "name": "Unnamed (node 8584415251)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 8584415252,
+      "lat": -14.9152,
+      "lon": 13.489966,
+      "name": "Unnamed (node 8584415252)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 9951992522,
+      "lat": -8.796002,
+      "lon": 13.2461,
+      "name": "Unnamed (node 9951992522)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 1070377943,
+      "lat": -5.335653,
+      "lon": 22.19026,
+      "name": "Unnamed (way 1070377943)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1070765266,
+      "lat": -5.493785,
+      "lon": 22.268207,
+      "name": "Unnamed (way 1070765266)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1228820455,
+      "lat": -4.444114,
+      "lon": 20.942642,
+      "name": "Unnamed (way 1228820455)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1228847803,
+      "lat": -4.61674,
+      "lon": 21.221038,
+      "name": "Unnamed (way 1228847803)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1228847807,
+      "lat": -4.752929,
+      "lon": 21.471355,
+      "name": "Unnamed (way 1228847807)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1228850879,
+      "lat": -4.871349,
+      "lon": 21.672628,
+      "name": "Unnamed (way 1228850879)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1228850881,
+      "lat": -4.807358,
+      "lon": 21.787295,
+      "name": "Unnamed (way 1228850881)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229027485,
+      "lat": -4.870194,
+      "lon": 21.912903,
+      "name": "Unnamed (way 1229027485)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229027488,
+      "lat": -4.89377,
+      "lon": 22.074948,
+      "name": "Unnamed (way 1229027488)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229027490,
+      "lat": -4.969488,
+      "lon": 22.099996,
+      "name": "Unnamed (way 1229027490)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229027493,
+      "lat": -5.046204,
+      "lon": 22.166134,
+      "name": "Unnamed (way 1229027493)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229062928,
+      "lat": -6.030168,
+      "lon": 22.615458,
+      "name": "Unnamed (way 1229062928)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229081085,
+      "lat": -6.161307,
+      "lon": 22.751183,
+      "name": "Unnamed (way 1229081085)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229081086,
+      "lat": -6.255712,
+      "lon": 22.788383,
+      "name": "Unnamed (way 1229081086)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229082665,
+      "lat": -6.342582,
+      "lon": 22.877739,
+      "name": "Unnamed (way 1229082665)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229085329,
+      "lat": -6.473526,
+      "lon": 22.865696,
+      "name": "Unnamed (way 1229085329)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229243313,
+      "lat": -6.699259,
+      "lon": 22.929874,
+      "name": "Unnamed (way 1229243313)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229243314,
+      "lat": -6.749869,
+      "lon": 23.007723,
+      "name": "Unnamed (way 1229243314)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229243315,
+      "lat": -6.858582,
+      "lon": 23.068973,
+      "name": "Unnamed (way 1229243315)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229251257,
+      "lat": -7.013653,
+      "lon": 23.450371,
+      "name": "Unnamed (way 1229251257)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1229256709,
+      "lat": -7.128125,
+      "lon": 23.533901,
+      "name": "Unnamed (way 1229256709)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1230565981,
+      "lat": -9.052288,
+      "lon": 13.501598,
+      "name": "Unnamed (way 1230565981)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 173623507,
+      "lat": -12.642826,
+      "lon": 13.463098,
+      "name": "Unnamed (way 173623507)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 203911135,
+      "lat": -15.243903,
+      "lon": 16.062849,
+      "name": "Unnamed (way 203911135)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235108615,
+      "lat": -12.551383,
+      "lon": 13.433104,
+      "name": "Unnamed (way 235108615)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235110849,
+      "lat": -12.551128,
+      "lon": 13.433457,
+      "name": "Unnamed (way 235110849)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781806,
+      "lat": -12.488993,
+      "lon": 13.497097,
+      "name": "Unnamed (way 235781806)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781807,
+      "lat": -12.530603,
+      "lon": 13.460668,
+      "name": "Unnamed (way 235781807)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781808,
+      "lat": -12.488651,
+      "lon": 13.497325,
+      "name": "Unnamed (way 235781808)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 235781810,
+      "lat": -12.530875,
+      "lon": 13.460284,
+      "name": "Unnamed (way 235781810)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 245547248,
+      "lat": -9.185105,
+      "lon": 13.966126,
+      "name": "Unnamed (way 245547248)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 246695058,
+      "lat": -8.800959,
+      "lon": 13.261393,
+      "name": "Unnamed (way 246695058)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 289208634,
+      "lat": -12.332794,
+      "lon": 16.937548,
+      "name": "Unnamed (way 289208634)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 323878285,
+      "lat": -11.511288,
+      "lon": 20.954409,
+      "name": "Unnamed (way 323878285)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 326965967,
+      "lat": -4.845133,
+      "lon": 21.561455,
+      "name": "Unnamed (way 326965967)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 385164357,
+      "lat": -5.262415,
+      "lon": 14.857186,
+      "name": "Unnamed (way 385164357)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 434368216,
+      "lat": -8.603143,
+      "lon": 13.607379,
+      "name": "Unnamed (way 434368216)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 434368218,
+      "lat": -8.602448,
+      "lon": 13.609642,
+      "name": "Unnamed (way 434368218)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 448328219,
+      "lat": -11.555586,
+      "lon": 20.78237,
+      "name": "Unnamed (way 448328219)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 531190227,
+      "lat": -17.475562,
+      "lon": 16.334142,
+      "name": "Unnamed (way 531190227)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 531191203,
+      "lat": -17.481137,
+      "lon": 16.332743,
+      "name": "Unnamed (way 531191203)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 533192957,
+      "lat": -17.068293,
+      "lon": 15.730068,
+      "name": "Unnamed (way 533192957)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 533192959,
+      "lat": -17.068263,
+      "lon": 15.730197,
+      "name": "Unnamed (way 533192959)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 533914742,
+      "lat": -12.160554,
+      "lon": 18.555063,
+      "name": "Unnamed (way 533914742)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 555316886,
+      "lat": -11.655112,
+      "lon": 20.4481,
+      "name": "Unnamed (way 555316886)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 569437613,
+      "lat": -12.616893,
+      "lon": 13.447695,
+      "name": "Unnamed (way 569437613)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 585343506,
+      "lat": -11.783308,
+      "lon": 19.909442,
+      "name": "Unnamed (way 585343506)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 590488228,
+      "lat": -17.396788,
+      "lon": 15.879305,
+      "name": "Unnamed (way 590488228)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 594735995,
+      "lat": -4.433521,
+      "lon": 12.597942,
+      "name": "Unnamed (way 594735995)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 594735997,
+      "lat": -4.492582,
+      "lon": 12.54383,
+      "name": "Unnamed (way 594735997)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 594735998,
+      "lat": -4.459984,
+      "lon": 12.45173,
+      "name": "Unnamed (way 594735998)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 659416383,
+      "lat": -12.149637,
+      "lon": 17.279788,
+      "name": "Unnamed (way 659416383)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 684798844,
+      "lat": -13.54432,
+      "lon": 23.110964,
+      "name": "Unnamed (way 684798844)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 706194197,
+      "lat": -9.139665,
+      "lon": 14.768021,
+      "name": "Unnamed (way 706194197)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714693144,
+      "lat": -12.601404,
+      "lon": 13.433579,
+      "name": "Unnamed (way 714693144)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714982973,
+      "lat": -12.263685,
+      "lon": 17.125518,
+      "name": "Unnamed (way 714982973)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714994329,
+      "lat": -11.992673,
+      "lon": 17.665358,
+      "name": "Unnamed (way 714994329)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714994345,
+      "lat": -12.146131,
+      "lon": 18.094699,
+      "name": "Unnamed (way 714994345)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714999888,
+      "lat": -12.134866,
+      "lon": 18.795409,
+      "name": "Unnamed (way 714999888)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 714999903,
+      "lat": -11.928522,
+      "lon": 19.346369,
+      "name": "Unnamed (way 714999903)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715002270,
+      "lat": -11.940645,
+      "lon": 19.631727,
+      "name": "Unnamed (way 715002270)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715010249,
+      "lat": -11.338897,
+      "lon": 21.51548,
+      "name": "Unnamed (way 715010249)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715010258,
+      "lat": -11.213417,
+      "lon": 21.653627,
+      "name": "Unnamed (way 715010258)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 715014190,
+      "lat": -11.026174,
+      "lon": 21.936486,
+      "name": "Unnamed (way 715014190)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 819124466,
+      "lat": -7.164994,
+      "lon": 23.711769,
+      "name": "Unnamed (way 819124466)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 840728715,
+      "lat": -14.769266,
+      "lon": 14.888256,
+      "name": "Unnamed (way 840728715)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 851728577,
+      "lat": -14.919934,
+      "lon": 13.471685,
+      "name": "Unnamed (way 851728577)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 863632145,
+      "lat": -17.90067,
+      "lon": 15.968988,
+      "name": "Unnamed (way 863632145)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 905885945,
+      "lat": -14.690485,
+      "lon": 17.605592,
+      "name": "Unnamed (way 905885945)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 919604309,
+      "lat": -14.929131,
+      "lon": 13.524169,
+      "name": "Unnamed (way 919604309)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 944696010,
+      "lat": -10.675882,
+      "lon": 22.504614,
+      "name": "Unnamed (way 944696010)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 945244891,
+      "lat": -10.69437,
+      "lon": 23.185471,
+      "name": "Unnamed (way 945244891)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 947760984,
+      "lat": -14.650411,
+      "lon": 16.892914,
+      "name": "Unnamed (way 947760984)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 947764231,
+      "lat": -14.674711,
+      "lon": 15.915118,
+      "name": "Unnamed (way 947764231)",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 1655557465,
+      "lat": -8.905345,
+      "lon": 13.375061,
+      "name": "Viana",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 5053888854,
+      "lat": -8.905233,
+      "lon": 13.37513,
+      "name": "Viana",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 7831001478,
+      "lat": -14.974617,
+      "lon": 12.912674,
+      "name": "Xutama (Km 104)",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 5670391123,
+      "lat": -4.5565,
+      "lon": 12.193635,
+      "name": "Yanga",
+      "type": "halt",
+      "country": "AO"
+    },
+    {
+      "id": 2180949118,
+      "lat": -9.483823,
+      "lon": 15.986245,
+      "name": "Zanga",
+      "type": "station",
+      "country": "AO"
+    },
+    {
+      "id": 207989409,
+      "lat": -9.286235,
+      "lon": 14.214291,
+      "name": "Zenza do Itombe",
+      "type": "station",
+      "country": "AO"
+    }
+  ]
+}

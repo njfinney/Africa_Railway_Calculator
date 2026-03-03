@@ -1,0 +1,6191 @@
+{
+  "country": "NA",
+  "name": "Namibia",
+  "region": "Southern Africa",
+  "bbox": [
+    -28.97,
+    11.73,
+    -16.96,
+    25.26
+  ],
+  "extracted": "2026-03-03T12:20:25.615Z",
+  "count": 772,
+  "stations": [
+    {
+      "id": 3688260048,
+      "lat": -22.571897,
+      "lon": 17.083362,
+      "name": "ABC Stationers",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 336405035,
+      "lat": -22.60977,
+      "lon": 17.070959,
+      "name": "Academia Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 9502375117,
+      "lat": -28.389249,
+      "lon": 17.43312,
+      "name": "Agrimart Petrolstation (Diesel)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4846061270,
+      "lat": -21.930042,
+      "lon": 16.079822,
+      "name": "Albrecht Railway Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646701,
+      "lat": -27.253079,
+      "lon": 25.047985,
+      "name": "Amalia",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5317887290,
+      "lat": -18.054492,
+      "lon": 21.444611,
+      "name": "Andara Mission Station Graveyard",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3186202616,
+      "lat": -18.470539,
+      "lon": 16.955282,
+      "name": "Andoni",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2029562413,
+      "lat": -22.428226,
+      "lon": 14.991964,
+      "name": "Arandis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 968262538,
+      "lat": -28.120879,
+      "lon": 19.836289,
+      "name": "Ariamsvlei",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327779,
+      "lat": -28.28265,
+      "lon": 23.765559,
+      "name": "Ariesfontein",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034521313,
+      "lat": -25.464289,
+      "lon": 17.951301,
+      "name": "Asab",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 408814409,
+      "lat": -26.665817,
+      "lon": 16.261993,
+      "name": "Aus",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464520,
+      "lat": -20.762758,
+      "lon": 16.300095,
+      "name": "Avond",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 481103042,
+      "lat": -26.647447,
+      "lon": 15.153872,
+      "name": "Bahnhof Lüderitz",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327787,
+      "lat": -28.535601,
+      "lon": 24.528834,
+      "name": "Barkly West",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327782,
+      "lat": -28.761976,
+      "lon": 24.783904,
+      "name": "Beaconsfield",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6879206686,
+      "lat": -20.217338,
+      "lon": 14.07081,
+      "name": "Bergsig Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327792,
+      "lat": -28.254083,
+      "lon": 23.230203,
+      "name": "Blinkklip",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 12638980610,
+      "lat": -19.713798,
+      "lon": 22.843754,
+      "name": "Boat station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12639012801,
+      "lat": -19.714833,
+      "lon": 22.850279,
+      "name": "Boat station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4761153263,
+      "lat": -19.135167,
+      "lon": 23.099788,
+      "name": "Boat Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464029,
+      "lat": -19.295907,
+      "lon": 17.592622,
+      "name": "Bobos",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327805,
+      "lat": -28.203016,
+      "lon": 23.021028,
+      "name": "Bokkoppie",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327803,
+      "lat": -28.395098,
+      "lon": 24.333098,
+      "name": "Borrelskop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3227898661,
+      "lat": -28.540363,
+      "lon": 25.239621,
+      "name": "Boshof Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247645102,
+      "lat": -28.907009,
+      "lon": 24.987492,
+      "name": "Bosvark",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1917796687,
+      "lat": -26.698413,
+      "lon": 17.121855,
+      "name": "Buchholzbrunn",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12037626672,
+      "lat": -18.094403,
+      "lon": 21.669942,
+      "name": "Buffalo Tourist Reception & Management Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 408947907,
+      "lat": -26.655826,
+      "lon": 15.156314,
+      "name": "Burenkamp",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 267097693,
+      "lat": -19.988245,
+      "lon": 23.422813,
+      "name": "Bus",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 930177293,
+      "lat": -27.456043,
+      "lon": 23.433239,
+      "name": "Central Bus Terminal",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3121854024,
+      "lat": -27.215705,
+      "lon": 17.908245,
+      "name": "Chamieites",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12146169101,
+      "lat": -19.314148,
+      "lon": 14.482601,
+      "name": "Check station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4961306332,
+      "lat": -19.549855,
+      "lon": 23.202151,
+      "name": "Chief's Island Boat Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646927,
+      "lat": -27.900858,
+      "lon": 25.163201,
+      "name": "Christiana",
+      "type": "stop",
+      "country": "NA"
+    },
+    {
+      "id": 7220905870,
+      "lat": -27.899865,
+      "lon": 25.16546,
+      "name": "Christiana",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327821,
+      "lat": -28.32964,
+      "lon": 23.384914,
+      "name": "Clifton",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327809,
+      "lat": -28.226984,
+      "lon": 24.852675,
+      "name": "Content",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646756,
+      "lat": -26.690264,
+      "lon": 24.964361,
+      "name": "Curnow",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1111690883,
+      "lat": -28.662713,
+      "lon": 21.035483,
+      "name": "Currie's Camp",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 10931511342,
+      "lat": -19.74852,
+      "lon": 23.476292,
+      "name": "Daunara OKMCT Mokoro Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646775,
+      "lat": -27.23373,
+      "lon": 24.738903,
+      "name": "De Beers",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 11811107130,
+      "lat": -22.586706,
+      "lon": 17.078345,
+      "name": "Denu Stationers",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646769,
+      "lat": -26.770953,
+      "lon": 24.895414,
+      "name": "Devondale",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327831,
+      "lat": -28.523884,
+      "lon": 24.520992,
+      "name": "Diamantoord",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 243742173,
+      "lat": -24.959348,
+      "lon": 17.918969,
+      "name": "Die Kalk",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247646766,
+      "lat": -26.558351,
+      "lon": 25.076842,
+      "name": "Doornbult",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327834,
+      "lat": -28.017125,
+      "lon": 24.855769,
+      "name": "Dowlish",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247646771,
+      "lat": -27.334246,
+      "lon": 24.720937,
+      "name": "Dry Harts",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 243711559,
+      "lat": -23.926064,
+      "lon": 17.51223,
+      "name": "Duineveld",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327824,
+      "lat": -28.613816,
+      "lon": 21.099339,
+      "name": "Dyasonsklip",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1037380492,
+      "lat": -24.774871,
+      "lon": 17.935867,
+      "name": "Ebene Erde",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327825,
+      "lat": -28.708884,
+      "lon": 20.878871,
+      "name": "Eenduin",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6150719629,
+      "lat": -22.343566,
+      "lon": 18.278621,
+      "name": "Eintracht",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6171464033,
+      "lat": -19.722967,
+      "lon": 17.274701,
+      "name": "Elefantenberg",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327827,
+      "lat": -27.709481,
+      "lon": 22.964507,
+      "name": "Emil",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 335443418,
+      "lat": -22.589382,
+      "lon": 17.08075,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 759942962,
+      "lat": -20.461834,
+      "lon": 16.650675,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1673022044,
+      "lat": -22.582761,
+      "lon": 17.080366,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3644818883,
+      "lat": -22.573608,
+      "lon": 17.056526,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3829882305,
+      "lat": -19.566516,
+      "lon": 18.101132,
+      "name": "Engen Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3642824110,
+      "lat": -22.592042,
+      "lon": 17.06213,
+      "name": "Engen Service Station & Car Wash",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026454861,
+      "lat": -21.232713,
+      "lon": 16.024306,
+      "name": "Epako",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 959623084,
+      "lat": -27.739536,
+      "lon": 23.021512,
+      "name": "Erts",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327828,
+      "lat": -28.08462,
+      "lon": 23.043504,
+      "name": "Ertsrand",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1079004372,
+      "lat": -20.647956,
+      "lon": 16.410581,
+      "name": "Erundu",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026548102,
+      "lat": -21.763491,
+      "lon": 15.813714,
+      "name": "Etiro",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2036485262,
+      "lat": -26.872913,
+      "lon": 17.540077,
+      "name": "Feldschuhhorn",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327829,
+      "lat": -28.581166,
+      "lon": 24.662586,
+      "name": "Fieldsview",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 5291142388,
+      "lat": -20.209542,
+      "lon": 15.018409,
+      "name": "Fransfontain Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5882253873,
+      "lat": -21.96756,
+      "lon": 15.997663,
+      "name": "Friedrichsfelde",
+      "type": "stop",
+      "country": "NA"
+    },
+    {
+      "id": 247327846,
+      "lat": -28.744978,
+      "lon": 20.82186,
+      "name": "Friesdale",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3764887127,
+      "lat": -17.778376,
+      "lon": 15.689946,
+      "name": "Fysal Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1020231230,
+      "lat": -22.580382,
+      "lon": 17.074751,
+      "name": "Gammams",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6648297868,
+      "lat": -22.541481,
+      "lon": 17.049565,
+      "name": "Gammans Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 716688042,
+      "lat": -23.342132,
+      "lon": 16.22522,
+      "name": "Gamsberg Research Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12037626670,
+      "lat": -23.14611,
+      "lon": 15.511448,
+      "name": "Ganab Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 11817226255,
+      "lat": -26.366274,
+      "lon": 18.176672,
+      "name": "Gariganus",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2023102836,
+      "lat": -26.593754,
+      "lon": 16.010698,
+      "name": "Garub",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3943622032,
+      "lat": -27.057078,
+      "lon": 17.866576,
+      "name": "Gawachab",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6146638331,
+      "lat": -23.423217,
+      "lon": 17.260625,
+      "name": "Gebiet",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327856,
+      "lat": -28.649122,
+      "lon": 21.057452,
+      "name": "Geelkop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3816236774,
+      "lat": -27.800279,
+      "lon": 18.518707,
+      "name": "Gemsvlakte",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6150719379,
+      "lat": -22.393842,
+      "lon": 18.650725,
+      "name": "Gerard",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 7600233835,
+      "lat": -20.319156,
+      "lon": 16.442024,
+      "name": "Gerus",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327854,
+      "lat": -28.294842,
+      "lon": 24.206305,
+      "name": "Ghaap",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2029685256,
+      "lat": -25.166308,
+      "lon": 17.834803,
+      "name": "Gibeon",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1384169213,
+      "lat": -25.128068,
+      "lon": 17.762973,
+      "name": "Gibeon Petrol Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327850,
+      "lat": -28.109987,
+      "lon": 23.049792,
+      "name": "Glosam",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2036472189,
+      "lat": -26.750334,
+      "lon": 17.225084,
+      "name": "Goageb",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1249711510,
+      "lat": -22.448207,
+      "lon": 18.972385,
+      "name": "Gobabis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034447919,
+      "lat": -26.640471,
+      "lon": 18.090941,
+      "name": "Gobas",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327841,
+      "lat": -28.47709,
+      "lon": 24.434925,
+      "name": "Gong-Gong",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 3816236739,
+      "lat": -27.521476,
+      "lon": 17.98131,
+      "name": "Gorges",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3816236740,
+      "lat": -27.68133,
+      "lon": 18.267322,
+      "name": "Grabwasser",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1019416189,
+      "lat": -26.721965,
+      "lon": 15.292901,
+      "name": "Grasplatz",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1368889902,
+      "lat": -22.518681,
+      "lon": 17.022859,
+      "name": "Greenwell Matongo Sub-Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2041846034,
+      "lat": -28.10445,
+      "lon": 19.266446,
+      "name": "Groendoring",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327838,
+      "lat": -28.278168,
+      "lon": 23.337263,
+      "name": "Groenwater",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2024873257,
+      "lat": -19.569155,
+      "lon": 18.095095,
+      "name": "Grootfontein",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2024467656,
+      "lat": -27.733919,
+      "lon": 18.377962,
+      "name": "Grünau",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6150719585,
+      "lat": -22.386493,
+      "lon": 18.421111,
+      "name": "Grünental",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2036435091,
+      "lat": -26.681552,
+      "lon": 16.845106,
+      "name": "Guibis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 415847087,
+      "lat": -19.37049,
+      "lon": 22.152356,
+      "name": "Gumare Bus Rank",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5311511392,
+      "lat": -20.208256,
+      "lon": 25.255988,
+      "name": "Gweta Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 408992484,
+      "lat": -26.612296,
+      "lon": 15.51349,
+      "name": "Haalenberg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 9863775980,
+      "lat": -22.525184,
+      "lon": 17.068143,
+      "name": "Hakahana Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6154227309,
+      "lat": -24.543602,
+      "lon": 17.952936,
+      "name": "Hardap",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1080145488,
+      "lat": -20.2684,
+      "lon": 16.368323,
+      "name": "Hartseer",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327842,
+      "lat": -27.770257,
+      "lon": 24.79223,
+      "name": "Hartswater",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646829,
+      "lat": -27.22074,
+      "lon": 25.140951,
+      "name": "Hester",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464394,
+      "lat": -20.372819,
+      "lon": 16.739891,
+      "name": "Heuningberg",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2027884636,
+      "lat": -22.552687,
+      "lon": 17.210526,
+      "name": "Hoffnung",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464037,
+      "lat": -19.803982,
+      "lon": 17.212794,
+      "name": "Hohental",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2023224405,
+      "lat": -27.400344,
+      "lon": 17.943466,
+      "name": "Holoog",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327879,
+      "lat": -28.413844,
+      "lon": 21.139678,
+      "name": "Hondejag",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327876,
+      "lat": -27.221868,
+      "lon": 22.966409,
+      "name": "Hotazel",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5863358107,
+      "lat": -26.579681,
+      "lon": 15.611484,
+      "name": "Irsugab",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464030,
+      "lat": -19.377689,
+      "lon": 17.538753,
+      "name": "Jakalsberg",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327858,
+      "lat": -27.90741,
+      "lon": 24.822856,
+      "name": "Jan Kempdorp",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327864,
+      "lat": -28.773748,
+      "lon": 21.583008,
+      "name": "Josling",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 12638980708,
+      "lat": -19.714219,
+      "lon": 22.850743,
+      "name": "Junction to boat station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 196028242,
+      "lat": -24.592657,
+      "lon": 24.728344,
+      "name": "Jwaneng Bus Terminal",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026430380,
+      "lat": -20.979517,
+      "lon": 16.13316,
+      "name": "Kaalkop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327862,
+      "lat": -28.703543,
+      "lon": 20.910027,
+      "name": "Kabies",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 358173211,
+      "lat": -28.764044,
+      "lon": 20.610936,
+      "name": "Kakamas",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026392421,
+      "lat": -20.890023,
+      "lon": 16.190012,
+      "name": "Kalkfeld",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 243711550,
+      "lat": -24.071184,
+      "lon": 17.590632,
+      "name": "Kalkrand",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327892,
+      "lat": -28.411445,
+      "lon": 21.031861,
+      "name": "Kalksloot",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247646821,
+      "lat": -26.598605,
+      "lon": 25.042577,
+      "name": "Kameel",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464556,
+      "lat": -20.812087,
+      "lon": 16.254645,
+      "name": "Kameelberg",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 331860953,
+      "lat": -28.692589,
+      "lon": 24.77615,
+      "name": "Kamfersdam",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327894,
+      "lat": -28.630184,
+      "lon": 21.074207,
+      "name": "Kanoneilandweg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 243655473,
+      "lat": -27.852615,
+      "lon": 18.626635,
+      "name": "Kanus",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2027849423,
+      "lat": -22.548973,
+      "lon": 17.258951,
+      "name": "Kapps",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 968262534,
+      "lat": -28.017357,
+      "lon": 18.746626,
+      "name": "Karasburg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1252346753,
+      "lat": -21.936169,
+      "lon": 15.852878,
+      "name": "Karibib",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 410655892,
+      "lat": -17.797028,
+      "lon": 25.156371,
+      "name": "Kasane Bus Rank",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3366477732,
+      "lat": -17.491052,
+      "lon": 24.278899,
+      "name": "Katima Mulilo Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1249668407,
+      "lat": -26.573907,
+      "lon": 18.135759,
+      "name": "Keetmanshoop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 369069421,
+      "lat": -26.574251,
+      "lon": 18.136454,
+      "name": "Keetmanshoop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327888,
+      "lat": -28.705108,
+      "lon": 20.9695,
+      "name": "Keimoes",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327890,
+      "lat": -28.735347,
+      "lon": 24.76987,
+      "name": "Kimberley",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034444357,
+      "lat": -27.565213,
+      "lon": 18.076967,
+      "name": "Klein Karas",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327885,
+      "lat": -28.902412,
+      "lon": 21.654147,
+      "name": "Kleinbegin",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327887,
+      "lat": -28.551979,
+      "lon": 21.14614,
+      "name": "Klippunt",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327881,
+      "lat": -28.301939,
+      "lon": 24.145087,
+      "name": "Kneukel",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327880,
+      "lat": -28.294695,
+      "lon": 24.835904,
+      "name": "Koedoe",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6154184677,
+      "lat": -28.145719,
+      "lon": 19.441244,
+      "name": "Kokerboom",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 408992383,
+      "lat": -26.69575,
+      "lon": 15.240188,
+      "name": "Kolmannskuppe",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327908,
+      "lat": -28.240922,
+      "lon": 24.037305,
+      "name": "Koopmansfontein",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2024783195,
+      "lat": -21.935386,
+      "lon": 15.665712,
+      "name": "Kranzberg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646861,
+      "lat": -27.804462,
+      "lon": 25.258538,
+      "name": "Kromellenboog",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4126990402,
+      "lat": -22.943304,
+      "lon": 14.520236,
+      "name": "Kuiseb",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3816236741,
+      "lat": -28.097033,
+      "lon": 19.63673,
+      "name": "Kums",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 8624795128,
+      "lat": -27.458921,
+      "lon": 23.43281,
+      "name": "Kuruman Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327906,
+      "lat": -28.212664,
+      "lon": 20.331029,
+      "name": "Langklip",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6146638793,
+      "lat": -23.643242,
+      "lon": 17.406021,
+      "name": "Lekkerwater",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327907,
+      "lat": -28.360893,
+      "lon": 23.520836,
+      "name": "Lime Acres",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1434828961,
+      "lat": -28.361037,
+      "lon": 23.520933,
+      "name": "Lime Acres",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2713412616,
+      "lat": -28.015266,
+      "lon": 23.107542,
+      "name": "Lohatla",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327901,
+      "lat": -28.041272,
+      "lon": 23.051315,
+      "name": "Lohatlha",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4485724691,
+      "lat": -19.5668,
+      "lon": 18.101381,
+      "name": "Long distance taxis station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4494189789,
+      "lat": -22.533848,
+      "lon": 17.067915,
+      "name": "Long distance taxis station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4489999491,
+      "lat": -22.941943,
+      "lon": 14.521015,
+      "name": "Long Distance Taxis Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327902,
+      "lat": -28.474565,
+      "lon": 21.272962,
+      "name": "Louisville Road",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1252255868,
+      "lat": -26.647206,
+      "lon": 15.154272,
+      "name": "Lüderitz",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327897,
+      "lat": -28.388005,
+      "lon": 20.664469,
+      "name": "Lutzputs",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327898,
+      "lat": -28.549586,
+      "lon": 24.769562,
+      "name": "Macfarlane",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1186482297,
+      "lat": -17.380002,
+      "lon": 15.886659,
+      "name": "Macon",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6302732886,
+      "lat": -22.587516,
+      "lon": 17.07749,
+      "name": "Macon Bus Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646891,
+      "lat": -26.424793,
+      "lon": 25.191201,
+      "name": "Madibogo",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327899,
+      "lat": -27.671647,
+      "lon": 24.770238,
+      "name": "Magogong",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327929,
+      "lat": -27.394246,
+      "lon": 22.994871,
+      "name": "Mamathwane",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6791472154,
+      "lat": -21.93501,
+      "lon": 15.857095,
+      "name": "Marc's Auto Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6150719355,
+      "lat": -22.389023,
+      "lon": 18.605728,
+      "name": "Margaretental",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1249690233,
+      "lat": -24.622271,
+      "lon": 17.961127,
+      "name": "Mariental",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 454601136,
+      "lat": -28.738076,
+      "lon": 24.763699,
+      "name": "Market Square",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646880,
+      "lat": -27.279359,
+      "lon": 24.989716,
+      "name": "Matjiesspruit",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 264244640,
+      "lat": -19.992937,
+      "lon": 23.420401,
+      "name": "Maun Bus Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4547741725,
+      "lat": -20.013556,
+      "lon": 23.431556,
+      "name": "Maun Printers & Stationers",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12323768598,
+      "lat": -23.499556,
+      "lon": 19.894218,
+      "name": "Mauziza Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5159695223,
+      "lat": -19.194656,
+      "lon": 23.271483,
+      "name": "Mboma Boat Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5425385789,
+      "lat": -18.58319,
+      "lon": 19.135875,
+      "name": "MET station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327926,
+      "lat": -28.656365,
+      "lon": 24.723931,
+      "name": "Midlands",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247646928,
+      "lat": -26.720167,
+      "lon": 24.938926,
+      "name": "Mnyani",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1388678729,
+      "lat": -27.534507,
+      "lon": 24.702957,
+      "name": "Mokgareng",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5314517485,
+      "lat": -19.846442,
+      "lon": 23.402513,
+      "name": "Mokoro Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4795394879,
+      "lat": -22.658533,
+      "lon": 14.546693,
+      "name": "Mondesa Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327923,
+      "lat": -27.909904,
+      "lon": 23.023949,
+      "name": "Mookaneng",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6533634419,
+      "lat": -19.720036,
+      "lon": 23.502111,
+      "name": "Morutsa Mokorostation",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646901,
+      "lat": -27.380449,
+      "lon": 24.768244,
+      "name": "Myra",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034513957,
+      "lat": -28.105953,
+      "lon": 19.987213,
+      "name": "Nakop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 11631684269,
+      "lat": -22.449089,
+      "lon": 18.989407,
+      "name": "Namcor Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327921,
+      "lat": -28.14454,
+      "lon": 20.146895,
+      "name": "Naroegas",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3360188683,
+      "lat": -19.258056,
+      "lon": 17.707482,
+      "name": "Nelson's Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2027822062,
+      "lat": -22.504086,
+      "lon": 17.377409,
+      "name": "Neudamm (Ondekaremba)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 358173208,
+      "lat": -28.730932,
+      "lon": 20.698412,
+      "name": "Neushek",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6154184865,
+      "lat": -28.006393,
+      "lon": 19.063324,
+      "name": "Nieuwefontein",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6150719384,
+      "lat": -22.403158,
+      "lon": 18.731724,
+      "name": "Ninette",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 12994271514,
+      "lat": -22.611889,
+      "lon": 14.635208,
+      "name": "Nonidas Railway Siding",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327918,
+      "lat": -28.270758,
+      "lon": 24.080269,
+      "name": "Nooibos",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 358173201,
+      "lat": -28.751445,
+      "lon": 20.620053,
+      "name": "Noordvoor",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 10058411169,
+      "lat": -19.563818,
+      "lon": 18.102813,
+      "name": "Northern Stationers",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2485081810,
+      "lat": -22.000737,
+      "lon": 15.582398,
+      "name": "Northwest Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5739227995,
+      "lat": -22.000666,
+      "lon": 15.582158,
+      "name": "Northwest Service Station Kiosk",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6141216876,
+      "lat": -22.292532,
+      "lon": 17.790846,
+      "name": "Nossob",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6154185105,
+      "lat": -26.933262,
+      "lon": 17.830735,
+      "name": "Noute",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4092118078,
+      "lat": -17.468108,
+      "lon": 15.88133,
+      "name": "Ohangwena",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1843224807,
+      "lat": -19.513835,
+      "lon": 17.449294,
+      "name": "Ohorongo",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2179669594,
+      "lat": -21.979716,
+      "lon": 16.91441,
+      "name": "Okahandja Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026594794,
+      "lat": -21.619256,
+      "lon": 15.936253,
+      "name": "Okanono",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026490161,
+      "lat": -21.324998,
+      "lon": 15.98618,
+      "name": "Okaombo",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2024976984,
+      "lat": -22.300072,
+      "lon": 17.061632,
+      "name": "Okapuka",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 260205958,
+      "lat": -20.118608,
+      "lon": 16.960458,
+      "name": "Okaputa",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 3764887166,
+      "lat": -17.776831,
+      "lon": 15.694627,
+      "name": "Okatana Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464392,
+      "lat": -20.27909,
+      "lon": 16.808481,
+      "name": "Okave",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2026454843,
+      "lat": -21.14373,
+      "lon": 16.054534,
+      "name": "Okozongoro",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 82230553,
+      "lat": -22.674259,
+      "lon": 14.528814,
+      "name": "Old Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327912,
+      "lat": -28.291415,
+      "lon": 24.118506,
+      "name": "Olea",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247325556,
+      "lat": -28.838987,
+      "lon": 24.899354,
+      "name": "Olifantskop",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 12061244537,
+      "lat": -18.158378,
+      "lon": 14.291456,
+      "name": "Omakange Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1252335403,
+      "lat": -21.418689,
+      "lon": 15.949067,
+      "name": "Omaruru",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 709647409,
+      "lat": -17.774086,
+      "lon": 15.698841,
+      "name": "Omatara Bus Terminal",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 7600241011,
+      "lat": -20.395844,
+      "lon": 16.539541,
+      "name": "Omatjenne",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 4973893018,
+      "lat": -18.04106,
+      "lon": 22.199331,
+      "name": "Omega Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1018743501,
+      "lat": -22.84428,
+      "lon": 17.106507,
+      "name": "Omeya",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2027756810,
+      "lat": -22.289023,
+      "lon": 18.008373,
+      "name": "Omitara",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3184824294,
+      "lat": -18.352841,
+      "lon": 16.591693,
+      "name": "Omuthiya",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4092183569,
+      "lat": -18.209063,
+      "lon": 16.414923,
+      "name": "Onankali",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1299298360,
+      "lat": -17.899708,
+      "lon": 15.979075,
+      "name": "Ondangwa",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4092153703,
+      "lat": -17.649048,
+      "lon": 15.917894,
+      "name": "Ongha",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1080162733,
+      "lat": -18.070808,
+      "lon": 16.261041,
+      "name": "Onyaanya",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327943,
+      "lat": -28.941882,
+      "lon": 21.68181,
+      "name": "Oorkruis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 321302208,
+      "lat": -28.940313,
+      "lon": 21.685022,
+      "name": "Oorkruis",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 4511467112,
+      "lat": -28.738925,
+      "lon": 24.754897,
+      "name": "Open Mine Museum",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4485746395,
+      "lat": -22.521839,
+      "lon": 17.036815,
+      "name": "Oshakati Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1822385845,
+      "lat": -17.396839,
+      "lon": 15.879175,
+      "name": "Oshikango",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1299335363,
+      "lat": -18.61698,
+      "lon": 17.180666,
+      "name": "Oshivelo",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1988079380,
+      "lat": -21.076918,
+      "lon": 17.370049,
+      "name": "Osire Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1253748068,
+      "lat": -19.641204,
+      "lon": 17.339793,
+      "name": "Otavi",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464385,
+      "lat": -20.193648,
+      "lon": 16.859019,
+      "name": "Otjikango",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1080145480,
+      "lat": -20.440987,
+      "lon": 16.574721,
+      "name": "Otjitasu",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 973572920,
+      "lat": -20.462484,
+      "lon": 16.638009,
+      "name": "Otjiwarongo",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 8405220601,
+      "lat": -22.555328,
+      "lon": 17.036439,
+      "name": "Otjomuise Fire Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 8405220602,
+      "lat": -22.555702,
+      "lon": 17.036361,
+      "name": "Otjomuise Fire Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026430356,
+      "lat": -21.029151,
+      "lon": 16.083714,
+      "name": "Otuwe",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327938,
+      "lat": -28.151618,
+      "lon": 23.044899,
+      "name": "Palingpan",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247646959,
+      "lat": -26.876181,
+      "lon": 24.805457,
+      "name": "Paradise",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 6171464401,
+      "lat": -20.538152,
+      "lon": 16.530905,
+      "name": "Parasis",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1509164184,
+      "lat": -18.117015,
+      "lon": 21.678962,
+      "name": "Park Ranger station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6563671586,
+      "lat": -26.002443,
+      "lon": 22.414079,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12078545317,
+      "lat": -19.387341,
+      "lon": 15.93574,
+      "name": "Petrosol - Taleni Etosha Outpost Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2306597196,
+      "lat": -21.219235,
+      "lon": 14.869303,
+      "name": "Petrosol Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2231277794,
+      "lat": -22.666881,
+      "lon": 14.5346,
+      "name": "Philipus Namalemo Fire Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327935,
+      "lat": -28.255385,
+      "lon": 23.904831,
+      "name": "Plateau",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464045,
+      "lat": -19.998963,
+      "lon": 17.056222,
+      "name": "Platveld",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 5313018010,
+      "lat": -18.03819,
+      "lon": 24.317941,
+      "name": "Police station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4490045989,
+      "lat": -22.852147,
+      "lon": 14.54277,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4787907221,
+      "lat": -24.604834,
+      "lon": 24.728753,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5305842780,
+      "lat": -24.095611,
+      "lon": 25.029458,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12037626673,
+      "lat": -18.097799,
+      "lon": 21.559217,
+      "name": "Police Station Checkpoint",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12082430494,
+      "lat": -19.93989,
+      "lon": 23.492806,
+      "name": "Police Substation",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 8450070062,
+      "lat": -17.064144,
+      "lon": 15.706495,
+      "name": "Prestação de Serviços",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646933,
+      "lat": -27.390365,
+      "lon": 24.711173,
+      "name": "Pudimoe",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 352771419,
+      "lat": -22.584072,
+      "lon": 17.06551,
+      "name": "Puma Energy Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 462253538,
+      "lat": -22.677595,
+      "lon": 14.534465,
+      "name": "Puma Energy Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1352475325,
+      "lat": -22.547178,
+      "lon": 17.076255,
+      "name": "Puma Petrol Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5299651223,
+      "lat": -26.583705,
+      "lon": 18.135854,
+      "name": "Puma service station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2585150930,
+      "lat": -22.562078,
+      "lon": 17.081866,
+      "name": "Puma Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5322510328,
+      "lat": -18.615274,
+      "lon": 17.166696,
+      "name": "Puma Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 9094287568,
+      "lat": -17.44681,
+      "lon": 15.885856,
+      "name": "Puma Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12994271568,
+      "lat": -22.498264,
+      "lon": 14.924938,
+      "name": "Pump Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646931,
+      "lat": -26.441223,
+      "lon": 25.172334,
+      "name": "Rabatho",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 3191265273,
+      "lat": -21.048291,
+      "lon": 24.404934,
+      "name": "Rakops Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646944,
+      "lat": -27.340697,
+      "lon": 24.850267,
+      "name": "Rama",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12620876079,
+      "lat": -22.848178,
+      "lon": 14.592896,
+      "name": "Rand Rifles",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1725529245,
+      "lat": -23.312389,
+      "lon": 17.187182,
+      "name": "Rehoboth",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2161640062,
+      "lat": -22.547286,
+      "lon": 17.076062,
+      "name": "Rhino Park station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327962,
+      "lat": -28.530091,
+      "lon": 24.612629,
+      "name": "Rivermead",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327963,
+      "lat": -28.497706,
+      "lon": 24.780606,
+      "name": "Riverton",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 442622807,
+      "lat": -28.672259,
+      "lon": 24.730411,
+      "name": "Roodepan Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327968,
+      "lat": -28.745293,
+      "lon": 21.981741,
+      "name": "Rooilyf",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5327154851,
+      "lat": -22.528568,
+      "lon": 14.870545,
+      "name": "Rössing",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 860417995,
+      "lat": -17.932073,
+      "lon": 19.77028,
+      "name": "Rundu Bus Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 243744814,
+      "lat": -24.387164,
+      "lon": 17.971726,
+      "name": "Salzbrunn",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 3816237468,
+      "lat": -27.921532,
+      "lon": 18.696961,
+      "name": "Satco",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2036404848,
+      "lat": -26.635976,
+      "lon": 16.576064,
+      "name": "Schakalskuppe",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464032,
+      "lat": -19.560647,
+      "lon": 17.41613,
+      "name": "Schumannsthal",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2755851485,
+      "lat": -21.19948,
+      "lon": 23.939877,
+      "name": "Scout Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1384214687,
+      "lat": -26.816247,
+      "lon": 17.799978,
+      "name": "Seeheim",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1917783659,
+      "lat": -26.820251,
+      "lon": 17.806553,
+      "name": "Seeheim Noord",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6154185115,
+      "lat": -26.819861,
+      "lon": 17.810309,
+      "name": "Seeheim Noord",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2027789251,
+      "lat": -22.444165,
+      "lon": 17.588875,
+      "name": "Seeis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5315933452,
+      "lat": -18.821355,
+      "lon": 22.415998,
+      "name": "Seronga Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 10996869957,
+      "lat": -22.514157,
+      "lon": 17.024421,
+      "name": "Shell Fuel Station Eveline Street",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1352444708,
+      "lat": -22.536208,
+      "lon": 17.071855,
+      "name": "Shell Petrol Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2280833056,
+      "lat": -20.587057,
+      "lon": 17.454606,
+      "name": "Shell Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 8960900200,
+      "lat": -22.51026,
+      "lon": 17.051877,
+      "name": "Shell Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247646986,
+      "lat": -27.332097,
+      "lon": 24.879539,
+      "name": "Siloam",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327976,
+      "lat": -28.345831,
+      "lon": 23.580181,
+      "name": "Silver Streams",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327975,
+      "lat": -28.430163,
+      "lon": 24.80002,
+      "name": "Slypklip",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5289296474,
+      "lat": -18.701102,
+      "lon": 19.151275,
+      "name": "Solar pump station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4103272895,
+      "lat": -20.106145,
+      "lon": 16.151613,
+      "name": "Spar Icecream station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327946,
+      "lat": -28.536779,
+      "lon": 21.341004,
+      "name": "Sprigg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2351057862,
+      "lat": -19.034516,
+      "lon": 16.470643,
+      "name": "Station permanently closed",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2299833866,
+      "lat": -22.955761,
+      "lon": 14.506773,
+      "name": "Suidwes Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5310179716,
+      "lat": -17.783074,
+      "lon": 23.326234,
+      "name": "Susuwe Ranger Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5322824685,
+      "lat": -22.671078,
+      "lon": 14.540578,
+      "name": "Swakopmund",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1395337920,
+      "lat": -22.666377,
+      "lon": 14.540985,
+      "name": "Swakopmund Bus Terminal",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3933571018,
+      "lat": -22.574488,
+      "lon": 14.547562,
+      "name": "Swakopmund Tracking Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327961,
+      "lat": -27.846045,
+      "lon": 24.809275,
+      "name": "Tadcaster",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1324658749,
+      "lat": -22.57149,
+      "lon": 17.083191,
+      "name": "Tal St Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247647028,
+      "lat": -27.566057,
+      "lon": 24.746609,
+      "name": "Taung",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3948488255,
+      "lat": -17.800032,
+      "lon": 25.150225,
+      "name": "The Stationary Box",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 4971037436,
+      "lat": -19.236541,
+      "lon": 23.355005,
+      "name": "Third Bridge Boat Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247647026,
+      "lat": -27.053438,
+      "lon": 24.755384,
+      "name": "Tierkloof",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327959,
+      "lat": -28.306915,
+      "lon": 20.533599,
+      "name": "Toeslaan",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 12353548001,
+      "lat": -22.560944,
+      "lon": 17.081069,
+      "name": "Total Energies (Bahnhof Service Station)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2678598869,
+      "lat": -22.548727,
+      "lon": 17.059597,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2679016939,
+      "lat": -22.598872,
+      "lon": 17.069501,
+      "name": "Total Service Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328002,
+      "lat": -28.306992,
+      "lon": 23.686154,
+      "name": "Trewil",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328003,
+      "lat": -28.654265,
+      "lon": 21.465934,
+      "name": "Trooilapspan",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328004,
+      "lat": -28.280048,
+      "lon": 23.144993,
+      "name": "Tsantasabane",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2034529415,
+      "lat": -26.241043,
+      "lon": 18.136317,
+      "name": "Tsawisis",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2029666387,
+      "lat": -25.881138,
+      "lon": 18.120149,
+      "name": "Tses",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6171464031,
+      "lat": -19.453592,
+      "lon": 17.472001,
+      "name": "Tsobis",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1025190718,
+      "lat": -19.229806,
+      "lon": 17.702004,
+      "name": "Tsumeb",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6146638809,
+      "lat": -23.727646,
+      "lon": 17.438632,
+      "name": "Tsumis Park",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 1037482989,
+      "lat": -24.287435,
+      "lon": 17.859899,
+      "name": "Twilight",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 2034667755,
+      "lat": -19.718318,
+      "lon": 17.828245,
+      "name": "Uchab",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247647006,
+      "lat": -27.311646,
+      "lon": 24.928676,
+      "name": "Uitvalskop",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328016,
+      "lat": -28.355188,
+      "lon": 24.290735,
+      "name": "Ulco",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1064687630,
+      "lat": -28.437381,
+      "lon": 21.231468,
+      "name": "Unnamed (node 1064687630)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 10778606371,
+      "lat": -27.221256,
+      "lon": 22.89548,
+      "name": "Unnamed (node 10778606371)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 10778606372,
+      "lat": -27.220941,
+      "lon": 22.895587,
+      "name": "Unnamed (node 10778606372)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 10778620219,
+      "lat": -27.2176,
+      "lon": 22.895365,
+      "name": "Unnamed (node 10778620219)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1080270493,
+      "lat": -28.454722,
+      "lon": 21.238117,
+      "name": "Unnamed (node 1080270493)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1080270839,
+      "lat": -28.454847,
+      "lon": 21.238076,
+      "name": "Unnamed (node 1080270839)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1126117781,
+      "lat": -26.571342,
+      "lon": 18.135828,
+      "name": "Unnamed (node 1126117781)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1126117834,
+      "lat": -26.570965,
+      "lon": 18.135563,
+      "name": "Unnamed (node 1126117834)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1126117867,
+      "lat": -26.571513,
+      "lon": 18.135576,
+      "name": "Unnamed (node 1126117867)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11269081624,
+      "lat": -22.592857,
+      "lon": 17.074664,
+      "name": "Unnamed (node 11269081624)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11336662752,
+      "lat": -24.623728,
+      "lon": 17.961431,
+      "name": "Unnamed (node 11336662752)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11336662754,
+      "lat": -24.623085,
+      "lon": 17.961296,
+      "name": "Unnamed (node 11336662754)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1163012563,
+      "lat": -28.11863,
+      "lon": 24.865639,
+      "name": "Unnamed (node 1163012563)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1163027135,
+      "lat": -28.115368,
+      "lon": 24.869022,
+      "name": "Unnamed (node 1163027135)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1163027192,
+      "lat": -28.115341,
+      "lon": 24.868975,
+      "name": "Unnamed (node 1163027192)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1167790454,
+      "lat": -27.386522,
+      "lon": 24.713827,
+      "name": "Unnamed (node 1167790454)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1167790473,
+      "lat": -27.393985,
+      "lon": 24.711189,
+      "name": "Unnamed (node 1167790473)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1167790495,
+      "lat": -27.384636,
+      "lon": 24.712049,
+      "name": "Unnamed (node 1167790495)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919042864,
+      "lat": -26.961644,
+      "lon": 24.742372,
+      "name": "Unnamed (node 11919042864)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919256704,
+      "lat": -27.224907,
+      "lon": 22.967241,
+      "name": "Unnamed (node 11919256704)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919256770,
+      "lat": -27.107426,
+      "lon": 22.857852,
+      "name": "Unnamed (node 11919256770)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919256790,
+      "lat": -27.152548,
+      "lon": 22.876038,
+      "name": "Unnamed (node 11919256790)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919256900,
+      "lat": -27.148078,
+      "lon": 22.878472,
+      "name": "Unnamed (node 11919256900)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919256945,
+      "lat": -27.159103,
+      "lon": 22.886245,
+      "name": "Unnamed (node 11919256945)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 11919799726,
+      "lat": -27.798537,
+      "lon": 23.041806,
+      "name": "Unnamed (node 11919799726)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1193629080,
+      "lat": -26.415257,
+      "lon": 25.196895,
+      "name": "Unnamed (node 1193629080)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1202238833,
+      "lat": -28.769199,
+      "lon": 24.765446,
+      "name": "Unnamed (node 1202238833)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 12055987297,
+      "lat": -26.416596,
+      "lon": 25.196212,
+      "name": "Unnamed (node 12055987297)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1243306194,
+      "lat": -28.702041,
+      "lon": 20.969039,
+      "name": "Unnamed (node 1243306194)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1243306244,
+      "lat": -28.702425,
+      "lon": 20.965461,
+      "name": "Unnamed (node 1243306244)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248414072,
+      "lat": -28.445606,
+      "lon": 21.212369,
+      "name": "Unnamed (node 1248414072)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440164,
+      "lat": -28.450595,
+      "lon": 21.219061,
+      "name": "Unnamed (node 1248440164)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440207,
+      "lat": -28.453361,
+      "lon": 21.238149,
+      "name": "Unnamed (node 1248440207)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440277,
+      "lat": -28.454705,
+      "lon": 21.225529,
+      "name": "Unnamed (node 1248440277)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440312,
+      "lat": -28.45053,
+      "lon": 21.21912,
+      "name": "Unnamed (node 1248440312)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440316,
+      "lat": -28.454554,
+      "lon": 21.226922,
+      "name": "Unnamed (node 1248440316)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1248440361,
+      "lat": -28.453218,
+      "lon": 21.236238,
+      "name": "Unnamed (node 1248440361)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1250635246,
+      "lat": -28.017097,
+      "lon": 23.112578,
+      "name": "Unnamed (node 1250635246)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1269514263,
+      "lat": -27.951628,
+      "lon": 24.784445,
+      "name": "Unnamed (node 1269514263)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1299335292,
+      "lat": -18.62141,
+      "lon": 17.184897,
+      "name": "Unnamed (node 1299335292)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13181223655,
+      "lat": -27.7362,
+      "lon": 23.018721,
+      "name": "Unnamed (node 13181223655)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13183435711,
+      "lat": -27.881841,
+      "lon": 22.967835,
+      "name": "Unnamed (node 13183435711)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13183777068,
+      "lat": -27.217163,
+      "lon": 22.965736,
+      "name": "Unnamed (node 13183777068)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13184742016,
+      "lat": -27.321537,
+      "lon": 22.985183,
+      "name": "Unnamed (node 13184742016)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13186080283,
+      "lat": -28.288687,
+      "lon": 22.998697,
+      "name": "Unnamed (node 13186080283)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13186137838,
+      "lat": -28.285112,
+      "lon": 22.998965,
+      "name": "Unnamed (node 13186137838)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13186137850,
+      "lat": -28.285585,
+      "lon": 22.998781,
+      "name": "Unnamed (node 13186137850)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13186527245,
+      "lat": -28.307186,
+      "lon": 23.048834,
+      "name": "Unnamed (node 13186527245)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13188548000,
+      "lat": -28.206924,
+      "lon": 23.548836,
+      "name": "Unnamed (node 13188548000)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13190953113,
+      "lat": -26.957723,
+      "lon": 24.746944,
+      "name": "Unnamed (node 13190953113)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13192319055,
+      "lat": -27.766356,
+      "lon": 24.791628,
+      "name": "Unnamed (node 13192319055)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13192391713,
+      "lat": -27.760536,
+      "lon": 24.791731,
+      "name": "Unnamed (node 13192391713)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1328450439,
+      "lat": -22.558331,
+      "lon": 17.082667,
+      "name": "Unnamed (node 1328450439)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1328450501,
+      "lat": -22.558335,
+      "lon": 17.082572,
+      "name": "Unnamed (node 1328450501)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1328450550,
+      "lat": -22.559373,
+      "lon": 17.081833,
+      "name": "Unnamed (node 1328450550)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 13427612853,
+      "lat": -22.9425,
+      "lon": 14.514322,
+      "name": "Unnamed (node 13427612853)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1619919273,
+      "lat": -26.966054,
+      "lon": 24.7605,
+      "name": "Unnamed (node 1619919273)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1619919307,
+      "lat": -27.811803,
+      "lon": 25.240498,
+      "name": "Unnamed (node 1619919307)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1809117657,
+      "lat": -28.116494,
+      "lon": 24.870711,
+      "name": "Unnamed (node 1809117657)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1822385846,
+      "lat": -17.392114,
+      "lon": 15.879071,
+      "name": "Unnamed (node 1822385846)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1917814699,
+      "lat": -26.679233,
+      "lon": 16.282225,
+      "name": "Unnamed (node 1917814699)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1918026045,
+      "lat": -27.897118,
+      "lon": 25.174682,
+      "name": "Unnamed (node 1918026045)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1918026088,
+      "lat": -27.943602,
+      "lon": 24.789102,
+      "name": "Unnamed (node 1918026088)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1918052105,
+      "lat": -27.2285,
+      "lon": 22.970347,
+      "name": "Unnamed (node 1918052105)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937016169,
+      "lat": -20.466881,
+      "lon": 16.628682,
+      "name": "Unnamed (node 1937016169)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937016246,
+      "lat": -20.469212,
+      "lon": 16.627774,
+      "name": "Unnamed (node 1937016246)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937028012,
+      "lat": -20.459526,
+      "lon": 16.639287,
+      "name": "Unnamed (node 1937028012)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937033663,
+      "lat": -20.462483,
+      "lon": 16.634572,
+      "name": "Unnamed (node 1937033663)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937033667,
+      "lat": -20.462612,
+      "lon": 16.63257,
+      "name": "Unnamed (node 1937033667)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937033701,
+      "lat": -20.462972,
+      "lon": 16.633739,
+      "name": "Unnamed (node 1937033701)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937037740,
+      "lat": -20.459446,
+      "lon": 16.639576,
+      "name": "Unnamed (node 1937037740)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1937037778,
+      "lat": -20.460735,
+      "lon": 16.638682,
+      "name": "Unnamed (node 1937037778)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 1961774964,
+      "lat": -22.491762,
+      "lon": 17.414839,
+      "name": "Unnamed (node 1961774964)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2017908140,
+      "lat": -26.679732,
+      "lon": 16.28462,
+      "name": "Unnamed (node 2017908140)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2023102854,
+      "lat": -26.593624,
+      "lon": 16.01028,
+      "name": "Unnamed (node 2023102854)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2023205049,
+      "lat": -26.679701,
+      "lon": 16.28465,
+      "name": "Unnamed (node 2023205049)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2023205054,
+      "lat": -26.679648,
+      "lon": 16.284702,
+      "name": "Unnamed (node 2023205054)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2024818264,
+      "lat": -22.960445,
+      "lon": 14.490059,
+      "name": "Unnamed (node 2024818264)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026116512,
+      "lat": -19.636877,
+      "lon": 17.342406,
+      "name": "Unnamed (node 2026116512)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026116536,
+      "lat": -19.636821,
+      "lon": 17.344639,
+      "name": "Unnamed (node 2026116536)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026138602,
+      "lat": -19.232283,
+      "lon": 17.707277,
+      "name": "Unnamed (node 2026138602)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026138644,
+      "lat": -19.234828,
+      "lon": 17.709689,
+      "name": "Unnamed (node 2026138644)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026138649,
+      "lat": -19.232248,
+      "lon": 17.707303,
+      "name": "Unnamed (node 2026138649)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026138659,
+      "lat": -19.234094,
+      "lon": 17.707836,
+      "name": "Unnamed (node 2026138659)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026143740,
+      "lat": -19.231441,
+      "lon": 17.706879,
+      "name": "Unnamed (node 2026143740)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026143742,
+      "lat": -19.231635,
+      "lon": 17.706786,
+      "name": "Unnamed (node 2026143742)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2026535546,
+      "lat": -21.842993,
+      "lon": 15.768522,
+      "name": "Unnamed (node 2026535546)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2026578828,
+      "lat": -21.700382,
+      "lon": 15.876738,
+      "name": "Unnamed (node 2026578828)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034498786,
+      "lat": -28.118866,
+      "lon": 19.839474,
+      "name": "Unnamed (node 2034498786)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034498842,
+      "lat": -28.118562,
+      "lon": 19.847553,
+      "name": "Unnamed (node 2034498842)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034498987,
+      "lat": -28.120181,
+      "lon": 19.846162,
+      "name": "Unnamed (node 2034498987)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034499046,
+      "lat": -28.118861,
+      "lon": 19.843402,
+      "name": "Unnamed (node 2034499046)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899631,
+      "lat": -26.572826,
+      "lon": 18.129882,
+      "name": "Unnamed (node 2034899631)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899639,
+      "lat": -26.573684,
+      "lon": 18.136011,
+      "name": "Unnamed (node 2034899639)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899647,
+      "lat": -26.571324,
+      "lon": 18.135869,
+      "name": "Unnamed (node 2034899647)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899664,
+      "lat": -26.573171,
+      "lon": 18.130816,
+      "name": "Unnamed (node 2034899664)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899753,
+      "lat": -26.57332,
+      "lon": 18.128324,
+      "name": "Unnamed (node 2034899753)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2034899888,
+      "lat": -26.573921,
+      "lon": 18.135554,
+      "name": "Unnamed (node 2034899888)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2268420702,
+      "lat": -27.763644,
+      "lon": 24.792512,
+      "name": "Unnamed (node 2268420702)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2268420717,
+      "lat": -27.765986,
+      "lon": 24.791978,
+      "name": "Unnamed (node 2268420717)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2323461028,
+      "lat": -28.699922,
+      "lon": 20.966761,
+      "name": "Unnamed (node 2323461028)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2323461076,
+      "lat": -28.702147,
+      "lon": 20.966744,
+      "name": "Unnamed (node 2323461076)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2323461087,
+      "lat": -28.7026,
+      "lon": 20.966927,
+      "name": "Unnamed (node 2323461087)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2323461468,
+      "lat": -28.704581,
+      "lon": 20.968659,
+      "name": "Unnamed (node 2323461468)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2324958457,
+      "lat": -28.763067,
+      "lon": 20.609542,
+      "name": "Unnamed (node 2324958457)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2324958461,
+      "lat": -28.763356,
+      "lon": 20.609378,
+      "name": "Unnamed (node 2324958461)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2324958466,
+      "lat": -28.763843,
+      "lon": 20.609419,
+      "name": "Unnamed (node 2324958466)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2324958496,
+      "lat": -28.765297,
+      "lon": 20.612985,
+      "name": "Unnamed (node 2324958496)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2324958506,
+      "lat": -28.766475,
+      "lon": 20.612452,
+      "name": "Unnamed (node 2324958506)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2328459391,
+      "lat": -28.555312,
+      "lon": 21.14662,
+      "name": "Unnamed (node 2328459391)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2328459505,
+      "lat": -28.626997,
+      "lon": 21.079902,
+      "name": "Unnamed (node 2328459505)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355391,
+      "lat": -28.445141,
+      "lon": 21.211632,
+      "name": "Unnamed (node 2332355391)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355397,
+      "lat": -28.447108,
+      "lon": 21.214551,
+      "name": "Unnamed (node 2332355397)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355433,
+      "lat": -28.448575,
+      "lon": 21.217313,
+      "name": "Unnamed (node 2332355433)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355442,
+      "lat": -28.449673,
+      "lon": 21.219179,
+      "name": "Unnamed (node 2332355442)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355446,
+      "lat": -28.450043,
+      "lon": 21.219925,
+      "name": "Unnamed (node 2332355446)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355449,
+      "lat": -28.450053,
+      "lon": 21.219861,
+      "name": "Unnamed (node 2332355449)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355468,
+      "lat": -28.450535,
+      "lon": 21.220861,
+      "name": "Unnamed (node 2332355468)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355471,
+      "lat": -28.450558,
+      "lon": 21.220816,
+      "name": "Unnamed (node 2332355471)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355521,
+      "lat": -28.45101,
+      "lon": 21.221638,
+      "name": "Unnamed (node 2332355521)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355579,
+      "lat": -28.451497,
+      "lon": 21.243444,
+      "name": "Unnamed (node 2332355579)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355600,
+      "lat": -28.451722,
+      "lon": 21.222389,
+      "name": "Unnamed (node 2332355600)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332355990,
+      "lat": -28.453479,
+      "lon": 21.237685,
+      "name": "Unnamed (node 2332355990)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332356018,
+      "lat": -28.45372,
+      "lon": 21.232869,
+      "name": "Unnamed (node 2332356018)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332356084,
+      "lat": -28.453977,
+      "lon": 21.23251,
+      "name": "Unnamed (node 2332356084)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332356176,
+      "lat": -28.454263,
+      "lon": 21.232407,
+      "name": "Unnamed (node 2332356176)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332356467,
+      "lat": -28.455021,
+      "lon": 21.235671,
+      "name": "Unnamed (node 2332356467)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2332356598,
+      "lat": -28.455375,
+      "lon": 21.233505,
+      "name": "Unnamed (node 2332356598)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050002,
+      "lat": -28.427881,
+      "lon": 21.21685,
+      "name": "Unnamed (node 2333050002)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050025,
+      "lat": -28.438182,
+      "lon": 21.229796,
+      "name": "Unnamed (node 2333050025)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050033,
+      "lat": -28.438573,
+      "lon": 21.230355,
+      "name": "Unnamed (node 2333050033)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050039,
+      "lat": -28.43902,
+      "lon": 21.230685,
+      "name": "Unnamed (node 2333050039)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050040,
+      "lat": -28.43913,
+      "lon": 21.231495,
+      "name": "Unnamed (node 2333050040)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050044,
+      "lat": -28.43957,
+      "lon": 21.232132,
+      "name": "Unnamed (node 2333050044)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050046,
+      "lat": -28.439734,
+      "lon": 21.231761,
+      "name": "Unnamed (node 2333050046)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050060,
+      "lat": -28.441372,
+      "lon": 21.233894,
+      "name": "Unnamed (node 2333050060)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050069,
+      "lat": -28.442307,
+      "lon": 21.235633,
+      "name": "Unnamed (node 2333050069)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2333050072,
+      "lat": -28.442541,
+      "lon": 21.2354,
+      "name": "Unnamed (node 2333050072)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2359340920,
+      "lat": -28.708257,
+      "lon": 24.780638,
+      "name": "Unnamed (node 2359340920)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2453779319,
+      "lat": -26.593106,
+      "lon": 25.046369,
+      "name": "Unnamed (node 2453779319)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2453779335,
+      "lat": -26.596991,
+      "lon": 25.043895,
+      "name": "Unnamed (node 2453779335)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2453779370,
+      "lat": -26.604142,
+      "lon": 25.035855,
+      "name": "Unnamed (node 2453779370)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2453779371,
+      "lat": -26.604182,
+      "lon": 25.035874,
+      "name": "Unnamed (node 2453779371)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2711736900,
+      "lat": -27.383267,
+      "lon": 22.98915,
+      "name": "Unnamed (node 2711736900)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2711737012,
+      "lat": -27.759184,
+      "lon": 23.041565,
+      "name": "Unnamed (node 2711737012)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2711737039,
+      "lat": -27.76048,
+      "lon": 23.041628,
+      "name": "Unnamed (node 2711737039)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2714973467,
+      "lat": -28.324487,
+      "lon": 24.22516,
+      "name": "Unnamed (node 2714973467)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 2714973612,
+      "lat": -28.536855,
+      "lon": 24.532557,
+      "name": "Unnamed (node 2714973612)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3184335827,
+      "lat": -26.579566,
+      "lon": 15.611845,
+      "name": "Unnamed (node 3184335827)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3184807297,
+      "lat": -19.232562,
+      "lon": 17.708973,
+      "name": "Unnamed (node 3184807297)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3575063349,
+      "lat": -22.471803,
+      "lon": 15.046269,
+      "name": "Unnamed (node 3575063349)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3575063350,
+      "lat": -22.470033,
+      "lon": 15.045075,
+      "name": "Unnamed (node 3575063350)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358170121,
+      "lat": -28.443248,
+      "lon": 21.236584,
+      "name": "Unnamed (node 358170121)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358170238,
+      "lat": -28.451353,
+      "lon": 21.234354,
+      "name": "Unnamed (node 358170238)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358170872,
+      "lat": -28.441274,
+      "lon": 21.204573,
+      "name": "Unnamed (node 358170872)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358171613,
+      "lat": -28.45506,
+      "lon": 21.237966,
+      "name": "Unnamed (node 358171613)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358171625,
+      "lat": -28.455167,
+      "lon": 21.237932,
+      "name": "Unnamed (node 358171625)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358172724,
+      "lat": -28.456179,
+      "lon": 21.235999,
+      "name": "Unnamed (node 358172724)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 358173059,
+      "lat": -28.450489,
+      "lon": 21.219157,
+      "name": "Unnamed (node 358173059)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3661784307,
+      "lat": -22.435733,
+      "lon": 14.98457,
+      "name": "Unnamed (node 3661784307)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371232519,
+      "lat": -28.307374,
+      "lon": 23.048355,
+      "name": "Unnamed (node 371232519)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371232524,
+      "lat": -28.016457,
+      "lon": 23.112858,
+      "name": "Unnamed (node 371232524)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371232529,
+      "lat": -28.202521,
+      "lon": 23.547551,
+      "name": "Unnamed (node 371232529)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371233037,
+      "lat": -28.158776,
+      "lon": 23.102723,
+      "name": "Unnamed (node 371233037)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371233186,
+      "lat": -28.348045,
+      "lon": 23.572101,
+      "name": "Unnamed (node 371233186)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371233729,
+      "lat": -28.36139,
+      "lon": 23.514721,
+      "name": "Unnamed (node 371233729)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371234559,
+      "lat": -28.362063,
+      "lon": 23.503593,
+      "name": "Unnamed (node 371234559)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371234866,
+      "lat": -28.311289,
+      "lon": 23.049416,
+      "name": "Unnamed (node 371234866)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371235367,
+      "lat": -28.036111,
+      "lon": 23.0553,
+      "name": "Unnamed (node 371235367)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371235490,
+      "lat": -28.308707,
+      "lon": 23.047757,
+      "name": "Unnamed (node 371235490)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371235776,
+      "lat": -28.017333,
+      "lon": 23.112397,
+      "name": "Unnamed (node 371235776)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371235866,
+      "lat": -28.308722,
+      "lon": 23.050872,
+      "name": "Unnamed (node 371235866)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 371235881,
+      "lat": -28.017115,
+      "lon": 23.113374,
+      "name": "Unnamed (node 371235881)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3729184354,
+      "lat": -24.623915,
+      "lon": 17.963365,
+      "name": "Unnamed (node 3729184354)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3729548082,
+      "lat": -22.527587,
+      "lon": 17.079245,
+      "name": "Unnamed (node 3729548082)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3729548086,
+      "lat": -22.526611,
+      "lon": 17.07893,
+      "name": "Unnamed (node 3729548086)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3810615232,
+      "lat": -27.106722,
+      "lon": 22.857975,
+      "name": "Unnamed (node 3810615232)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3810618116,
+      "lat": -27.846129,
+      "lon": 22.976035,
+      "name": "Unnamed (node 3810618116)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3810618141,
+      "lat": -27.850397,
+      "lon": 22.968427,
+      "name": "Unnamed (node 3810618141)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3810618145,
+      "lat": -27.850823,
+      "lon": 22.967946,
+      "name": "Unnamed (node 3810618145)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811243076,
+      "lat": -28.305965,
+      "lon": 23.050405,
+      "name": "Unnamed (node 3811243076)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811243078,
+      "lat": -28.306052,
+      "lon": 23.050302,
+      "name": "Unnamed (node 3811243078)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811243094,
+      "lat": -28.307709,
+      "lon": 23.055449,
+      "name": "Unnamed (node 3811243094)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811243145,
+      "lat": -28.313412,
+      "lon": 23.067005,
+      "name": "Unnamed (node 3811243145)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811487312,
+      "lat": -28.353894,
+      "lon": 22.953087,
+      "name": "Unnamed (node 3811487312)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811487314,
+      "lat": -28.354025,
+      "lon": 22.952857,
+      "name": "Unnamed (node 3811487314)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811487482,
+      "lat": -28.384314,
+      "lon": 22.955337,
+      "name": "Unnamed (node 3811487482)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811557928,
+      "lat": -28.740239,
+      "lon": 21.997494,
+      "name": "Unnamed (node 3811557928)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811557972,
+      "lat": -28.749511,
+      "lon": 21.968021,
+      "name": "Unnamed (node 3811557972)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3811558022,
+      "lat": -28.948743,
+      "lon": 21.672609,
+      "name": "Unnamed (node 3811558022)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3814656507,
+      "lat": -27.216622,
+      "lon": 22.895347,
+      "name": "Unnamed (node 3814656507)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3815190882,
+      "lat": -28.292919,
+      "lon": 23.003635,
+      "name": "Unnamed (node 3815190882)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 3815190928,
+      "lat": -28.324742,
+      "lon": 24.209055,
+      "name": "Unnamed (node 3815190928)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 408947885,
+      "lat": -26.644987,
+      "lon": 15.156513,
+      "name": "Unnamed (node 408947885)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4142959750,
+      "lat": -28.307318,
+      "lon": 23.048954,
+      "name": "Unnamed (node 4142959750)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4142960480,
+      "lat": -28.312834,
+      "lon": 23.064252,
+      "name": "Unnamed (node 4142960480)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4142967111,
+      "lat": -28.309479,
+      "lon": 23.052383,
+      "name": "Unnamed (node 4142967111)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152597727,
+      "lat": -27.729378,
+      "lon": 23.012569,
+      "name": "Unnamed (node 4152597727)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152597733,
+      "lat": -27.730795,
+      "lon": 23.013718,
+      "name": "Unnamed (node 4152597733)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152597742,
+      "lat": -27.731629,
+      "lon": 23.014443,
+      "name": "Unnamed (node 4152597742)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152779980,
+      "lat": -27.727753,
+      "lon": 23.012583,
+      "name": "Unnamed (node 4152779980)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152779982,
+      "lat": -27.728468,
+      "lon": 23.013018,
+      "name": "Unnamed (node 4152779982)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4152800154,
+      "lat": -27.726753,
+      "lon": 23.009546,
+      "name": "Unnamed (node 4152800154)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4155943700,
+      "lat": -27.735005,
+      "lon": 23.013542,
+      "name": "Unnamed (node 4155943700)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4155943714,
+      "lat": -27.73451,
+      "lon": 23.017142,
+      "name": "Unnamed (node 4155943714)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172003634,
+      "lat": -22.936294,
+      "lon": 14.516354,
+      "name": "Unnamed (node 4172003634)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172003649,
+      "lat": -22.940287,
+      "lon": 14.513271,
+      "name": "Unnamed (node 4172003649)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172003651,
+      "lat": -22.940363,
+      "lon": 14.516275,
+      "name": "Unnamed (node 4172003651)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172003678,
+      "lat": -22.943468,
+      "lon": 14.509678,
+      "name": "Unnamed (node 4172003678)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004424,
+      "lat": -22.948441,
+      "lon": 14.504932,
+      "name": "Unnamed (node 4172004424)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004454,
+      "lat": -22.950157,
+      "lon": 14.501504,
+      "name": "Unnamed (node 4172004454)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004455,
+      "lat": -22.950243,
+      "lon": 14.500597,
+      "name": "Unnamed (node 4172004455)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004456,
+      "lat": -22.950278,
+      "lon": 14.500629,
+      "name": "Unnamed (node 4172004456)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004473,
+      "lat": -22.951894,
+      "lon": 14.502904,
+      "name": "Unnamed (node 4172004473)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004824,
+      "lat": -22.957213,
+      "lon": 14.495208,
+      "name": "Unnamed (node 4172004824)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004826,
+      "lat": -22.957217,
+      "lon": 14.495501,
+      "name": "Unnamed (node 4172004826)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4172004901,
+      "lat": -22.959548,
+      "lon": 14.493681,
+      "name": "Unnamed (node 4172004901)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4180456999,
+      "lat": -28.170617,
+      "lon": 22.614781,
+      "name": "Unnamed (node 4180456999)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4180457016,
+      "lat": -28.15086,
+      "lon": 22.636713,
+      "name": "Unnamed (node 4180457016)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4560682284,
+      "lat": -26.958034,
+      "lon": 24.754,
+      "name": "Unnamed (node 4560682284)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 4560682396,
+      "lat": -26.955445,
+      "lon": 24.752844,
+      "name": "Unnamed (node 4560682396)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5249727959,
+      "lat": -22.548692,
+      "lon": 17.079823,
+      "name": "Unnamed (node 5249727959)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5249729299,
+      "lat": -22.555005,
+      "lon": 17.082281,
+      "name": "Unnamed (node 5249729299)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5656423440,
+      "lat": -22.954946,
+      "lon": 14.493855,
+      "name": "Unnamed (node 5656423440)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5656423446,
+      "lat": -22.95682,
+      "lon": 14.49,
+      "name": "Unnamed (node 5656423446)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5656423458,
+      "lat": -22.950091,
+      "lon": 14.498432,
+      "name": "Unnamed (node 5656423458)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081296,
+      "lat": -26.644787,
+      "lon": 15.156212,
+      "name": "Unnamed (node 5863081296)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081297,
+      "lat": -26.644801,
+      "lon": 15.156251,
+      "name": "Unnamed (node 5863081297)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081339,
+      "lat": -26.638221,
+      "lon": 15.153829,
+      "name": "Unnamed (node 5863081339)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081345,
+      "lat": -26.642885,
+      "lon": 15.151623,
+      "name": "Unnamed (node 5863081345)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081346,
+      "lat": -26.64145,
+      "lon": 15.15161,
+      "name": "Unnamed (node 5863081346)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863081465,
+      "lat": -26.677513,
+      "lon": 15.168679,
+      "name": "Unnamed (node 5863081465)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 5863358115,
+      "lat": -26.664104,
+      "lon": 16.26094,
+      "name": "Unnamed (node 5863358115)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 588447111,
+      "lat": -22.496813,
+      "lon": 17.080751,
+      "name": "Unnamed (node 588447111)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6071815245,
+      "lat": -28.358445,
+      "lon": 24.296226,
+      "name": "Unnamed (node 6071815245)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6148551312,
+      "lat": -21.96587,
+      "lon": 16.902624,
+      "name": "Unnamed (node 6148551312)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6167325090,
+      "lat": -28.349287,
+      "lon": 23.570899,
+      "name": "Unnamed (node 6167325090)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6217174665,
+      "lat": -28.730272,
+      "lon": 24.770782,
+      "name": "Unnamed (node 6217174665)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6217174668,
+      "lat": -28.730662,
+      "lon": 24.770548,
+      "name": "Unnamed (node 6217174668)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6217174671,
+      "lat": -28.733021,
+      "lon": 24.770436,
+      "name": "Unnamed (node 6217174671)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6217176550,
+      "lat": -28.734074,
+      "lon": 24.769533,
+      "name": "Unnamed (node 6217176550)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6217176555,
+      "lat": -28.734064,
+      "lon": 24.769574,
+      "name": "Unnamed (node 6217176555)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430668823,
+      "lat": -28.782608,
+      "lon": 24.756137,
+      "name": "Unnamed (node 6430668823)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430668861,
+      "lat": -28.783478,
+      "lon": 24.754188,
+      "name": "Unnamed (node 6430668861)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430668881,
+      "lat": -28.776438,
+      "lon": 24.762376,
+      "name": "Unnamed (node 6430668881)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430966697,
+      "lat": -28.786612,
+      "lon": 24.742448,
+      "name": "Unnamed (node 6430966697)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430966761,
+      "lat": -28.786754,
+      "lon": 24.744326,
+      "name": "Unnamed (node 6430966761)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430966956,
+      "lat": -28.783975,
+      "lon": 24.748284,
+      "name": "Unnamed (node 6430966956)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430967100,
+      "lat": -28.775992,
+      "lon": 24.758914,
+      "name": "Unnamed (node 6430967100)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430967119,
+      "lat": -28.776412,
+      "lon": 24.756912,
+      "name": "Unnamed (node 6430967119)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430967158,
+      "lat": -28.777447,
+      "lon": 24.752758,
+      "name": "Unnamed (node 6430967158)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6430967228,
+      "lat": -28.776446,
+      "lon": 24.759524,
+      "name": "Unnamed (node 6430967228)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6860451581,
+      "lat": -28.360201,
+      "lon": 23.52524,
+      "name": "Unnamed (node 6860451581)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6860485536,
+      "lat": -28.361065,
+      "lon": 23.517549,
+      "name": "Unnamed (node 6860485536)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6860485556,
+      "lat": -28.360014,
+      "lon": 23.526542,
+      "name": "Unnamed (node 6860485556)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6860485557,
+      "lat": -28.359498,
+      "lon": 23.530762,
+      "name": "Unnamed (node 6860485557)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6860485593,
+      "lat": -28.362873,
+      "lon": 23.503614,
+      "name": "Unnamed (node 6860485593)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6872296800,
+      "lat": -28.116826,
+      "lon": 24.866967,
+      "name": "Unnamed (node 6872296800)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6872296950,
+      "lat": -28.117646,
+      "lon": 24.867659,
+      "name": "Unnamed (node 6872296950)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6872296954,
+      "lat": -28.118638,
+      "lon": 24.867343,
+      "name": "Unnamed (node 6872296954)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6872296973,
+      "lat": -28.120775,
+      "lon": 24.865549,
+      "name": "Unnamed (node 6872296973)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6918344656,
+      "lat": -26.602584,
+      "lon": 25.038954,
+      "name": "Unnamed (node 6918344656)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 6918344659,
+      "lat": -26.605091,
+      "lon": 25.036931,
+      "name": "Unnamed (node 6918344659)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7480447576,
+      "lat": -22.528795,
+      "lon": 17.078541,
+      "name": "Unnamed (node 7480447576)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7480447581,
+      "lat": -22.528783,
+      "lon": 17.078609,
+      "name": "Unnamed (node 7480447581)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7480515976,
+      "lat": -22.527626,
+      "lon": 17.078685,
+      "name": "Unnamed (node 7480515976)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7480515980,
+      "lat": -22.527632,
+      "lon": 17.078757,
+      "name": "Unnamed (node 7480515980)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7573561252,
+      "lat": -22.560956,
+      "lon": 17.080478,
+      "name": "Unnamed (node 7573561252)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7616916029,
+      "lat": -27.795611,
+      "lon": 23.04187,
+      "name": "Unnamed (node 7616916029)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7616916062,
+      "lat": -27.799291,
+      "lon": 23.046855,
+      "name": "Unnamed (node 7616916062)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363321,
+      "lat": -28.793149,
+      "lon": 24.721534,
+      "name": "Unnamed (node 7650363321)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363342,
+      "lat": -28.792582,
+      "lon": 24.72328,
+      "name": "Unnamed (node 7650363342)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363352,
+      "lat": -28.778232,
+      "lon": 24.755227,
+      "name": "Unnamed (node 7650363352)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363371,
+      "lat": -28.777176,
+      "lon": 24.760212,
+      "name": "Unnamed (node 7650363371)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363372,
+      "lat": -28.778164,
+      "lon": 24.758705,
+      "name": "Unnamed (node 7650363372)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363389,
+      "lat": -28.77789,
+      "lon": 24.757024,
+      "name": "Unnamed (node 7650363389)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363393,
+      "lat": -28.776847,
+      "lon": 24.758483,
+      "name": "Unnamed (node 7650363393)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363406,
+      "lat": -28.776487,
+      "lon": 24.759231,
+      "name": "Unnamed (node 7650363406)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363447,
+      "lat": -28.780037,
+      "lon": 24.754973,
+      "name": "Unnamed (node 7650363447)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363457,
+      "lat": -28.778752,
+      "lon": 24.757585,
+      "name": "Unnamed (node 7650363457)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363505,
+      "lat": -28.783271,
+      "lon": 24.751588,
+      "name": "Unnamed (node 7650363505)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363521,
+      "lat": -28.783957,
+      "lon": 24.748916,
+      "name": "Unnamed (node 7650363521)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363529,
+      "lat": -28.782053,
+      "lon": 24.756801,
+      "name": "Unnamed (node 7650363529)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363589,
+      "lat": -28.77032,
+      "lon": 24.769869,
+      "name": "Unnamed (node 7650363589)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363590,
+      "lat": -28.770369,
+      "lon": 24.76989,
+      "name": "Unnamed (node 7650363590)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363628,
+      "lat": -28.770971,
+      "lon": 24.766774,
+      "name": "Unnamed (node 7650363628)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363629,
+      "lat": -28.770871,
+      "lon": 24.766425,
+      "name": "Unnamed (node 7650363629)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650363639,
+      "lat": -28.771535,
+      "lon": 24.765958,
+      "name": "Unnamed (node 7650363639)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364226,
+      "lat": -28.763696,
+      "lon": 24.77962,
+      "name": "Unnamed (node 7650364226)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364229,
+      "lat": -28.765756,
+      "lon": 24.777091,
+      "name": "Unnamed (node 7650364229)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364312,
+      "lat": -28.763798,
+      "lon": 24.769508,
+      "name": "Unnamed (node 7650364312)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364314,
+      "lat": -28.763031,
+      "lon": 24.770057,
+      "name": "Unnamed (node 7650364314)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364315,
+      "lat": -28.766556,
+      "lon": 24.766298,
+      "name": "Unnamed (node 7650364315)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364316,
+      "lat": -28.766881,
+      "lon": 24.766044,
+      "name": "Unnamed (node 7650364316)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364317,
+      "lat": -28.764237,
+      "lon": 24.768968,
+      "name": "Unnamed (node 7650364317)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364318,
+      "lat": -28.763624,
+      "lon": 24.774486,
+      "name": "Unnamed (node 7650364318)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364319,
+      "lat": -28.763872,
+      "lon": 24.774943,
+      "name": "Unnamed (node 7650364319)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364320,
+      "lat": -28.763403,
+      "lon": 24.775539,
+      "name": "Unnamed (node 7650364320)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364357,
+      "lat": -28.774398,
+      "lon": 24.764912,
+      "name": "Unnamed (node 7650364357)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364358,
+      "lat": -28.77375,
+      "lon": 24.765852,
+      "name": "Unnamed (node 7650364358)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364359,
+      "lat": -28.773545,
+      "lon": 24.766063,
+      "name": "Unnamed (node 7650364359)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364480,
+      "lat": -28.73384,
+      "lon": 24.770898,
+      "name": "Unnamed (node 7650364480)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364481,
+      "lat": -28.731612,
+      "lon": 24.770284,
+      "name": "Unnamed (node 7650364481)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364482,
+      "lat": -28.731591,
+      "lon": 24.770244,
+      "name": "Unnamed (node 7650364482)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364486,
+      "lat": -28.730276,
+      "lon": 24.770525,
+      "name": "Unnamed (node 7650364486)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364487,
+      "lat": -28.730283,
+      "lon": 24.770569,
+      "name": "Unnamed (node 7650364487)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364547,
+      "lat": -28.767714,
+      "lon": 24.774152,
+      "name": "Unnamed (node 7650364547)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364553,
+      "lat": -28.783244,
+      "lon": 24.751405,
+      "name": "Unnamed (node 7650364553)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364555,
+      "lat": -28.783279,
+      "lon": 24.751444,
+      "name": "Unnamed (node 7650364555)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364559,
+      "lat": -28.78498,
+      "lon": 24.746929,
+      "name": "Unnamed (node 7650364559)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364563,
+      "lat": -28.785301,
+      "lon": 24.746028,
+      "name": "Unnamed (node 7650364563)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364584,
+      "lat": -28.786259,
+      "lon": 24.744328,
+      "name": "Unnamed (node 7650364584)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650364586,
+      "lat": -28.78635,
+      "lon": 24.743971,
+      "name": "Unnamed (node 7650364586)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650396006,
+      "lat": -28.784737,
+      "lon": 24.750799,
+      "name": "Unnamed (node 7650396006)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7650441439,
+      "lat": -28.699631,
+      "lon": 24.784188,
+      "name": "Unnamed (node 7650441439)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657529533,
+      "lat": -28.76745,
+      "lon": 24.770844,
+      "name": "Unnamed (node 7657529533)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657529534,
+      "lat": -28.767383,
+      "lon": 24.770706,
+      "name": "Unnamed (node 7657529534)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657555564,
+      "lat": -28.769505,
+      "lon": 24.771294,
+      "name": "Unnamed (node 7657555564)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657555570,
+      "lat": -28.769494,
+      "lon": 24.771192,
+      "name": "Unnamed (node 7657555570)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657555985,
+      "lat": -28.730987,
+      "lon": 24.771526,
+      "name": "Unnamed (node 7657555985)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657556012,
+      "lat": -28.736593,
+      "lon": 24.770198,
+      "name": "Unnamed (node 7657556012)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657556161,
+      "lat": -28.693432,
+      "lon": 24.776347,
+      "name": "Unnamed (node 7657556161)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657556319,
+      "lat": -28.730149,
+      "lon": 24.769457,
+      "name": "Unnamed (node 7657556319)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657556582,
+      "lat": -28.768297,
+      "lon": 24.774494,
+      "name": "Unnamed (node 7657556582)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657556625,
+      "lat": -28.776617,
+      "lon": 24.762193,
+      "name": "Unnamed (node 7657556625)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657557178,
+      "lat": -28.773259,
+      "lon": 24.765667,
+      "name": "Unnamed (node 7657557178)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657557193,
+      "lat": -28.774217,
+      "lon": 24.765325,
+      "name": "Unnamed (node 7657557193)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7657557378,
+      "lat": -28.767731,
+      "lon": 24.773908,
+      "name": "Unnamed (node 7657557378)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660703753,
+      "lat": -28.768268,
+      "lon": 24.771351,
+      "name": "Unnamed (node 7660703753)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660703841,
+      "lat": -28.768483,
+      "lon": 24.769177,
+      "name": "Unnamed (node 7660703841)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660703889,
+      "lat": -28.768102,
+      "lon": 24.770221,
+      "name": "Unnamed (node 7660703889)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660703986,
+      "lat": -28.768313,
+      "lon": 24.767673,
+      "name": "Unnamed (node 7660703986)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704010,
+      "lat": -28.765153,
+      "lon": 24.773959,
+      "name": "Unnamed (node 7660704010)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704024,
+      "lat": -28.764183,
+      "lon": 24.776189,
+      "name": "Unnamed (node 7660704024)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704051,
+      "lat": -28.762506,
+      "lon": 24.777391,
+      "name": "Unnamed (node 7660704051)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704052,
+      "lat": -28.764173,
+      "lon": 24.776059,
+      "name": "Unnamed (node 7660704052)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704078,
+      "lat": -28.763887,
+      "lon": 24.777242,
+      "name": "Unnamed (node 7660704078)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7660704106,
+      "lat": -28.762379,
+      "lon": 24.775621,
+      "name": "Unnamed (node 7660704106)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 7662281309,
+      "lat": -28.764432,
+      "lon": 24.770974,
+      "name": "Unnamed (node 7662281309)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 832615454,
+      "lat": -22.587873,
+      "lon": 17.081257,
+      "name": "Unnamed (node 832615454)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 832618427,
+      "lat": -22.581513,
+      "lon": 17.079948,
+      "name": "Unnamed (node 832618427)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 8355669992,
+      "lat": -22.673415,
+      "lon": 14.533772,
+      "name": "Unnamed (node 8355669992)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 8722435317,
+      "lat": -28.27981,
+      "lon": 23.33672,
+      "name": "Unnamed (node 8722435317)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9079932806,
+      "lat": -28.452682,
+      "lon": 21.230949,
+      "name": "Unnamed (node 9079932806)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9081189506,
+      "lat": -28.746318,
+      "lon": 20.820834,
+      "name": "Unnamed (node 9081189506)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9097956045,
+      "lat": -28.536731,
+      "lon": 24.533121,
+      "name": "Unnamed (node 9097956045)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9097956081,
+      "lat": -28.535393,
+      "lon": 24.527485,
+      "name": "Unnamed (node 9097956081)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9469292778,
+      "lat": -22.52938,
+      "lon": 17.078531,
+      "name": "Unnamed (node 9469292778)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9545908480,
+      "lat": -27.38358,
+      "lon": 22.989285,
+      "name": "Unnamed (node 9545908480)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9556975502,
+      "lat": -28.761805,
+      "lon": 24.784163,
+      "name": "Unnamed (node 9556975502)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9708163095,
+      "lat": -26.966034,
+      "lon": 24.76041,
+      "name": "Unnamed (node 9708163095)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9708163096,
+      "lat": -26.966048,
+      "lon": 24.760457,
+      "name": "Unnamed (node 9708163096)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712890177,
+      "lat": -28.503976,
+      "lon": 24.778858,
+      "name": "Unnamed (node 9712890177)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712890207,
+      "lat": -28.494635,
+      "lon": 24.781806,
+      "name": "Unnamed (node 9712890207)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712915626,
+      "lat": -28.343232,
+      "lon": 24.822055,
+      "name": "Unnamed (node 9712915626)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712915971,
+      "lat": -28.352021,
+      "lon": 24.820592,
+      "name": "Unnamed (node 9712915971)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712915980,
+      "lat": -28.350879,
+      "lon": 24.820857,
+      "name": "Unnamed (node 9712915980)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712916355,
+      "lat": -28.126922,
+      "lon": 24.861868,
+      "name": "Unnamed (node 9712916355)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712916505,
+      "lat": -28.116652,
+      "lon": 24.870576,
+      "name": "Unnamed (node 9712916505)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9712916737,
+      "lat": -28.110491,
+      "lon": 24.873473,
+      "name": "Unnamed (node 9712916737)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9713037446,
+      "lat": -28.118707,
+      "lon": 24.865717,
+      "name": "Unnamed (node 9713037446)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9713037484,
+      "lat": -28.114413,
+      "lon": 24.868351,
+      "name": "Unnamed (node 9713037484)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9717579152,
+      "lat": -27.900805,
+      "lon": 25.165768,
+      "name": "Unnamed (node 9717579152)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9717579160,
+      "lat": -27.897171,
+      "lon": 25.1747,
+      "name": "Unnamed (node 9717579160)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9723767414,
+      "lat": -28.036083,
+      "lon": 23.055092,
+      "name": "Unnamed (node 9723767414)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9723767415,
+      "lat": -28.035462,
+      "lon": 23.055827,
+      "name": "Unnamed (node 9723767415)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9723767500,
+      "lat": -28.040644,
+      "lon": 23.051964,
+      "name": "Unnamed (node 9723767500)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652451,
+      "lat": -28.360019,
+      "lon": 23.51126,
+      "name": "Unnamed (node 9727652451)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652467,
+      "lat": -28.360365,
+      "lon": 23.517299,
+      "name": "Unnamed (node 9727652467)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652472,
+      "lat": -28.359957,
+      "lon": 23.519445,
+      "name": "Unnamed (node 9727652472)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652507,
+      "lat": -28.344348,
+      "lon": 23.584387,
+      "name": "Unnamed (node 9727652507)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652541,
+      "lat": -28.208128,
+      "lon": 23.549054,
+      "name": "Unnamed (node 9727652541)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9727652584,
+      "lat": -28.214648,
+      "lon": 23.551955,
+      "name": "Unnamed (node 9727652584)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712174,
+      "lat": -28.23767,
+      "lon": 24.031734,
+      "name": "Unnamed (node 9728712174)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712298,
+      "lat": -28.352979,
+      "lon": 24.28616,
+      "name": "Unnamed (node 9728712298)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712346,
+      "lat": -28.354512,
+      "lon": 24.288438,
+      "name": "Unnamed (node 9728712346)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712393,
+      "lat": -28.323869,
+      "lon": 24.215974,
+      "name": "Unnamed (node 9728712393)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712413,
+      "lat": -28.326853,
+      "lon": 24.209063,
+      "name": "Unnamed (node 9728712413)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712456,
+      "lat": -28.324999,
+      "lon": 24.210413,
+      "name": "Unnamed (node 9728712456)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712458,
+      "lat": -28.324858,
+      "lon": 24.211267,
+      "name": "Unnamed (node 9728712458)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712733,
+      "lat": -28.43493,
+      "lon": 24.370043,
+      "name": "Unnamed (node 9728712733)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9728712735,
+      "lat": -28.438969,
+      "lon": 24.376779,
+      "name": "Unnamed (node 9728712735)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9729888130,
+      "lat": -28.311887,
+      "lon": 23.063004,
+      "name": "Unnamed (node 9729888130)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9731615734,
+      "lat": -28.301929,
+      "lon": 23.035469,
+      "name": "Unnamed (node 9731615734)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9731619455,
+      "lat": -28.305765,
+      "lon": 23.044755,
+      "name": "Unnamed (node 9731619455)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9733654912,
+      "lat": -28.705252,
+      "lon": 20.96953,
+      "name": "Unnamed (node 9733654912)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 9733707750,
+      "lat": -28.44575,
+      "lon": 21.212056,
+      "name": "Unnamed (node 9733707750)",
+      "type": "buffer_stop",
+      "country": "NA"
+    },
+    {
+      "id": 117985282,
+      "lat": -22.559481,
+      "lon": 17.081262,
+      "name": "Unnamed (way 117985282)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 117985291,
+      "lat": -22.559121,
+      "lon": 17.081326,
+      "name": "Unnamed (way 117985291)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1181330860,
+      "lat": -21.695406,
+      "lon": 21.649335,
+      "name": "Unnamed (way 1181330860)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1335568739,
+      "lat": -21.970725,
+      "lon": 15.778437,
+      "name": "Unnamed (way 1335568739)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1353656328,
+      "lat": -22.473492,
+      "lon": 15.055074,
+      "name": "Unnamed (way 1353656328)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1357691405,
+      "lat": -21.970587,
+      "lon": 15.77857,
+      "name": "Unnamed (way 1357691405)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 183330709,
+      "lat": -20.461893,
+      "lon": 16.638968,
+      "name": "Unnamed (way 183330709)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 372691493,
+      "lat": -28.01548,
+      "lon": 23.107355,
+      "name": "Unnamed (way 372691493)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 413155085,
+      "lat": -26.593423,
+      "lon": 16.00965,
+      "name": "Unnamed (way 413155085)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 413350667,
+      "lat": -26.72204,
+      "lon": 15.29175,
+      "name": "Unnamed (way 413350667)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 422311546,
+      "lat": -22.95392,
+      "lon": 14.501266,
+      "name": "Unnamed (way 422311546)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 423692536,
+      "lat": -22.677937,
+      "lon": 14.531644,
+      "name": "Unnamed (way 423692536)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 443617593,
+      "lat": -26.695884,
+      "lon": 15.240336,
+      "name": "Unnamed (way 443617593)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 448852604,
+      "lat": -22.000264,
+      "lon": 15.588108,
+      "name": "Unnamed (way 448852604)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 531190227,
+      "lat": -17.475562,
+      "lon": 16.334142,
+      "name": "Unnamed (way 531190227)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 531191203,
+      "lat": -17.481137,
+      "lon": 16.332743,
+      "name": "Unnamed (way 531191203)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 533192957,
+      "lat": -17.068293,
+      "lon": 15.730068,
+      "name": "Unnamed (way 533192957)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 533192959,
+      "lat": -17.068263,
+      "lon": 15.730197,
+      "name": "Unnamed (way 533192959)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 538709257,
+      "lat": -26.750439,
+      "lon": 17.225257,
+      "name": "Unnamed (way 538709257)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 569090910,
+      "lat": -22.44836,
+      "lon": 18.972457,
+      "name": "Unnamed (way 569090910)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 569090917,
+      "lat": -22.447965,
+      "lon": 18.972236,
+      "name": "Unnamed (way 569090917)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 590488228,
+      "lat": -17.396788,
+      "lon": 15.879305,
+      "name": "Unnamed (way 590488228)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 625362810,
+      "lat": -19.56891,
+      "lon": 18.095016,
+      "name": "Unnamed (way 625362810)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 820438668,
+      "lat": -28.779135,
+      "lon": 24.755596,
+      "name": "Unnamed (way 820438668)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 863632145,
+      "lat": -17.90067,
+      "lon": 15.968988,
+      "name": "Unnamed (way 863632145)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 92166221,
+      "lat": -23.312667,
+      "lon": 17.187063,
+      "name": "Unnamed (way 92166221)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 965881464,
+      "lat": -22.670989,
+      "lon": 14.540511,
+      "name": "Unnamed (way 965881464)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 98503848,
+      "lat": -19.641114,
+      "lon": 17.33954,
+      "name": "Unnamed (way 98503848)",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328017,
+      "lat": -28.452862,
+      "lon": 21.239492,
+      "name": "Upington",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1371280823,
+      "lat": -22.000419,
+      "lon": 15.588196,
+      "name": "Usakos",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328021,
+      "lat": -28.070173,
+      "lon": 24.884392,
+      "name": "Veertien Strome",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328024,
+      "lat": -27.488438,
+      "lon": 22.956808,
+      "name": "Vlermuislaagte",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 7600233834,
+      "lat": -20.166096,
+      "lon": 16.256719,
+      "name": "Vrindskap",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247328025,
+      "lat": -28.153103,
+      "lon": 22.634589,
+      "name": "Vrolik",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247647105,
+      "lat": -26.957391,
+      "lon": 24.748182,
+      "name": "Vryburg",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 168965034,
+      "lat": -22.953828,
+      "lon": 14.501029,
+      "name": "Walvis Bay",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327990,
+      "lat": -28.753363,
+      "lon": 20.77399,
+      "name": "Warmsand",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327989,
+      "lat": -28.115617,
+      "lon": 24.867552,
+      "name": "Warrenton",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327992,
+      "lat": -28.522814,
+      "lon": 24.585775,
+      "name": "Weir",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 5344183424,
+      "lat": -20.22472,
+      "lon": 13.899468,
+      "name": "Wereldsend Research Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327995,
+      "lat": -27.580315,
+      "lon": 22.940172,
+      "name": "Wincanton",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 10051082015,
+      "lat": -22.559477,
+      "lon": 17.081248,
+      "name": "Windhoek",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 359832848,
+      "lat": -22.563801,
+      "lon": 17.080442,
+      "name": "Windhoek Central Bus Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 1388590239,
+      "lat": -28.326745,
+      "lon": 24.710835,
+      "name": "Windsorton Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247327998,
+      "lat": -28.347494,
+      "lon": 24.821204,
+      "name": "Windsorton Road",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247647047,
+      "lat": -26.505155,
+      "lon": 25.12195,
+      "name": "Wirsing",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 8805763120,
+      "lat": -26.955895,
+      "lon": 20.706546,
+      "name": "Witdraai Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 247328000,
+      "lat": -27.300392,
+      "lon": 22.981732,
+      "name": "Witloop",
+      "type": "halt",
+      "country": "NA"
+    },
+    {
+      "id": 247327999,
+      "lat": -28.486549,
+      "lon": 22.291015,
+      "name": "Witpan",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 2034540128,
+      "lat": -22.408755,
+      "lon": 18.498616,
+      "name": "Witvlei",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 3932317828,
+      "lat": -22.407309,
+      "lon": 18.496751,
+      "name": "Witvlei Police Station",
+      "type": "station",
+      "country": "NA"
+    },
+    {
+      "id": 6154184873,
+      "lat": -28.015236,
+      "lon": 18.906368,
+      "name": "Wolplaas",
+      "type": "halt",
+      "country": "NA"
+    }
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "country": "RW",
+  "name": "Rwanda",
+  "region": "East Africa",
+  "bbox": [
+    -2.84,
+    28.86,
+    -1.05,
+    30.9
+  ],
+  "extracted": "2026-03-03T12:19:43.352Z",
+  "count": 110,
+  "stations": [
+    {
+      "id": 6766509442,
+      "lat": -1.170648,
+      "lon": 29.587237,
+      "name": "Baj fuel station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10983849805,
+      "lat": -1.691171,
+      "lon": 29.25634,
+      "name": "Big Busstation (to different destinations: Karongi, Kigali, ...)",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9108162708,
+      "lat": -2.706507,
+      "lon": 29.966486,
+      "name": "Bihangare",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8273456333,
+      "lat": -1.193543,
+      "lon": 29.729882,
+      "name": "Bukimbiri Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5567257263,
+      "lat": -1.961878,
+      "lon": 30.134862,
+      "name": "Bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5293398521,
+      "lat": -1.961486,
+      "lon": 30.351431,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8274132292,
+      "lat": -1.260468,
+      "lon": 29.707608,
+      "name": "Chuho Pumping Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10569734309,
+      "lat": -2.287748,
+      "lon": 29.221027,
+      "name": "Cotecaga Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5297562023,
+      "lat": -2.332665,
+      "lon": 29.135745,
+      "name": "Delta Petrol / Gas Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 435643366,
+      "lat": -2.076784,
+      "lon": 29.32414,
+      "name": "electrical transforming station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3743191234,
+      "lat": -1.282315,
+      "lon": 29.696997,
+      "name": "Friendly Service Petrol Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9902217966,
+      "lat": -1.681194,
+      "lon": 29.234835,
+      "name": "Gare routière de goma",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4685321089,
+      "lat": -2.473094,
+      "lon": 29.581519,
+      "name": "Gare Routière de Nyamagabe",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10989137764,
+      "lat": -1.935578,
+      "lon": 30.057256,
+      "name": "Gas Oil Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6766509421,
+      "lat": -1.29422,
+      "lon": 29.603783,
+      "name": "Gas-Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10542424409,
+      "lat": -2.310097,
+      "lon": 29.226807,
+      "name": "Gasharu Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10831532265,
+      "lat": -1.576079,
+      "lon": 30.068,
+      "name": "Gicumbi Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3928444039,
+      "lat": -2.440586,
+      "lon": 29.092278,
+      "name": "Gisakura Ranger Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10235475411,
+      "lat": -1.650311,
+      "lon": 29.190211,
+      "name": "Global business Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10852912521,
+      "lat": -2.590547,
+      "lon": 29.743216,
+      "name": "Huye bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4297564589,
+      "lat": -2.590606,
+      "lon": 29.743519,
+      "name": "Huye/Butare Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 1567037436,
+      "lat": -2.140196,
+      "lon": 30.083615,
+      "name": "IPS Gas Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 12124305801,
+      "lat": -1.257967,
+      "lon": 29.990103,
+      "name": "Kabale Central Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 2344463101,
+      "lat": -1.257375,
+      "lon": 29.989739,
+      "name": "Kabale Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10629457398,
+      "lat": -1.743443,
+      "lon": 29.542613,
+      "name": "Kabaya Petroleum Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 573023280,
+      "lat": -1.979063,
+      "lon": 30.223207,
+      "name": "Kabuga Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 410338287,
+      "lat": -1.936604,
+      "lon": 30.081259,
+      "name": "Kacyiru Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10543429509,
+      "lat": -2.315275,
+      "lon": 29.250513,
+      "name": "Karambi Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6624475287,
+      "lat": -2.072898,
+      "lon": 29.350496,
+      "name": "Karongi Bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3212675447,
+      "lat": -1.69888,
+      "lon": 29.342334,
+      "name": "Kiaka Busstation",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 1765569808,
+      "lat": -1.568762,
+      "lon": 29.278478,
+      "name": "Kibati ranger station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6212388568,
+      "lat": -1.943471,
+      "lon": 30.057279,
+      "name": "Kigali CBD Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 143205338,
+      "lat": -1.949628,
+      "lon": 30.125545,
+      "name": "Kimironko Taxi Park",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 11002856173,
+      "lat": -1.952359,
+      "lon": 30.051717,
+      "name": "Kimisagara Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6766509466,
+      "lat": -1.294087,
+      "lon": 29.60039,
+      "name": "Kindly Petro Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8341600921,
+      "lat": -1.282329,
+      "lon": 29.697306,
+      "name": "Kindly Service Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8341600941,
+      "lat": -1.288672,
+      "lon": 29.686279,
+      "name": "Kindly Service station Rusiza",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5817592451,
+      "lat": -1.904939,
+      "lon": 29.277816,
+      "name": "Kinunu Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 573033949,
+      "lat": -1.913369,
+      "lon": 30.109509,
+      "name": "Kinyinya Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10822299050,
+      "lat": -1.964272,
+      "lon": 30.119877,
+      "name": "Ku Magare",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5478168613,
+      "lat": -1.963964,
+      "lon": 30.078729,
+      "name": "Kuri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5504975597,
+      "lat": -1.964715,
+      "lon": 30.080154,
+      "name": "Kuri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10815936706,
+      "lat": -1.96529,
+      "lon": 30.080508,
+      "name": "Kuri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 11387215398,
+      "lat": -1.95963,
+      "lon": 30.009977,
+      "name": "Kuri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 11387234901,
+      "lat": -1.959343,
+      "lon": 30.009679,
+      "name": "Kuri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5456792297,
+      "lat": -1.956001,
+      "lon": 30.053445,
+      "name": "Kuri station ya SP",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5350937423,
+      "lat": -1.24801,
+      "lon": 29.980931,
+      "name": "Kyamp’s Petrol Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10946648761,
+      "lat": -1.968785,
+      "lon": 30.099764,
+      "name": "Lake Petro station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4345537949,
+      "lat": -1.961684,
+      "lon": 30.111629,
+      "name": "Mount Meru Petro Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3212695198,
+      "lat": -1.614302,
+      "lon": 29.504161,
+      "name": "Mukamira Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10569734609,
+      "lat": -2.279599,
+      "lon": 29.176375,
+      "name": "Muraho Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 625319614,
+      "lat": -1.511649,
+      "lon": 29.641722,
+      "name": "Musanze Bus Park",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 11147289235,
+      "lat": -1.663887,
+      "lon": 29.229986,
+      "name": "Mutinga Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8273456348,
+      "lat": -1.263313,
+      "lon": 29.722483,
+      "name": "Mutolere Police station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5362599323,
+      "lat": -2.511921,
+      "lon": 30.654873,
+      "name": "Ngara bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8634918320,
+      "lat": -2.506655,
+      "lon": 30.658452,
+      "name": "Ngara District Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10092491218,
+      "lat": -2.512467,
+      "lon": 30.654322,
+      "name": "Ngara town bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 566941573,
+      "lat": -1.853557,
+      "lon": 29.632558,
+      "name": "Ngororero",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 253125007,
+      "lat": -1.940913,
+      "lon": 30.044749,
+      "name": "Nyabugogo Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6263685818,
+      "lat": -2.275941,
+      "lon": 30.674183,
+      "name": "Nyakarambi Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3920281196,
+      "lat": -1.28214,
+      "lon": 29.695736,
+      "name": "Nyamagana B. Petrol Service Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8341574214,
+      "lat": -1.282063,
+      "lon": 29.695878,
+      "name": "Nyamagana Petrol Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5891239585,
+      "lat": -2.341479,
+      "lon": 29.768842,
+      "name": "Nyanza Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6316524785,
+      "lat": -2.352858,
+      "lon": 29.75147,
+      "name": "Nyanza Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 570870729,
+      "lat": -2.00104,
+      "lon": 30.091304,
+      "name": "Nyanza Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10575946841,
+      "lat": -2.36096,
+      "lon": 29.135928,
+      "name": "Nyungwe High Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 13229855350,
+      "lat": -2.02617,
+      "lon": 30.339282,
+      "name": "Nzige Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 13229884227,
+      "lat": -2.026117,
+      "lon": 30.340685,
+      "name": "Nzige RIB Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10946648762,
+      "lat": -1.968757,
+      "lon": 30.099927,
+      "name": "ORYX Petro station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5333938427,
+      "lat": -1.198389,
+      "lon": 29.92893,
+      "name": "Petrol station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6361961548,
+      "lat": -1.497231,
+      "lon": 29.6297,
+      "name": "police station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6267679685,
+      "lat": -1.538717,
+      "lon": 29.561386,
+      "name": "Police Station Busogo",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6918845186,
+      "lat": -1.953465,
+      "lon": 30.15295,
+      "name": "Police Station Checkins",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10924395881,
+      "lat": -1.986099,
+      "lon": 30.131341,
+      "name": "RAB RUBIRIZI Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 177858383,
+      "lat": -1.958727,
+      "lon": 30.118933,
+      "name": "Remera Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9500280628,
+      "lat": -1.130053,
+      "lon": 29.679811,
+      "name": "Rubuguri petrol station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 11385596486,
+      "lat": -1.88979,
+      "lon": 30.088622,
+      "name": "Rufigiza station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10540112509,
+      "lat": -1.878645,
+      "lon": 29.296188,
+      "name": "Rugamba Coffee Washing Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5891239885,
+      "lat": -2.232609,
+      "lon": 29.786714,
+      "name": "Ruhango Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 2444210304,
+      "lat": -1.798534,
+      "lon": 30.505133,
+      "name": "Rukara's Sector Police Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3182512554,
+      "lat": -2.488348,
+      "lon": 28.918309,
+      "name": "Rusizi Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5890121585,
+      "lat": -2.487977,
+      "lon": 28.918005,
+      "name": "Rusizi Bus Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 281375278,
+      "lat": -1.967696,
+      "lon": 29.985431,
+      "name": "Ruyenzi Station Service",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8341566423,
+      "lat": -1.143218,
+      "lon": 29.631696,
+      "name": "Ryakabagare water point",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10852971091,
+      "lat": -2.534057,
+      "lon": 29.761363,
+      "name": "Save bus station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10822299077,
+      "lat": -1.970799,
+      "lon": 30.12502,
+      "name": "Sp Gas station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 10763884813,
+      "lat": -1.952692,
+      "lon": 30.073686,
+      "name": "SP Gas Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 13206791377,
+      "lat": -1.604799,
+      "lon": 30.080026,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8341600954,
+      "lat": -1.282538,
+      "lon": 29.694969,
+      "name": "Stabex petro station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5488094474,
+      "lat": -1.930085,
+      "lon": 30.064948,
+      "name": "Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9211544617,
+      "lat": -1.660677,
+      "lon": 29.202528,
+      "name": "Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4733482171,
+      "lat": -2.58736,
+      "lon": 30.091858,
+      "name": "station carburant",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5811621876,
+      "lat": -1.684362,
+      "lon": 29.235007,
+      "name": "Station de l'unité",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 12512080051,
+      "lat": -2.503024,
+      "lon": 28.869194,
+      "name": "Station ENGEN",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 12511849837,
+      "lat": -2.503083,
+      "lon": 28.865142,
+      "name": "Station Maman Radio",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4939800982,
+      "lat": -1.498049,
+      "lon": 29.629881,
+      "name": "Station Merez",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 4439962090,
+      "lat": -1.644998,
+      "lon": 29.183778,
+      "name": "Station Modee",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5236108222,
+      "lat": -1.663794,
+      "lon": 29.182149,
+      "name": "Station Moisson Congo",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 5241163522,
+      "lat": -1.667327,
+      "lon": 29.209744,
+      "name": "Station NiYetu",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8237886760,
+      "lat": -1.674691,
+      "lon": 29.218734,
+      "name": "Station service Cobil",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8240848397,
+      "lat": -1.655978,
+      "lon": 29.197139,
+      "name": "Station service la Comète",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 7005781703,
+      "lat": -2.502533,
+      "lon": 30.650896,
+      "name": "Stationry",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9822494742,
+      "lat": -1.271146,
+      "lon": 29.988197,
+      "name": "Triple 's' stationers",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 9822504053,
+      "lat": -1.271178,
+      "lon": 29.988246,
+      "name": "Tripple's Stationers",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8273456340,
+      "lat": -1.27842,
+      "lon": 29.741682,
+      "name": "Uganda Police, Nyakabande Sub-Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 8273456325,
+      "lat": -1.128333,
+      "lon": 29.680815,
+      "name": "Uganda police, Rubuguri Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 6643406640,
+      "lat": -1.145492,
+      "lon": 29.857175,
+      "name": "Universe Gas Station",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 1254867618,
+      "lat": -1.575675,
+      "lon": 30.067839,
+      "name": "Unnamed (way 1254867618)",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 3932009580,
+      "lat": -1.117758,
+      "lon": 29.709688,
+      "name": "UWA Ranger Station Rushaga",
+      "type": "station",
+      "country": "RW"
+    },
+    {
+      "id": 572119723,
+      "lat": -1.92863,
+      "lon": 30.137733,
+      "name": "Zindiro",
+      "type": "station",
+      "country": "RW"
+    }
+  ]
+}

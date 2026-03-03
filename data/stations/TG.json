@@ -1,0 +1,2007 @@
+{
+  "country": "TG",
+  "name": "Togo",
+  "region": "West Africa",
+  "bbox": [
+    6.11,
+    -0.15,
+    11.14,
+    1.81
+  ],
+  "extracted": "2026-03-03T12:39:15.407Z",
+  "count": 249,
+  "stations": [
+    {
+      "id": 7566452087,
+      "lat": 6.296159,
+      "lon": 0.546517,
+      "name": "Adaklu Police station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8791863125,
+      "lat": 8.322628,
+      "lon": 0.97811,
+      "name": "Affaire sociale de Blitta Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3188482429,
+      "lat": 6.113038,
+      "lon": 1.195251,
+      "name": "Aflao Lorry Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2938857447,
+      "lat": 7.514133,
+      "lon": 1.152605,
+      "name": "Agbonou Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5700029754,
+      "lat": 6.132205,
+      "lon": 0.07464,
+      "name": "Agricultural Research Station, University of Ghana",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2967732194,
+      "lat": 6.119257,
+      "lon": 0.808075,
+      "name": "Akatsi Fire Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2967732204,
+      "lat": 6.120153,
+      "lon": 0.806219,
+      "name": "Akatsi Market Bus Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3022290992,
+      "lat": 6.129203,
+      "lon": 0.794979,
+      "name": "Akatsi Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12966420432,
+      "lat": 6.947989,
+      "lon": 0.584259,
+      "name": "Ancienne station coloniale Missahoé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8920690468,
+      "lat": 6.881353,
+      "lon": 0.277013,
+      "name": "Anfoega Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4313356544,
+      "lat": 7.75104,
+      "lon": 1.188266,
+      "name": "Anie-gare (balise CRT)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6027483991,
+      "lat": 6.184669,
+      "lon": 1.27143,
+      "name": "Arrêt Station Taxi",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7438444843,
+      "lat": 6.185254,
+      "lon": 1.270959,
+      "name": "Arrêt Station Taxi",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7438444844,
+      "lat": 6.184678,
+      "lon": 1.271476,
+      "name": "Arrêt Station Taxi",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 488030503,
+      "lat": 10.296586,
+      "lon": 1.38163,
+      "name": "ATT",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5451913433,
+      "lat": 10.618378,
+      "lon": 1.271268,
+      "name": "Auberge de la Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4596780089,
+      "lat": 6.843831,
+      "lon": 0.715436,
+      "name": "Bibliotheque d'Agou Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1947278728,
+      "lat": 8.324158,
+      "lon": 0.977518,
+      "name": "Blitta-Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5006547609,
+      "lat": 6.14153,
+      "lon": 1.207901,
+      "name": "Boutique de la station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7797578070,
+      "lat": 10.51876,
+      "lon": 0.096554,
+      "name": "Bunkpurugu Metro Mass Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4587623590,
+      "lat": 6.837799,
+      "lon": 0.714151,
+      "name": "CEG Agou Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8791863130,
+      "lat": 8.316579,
+      "lon": 0.968556,
+      "name": "CEG Blitta Gare 2",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6166451199,
+      "lat": 8.326201,
+      "lon": 0.98651,
+      "name": "CEG de Blitta-Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9258068317,
+      "lat": 8.171595,
+      "lon": 0.973029,
+      "name": "CEG Pagala Gare 2",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8183725447,
+      "lat": 6.233627,
+      "lon": 1.154063,
+      "name": "CM Petroleum Station d'essence de Zossimé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11178563035,
+      "lat": 8.053923,
+      "lon": 0.186161,
+      "name": "Dambai Fire Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6504341905,
+      "lat": 8.073066,
+      "lon": 0.176713,
+      "name": "Dambai Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11263743071,
+      "lat": 7.046829,
+      "lon": -0.091402,
+      "name": "District Fire Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5475959001,
+      "lat": 6.907923,
+      "lon": 0.633732,
+      "name": "Ecole Primaire Publique la Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12691812602,
+      "lat": 8.342244,
+      "lon": 1.012165,
+      "name": "Eglise Catholique de Blitta Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5818759552,
+      "lat": 6.410089,
+      "lon": 1.209988,
+      "name": "Eglise Catholique Saint Esprit Station Secondaire",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11433154189,
+      "lat": 8.181173,
+      "lon": 0.96976,
+      "name": "Eglise Évangélique Presbytérienne du Togo Paroisse Béthel Pagala-Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782363827,
+      "lat": 7.513316,
+      "lon": 1.154865,
+      "name": "EPP Agbonou-Gare Groupe A",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4061702972,
+      "lat": 6.143975,
+      "lon": 1.243776,
+      "name": "EPP Bè Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5994262642,
+      "lat": 6.914672,
+      "lon": 0.643065,
+      "name": "EPP gare c",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1012302703,
+      "lat": 6.138994,
+      "lon": 1.211595,
+      "name": "Espace Bonke",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4102790935,
+      "lat": 6.142527,
+      "lon": 1.242362,
+      "name": "Ets Gracelec Prestation De Service",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782320247,
+      "lat": 6.16666,
+      "lon": 1.218087,
+      "name": "Gare campus plage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3812849326,
+      "lat": 6.795696,
+      "lon": 0.794685,
+      "name": "Gare d'Avetonou, Car taxi and taxi moto pick up and drop off",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4905011414,
+      "lat": 9.700798,
+      "lon": 0.606264,
+      "name": "Gare de Guérin-Kouka",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4566819407,
+      "lat": 6.114082,
+      "lon": 1.203019,
+      "name": "Gare de Kodjoviakopé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4566768341,
+      "lat": 6.152114,
+      "lon": 1.267727,
+      "name": "Gare de l'Est",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 254091423,
+      "lat": 6.130405,
+      "lon": 1.219742,
+      "name": "Gare de Lomé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7088199526,
+      "lat": 10.354318,
+      "lon": 0.469496,
+      "name": "Gare de Mango",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3830067749,
+      "lat": 6.137144,
+      "lon": 1.248831,
+      "name": "Gare de TCV",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3101380638,
+      "lat": 6.130431,
+      "lon": 1.219806,
+      "name": "Gare Ferroviaire Centrale du Togo",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4897643356,
+      "lat": 9.534866,
+      "lon": 1.191991,
+      "name": "Gare Kabou et Guerin-Kouka",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5114477277,
+      "lat": 9.560303,
+      "lon": 1.190818,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5818732822,
+      "lat": 11.119763,
+      "lon": -0.005114,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2117107504,
+      "lat": 8.987523,
+      "lon": 1.13683,
+      "name": "Gare Routière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 839406886,
+      "lat": 7.178247,
+      "lon": 1.15563,
+      "name": "Gare Routière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4902968321,
+      "lat": 10.307609,
+      "lon": 1.380312,
+      "name": "Gare routière - taxi brousse",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4183084104,
+      "lat": 8.986054,
+      "lon": 1.137418,
+      "name": "Gare Routière - Titan",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 240691502,
+      "lat": 6.198953,
+      "lon": 1.201788,
+      "name": "Gare routière Agbalépédogan",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8370482152,
+      "lat": 9.277867,
+      "lon": 1.23476,
+      "name": "Gare routière communale",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5675983621,
+      "lat": 6.19848,
+      "lon": 1.201189,
+      "name": "Gare routière d'Agbalépedogan",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 595933361,
+      "lat": 6.123991,
+      "lon": 1.224715,
+      "name": "Gare routière de BIA",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782320249,
+      "lat": 6.159888,
+      "lon": 1.213288,
+      "name": "Gare routière de Doumassessé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8350297577,
+      "lat": 9.669115,
+      "lon": 1.358916,
+      "name": "Gare Routière de Kémérida",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3165540166,
+      "lat": 6.909694,
+      "lon": 0.633632,
+      "name": "Gare routière de Kpalimé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782320253,
+      "lat": 7.525546,
+      "lon": 1.135416,
+      "name": "Gare routière de nyékonakpoè",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 808130249,
+      "lat": 6.132351,
+      "lon": 1.227405,
+      "name": "Gare routière de REX",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3001121768,
+      "lat": 6.24103,
+      "lon": 1.626346,
+      "name": "Gare Routière de Sanvee-Condji",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2175104173,
+      "lat": 10.2509,
+      "lon": 1.38057,
+      "name": "Gare routière des bus",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11296394602,
+      "lat": 6.225447,
+      "lon": 1.192893,
+      "name": "Gare routière Falk transports",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1469942708,
+      "lat": 9.533441,
+      "lon": 1.189045,
+      "name": "Gare routière Kabou",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7086260960,
+      "lat": 6.902455,
+      "lon": 0.634207,
+      "name": "Gare routière Kpalimé-Agou",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5948824486,
+      "lat": 6.905015,
+      "lon": 0.630623,
+      "name": "Gare routière kpalimé-Fiwokpo",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12399669730,
+      "lat": 9.539134,
+      "lon": 1.196081,
+      "name": "Gare Routière Nagodé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12429843322,
+      "lat": 9.539166,
+      "lon": 1.196084,
+      "name": "Gare Routière Nagodé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7733072688,
+      "lat": 6.240528,
+      "lon": 1.210363,
+      "name": "Gare routière sauvage à destination du Nord du pays",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5680523564,
+      "lat": 6.130211,
+      "lon": 1.23758,
+      "name": "Gare routière TCV Lomé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4360252869,
+      "lat": 11.117422,
+      "lon": 0.005398,
+      "name": "Gare Staff Cinkansé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9339265368,
+      "lat": 6.13779,
+      "lon": 1.211311,
+      "name": "Gare STC",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2319565027,
+      "lat": 7.156829,
+      "lon": 0.486309,
+      "name": "Gbi-Bla Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2319490170,
+      "lat": 7.151621,
+      "lon": 0.473681,
+      "name": "Ghana Police Station Hohoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4725674725,
+      "lat": 6.186169,
+      "lon": 1.206807,
+      "name": "Groupe Afrique Intregrale Prestation d'acceuille",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3471430197,
+      "lat": 6.16508,
+      "lon": 1.223353,
+      "name": "Halte Garderie",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3802723681,
+      "lat": 6.755335,
+      "lon": 0.358606,
+      "name": "Have Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3793455582,
+      "lat": 6.720423,
+      "lon": 0.376658,
+      "name": "Hlefi Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1453909313,
+      "lat": 7.15069,
+      "lon": 0.469385,
+      "name": "Hohoe Lorry Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1308945934,
+      "lat": 7.407036,
+      "lon": 0.465927,
+      "name": "Jasikan Lorry Station & Market",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6289421889,
+      "lat": 10.26462,
+      "lon": 1.37975,
+      "name": "JNP fuel station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8573162142,
+      "lat": 6.670128,
+      "lon": 0.353108,
+      "name": "King's Filling Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1137613021,
+      "lat": 6.9957,
+      "lon": 0.29303,
+      "name": "Kpando Lorry Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 213212233,
+      "lat": 6.994146,
+      "lon": 0.293022,
+      "name": "Kpando Main Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8901955103,
+      "lat": 6.999483,
+      "lon": 0.301578,
+      "name": "Kpando Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6548981972,
+      "lat": 8.488411,
+      "lon": 0.310049,
+      "name": "Kpasa Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3802723683,
+      "lat": 6.679452,
+      "lon": 0.318409,
+      "name": "Kpeve Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6244833585,
+      "lat": 6.618658,
+      "lon": 0.469787,
+      "name": "Kpeve taxi station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12197629600,
+      "lat": 6.175884,
+      "lon": 0.059055,
+      "name": "Kpong",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12197677801,
+      "lat": 6.175998,
+      "lon": 0.058878,
+      "name": "Kpong",
+      "type": "stop",
+      "country": "TG"
+    },
+    {
+      "id": 195246912,
+      "lat": 10.30666,
+      "lon": 1.379804,
+      "name": "La Poste du Benin",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5636543921,
+      "lat": 6.133555,
+      "lon": 1.227548,
+      "name": "La Station de Cheval Blanc",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5636711422,
+      "lat": 6.23608,
+      "lon": 1.210775,
+      "name": "La Station de Cheval Blanc",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1945892353,
+      "lat": 6.131379,
+      "lon": 1.21964,
+      "name": "Lomé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2547846672,
+      "lat": 6.227769,
+      "lon": 1.594558,
+      "name": "Lome - Aneho",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3590224038,
+      "lat": 7.366191,
+      "lon": 0.488635,
+      "name": "Lorry Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8226297037,
+      "lat": 8.327803,
+      "lon": 0.988445,
+      "name": "Lycée de Blitta-Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2505412763,
+      "lat": 8.178758,
+      "lon": 0.98612,
+      "name": "Lycee Pagala Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8901917165,
+      "lat": 6.999882,
+      "lon": 0.303339,
+      "name": "Margaret Marquart Administration",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4741673125,
+      "lat": 6.275337,
+      "lon": 0.050704,
+      "name": "market and taxi station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5451914625,
+      "lat": 10.618671,
+      "lon": 1.271642,
+      "name": "Minivan and Shared taxi station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10844061631,
+      "lat": 7.526318,
+      "lon": 1.136155,
+      "name": "Mosquée de la gare routière Nyekonakpoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3590224039,
+      "lat": 7.366433,
+      "lon": 0.488648,
+      "name": "Motorcycle Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12915414300,
+      "lat": 6.143286,
+      "lon": 0.006744,
+      "name": "New Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4695189361,
+      "lat": 6.157685,
+      "lon": 0.032949,
+      "name": "Nuaso Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6431496085,
+      "lat": 6.14323,
+      "lon": 0.008154,
+      "name": "Old Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2505435386,
+      "lat": 8.178716,
+      "lon": 0.977315,
+      "name": "Pagala Gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782291065,
+      "lat": 7.515487,
+      "lon": 1.152029,
+      "name": "Petit marché d'Agbonou gare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6311346157,
+      "lat": 6.447052,
+      "lon": 0.627439,
+      "name": "Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7395651751,
+      "lat": 6.381567,
+      "lon": -0.146051,
+      "name": "Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8946865810,
+      "lat": 7.201494,
+      "lon": 0.608696,
+      "name": "Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8888541617,
+      "lat": 6.166451,
+      "lon": 1.249865,
+      "name": "Poste HTA- BT Ancien Aérogare",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7746713085,
+      "lat": 6.573933,
+      "lon": 0.374149,
+      "name": "Sokode Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6289421888,
+      "lat": 9.8416,
+      "lon": 1.54497,
+      "name": "Sonacap fuel station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10855726091,
+      "lat": 7.521779,
+      "lon": 1.147182,
+      "name": "Sous station de la CEET",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791128,
+      "lat": 6.154437,
+      "lon": 1.220402,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791508,
+      "lat": 6.136583,
+      "lon": 1.211611,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791575,
+      "lat": 6.116139,
+      "lon": 1.203167,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791577,
+      "lat": 6.89475,
+      "lon": 0.638861,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791578,
+      "lat": 6.177996,
+      "lon": 1.37281,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791579,
+      "lat": 6.913778,
+      "lon": 0.630639,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791789,
+      "lat": 6.16475,
+      "lon": 1.241611,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791790,
+      "lat": 6.137994,
+      "lon": 1.220846,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791796,
+      "lat": 6.166801,
+      "lon": 1.331289,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791824,
+      "lat": 6.137094,
+      "lon": 1.227791,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791828,
+      "lat": 6.156065,
+      "lon": 1.201162,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791942,
+      "lat": 6.141684,
+      "lon": 1.243096,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791943,
+      "lat": 6.173077,
+      "lon": 1.355457,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791947,
+      "lat": 6.165333,
+      "lon": 1.203306,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13206791968,
+      "lat": 6.159556,
+      "lon": 1.215528,
+      "name": "Spiro Battery Swap Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 946522312,
+      "lat": 9.001783,
+      "lon": 1.670206,
+      "name": "station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110203129,
+      "lat": 9.700843,
+      "lon": 1.781464,
+      "name": "Station  de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4508195770,
+      "lat": 6.627458,
+      "lon": 1.710703,
+      "name": "Station anor Petroleum S.A.",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5994363027,
+      "lat": 6.896528,
+      "lon": 0.628972,
+      "name": "station cap",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8147222938,
+      "lat": 9.26148,
+      "lon": 0.779078,
+      "name": "Station CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10822161059,
+      "lat": 6.14922,
+      "lon": 1.218629,
+      "name": "Station d essence MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13523660110,
+      "lat": 11.11863,
+      "lon": 0.00312,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5115474505,
+      "lat": 10.872015,
+      "lon": 0.20209,
+      "name": "Station d'essence Cap",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2642979607,
+      "lat": 6.122388,
+      "lon": 1.210109,
+      "name": "Station d'essence MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5186934001,
+      "lat": 6.193619,
+      "lon": 1.138176,
+      "name": "Station d'essence Sanol",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11557864226,
+      "lat": 6.236809,
+      "lon": 1.210256,
+      "name": "Station d'essence SANOL",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9085112344,
+      "lat": 6.340698,
+      "lon": 1.110598,
+      "name": "Station d'essence T - oil de kovié",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4640519696,
+      "lat": 6.13398,
+      "lon": 1.234572,
+      "name": "Station d'essence Total",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9173364570,
+      "lat": 6.357161,
+      "lon": 1.09689,
+      "name": "Station d'expérimentations agronomique de kovié",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8853935186,
+      "lat": 11.106008,
+      "lon": 0.014802,
+      "name": "Station de Bus",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9700887117,
+      "lat": 6.879579,
+      "lon": 0.822392,
+      "name": "Station de captage d'eau potable",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11449755829,
+      "lat": 6.946194,
+      "lon": 1.174705,
+      "name": "Station de notse barrière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110206701,
+      "lat": 9.711904,
+      "lon": 1.770234,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110213311,
+      "lat": 9.708476,
+      "lon": 1.776886,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110213312,
+      "lat": 9.707885,
+      "lon": 1.777784,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110214257,
+      "lat": 9.708014,
+      "lon": 1.778246,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110215733,
+      "lat": 9.713009,
+      "lon": 1.770486,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9275288721,
+      "lat": 8.657741,
+      "lon": 1.014974,
+      "name": "Station de Pompage d'eau",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10110216422,
+      "lat": 9.70038,
+      "lon": 1.781422,
+      "name": "Station de pompage Soneb Djougou",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9348618612,
+      "lat": 6.448003,
+      "lon": 1.027386,
+      "name": "Station de recherche du Laboratoire de recherche forestière",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11772391902,
+      "lat": 7.769571,
+      "lon": 1.19308,
+      "name": "Station de services Oando",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4596779989,
+      "lat": 6.848337,
+      "lon": 0.717016,
+      "name": "Station de Taxi voiture",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4116355039,
+      "lat": 6.438482,
+      "lon": 1.265544,
+      "name": "Station de Traitement d'eau",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7640326485,
+      "lat": 6.446683,
+      "lon": 1.077945,
+      "name": "Station Dicloro d'Alokoegbe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3935749398,
+      "lat": 6.153003,
+      "lon": 1.241529,
+      "name": "station essence Cap",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3935743486,
+      "lat": 6.448723,
+      "lon": 0.914842,
+      "name": "Station essence MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1750968517,
+      "lat": 10.295931,
+      "lon": 1.381111,
+      "name": "Station essence SONACOP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7114466387,
+      "lat": 6.143384,
+      "lon": 1.206111,
+      "name": "Station Kpalimé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9136285143,
+      "lat": 10.846455,
+      "lon": 0.199994,
+      "name": "Station LK",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5994288177,
+      "lat": 6.956157,
+      "lon": 0.571986,
+      "name": "Station météo",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9061640400,
+      "lat": 10.835536,
+      "lon": 0.227485,
+      "name": "Station météo de Dapaong",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7057351098,
+      "lat": 6.910382,
+      "lon": 0.632138,
+      "name": "Station Mrs",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2623897014,
+      "lat": 10.615694,
+      "lon": 1.274227,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3859947918,
+      "lat": 6.15207,
+      "lon": 1.244135,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9313253022,
+      "lat": 10.845069,
+      "lon": 0.200397,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10782320254,
+      "lat": 7.526156,
+      "lon": 1.135413,
+      "name": "Station Nykonakpoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5029697521,
+      "lat": 6.207291,
+      "lon": 1.141028,
+      "name": "Station Sanol Atigangomé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10574069306,
+      "lat": 6.198871,
+      "lon": 1.179997,
+      "name": "Station service",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4124718277,
+      "lat": 6.273762,
+      "lon": 1.799011,
+      "name": "Station Service",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6597469122,
+      "lat": 6.231965,
+      "lon": 1.210765,
+      "name": "Station service Agoè Star",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5482327482,
+      "lat": 6.129113,
+      "lon": 1.221297,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6166455823,
+      "lat": 8.320411,
+      "lon": 0.990953,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7353135166,
+      "lat": 6.233363,
+      "lon": 1.145275,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8861039852,
+      "lat": 6.260696,
+      "lon": 1.162946,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9133741715,
+      "lat": 6.213265,
+      "lon": 1.184348,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12252445364,
+      "lat": 9.034364,
+      "lon": 1.136072,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12736297695,
+      "lat": 7.579892,
+      "lon": 1.157803,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5491157223,
+      "lat": 6.203626,
+      "lon": 1.165437,
+      "name": "Station service CAP Amandahomé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5314322672,
+      "lat": 6.221298,
+      "lon": 1.170322,
+      "name": "Station service CM Petroleum Agoè Telessou",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5485012667,
+      "lat": 6.132189,
+      "lon": 1.228021,
+      "name": "Station service MRS",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5219375447,
+      "lat": 6.230952,
+      "lon": 1.112052,
+      "name": "Station service Oando",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6360161066,
+      "lat": 7.539705,
+      "lon": 1.14618,
+      "name": "Station Service Oando",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11337816873,
+      "lat": 10.244546,
+      "lon": 0.642376,
+      "name": "Station Service Oando",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10942616265,
+      "lat": 7.582862,
+      "lon": 0.612725,
+      "name": "Station Service SADKO",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11772385163,
+      "lat": 7.651859,
+      "lon": 0.789923,
+      "name": "Station Service SADKO",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4343342885,
+      "lat": 6.344509,
+      "lon": 1.214354,
+      "name": "Station service Sanol",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5186991283,
+      "lat": 6.189885,
+      "lon": 1.153939,
+      "name": "Station service Sanol",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13461309906,
+      "lat": 9.555342,
+      "lon": 1.194753,
+      "name": "Station service Sanol",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5731408359,
+      "lat": 6.203424,
+      "lon": 1.191501,
+      "name": "Station service SOMMAYAF",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9180983565,
+      "lat": 6.202048,
+      "lon": 1.147573,
+      "name": "Station service T Oil",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5488561781,
+      "lat": 6.200284,
+      "lon": 1.180465,
+      "name": "Station service T-Oil",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5565113055,
+      "lat": 6.220523,
+      "lon": 1.166448,
+      "name": "Station service T-Oil E/se De l'Union",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11059380033,
+      "lat": 9.559545,
+      "lon": 1.192719,
+      "name": "Station service Zener",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8853935170,
+      "lat": 11.09952,
+      "lon": 0.017923,
+      "name": "Station Sitisali",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 4209417013,
+      "lat": 8.987192,
+      "lon": 1.139222,
+      "name": "Station Sokodé Aléhéride",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3859947844,
+      "lat": 6.15564,
+      "lon": 1.233191,
+      "name": "Station Somayaf",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7141299800,
+      "lat": 6.866763,
+      "lon": 1.182868,
+      "name": "Station SOMAYAF",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 2337855247,
+      "lat": 10.287889,
+      "lon": 1.381679,
+      "name": "Station Sonacop",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6926749657,
+      "lat": 10.878737,
+      "lon": 0.195346,
+      "name": "Station Stisali Dapaaong",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 9063077795,
+      "lat": 6.340628,
+      "lon": 1.110696,
+      "name": "Station T oil",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5031006126,
+      "lat": 6.200864,
+      "lon": 1.147908,
+      "name": "Station T-OIL 1 (Adidogomé Assiyéyé)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5037437423,
+      "lat": 6.201105,
+      "lon": 1.148564,
+      "name": "Station T-OIL 2 (Adidogomé Assiyéyé)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10822161045,
+      "lat": 7.526184,
+      "lon": 1.134879,
+      "name": "Station T-OIL Nyekonakpoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6547956788,
+      "lat": 7.766046,
+      "lon": 1.192929,
+      "name": "Station taxi",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8430049307,
+      "lat": 6.341128,
+      "lon": 1.108074,
+      "name": "Station taxi Kovié",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 11580353304,
+      "lat": 6.334026,
+      "lon": 1.531038,
+      "name": "Station Total",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 12429563490,
+      "lat": 9.656874,
+      "lon": 1.133275,
+      "name": "Station Total",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 5817775354,
+      "lat": 6.430323,
+      "lon": 1.213182,
+      "name": "Station Zemidjan",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 8670519690,
+      "lat": 6.19225,
+      "lon": 1.144296,
+      "name": "Station-service YATCO Sagbado",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7057900063,
+      "lat": 6.915763,
+      "lon": 0.640182,
+      "name": "TDE station de traitement de Kpalimé",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 7395651748,
+      "lat": 6.397579,
+      "lon": -0.143343,
+      "name": "Total Fuel Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6102518710,
+      "lat": 8.853149,
+      "lon": 0.057153,
+      "name": "Trotro station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6100130114,
+      "lat": 9.444652,
+      "lon": -0.006219,
+      "name": "Trotro station Tamale",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6102719268,
+      "lat": 8.852955,
+      "lon": 0.057582,
+      "name": "Trotro station to accra",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 3793455587,
+      "lat": 6.539944,
+      "lon": 0.287139,
+      "name": "Tsito Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10771853005,
+      "lat": 6.542733,
+      "lon": 0.289459,
+      "name": "Tsitso Police Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 6060269818,
+      "lat": 10.826842,
+      "lon": -0.070286,
+      "name": "Tubong Bus Station",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1258276724,
+      "lat": 6.132652,
+      "lon": 1.218213,
+      "name": "Unnamed (node 1258276724)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1258276816,
+      "lat": 6.132913,
+      "lon": 1.218043,
+      "name": "Unnamed (node 1258276816)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1258277809,
+      "lat": 6.13282,
+      "lon": 1.218247,
+      "name": "Unnamed (node 1258277809)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892354,
+      "lat": 6.129821,
+      "lon": 1.220098,
+      "name": "Unnamed (node 1945892354)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892355,
+      "lat": 6.12984,
+      "lon": 1.220155,
+      "name": "Unnamed (node 1945892355)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892356,
+      "lat": 6.129862,
+      "lon": 1.220218,
+      "name": "Unnamed (node 1945892356)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892358,
+      "lat": 6.129872,
+      "lon": 1.220253,
+      "name": "Unnamed (node 1945892358)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892359,
+      "lat": 6.13028,
+      "lon": 1.219894,
+      "name": "Unnamed (node 1945892359)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892411,
+      "lat": 6.13398,
+      "lon": 1.218889,
+      "name": "Unnamed (node 1945892411)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 1945892415,
+      "lat": 6.134019,
+      "lon": 1.218958,
+      "name": "Unnamed (node 1945892415)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 2203705920,
+      "lat": 7.532382,
+      "lon": 1.123656,
+      "name": "Unnamed (node 2203705920)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 2203705922,
+      "lat": 7.532401,
+      "lon": 1.123779,
+      "name": "Unnamed (node 2203705922)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 637901664,
+      "lat": 6.44523,
+      "lon": 1.4456,
+      "name": "Unnamed (node 637901664)",
+      "type": "buffer_stop",
+      "country": "TG"
+    },
+    {
+      "id": 8350514725,
+      "lat": 9.65857,
+      "lon": 1.307981,
+      "name": "Unnamed (node 8350514725)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1164702713,
+      "lat": 6.618996,
+      "lon": 0.471583,
+      "name": "Unnamed (way 1164702713)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 1361391311,
+      "lat": 6.151102,
+      "lon": 0.057636,
+      "name": "Unnamed (way 1361391311)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 215166917,
+      "lat": 7.530928,
+      "lon": 1.12455,
+      "name": "Unnamed (way 215166917)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 401925108,
+      "lat": 7.530396,
+      "lon": 0.475377,
+      "name": "Unnamed (way 401925108)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 549080726,
+      "lat": 6.152065,
+      "lon": 1.267782,
+      "name": "Unnamed (way 549080726)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 569338428,
+      "lat": 6.909411,
+      "lon": 0.633949,
+      "name": "Unnamed (way 569338428)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 894787418,
+      "lat": 6.174749,
+      "lon": 1.205055,
+      "name": "Unnamed (way 894787418)",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10780601085,
+      "lat": 7.525229,
+      "lon": 1.148622,
+      "name": "WC de la station centre culturel",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10780601076,
+      "lat": 7.526219,
+      "lon": 1.134951,
+      "name": "WC de la station Nyekonakpoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 10780601074,
+      "lat": 7.526299,
+      "lon": 1.135068,
+      "name": "WC gare routière nykonakpoe",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 13120192805,
+      "lat": 10.269435,
+      "lon": 0.207991,
+      "name": "Wenchiki Police Station",
+      "type": "station",
+      "country": "TG"
+    }
+  ]
+}

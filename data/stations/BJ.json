@@ -1,0 +1,3063 @@
+{
+  "country": "BJ",
+  "name": "Benin",
+  "region": "West Africa",
+  "bbox": [
+    6.23,
+    0.77,
+    12.42,
+    3.85
+  ],
+  "extracted": "2026-03-03T12:05:45.083Z",
+  "count": 381,
+  "stations": [
+    {
+      "id": 8841632699,
+      "lat": 7.128851,
+      "lon": 3.398474,
+      "name": "Abeokuta",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 501442021,
+      "lat": 7.394461,
+      "lon": 3.748076,
+      "name": "Adio Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8791863125,
+      "lat": 8.322628,
+      "lon": 0.97811,
+      "name": "Affaire sociale de Blitta Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4434573038,
+      "lat": 6.41794,
+      "lon": 2.32859,
+      "name": "AfricaRice Benin Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9074714192,
+      "lat": 6.687097,
+      "lon": 3.303112,
+      "name": "Agbado",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 9074714193,
+      "lat": 6.687031,
+      "lon": 3.303005,
+      "name": "Agbado",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 2938857447,
+      "lat": 7.514133,
+      "lon": 1.152605,
+      "name": "Agbonou Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8540613736,
+      "lat": 6.619462,
+      "lon": 3.326104,
+      "name": "Agege",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 8540613737,
+      "lat": 6.619503,
+      "lon": 3.326222,
+      "name": "Agege",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 1157159790,
+      "lat": 6.621496,
+      "lon": 3.325834,
+      "name": "Agege LRMT Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5396198481,
+      "lat": 6.464378,
+      "lon": 3.324486,
+      "name": "Alaba",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 1322975309,
+      "lat": 6.464317,
+      "lon": 3.324396,
+      "name": "Alaba",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5768988181,
+      "lat": 6.478272,
+      "lon": 2.622127,
+      "name": "Alagare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7606303655,
+      "lat": 6.667418,
+      "lon": 2.14636,
+      "name": "Allada",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4631487995,
+      "lat": 6.358854,
+      "lon": 2.439711,
+      "name": "Ancienne Gare de Donga",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4313356544,
+      "lat": 7.75104,
+      "lon": 1.188266,
+      "name": "Anie-gare (balise CRT)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7857497531,
+      "lat": 7.240943,
+      "lon": 3.029005,
+      "name": "Arolat Petrol station, Ayetoro",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 981038963,
+      "lat": 6.452001,
+      "lon": 3.368866,
+      "name": "Asiwaju Bola Tinubu Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 488030503,
+      "lat": 10.296586,
+      "lon": 1.38163,
+      "name": "ATT",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5451913433,
+      "lat": 10.618378,
+      "lon": 1.271268,
+      "name": "Auberge de la Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10567601140,
+      "lat": 10.828022,
+      "lon": 2.114142,
+      "name": "Auto gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11075428085,
+      "lat": 9.343529,
+      "lon": 2.638465,
+      "name": "Auto gare de Nima",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1286331625,
+      "lat": 6.619665,
+      "lon": 3.326581,
+      "name": "Babatunde Fashola Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12950377682,
+      "lat": 6.658581,
+      "lon": 2.690439,
+      "name": "Banigbé-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5200628639,
+      "lat": 6.382955,
+      "lon": 2.407349,
+      "name": "Bar station continue",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1947278728,
+      "lat": 8.324158,
+      "lon": 0.977518,
+      "name": "Blitta-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 639043270,
+      "lat": 6.489416,
+      "lon": 3.357203,
+      "name": "Bode Thomas Police Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5934395515,
+      "lat": 7.174971,
+      "lon": 2.067042,
+      "name": "Bohicon",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12061598574,
+      "lat": 6.62121,
+      "lon": 2.246218,
+      "name": "Boutique de la station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8982448607,
+      "lat": 7.961395,
+      "lon": 3.610879,
+      "name": "Bovas Gas Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8042285786,
+      "lat": 7.201268,
+      "lon": 2.078628,
+      "name": "carrière de pavé d’Asphaltage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3976417543,
+      "lat": 6.453728,
+      "lon": 2.35699,
+      "name": "CEA Station de lavage auto-moto",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8791863130,
+      "lat": 8.316579,
+      "lon": 0.968556,
+      "name": "CEG Blitta Gare 2",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6166451199,
+      "lat": 8.326201,
+      "lon": 0.98651,
+      "name": "CEG de Blitta-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9258068317,
+      "lat": 8.171595,
+      "lon": 0.973029,
+      "name": "CEG Pagala Gare 2",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8183725447,
+      "lat": 6.233627,
+      "lon": 1.154063,
+      "name": "CM Petroleum Station d'essence de Zossimé",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1278524425,
+      "lat": 6.481851,
+      "lon": 3.369317,
+      "name": "Costain Bus stop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5827983890,
+      "lat": 6.355793,
+      "lon": 2.435353,
+      "name": "Cotonou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7566899737,
+      "lat": 7.32512,
+      "lon": 2.083438,
+      "name": "Dan",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5962984388,
+      "lat": 6.374521,
+      "lon": 2.562989,
+      "name": "Djeffa gare PK18",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6988249203,
+      "lat": 6.493977,
+      "lon": 3.388943,
+      "name": "Dominic PlayStation House",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970549038,
+      "lat": 9.34397,
+      "lon": 2.60945,
+      "name": "École primaire publique de gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12691812602,
+      "lat": 8.342244,
+      "lon": 1.012165,
+      "name": "Eglise Catholique de Blitta Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12423200522,
+      "lat": 6.380149,
+      "lon": 2.615342,
+      "name": "Eglise Catholique Notre Dame de la Route de Sème-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5818759552,
+      "lat": 6.410089,
+      "lon": 1.209988,
+      "name": "Eglise Catholique Saint Esprit Station Secondaire",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11433154189,
+      "lat": 8.181173,
+      "lon": 0.96976,
+      "name": "Eglise Évangélique Presbytérienne du Togo Paroisse Béthel Pagala-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5962988387,
+      "lat": 6.372633,
+      "lon": 2.546104,
+      "name": "Ekpè Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7486414886,
+      "lat": 6.461816,
+      "lon": 3.16692,
+      "name": "Energium filling station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10782363827,
+      "lat": 7.513316,
+      "lon": 1.154865,
+      "name": "EPP Agbonou-Gare Groupe A",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 501249402,
+      "lat": 7.398268,
+      "lon": 3.48456,
+      "name": "Eruwa Railway Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 501256117,
+      "lat": 7.401192,
+      "lon": 3.482475,
+      "name": "Eruwa Road Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6137347152,
+      "lat": 6.537021,
+      "lon": 3.260496,
+      "name": "EverJoy Gas Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6318540786,
+      "lat": 7.987126,
+      "lon": 2.271533,
+      "name": "Ewell fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6318541886,
+      "lat": 7.955094,
+      "lon": 2.237301,
+      "name": "Ewell fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10171753552,
+      "lat": 6.38645,
+      "lon": 2.383835,
+      "name": "Ewelle station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12287862273,
+      "lat": 6.528395,
+      "lon": 3.237727,
+      "name": "Fidelity filling station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12281544448,
+      "lat": 6.60912,
+      "lon": 3.423238,
+      "name": "Filling Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 593494003,
+      "lat": 6.442477,
+      "lon": 3.42725,
+      "name": "Five Cowries Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970527446,
+      "lat": 9.391741,
+      "lon": 2.621833,
+      "name": "Gangare et fils",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7458558016,
+      "lat": 9.108331,
+      "lon": 2.565635,
+      "name": "Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5784680161,
+      "lat": 9.353053,
+      "lon": 2.61285,
+      "name": "Gare ATT",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3812849326,
+      "lat": 6.795696,
+      "lon": 0.794685,
+      "name": "Gare d'Avetonou, Car taxi and taxi moto pick up and drop off",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2427781888,
+      "lat": 11.888834,
+      "lon": 3.4561,
+      "name": "Gare de Gaya",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4554576143,
+      "lat": 6.37329,
+      "lon": 2.408765,
+      "name": "Gare de Lomé",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2109049826,
+      "lat": 9.348665,
+      "lon": 2.609895,
+      "name": "Gare de Parakou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12423201806,
+      "lat": 6.381033,
+      "lon": 2.619775,
+      "name": "Gare de Sèmè Carrefour",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4631649302,
+      "lat": 6.365031,
+      "lon": 2.437623,
+      "name": "Gare Dindon",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10963473059,
+      "lat": 6.369242,
+      "lon": 2.428085,
+      "name": "Gare fictif",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10963484269,
+      "lat": 6.370044,
+      "lon": 2.428419,
+      "name": "Gare fictif",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4897643356,
+      "lat": 9.534866,
+      "lon": 1.191991,
+      "name": "Gare Kabou et Guerin-Kouka",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4167678118,
+      "lat": 6.492489,
+      "lon": 2.637958,
+      "name": "Gare OLOYE",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10912507708,
+      "lat": 6.503133,
+      "lon": 2.612155,
+      "name": "Gare Ouando",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3741556218,
+      "lat": 12.071083,
+      "lon": 1.782754,
+      "name": "Gare Principale de Diapaga",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 215390762,
+      "lat": 7.772393,
+      "lon": 2.18457,
+      "name": "Gare Routiere",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5114477277,
+      "lat": 9.560303,
+      "lon": 1.190818,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6566203421,
+      "lat": 6.72871,
+      "lon": 2.654598,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7335151585,
+      "lat": 9.322971,
+      "lon": 2.611376,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 822102657,
+      "lat": 6.482387,
+      "lon": 2.629458,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 836143299,
+      "lat": 6.380274,
+      "lon": 2.380005,
+      "name": "Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2117107504,
+      "lat": 8.987523,
+      "lon": 1.13683,
+      "name": "Gare Routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 839406886,
+      "lat": 7.178247,
+      "lon": 1.15563,
+      "name": "Gare Routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4902968321,
+      "lat": 10.307609,
+      "lon": 1.380312,
+      "name": "Gare routière - taxi brousse",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4183084104,
+      "lat": 8.986054,
+      "lon": 1.137418,
+      "name": "Gare Routière - Titan",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7159251985,
+      "lat": 7.183596,
+      "lon": 2.089521,
+      "name": "Gare routière Bo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9772880517,
+      "lat": 7.152877,
+      "lon": 2.076593,
+      "name": "Gare routière Bohicon",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8370482152,
+      "lat": 9.277867,
+      "lon": 1.23476,
+      "name": "Gare routière communale",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 814277425,
+      "lat": 6.665157,
+      "lon": 2.149192,
+      "name": "Gare routière d'Allada",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10631234902,
+      "lat": 6.892532,
+      "lon": 2.620897,
+      "name": "Gare routière d'Ikpinlè",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5137485385,
+      "lat": 7.179193,
+      "lon": 2.065076,
+      "name": "gare routière de Bohicon",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1356191478,
+      "lat": 7.117444,
+      "lon": 2.094104,
+      "name": "Gare Routiere de Cana",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6883737142,
+      "lat": 6.388151,
+      "lon": 2.277824,
+      "name": "Gare routière de Cococodji",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1811005947,
+      "lat": 6.404369,
+      "lon": 1.883102,
+      "name": "Gare Routière de Comé",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12146160150,
+      "lat": 6.543607,
+      "lon": 2.588211,
+      "name": "Gare routière de Djevali",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3032537604,
+      "lat": 6.394861,
+      "lon": 2.345001,
+      "name": "Gare routière de Godomey",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7434013540,
+      "lat": 9.189463,
+      "lon": 3.054202,
+      "name": "Gare routière de Kabo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8350297577,
+      "lat": 9.669115,
+      "lon": 1.358916,
+      "name": "Gare Routière de Kémérida",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1100953660,
+      "lat": 10.828111,
+      "lon": 2.113952,
+      "name": "Gare routière de Kérou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10782320253,
+      "lat": 7.525546,
+      "lon": 1.135416,
+      "name": "Gare routière de nyékonakpoè",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3926195005,
+      "lat": 6.357885,
+      "lon": 2.085356,
+      "name": "Gare Routière de Ouidah",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4885883366,
+      "lat": 7.094444,
+      "lon": 2.519167,
+      "name": "Gare Routière de Ouinhi",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2608281074,
+      "lat": 10.227611,
+      "lon": 2.001919,
+      "name": "Gare routière de Pehonco",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4618317542,
+      "lat": 6.370688,
+      "lon": 2.426865,
+      "name": "Gare routière de Saint Michel",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3001121768,
+      "lat": 6.24103,
+      "lon": 1.626346,
+      "name": "Gare Routière de Sanvee-Condji",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2175104173,
+      "lat": 10.2509,
+      "lon": 1.38057,
+      "name": "Gare routière des bus",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6672540729,
+      "lat": 6.463023,
+      "lon": 2.300837,
+      "name": "Gare routière deTogba",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1469942708,
+      "lat": 9.533441,
+      "lon": 1.189045,
+      "name": "Gare routière Kabou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12399669730,
+      "lat": 9.539134,
+      "lon": 1.196081,
+      "name": "Gare Routière Nagodé",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12429843322,
+      "lat": 9.539166,
+      "lon": 1.196084,
+      "name": "Gare Routière Nagodé",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7733072688,
+      "lat": 6.240528,
+      "lon": 1.210363,
+      "name": "Gare routière sauvage à destination du Nord du pays",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5909851528,
+      "lat": 11.13318,
+      "lon": 2.934811,
+      "name": "Gare routière SONEF",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10963434074,
+      "lat": 6.370336,
+      "lon": 2.435298,
+      "name": "Gare routière tokpa",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4677350963,
+      "lat": 6.365896,
+      "lon": 2.434952,
+      "name": "Gare Sèmè-Igolo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4912570260,
+      "lat": 6.355831,
+      "lon": 2.439471,
+      "name": "Gare STIFF",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2771929498,
+      "lat": 6.37944,
+      "lon": 2.33975,
+      "name": "Godomey",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12834529002,
+      "lat": 6.616594,
+      "lon": 2.254843,
+      "name": "Halte Routière Miwa",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7605703910,
+      "lat": 6.803209,
+      "lon": 2.171914,
+      "name": "Houègbo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7606063006,
+      "lat": 6.802172,
+      "lon": 2.172954,
+      "name": "Houègbo-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 738682066,
+      "lat": 6.551581,
+      "lon": 3.241053,
+      "name": "Igando",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5326846775,
+      "lat": 6.551129,
+      "lon": 3.238814,
+      "name": "Igando Police Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6288801278,
+      "lat": 6.47754,
+      "lon": 3.343124,
+      "name": "Iganmu",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10777382244,
+      "lat": 6.477553,
+      "lon": 3.343117,
+      "name": "Iganmu",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1258445858,
+      "lat": 6.427996,
+      "lon": 3.258812,
+      "name": "Ijegun Egba Ferry Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658321,
+      "lat": 6.662078,
+      "lon": 3.319271,
+      "name": "Iju",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658337,
+      "lat": 6.591909,
+      "lon": 3.337346,
+      "name": "Ikeja",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 704979167,
+      "lat": 6.591343,
+      "lon": 3.338909,
+      "name": "Ikeja Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1157269475,
+      "lat": 6.591853,
+      "lon": 3.337826,
+      "name": "Ikeja Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 671811998,
+      "lat": 6.621182,
+      "lon": 3.501987,
+      "name": "Ikorodu Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 659370442,
+      "lat": 6.602258,
+      "lon": 3.486168,
+      "name": "Ikorodu Ferry Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3085114204,
+      "lat": 6.549378,
+      "lon": 3.267998,
+      "name": "Ikotun Bus Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321837211,
+      "lat": 6.633759,
+      "lon": 3.301423,
+      "name": "Ile-Epo Bus Stop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9675814322,
+      "lat": 11.923248,
+      "lon": 3.334544,
+      "name": "INRAN Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4917044812,
+      "lat": 6.92947,
+      "lon": 3.223562,
+      "name": "Itori",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6289421889,
+      "lat": 10.26462,
+      "lon": 1.37975,
+      "name": "JNP fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6318541885,
+      "lat": 9.31939,
+      "lon": 2.60741,
+      "name": "JNP fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6318542185,
+      "lat": 7.741669,
+      "lon": 2.186702,
+      "name": "JNP fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12061610701,
+      "lat": 6.424371,
+      "lon": 2.320438,
+      "name": "JNP station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9074714185,
+      "lat": 6.814648,
+      "lon": 3.231215,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 9827816153,
+      "lat": 6.814605,
+      "lon": 3.231083,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 9827816154,
+      "lat": 6.814569,
+      "lon": 3.230974,
+      "name": "Kajola",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 981033737,
+      "lat": 6.814707,
+      "lon": 3.231423,
+      "name": "Kajola Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321838523,
+      "lat": 6.642083,
+      "lon": 3.304664,
+      "name": "Katangua Bus Stop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7560059738,
+      "lat": 8.545453,
+      "lon": 2.633671,
+      "name": "Kilibo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6285691986,
+      "lat": 8.581795,
+      "lon": 2.599451,
+      "name": "Kilibo station essence",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7560059742,
+      "lat": 8.545348,
+      "lon": 2.634927,
+      "name": "Kilibo-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7558422534,
+      "lat": 8.387384,
+      "lon": 2.624898,
+      "name": "Kokoro",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7558422464,
+      "lat": 8.390945,
+      "lon": 2.622857,
+      "name": "Kokoro Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3927623421,
+      "lat": 6.478159,
+      "lon": 2.621161,
+      "name": "Kpobe la Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 195246912,
+      "lat": 10.30666,
+      "lon": 1.379804,
+      "name": "La Poste du Benin",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5636711422,
+      "lat": 6.23608,
+      "lon": 1.210775,
+      "name": "La Station de Cheval Blanc",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 87798461,
+      "lat": 6.469867,
+      "lon": 3.382517,
+      "name": "Lagos Terminus",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 936680134,
+      "lat": 6.68729,
+      "lon": 3.303531,
+      "name": "Lateef Jakande Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8226297037,
+      "lat": 8.327803,
+      "lon": 0.988445,
+      "name": "Lycée de Blitta-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2505412763,
+      "lat": 8.178758,
+      "lon": 0.98612,
+      "name": "Lycee Pagala Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1144287447,
+      "lat": 6.555738,
+      "lon": 3.324266,
+      "name": "Mafoluku Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5428964318,
+      "lat": 7.221339,
+      "lon": 2.340968,
+      "name": "Marché Gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10776098576,
+      "lat": 6.44616,
+      "lon": 3.395029,
+      "name": "Marina",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321599125,
+      "lat": 6.446131,
+      "lon": 3.394823,
+      "name": "Marina Train Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 671812228,
+      "lat": 6.605471,
+      "lon": 3.39961,
+      "name": "Mile 12 Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6288801244,
+      "lat": 6.459976,
+      "lon": 3.311754,
+      "name": "Mile 2",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10777382245,
+      "lat": 6.45993,
+      "lon": 3.311727,
+      "name": "Mile 2",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1322975948,
+      "lat": 6.459877,
+      "lon": 3.311633,
+      "name": "Mile 2",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5451914625,
+      "lat": 10.618671,
+      "lon": 1.271642,
+      "name": "Minivan and Shared taxi station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 93683519,
+      "lat": 6.650403,
+      "lon": 3.30343,
+      "name": "Mobil Petrol Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6371384381,
+      "lat": 6.589605,
+      "lon": 3.517927,
+      "name": "Mobile Police station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658320,
+      "lat": 6.501766,
+      "lon": 3.373685,
+      "name": "Mobolaji Johnson Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10844061631,
+      "lat": 7.526318,
+      "lon": 1.136155,
+      "name": "Mosquée de la gare routière Nyekonakpoe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6318540787,
+      "lat": 7.770687,
+      "lon": 2.184247,
+      "name": "MRS fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658330,
+      "lat": 6.532482,
+      "lon": 3.361425,
+      "name": "Mushin",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9223439677,
+      "lat": 11.613141,
+      "lon": 1.594164,
+      "name": "Nagare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9223439671,
+      "lat": 12.389745,
+      "lon": 1.552388,
+      "name": "Namagare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6288801277,
+      "lat": 6.474559,
+      "lon": 3.368737,
+      "name": "National Theatre",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10777382247,
+      "lat": 6.474679,
+      "lon": 3.36877,
+      "name": "National Theatre",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7602767605,
+      "lat": 6.392631,
+      "lon": 1.975629,
+      "name": "Nazounmè Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 738528609,
+      "lat": 6.449579,
+      "lon": 3.408711,
+      "name": "Obalende Bus Terminus",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9534954211,
+      "lat": 6.473096,
+      "lon": 3.18529,
+      "name": "Okoko Police Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 863764134,
+      "lat": 7.40908,
+      "lon": 3.747443,
+      "name": "Omi-Adio Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 670003658,
+      "lat": 6.463582,
+      "lon": 3.416048,
+      "name": "Osborne Ferry Terminal Ikoyi",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658336,
+      "lat": 6.557253,
+      "lon": 3.351407,
+      "name": "Oshodi",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 693552184,
+      "lat": 6.554916,
+      "lon": 3.351237,
+      "name": "Oshodi Transport Interchange - Terminal 1",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 693552185,
+      "lat": 6.555814,
+      "lon": 3.350837,
+      "name": "Oshodi Transport Interchange - Terminal 2",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 693552186,
+      "lat": 6.556593,
+      "lon": 3.352712,
+      "name": "Oshodi Transport Interchange - Terminal 3",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7908617820,
+      "lat": 6.353734,
+      "lon": 2.086311,
+      "name": "Ouidah",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658324,
+      "lat": 6.48343,
+      "lon": 3.38146,
+      "name": "Oyingbo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658326,
+      "lat": 6.48341,
+      "lon": 3.381411,
+      "name": "Oyingbo",
+      "type": "stop",
+      "country": "BJ"
+    },
+    {
+      "id": 706089072,
+      "lat": 6.480871,
+      "lon": 3.382919,
+      "name": "Oyingbo Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1157080488,
+      "lat": 6.483289,
+      "lon": 3.381228,
+      "name": "Oyingbo Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2505435386,
+      "lat": 8.178716,
+      "lon": 0.977315,
+      "name": "Pagala Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7628432003,
+      "lat": 6.384897,
+      "lon": 2.213046,
+      "name": "Pahou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9074714198,
+      "lat": 6.913354,
+      "lon": 3.23336,
+      "name": "Papalanto Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4211214258,
+      "lat": 9.348694,
+      "lon": 2.6098,
+      "name": "Parakou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 235016114,
+      "lat": 9.342426,
+      "lon": 2.626557,
+      "name": "Parc ATT (Ayina Tourisme Transport)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10782291065,
+      "lat": 7.515487,
+      "lon": 1.152029,
+      "name": "Petit marché d'Agbonou gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2436724556,
+      "lat": 6.35814,
+      "lon": 2.086367,
+      "name": "Petite gare routière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970539467,
+      "lat": 9.343795,
+      "lon": 2.610279,
+      "name": "Pharmacie de la gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12353602200,
+      "lat": 6.688804,
+      "lon": 3.414225,
+      "name": "Police Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7674172323,
+      "lat": 6.478578,
+      "lon": 2.621208,
+      "name": "Porto-Novo",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1323182112,
+      "lat": 7.129176,
+      "lon": 3.398436,
+      "name": "Professor Wole Shoyinka Station, Laderin",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1504462083,
+      "lat": 6.779259,
+      "lon": 1.832712,
+      "name": "Pumpstation",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4211265215,
+      "lat": 8.034694,
+      "lon": 2.482424,
+      "name": "Savè",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2069354114,
+      "lat": 7.495347,
+      "lon": 2.07204,
+      "name": "Setto",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 93683512,
+      "lat": 6.647685,
+      "lon": 3.306563,
+      "name": "So Fine Petrol Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6289421888,
+      "lat": 9.8416,
+      "lon": 1.54497,
+      "name": "Sonacap fuel station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7796667391,
+      "lat": 7.143728,
+      "lon": 2.650943,
+      "name": "Sous station CEB ONIGBOLO 1",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10855726091,
+      "lat": 7.521779,
+      "lon": 1.147182,
+      "name": "Sous station de la CEET",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 946522312,
+      "lat": 9.001783,
+      "lon": 1.670206,
+      "name": "station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5772029253,
+      "lat": 6.754183,
+      "lon": 2.169241,
+      "name": "Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110203129,
+      "lat": 9.700843,
+      "lon": 1.781464,
+      "name": "Station  de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12063381993,
+      "lat": 6.712208,
+      "lon": 2.15627,
+      "name": "Station \" YATT & CO ENERGY",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12063384888,
+      "lat": 6.722945,
+      "lon": 2.160124,
+      "name": "Station ACF",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4029928430,
+      "lat": 6.471151,
+      "lon": 2.35696,
+      "name": "Station ADN OIL",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4988573221,
+      "lat": 9.358372,
+      "lon": 2.63324,
+      "name": "Station AIR sa",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9870718690,
+      "lat": 6.400509,
+      "lon": 1.97351,
+      "name": "Station ANOR",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4508195770,
+      "lat": 6.627458,
+      "lon": 1.710703,
+      "name": "Station anor Petroleum S.A.",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12063355137,
+      "lat": 6.727927,
+      "lon": 2.162579,
+      "name": "Station Bénin petro ''salam\"",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12063365191,
+      "lat": 6.713813,
+      "lon": 2.1566,
+      "name": "Station BK Bénin Petrolium",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8147222938,
+      "lat": 9.26148,
+      "lon": 0.779078,
+      "name": "Station CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3904759321,
+      "lat": 6.35635,
+      "lon": 2.42894,
+      "name": "Station Ceminots-Barrières",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3876474479,
+      "lat": 6.361312,
+      "lon": 2.422094,
+      "name": "Station Château d'Eau Sonacop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8465042519,
+      "lat": 7.225883,
+      "lon": 1.820788,
+      "name": "Station d IRRIGATION",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4250101089,
+      "lat": 6.402146,
+      "lon": 1.894042,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12423049408,
+      "lat": 6.726646,
+      "lon": 2.117448,
+      "name": "Station d'essence",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8397391350,
+      "lat": 6.416215,
+      "lon": 1.865218,
+      "name": "Station d'essence JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4250111199,
+      "lat": 6.398789,
+      "lon": 1.880951,
+      "name": "Station d'essence petroleum",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11557864226,
+      "lat": 6.236809,
+      "lon": 1.210256,
+      "name": "Station d'essence SANOL",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9085112344,
+      "lat": 6.340698,
+      "lon": 1.110598,
+      "name": "Station d'essence T - oil de kovié",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9173364570,
+      "lat": 6.357161,
+      "lon": 1.09689,
+      "name": "Station d'expérimentations agronomique de kovié",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9700887117,
+      "lat": 6.879579,
+      "lon": 0.822392,
+      "name": "Station de captage d'eau potable",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5592355609,
+      "lat": 6.428673,
+      "lon": 2.327135,
+      "name": "Station de lavage chez Maurice",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11449755829,
+      "lat": 6.946194,
+      "lon": 1.174705,
+      "name": "Station de notse barrière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110206701,
+      "lat": 9.711904,
+      "lon": 1.770234,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110213311,
+      "lat": 9.708476,
+      "lon": 1.776886,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110213312,
+      "lat": 9.707885,
+      "lon": 1.777784,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110214257,
+      "lat": 9.708014,
+      "lon": 1.778246,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110215733,
+      "lat": 9.713009,
+      "lon": 1.770486,
+      "name": "Station de pompage",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9275288721,
+      "lat": 8.657741,
+      "lon": 1.014974,
+      "name": "Station de Pompage d'eau",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10110216422,
+      "lat": 9.70038,
+      "lon": 1.781422,
+      "name": "Station de pompage Soneb Djougou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9348618612,
+      "lat": 6.448003,
+      "lon": 1.027386,
+      "name": "Station de recherche du Laboratoire de recherche forestière",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11772391902,
+      "lat": 7.769571,
+      "lon": 1.19308,
+      "name": "Station de services Oando",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4116355039,
+      "lat": 6.438482,
+      "lon": 1.265544,
+      "name": "Station de Traitement d'eau",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11098012411,
+      "lat": 9.354138,
+      "lon": 2.624734,
+      "name": "Station de vente ORYX",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7640326485,
+      "lat": 6.446683,
+      "lon": 1.077945,
+      "name": "Station Dicloro d'Alokoegbe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970429276,
+      "lat": 9.336095,
+      "lon": 2.641628,
+      "name": "Station essence",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3935743486,
+      "lat": 6.448723,
+      "lon": 0.914842,
+      "name": "Station essence MRS",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1750968517,
+      "lat": 10.295931,
+      "lon": 1.381111,
+      "name": "Station essence SONACOP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9795382617,
+      "lat": 6.408641,
+      "lon": 2.343263,
+      "name": "Station Ewell",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970456172,
+      "lat": 9.387402,
+      "lon": 2.611558,
+      "name": "Station EWELL",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5900104742,
+      "lat": 11.122481,
+      "lon": 2.925801,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10022567095,
+      "lat": 6.457557,
+      "lon": 2.324575,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10090634828,
+      "lat": 10.806529,
+      "lon": 2.098409,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970587982,
+      "lat": 9.399235,
+      "lon": 2.620397,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970596040,
+      "lat": 9.399568,
+      "lon": 2.62046,
+      "name": "Station JNP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12159469890,
+      "lat": 6.513897,
+      "lon": 2.605173,
+      "name": "Station JPN",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2623897014,
+      "lat": 10.615694,
+      "lon": 1.274227,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3989796508,
+      "lat": 6.417877,
+      "lon": 2.346313,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4029928431,
+      "lat": 6.471758,
+      "lon": 2.356822,
+      "name": "Station MRS",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2427781882,
+      "lat": 11.893941,
+      "lon": 3.460803,
+      "name": "Station Nigrer oil",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10782320254,
+      "lat": 7.526156,
+      "lon": 1.135413,
+      "name": "Station Nykonakpoe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12063343173,
+      "lat": 6.709309,
+      "lon": 2.155647,
+      "name": "Station ORIBA",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11945874556,
+      "lat": 9.354323,
+      "lon": 2.624707,
+      "name": "Station oryx",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970538978,
+      "lat": 9.39338,
+      "lon": 2.621795,
+      "name": "Station Oryx",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12061556258,
+      "lat": 6.662883,
+      "lon": 2.153034,
+      "name": "Station Oryx",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2432223442,
+      "lat": 6.369884,
+      "lon": 2.520796,
+      "name": "Station ORYX",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5171289536,
+      "lat": 6.417351,
+      "lon": 2.344813,
+      "name": "Station puma",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2499580590,
+      "lat": 6.426985,
+      "lon": 2.348805,
+      "name": "Station relais ORTB",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2428047912,
+      "lat": 11.896651,
+      "lon": 3.463208,
+      "name": "Station Rissa Petrolium",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970498157,
+      "lat": 9.36277,
+      "lon": 2.624779,
+      "name": "Station Royal Bénin SA",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2425338293,
+      "lat": 6.361641,
+      "lon": 2.415417,
+      "name": "Station SAFEGUARD",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970594119,
+      "lat": 9.400377,
+      "lon": 2.620012,
+      "name": "Station Salam Petro dysfonctionnement",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970506577,
+      "lat": 9.390955,
+      "lon": 2.621628,
+      "name": "Station service",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4124718277,
+      "lat": 6.273762,
+      "lon": 1.799011,
+      "name": "Station Service",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6597469122,
+      "lat": 6.231965,
+      "lon": 1.210765,
+      "name": "Station service Agoè Star",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6166455823,
+      "lat": 8.320411,
+      "lon": 0.990953,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7353135166,
+      "lat": 6.233363,
+      "lon": 1.145275,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8861039852,
+      "lat": 6.260696,
+      "lon": 1.162946,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12252445364,
+      "lat": 9.034364,
+      "lon": 1.136072,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12736297695,
+      "lat": 7.579892,
+      "lon": 1.157803,
+      "name": "Station service CAP",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12159475225,
+      "lat": 6.515571,
+      "lon": 2.604757,
+      "name": "Station service ghaya  akonanboe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3975334639,
+      "lat": 6.44373,
+      "lon": 2.353617,
+      "name": "Station service MRS",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5219375447,
+      "lat": 6.230952,
+      "lon": 1.112052,
+      "name": "Station service Oando",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6360161066,
+      "lat": 7.539705,
+      "lon": 1.14618,
+      "name": "Station Service Oando",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4218983263,
+      "lat": 6.388576,
+      "lon": 2.301997,
+      "name": "Station Service Oryx",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12159462953,
+      "lat": 6.512927,
+      "lon": 2.60639,
+      "name": "Station service progaz",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11772385163,
+      "lat": 7.651859,
+      "lon": 0.789923,
+      "name": "Station Service SADKO",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4343342885,
+      "lat": 6.344509,
+      "lon": 1.214354,
+      "name": "Station service Sanol",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 13461309906,
+      "lat": 9.555342,
+      "lon": 1.194753,
+      "name": "Station service Sanol",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11059380033,
+      "lat": 9.559545,
+      "lon": 1.192719,
+      "name": "Station service Zener",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6326362785,
+      "lat": 6.733593,
+      "lon": 2.164937,
+      "name": "Station services Somayep",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4209417013,
+      "lat": 8.987192,
+      "lon": 1.139222,
+      "name": "Station Sokodé Aléhéride",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3261626174,
+      "lat": 6.402489,
+      "lon": 1.904372,
+      "name": "Station Solem",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2605982193,
+      "lat": 6.383425,
+      "lon": 2.380813,
+      "name": "Station SOLEN",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7141299800,
+      "lat": 6.866763,
+      "lon": 1.182868,
+      "name": "Station SOMAYAF",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10970585708,
+      "lat": 9.398903,
+      "lon": 2.620477,
+      "name": "Station Somayaf Bénin SA",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2337855247,
+      "lat": 10.287889,
+      "lon": 1.381679,
+      "name": "Station Sonacop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3976417545,
+      "lat": 6.452362,
+      "lon": 2.356505,
+      "name": "Station Sonacop",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6311787885,
+      "lat": 6.364188,
+      "lon": 2.410594,
+      "name": "Station Sonacop de Gbégamey",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4858054700,
+      "lat": 7.356821,
+      "lon": 2.612718,
+      "name": "station sonacope",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10968667819,
+      "lat": 9.377812,
+      "lon": 2.631162,
+      "name": "Station Sowayaf-Bénin SA",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10989975963,
+      "lat": 6.507038,
+      "lon": 2.656001,
+      "name": "Station st jean - Bosco de tanmey",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 4172381294,
+      "lat": 6.376419,
+      "lon": 2.463678,
+      "name": "Station SURU LERE",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9063077795,
+      "lat": 6.340628,
+      "lon": 1.110696,
+      "name": "Station T oil",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10822161045,
+      "lat": 7.526184,
+      "lon": 1.134879,
+      "name": "Station T-OIL Nyekonakpoe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 6547956788,
+      "lat": 7.766046,
+      "lon": 1.192929,
+      "name": "Station taxi",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10773548505,
+      "lat": 6.381489,
+      "lon": 2.339011,
+      "name": "Station taxi brousse",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 8430049307,
+      "lat": 6.341128,
+      "lon": 1.108074,
+      "name": "Station taxi Kovié",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11580353304,
+      "lat": 6.334026,
+      "lon": 1.531038,
+      "name": "Station Total",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12429563490,
+      "lat": 9.656874,
+      "lon": 1.133275,
+      "name": "Station Total",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 9870729222,
+      "lat": 6.40212,
+      "lon": 1.901289,
+      "name": "Station Whtp",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5817775354,
+      "lat": 6.430323,
+      "lon": 1.213182,
+      "name": "Station Zemidjan",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 671991257,
+      "lat": 6.445717,
+      "lon": 3.400995,
+      "name": "Tafawa Balewa Square Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7024237360,
+      "lat": 8.882702,
+      "lon": 2.602052,
+      "name": "Tchaourou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2069354620,
+      "lat": 9.107238,
+      "lon": 2.564685,
+      "name": "Tchatchou",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 593494006,
+      "lat": 6.464133,
+      "lon": 3.417493,
+      "name": "Texas Connection Ferries",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12287862270,
+      "lat": 6.527905,
+      "lon": 3.235899,
+      "name": "TFK filling station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7825404858,
+      "lat": 6.511218,
+      "lon": 2.176897,
+      "name": "Tori-Bossito",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 5064340101,
+      "lat": 6.511851,
+      "lon": 2.17478,
+      "name": "Tori-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10718820435,
+      "lat": 6.856972,
+      "lon": 3.629881,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 11121944341,
+      "lat": 6.473347,
+      "lon": 3.624825,
+      "name": "Total Filling Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3840854951,
+      "lat": 8.668416,
+      "lon": 2.621846,
+      "name": "Toui",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 7517770754,
+      "lat": 8.662538,
+      "lon": 2.631958,
+      "name": "Toui Gare Gah",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 3840856935,
+      "lat": 8.668725,
+      "lon": 2.622665,
+      "name": "Toui-Gare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 501519145,
+      "lat": 11.466808,
+      "lon": 3.670558,
+      "name": "Tungan Daudu Ngare",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 707240101,
+      "lat": 6.518422,
+      "lon": 3.394845,
+      "name": "Unilag Shuttle Bus Station",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1020740968,
+      "lat": 6.470133,
+      "lon": 3.382563,
+      "name": "Unnamed (node 1020740968)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 1020741012,
+      "lat": 6.470103,
+      "lon": 3.382485,
+      "name": "Unnamed (node 1020741012)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 1020741115,
+      "lat": 6.470036,
+      "lon": 3.382309,
+      "name": "Unnamed (node 1020741115)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10727987487,
+      "lat": 6.442993,
+      "lon": 3.39955,
+      "name": "Unnamed (node 10727987487)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10967957846,
+      "lat": 6.470052,
+      "lon": 3.382351,
+      "name": "Unnamed (node 10967957846)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 10967957868,
+      "lat": 6.47047,
+      "lon": 3.382543,
+      "name": "Unnamed (node 10967957868)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 2177013932,
+      "lat": 6.821773,
+      "lon": 3.234955,
+      "name": "Unnamed (node 2177013932)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2177013967,
+      "lat": 7.155701,
+      "lon": 3.324762,
+      "name": "Unnamed (node 2177013967)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2177038953,
+      "lat": 7.393993,
+      "lon": 3.74865,
+      "name": "Unnamed (node 2177038953)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 2203705920,
+      "lat": 7.532382,
+      "lon": 1.123656,
+      "name": "Unnamed (node 2203705920)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 2203705922,
+      "lat": 7.532401,
+      "lon": 1.123779,
+      "name": "Unnamed (node 2203705922)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 3530049652,
+      "lat": 9.35067,
+      "lon": 2.611539,
+      "name": "Unnamed (node 3530049652)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 4063582227,
+      "lat": 7.359506,
+      "lon": 2.110011,
+      "name": "Unnamed (node 4063582227)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 637901664,
+      "lat": 6.44523,
+      "lon": 1.4456,
+      "name": "Unnamed (node 637901664)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 6812083139,
+      "lat": 9.35029,
+      "lon": 2.610526,
+      "name": "Unnamed (node 6812083139)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7563522978,
+      "lat": 8.037686,
+      "lon": 2.480963,
+      "name": "Unnamed (node 7563522978)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7566503221,
+      "lat": 7.362121,
+      "lon": 2.110287,
+      "name": "Unnamed (node 7566503221)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7566503232,
+      "lat": 7.357003,
+      "lon": 2.106033,
+      "name": "Unnamed (node 7566503232)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680541404,
+      "lat": 6.355655,
+      "lon": 2.436704,
+      "name": "Unnamed (node 7680541404)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680541409,
+      "lat": 6.355596,
+      "lon": 2.434712,
+      "name": "Unnamed (node 7680541409)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680541422,
+      "lat": 6.354827,
+      "lon": 2.427961,
+      "name": "Unnamed (node 7680541422)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712400,
+      "lat": 6.355854,
+      "lon": 2.435588,
+      "name": "Unnamed (node 7680712400)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712402,
+      "lat": 6.355915,
+      "lon": 2.43473,
+      "name": "Unnamed (node 7680712402)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712410,
+      "lat": 6.356174,
+      "lon": 2.434732,
+      "name": "Unnamed (node 7680712410)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712424,
+      "lat": 6.355914,
+      "lon": 2.429019,
+      "name": "Unnamed (node 7680712424)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712431,
+      "lat": 6.355803,
+      "lon": 2.429659,
+      "name": "Unnamed (node 7680712431)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7680712445,
+      "lat": 6.355467,
+      "lon": 2.434718,
+      "name": "Unnamed (node 7680712445)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7681065964,
+      "lat": 6.346228,
+      "lon": 2.413854,
+      "name": "Unnamed (node 7681065964)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7681069656,
+      "lat": 6.342853,
+      "lon": 2.418736,
+      "name": "Unnamed (node 7681069656)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 7709613770,
+      "lat": 6.355117,
+      "lon": 2.427913,
+      "name": "Unnamed (node 7709613770)",
+      "type": "buffer_stop",
+      "country": "BJ"
+    },
+    {
+      "id": 8350514725,
+      "lat": 9.65857,
+      "lon": 1.307981,
+      "name": "Unnamed (node 8350514725)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321707672,
+      "lat": 6.576233,
+      "lon": 3.343412,
+      "name": "Unnamed (way 1321707672)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321707835,
+      "lat": 6.580473,
+      "lon": 3.341693,
+      "name": "Unnamed (way 1321707835)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321708000,
+      "lat": 6.571341,
+      "lon": 3.345398,
+      "name": "Unnamed (way 1321708000)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321709197,
+      "lat": 6.588196,
+      "lon": 3.338557,
+      "name": "Unnamed (way 1321709197)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321709319,
+      "lat": 6.595834,
+      "lon": 3.335434,
+      "name": "Unnamed (way 1321709319)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321785654,
+      "lat": 6.620123,
+      "lon": 3.479059,
+      "name": "Unnamed (way 1321785654)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321834204,
+      "lat": 6.607008,
+      "lon": 3.318993,
+      "name": "Unnamed (way 1321834204)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321835039,
+      "lat": 6.608091,
+      "lon": 3.326959,
+      "name": "Unnamed (way 1321835039)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321836890,
+      "lat": 6.629289,
+      "lon": 3.299694,
+      "name": "Unnamed (way 1321836890)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1321839817,
+      "lat": 6.620639,
+      "lon": 3.299816,
+      "name": "Unnamed (way 1321839817)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1323241558,
+      "lat": 6.561142,
+      "lon": 3.349546,
+      "name": "Unnamed (way 1323241558)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1323280714,
+      "lat": 6.611945,
+      "lon": 3.30529,
+      "name": "Unnamed (way 1323280714)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 1337648066,
+      "lat": 12.071136,
+      "lon": 1.782669,
+      "name": "Unnamed (way 1337648066)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 215166917,
+      "lat": 7.530928,
+      "lon": 1.12455,
+      "name": "Unnamed (way 215166917)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 459142491,
+      "lat": 6.372245,
+      "lon": 2.440501,
+      "name": "Unnamed (way 459142491)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 662451287,
+      "lat": 6.474549,
+      "lon": 3.368723,
+      "name": "Unnamed (way 662451287)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 707648525,
+      "lat": 6.640073,
+      "lon": 3.370995,
+      "name": "Unnamed (way 707648525)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 707648541,
+      "lat": 6.640048,
+      "lon": 3.369664,
+      "name": "Unnamed (way 707648541)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 734438177,
+      "lat": 6.617772,
+      "lon": 3.299535,
+      "name": "Unnamed (way 734438177)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 734438184,
+      "lat": 6.620322,
+      "lon": 3.301561,
+      "name": "Unnamed (way 734438184)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 747160992,
+      "lat": 6.605511,
+      "lon": 3.398791,
+      "name": "Unnamed (way 747160992)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 787313504,
+      "lat": 6.672253,
+      "lon": 3.270641,
+      "name": "Unnamed (way 787313504)",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10780601085,
+      "lat": 7.525229,
+      "lon": 1.148622,
+      "name": "WC de la station centre culturel",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10780601076,
+      "lat": 7.526219,
+      "lon": 1.134951,
+      "name": "WC de la station Nyekonakpoe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 10780601074,
+      "lat": 7.526299,
+      "lon": 1.135068,
+      "name": "WC gare routière nykonakpoe",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12260658329,
+      "lat": 6.511469,
+      "lon": 3.369998,
+      "name": "Yaba",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 707609369,
+      "lat": 6.510815,
+      "lon": 3.370799,
+      "name": "Yaba Bus Terminal",
+      "type": "station",
+      "country": "BJ"
+    },
+    {
+      "id": 12540041130,
+      "lat": 6.624557,
+      "lon": 2.538243,
+      "name": "Zounguè-Saï Lagare",
+      "type": "station",
+      "country": "BJ"
+    }
+  ]
+}

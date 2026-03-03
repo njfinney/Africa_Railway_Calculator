@@ -1,0 +1,2287 @@
+{
+  "country": "SD",
+  "name": "Sudan",
+  "region": "North Africa",
+  "bbox": [
+    8.68,
+    21.84,
+    22.23,
+    38.58
+  ],
+  "extracted": "2026-03-03T12:20:35.837Z",
+  "count": 284,
+  "stations": [
+    {
+      "id": 12227145802,
+      "lat": 16.698347,
+      "lon": 33.43522,
+      "name": "(محطة شندي) سكة حديدالسودان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 3315655881,
+      "lat": 15.738847,
+      "lon": 38.323743,
+      "name": "/ اتسيوني / Aziona",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1324845446,
+      "lat": 21.75905,
+      "lon": 31.458606,
+      "name": "1 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323002820,
+      "lat": 19.695088,
+      "lon": 33.14611,
+      "name": "10 محطة رقم",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 6057686147,
+      "lat": 15.712839,
+      "lon": 32.577863,
+      "name": "13 station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1324847550,
+      "lat": 21.597013,
+      "lon": 31.707662,
+      "name": "2 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 13418071527,
+      "lat": 15.662573,
+      "lon": 32.623081,
+      "name": "24 Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1324849671,
+      "lat": 21.495915,
+      "lon": 31.969139,
+      "name": "3 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2031094728,
+      "lat": 21.421106,
+      "lon": 32.117244,
+      "name": "3/4 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2031094179,
+      "lat": 21.158069,
+      "lon": 32.345563,
+      "name": "4/5 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 233032555,
+      "lat": 20.750637,
+      "lon": 32.54696,
+      "name": "6 محطة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 13026279644,
+      "lat": 15.460972,
+      "lon": 32.463296,
+      "name": "8 Station Police booh",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11871658381,
+      "lat": 15.561139,
+      "lon": 32.432933,
+      "name": "A'wad Shail Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320002,
+      "lat": 19.215955,
+      "lon": 32.333632,
+      "name": "Abu Ghirban Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294312889,
+      "lat": 19.076205,
+      "lon": 32.114874,
+      "name": "Abu Haraz Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 324889040,
+      "lat": 15.546103,
+      "lon": 37.881177,
+      "name": "Akordat",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11772106392,
+      "lat": 13.013025,
+      "lon": 30.373267,
+      "name": "Al 'Ain",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731807687,
+      "lat": 10.633333,
+      "lon": 27.866667,
+      "name": "Al ‘Angareib",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8386258998,
+      "lat": 15.346241,
+      "lon": 32.753341,
+      "name": "al bagair train station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5995905395,
+      "lat": 15.628891,
+      "lon": 32.489001,
+      "name": "AL Morada station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11871656894,
+      "lat": 15.580502,
+      "lon": 32.371837,
+      "name": "Al Mowaylih Police Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 36232575,
+      "lat": 15.585847,
+      "lon": 32.513388,
+      "name": "Al-Nahla Petrol Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6284503986,
+      "lat": 19.613785,
+      "lon": 37.215741,
+      "name": "Alamjad station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8386259006,
+      "lat": 15.265576,
+      "lon": 32.922849,
+      "name": "almaseed train station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6052525692,
+      "lat": 15.492871,
+      "lon": 32.565319,
+      "name": "Alsihreej Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6812458487,
+      "lat": 15.59158,
+      "lon": 32.643507,
+      "name": "Alterifi gas station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1465989888,
+      "lat": 8.981444,
+      "lon": 37.869724,
+      "name": "Ambu Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150900336,
+      "lat": 13.25,
+      "lon": 37.1,
+      "name": "Angareb",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9872513134,
+      "lat": 10.106519,
+      "lon": 30.082528,
+      "name": "Angareb Shop",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 444884545,
+      "lat": 18.175482,
+      "lon": 35.404989,
+      "name": "Ar Rawjal",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1829439679,
+      "lat": 10.058971,
+      "lon": 34.540887,
+      "name": "Assosa Busstation",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1354559801,
+      "lat": 8.761267,
+      "lon": 27.394746,
+      "name": "Aweil",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1281185175,
+      "lat": 12.553076,
+      "lon": 37.420437,
+      "name": "Azezo/Gondar Bus Terminal",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 277597369,
+      "lat": 11.590545,
+      "lon": 37.389595,
+      "name": "Bahir Dar Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 166763307,
+      "lat": 15.623062,
+      "lon": 32.531563,
+      "name": "Bahri Central Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7380153983,
+      "lat": 16.128394,
+      "lon": 32.695341,
+      "name": "BAPCO metering station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731492964,
+      "lat": 10.145387,
+      "lon": 23.763854,
+      "name": "Bi’r Majangare",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 667866716,
+      "lat": 10.447471,
+      "lon": 38.200688,
+      "name": "Bichena bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11871656885,
+      "lat": 15.554758,
+      "lon": 32.41199,
+      "name": "Block 50 Police Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5507391421,
+      "lat": 18.546666,
+      "lon": 31.845223,
+      "name": "Bsu station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 586786807,
+      "lat": 10.701973,
+      "lon": 37.060566,
+      "name": "bure bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 671560286,
+      "lat": 12.553104,
+      "lon": 37.427232,
+      "name": "Bus and Taxi Terminal",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 3347854993,
+      "lat": 14.059765,
+      "lon": 35.361531,
+      "name": "Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10779655705,
+      "lat": 19.626089,
+      "lon": 37.19495,
+      "name": "Busstation from Atbara and to Kassala",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1748623264,
+      "lat": 10.851646,
+      "lon": 37.599261,
+      "name": "Busstation to Dembecha",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10779659705,
+      "lat": 17.68842,
+      "lon": 33.999153,
+      "name": "Busstation to Port Sudan",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9489449472,
+      "lat": 11.731481,
+      "lon": 38.468366,
+      "name": "Chinacamp Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2476299687,
+      "lat": 15.534753,
+      "lon": 32.577232,
+      "name": "CNPC Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2276093558,
+      "lat": 19.283993,
+      "lon": 32.502022,
+      "name": "Daghfeli Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10979300170,
+      "lat": 12.239901,
+      "lon": 29.048032,
+      "name": "Dawas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 595141308,
+      "lat": 10.165657,
+      "lon": 38.151093,
+      "name": "Dejen Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6597232204,
+      "lat": 13.182894,
+      "lon": 36.119305,
+      "name": "Delelo Asephalt",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 595145510,
+      "lat": 12.611809,
+      "lon": 37.46938,
+      "name": "Desta Stationery & computer accessory",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150926755,
+      "lat": 9.21667,
+      "lon": 36.83333,
+      "name": "Digare",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10979300178,
+      "lat": 12.125524,
+      "lon": 28.871267,
+      "name": "Eit Daggag Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320005,
+      "lat": 18.672473,
+      "lon": 32.001453,
+      "name": "El Ban Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320000,
+      "lat": 19.295336,
+      "lon": 32.715466,
+      "name": "El Kab Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11833353269,
+      "lat": 19.195698,
+      "lon": 30.434781,
+      "name": "El Mina Main Bus Station Dongola",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2978320043,
+      "lat": 15.714382,
+      "lon": 32.561081,
+      "name": "El-Neil Petrol station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8382932700,
+      "lat": 15.011791,
+      "lon": 33.107172,
+      "name": "elmielg train station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11089300585,
+      "lat": 12.574825,
+      "lon": 29.982987,
+      "name": "En Nabbaka Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 431924516,
+      "lat": 15.655365,
+      "lon": 38.133625,
+      "name": "Ex Mai Adarte",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2279513613,
+      "lat": 15.654626,
+      "lon": 32.544609,
+      "name": "Fuel Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150931452,
+      "lat": 9.05,
+      "lon": 38.25,
+      "name": "Gare",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150886354,
+      "lat": 9.05,
+      "lon": 38.11667,
+      "name": "Gare Tekle Haymanot Bete Kristiyan",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4453309260,
+      "lat": 13.168033,
+      "lon": 32.670222,
+      "name": "Gas station 1",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4453309259,
+      "lat": 13.167939,
+      "lon": 32.671124,
+      "name": "Gas station 2",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6109470790,
+      "lat": 17.32786,
+      "lon": 34.439021,
+      "name": "Gas station Seidoon",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9010419273,
+      "lat": 9.913866,
+      "lon": 29.985266,
+      "name": "Gas/ Petro Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1092931034,
+      "lat": 12.240156,
+      "lon": 37.301682,
+      "name": "Gorgora Terminal",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6112415485,
+      "lat": 17.694075,
+      "lon": 33.982609,
+      "name": "Hai almatar bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6112415486,
+      "lat": 17.692425,
+      "lon": 33.980946,
+      "name": "Hai almatar bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2278056600,
+      "lat": 15.457111,
+      "lon": 36.396328,
+      "name": "Halanga Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 442906001,
+      "lat": 15.745357,
+      "lon": 38.547315,
+      "name": "Halib Mentel هاليب مينتل",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8431154463,
+      "lat": 14.265345,
+      "lon": 36.540494,
+      "name": "Hamdayet Police Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8424183954,
+      "lat": 14.734446,
+      "lon": 33.304338,
+      "name": "Hasahissa Train Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1131541514,
+      "lat": 18.333887,
+      "lon": 36.390132,
+      "name": "Haya",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5847263385,
+      "lat": 14.942536,
+      "lon": 33.242843,
+      "name": "Hilaliya police station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7730433047,
+      "lat": 18.2534,
+      "lon": 37.8235,
+      "name": "Hillat Kagareb",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10672522051,
+      "lat": 9.045134,
+      "lon": 38.499634,
+      "name": "Holeta Last.station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731271032,
+      "lat": 11.833333,
+      "lon": 28.616667,
+      "name": "Jabal Abū Garein",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731289152,
+      "lat": 11.866667,
+      "lon": 30.5,
+      "name": "Jabal al ‘Angareib",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731281668,
+      "lat": 21.295958,
+      "lon": 33.2024,
+      "name": "Jabal Kagaretbar",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731292038,
+      "lat": 13.303925,
+      "lon": 24.500755,
+      "name": "Jabal Ngarei",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10087300405,
+      "lat": 13.463691,
+      "lon": 27.989958,
+      "name": "Jebel Angareb",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11032999486,
+      "lat": 12.495173,
+      "lon": 29.638479,
+      "name": "Jebel Feingar Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8490989517,
+      "lat": 19.637807,
+      "lon": 30.408452,
+      "name": "Juice Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320004,
+      "lat": 18.545171,
+      "lon": 31.850241,
+      "name": "Karima Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320003,
+      "lat": 18.753686,
+      "lon": 31.894717,
+      "name": "Kassinger Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294320001,
+      "lat": 19.411434,
+      "lon": 32.83727,
+      "name": "Keheili Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 3315604719,
+      "lat": 15.77629,
+      "lon": 38.453728,
+      "name": "Keren Bus Station محطة كرن الحافلات",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 442906003,
+      "lat": 15.775006,
+      "lon": 38.467972,
+      "name": "Keren Villaggio كرن قرية",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8386258997,
+      "lat": 15.595073,
+      "lon": 32.527011,
+      "name": "Khartoum train station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731000785,
+      "lat": 15.583333,
+      "lon": 35.633333,
+      "name": "Khor el Halt’a",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2276954367,
+      "lat": 15.70322,
+      "lon": 32.555716,
+      "name": "Kilo Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1856880252,
+      "lat": 15.631976,
+      "lon": 32.555268,
+      "name": "Kobar Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11108024847,
+      "lat": 12.714857,
+      "lon": 22.181078,
+      "name": "Koma Ngarenyo",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1541453456,
+      "lat": 13.16451,
+      "lon": 32.677112,
+      "name": "Kosti Train Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 13422055672,
+      "lat": 14.365706,
+      "lon": 22.45746,
+      "name": "Kulbus police station-مركز شرطة كلبس",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1092896496,
+      "lat": 11.698191,
+      "lon": 36.942608,
+      "name": "Liben Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6425546586,
+      "lat": 14.399711,
+      "lon": 33.52883,
+      "name": "local bus station (cheaper bus)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5229070126,
+      "lat": 14.554727,
+      "lon": 38.502327,
+      "name": "Mai Mine Bus Station እንዳ ኣውቶቡስ ማይ ምነ محطة ماء منه الحافلات",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6108805821,
+      "lat": 17.32665,
+      "lon": 34.437774,
+      "name": "mamoun gas station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1811102911,
+      "lat": 10.869143,
+      "lon": 38.272844,
+      "name": "Mertule Mariam Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7538510611,
+      "lat": 13.804741,
+      "lon": 24.322093,
+      "name": "Mongarei",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150922261,
+      "lat": 13.05,
+      "lon": 37.61667,
+      "name": "Monte Angareb",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11871658469,
+      "lat": 15.610766,
+      "lon": 32.47151,
+      "name": "Nepta Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4525730094,
+      "lat": 17.688227,
+      "lon": 33.999191,
+      "name": "New bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6017956291,
+      "lat": 15.380675,
+      "lon": 32.889511,
+      "name": "Nile gas station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2708721528,
+      "lat": 15.632341,
+      "lon": 32.556194,
+      "name": "Nile Petrol Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6055046596,
+      "lat": 15.532807,
+      "lon": 32.49341,
+      "name": "Nile Petroleum Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6454911439,
+      "lat": 18.146124,
+      "lon": 30.773183,
+      "name": "Nile Pump Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2276925114,
+      "lat": 15.69239,
+      "lon": 32.548863,
+      "name": "Nile Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 44888808,
+      "lat": 15.546997,
+      "lon": 32.555127,
+      "name": "Oilibya Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6000897248,
+      "lat": 15.572258,
+      "lon": 32.575493,
+      "name": "one station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4254718191,
+      "lat": 15.464579,
+      "lon": 32.74723,
+      "name": "Petrodar Oil Pump Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2276944917,
+      "lat": 15.705324,
+      "lon": 32.55727,
+      "name": "Petronas Fuel Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 13418158133,
+      "lat": 15.658987,
+      "lon": 32.6031,
+      "name": "Petronas Gas station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5614995632,
+      "lat": 10.502858,
+      "lon": 37.993496,
+      "name": "police station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4456485823,
+      "lat": 13.504261,
+      "lon": 32.597438,
+      "name": "Police station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12701892540,
+      "lat": 8.849364,
+      "lon": 35.650989,
+      "name": "Police station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1748678060,
+      "lat": 10.8512,
+      "lon": 37.598754,
+      "name": "Police Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4578674516,
+      "lat": 11.581711,
+      "lon": 37.370813,
+      "name": "Police Station (9)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6112459785,
+      "lat": 17.692237,
+      "lon": 33.97425,
+      "name": "Rail ways police station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1150957513,
+      "lat": 12.3,
+      "lon": 37.65,
+      "name": "Sahalt",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4996935448,
+      "lat": 15.571802,
+      "lon": 32.570257,
+      "name": "Sahari Stationary",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9583400696,
+      "lat": 14.557536,
+      "lon": 24.275028,
+      "name": "Sai Nagare",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11704608036,
+      "lat": 8.89951,
+      "lon": 38.576382,
+      "name": "Sebeta",
+      "type": "stop",
+      "country": "SD"
+    },
+    {
+      "id": 4223113007,
+      "lat": 8.899342,
+      "lon": 38.576348,
+      "name": "Sebeta Railway Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 631454277,
+      "lat": 8.899356,
+      "lon": 38.576331,
+      "name": "Sebeta Railway Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11876687054,
+      "lat": 12.673591,
+      "lon": 30.252161,
+      "name": "Sheikan",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 13418150859,
+      "lat": 15.703474,
+      "lon": 32.604377,
+      "name": "Shendi New Bus Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1100557209,
+      "lat": 15.624068,
+      "lon": 32.543785,
+      "name": "Shendi Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 5078775124,
+      "lat": 14.097929,
+      "lon": 38.280222,
+      "name": "Shire bus station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 3957102660,
+      "lat": 15.650517,
+      "lon": 32.623975,
+      "name": "station 20",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11286267992,
+      "lat": 13.316835,
+      "lon": 21.992368,
+      "name": "Station de Pompage",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7199599885,
+      "lat": 18.228712,
+      "lon": 30.70562,
+      "name": "Taxi station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9508163240,
+      "lat": 10.671605,
+      "lon": 37.377065,
+      "name": "Total Ethiopia, Jiga Service Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7730431531,
+      "lat": 12.88333,
+      "lon": 32.51667,
+      "name": "Umm ‘Angareib",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7730431690,
+      "lat": 15.399167,
+      "lon": 33.434444,
+      "name": "Umm ‘Angareib",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2079316472,
+      "lat": 18.912053,
+      "lon": 32.026222,
+      "name": "Umm Rahau Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 11958608764,
+      "lat": 12.735831,
+      "lon": 30.424273,
+      "name": "Umm Sarir",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1024005102,
+      "lat": 12.719066,
+      "lon": 30.633238,
+      "name": "Unnamed (node 1024005102)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10548553234,
+      "lat": 18.334209,
+      "lon": 36.384335,
+      "name": "Unnamed (node 10548553234)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 10548553264,
+      "lat": 18.33459,
+      "lon": 36.387833,
+      "name": "Unnamed (node 10548553264)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 10548553270,
+      "lat": 18.334067,
+      "lon": 36.396511,
+      "name": "Unnamed (node 10548553270)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 10548553292,
+      "lat": 18.332004,
+      "lon": 36.394443,
+      "name": "Unnamed (node 10548553292)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 12223013285,
+      "lat": 15.939497,
+      "lon": 32.586376,
+      "name": "Unnamed (node 12223013285)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12223026928,
+      "lat": 15.892694,
+      "lon": 32.580768,
+      "name": "Unnamed (node 12223026928)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12227487722,
+      "lat": 16.74866,
+      "lon": 33.581772,
+      "name": "Unnamed (node 12227487722)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12227676837,
+      "lat": 17.052183,
+      "lon": 33.708522,
+      "name": "Unnamed (node 12227676837)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12229757422,
+      "lat": 17.316651,
+      "lon": 33.788989,
+      "name": "Unnamed (node 12229757422)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12237569437,
+      "lat": 17.656377,
+      "lon": 33.981092,
+      "name": "Unnamed (node 12237569437)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12241500146,
+      "lat": 19.332078,
+      "lon": 33.418354,
+      "name": "Unnamed (node 12241500146)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1956205516,
+      "lat": 19.915956,
+      "lon": 32.951474,
+      "name": "Unnamed (node 1956205516)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2079136434,
+      "lat": 17.14643,
+      "lon": 33.716114,
+      "name": "Unnamed (node 2079136434)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2079200918,
+      "lat": 17.440745,
+      "lon": 33.892568,
+      "name": "Unnamed (node 2079200918)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2090798227,
+      "lat": 11.67725,
+      "lon": 25.703419,
+      "name": "Unnamed (node 2090798227)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2251276857,
+      "lat": 14.025734,
+      "lon": 35.363934,
+      "name": "Unnamed (node 2251276857)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2251276869,
+      "lat": 14.034638,
+      "lon": 35.380712,
+      "name": "Unnamed (node 2251276869)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2251276935,
+      "lat": 14.042098,
+      "lon": 35.38727,
+      "name": "Unnamed (node 2251276935)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2251276936,
+      "lat": 14.042162,
+      "lon": 35.387287,
+      "name": "Unnamed (node 2251276936)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2313602133,
+      "lat": 21.817539,
+      "lon": 31.335762,
+      "name": "Unnamed (node 2313602133)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713848,
+      "lat": 19.531184,
+      "lon": 33.332987,
+      "name": "Unnamed (node 2318713848)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713860,
+      "lat": 19.532298,
+      "lon": 33.332321,
+      "name": "Unnamed (node 2318713860)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713861,
+      "lat": 19.531354,
+      "lon": 33.332818,
+      "name": "Unnamed (node 2318713861)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713864,
+      "lat": 19.534539,
+      "lon": 33.330371,
+      "name": "Unnamed (node 2318713864)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713883,
+      "lat": 19.534512,
+      "lon": 33.332557,
+      "name": "Unnamed (node 2318713883)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713908,
+      "lat": 19.533804,
+      "lon": 33.32889,
+      "name": "Unnamed (node 2318713908)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713943,
+      "lat": 19.535604,
+      "lon": 33.325897,
+      "name": "Unnamed (node 2318713943)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2318713968,
+      "lat": 19.535965,
+      "lon": 33.324854,
+      "name": "Unnamed (node 2318713968)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2320515656,
+      "lat": 21.803203,
+      "lon": 31.338187,
+      "name": "Unnamed (node 2320515656)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2320515661,
+      "lat": 21.803283,
+      "lon": 31.33816,
+      "name": "Unnamed (node 2320515661)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2320515743,
+      "lat": 21.804979,
+      "lon": 31.34498,
+      "name": "Unnamed (node 2320515743)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2320515764,
+      "lat": 21.805713,
+      "lon": 31.34158,
+      "name": "Unnamed (node 2320515764)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2390994008,
+      "lat": 15.652215,
+      "lon": 32.56004,
+      "name": "Unnamed (node 2390994008)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2390994009,
+      "lat": 15.65222,
+      "lon": 32.55994,
+      "name": "Unnamed (node 2390994009)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2390994010,
+      "lat": 15.652247,
+      "lon": 32.560091,
+      "name": "Unnamed (node 2390994010)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 2589333224,
+      "lat": 11.337224,
+      "lon": 27.808536,
+      "name": "Unnamed (node 2589333224)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 3889088992,
+      "lat": 8.90422,
+      "lon": 38.559172,
+      "name": "Unnamed (node 3889088992)",
+      "type": "buffer_stop",
+      "country": "SD"
+    },
+    {
+      "id": 8151189441,
+      "lat": 12.817905,
+      "lon": 31.034095,
+      "name": "Unnamed (node 8151189441)",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1013083794,
+      "lat": 12.784556,
+      "lon": 36.405184,
+      "name": "Unnamed (way 1013083794)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1042700652,
+      "lat": 9.089242,
+      "lon": 36.55162,
+      "name": "Unnamed (way 1042700652)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1090948217,
+      "lat": 19.332102,
+      "lon": 33.418534,
+      "name": "Unnamed (way 1090948217)",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1093021221,
+      "lat": 11.580011,
+      "lon": 37.384126,
+      "name": "Unnamed (way 1093021221)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1281185170,
+      "lat": 12.552559,
+      "lon": 37.420526,
+      "name": "Unnamed (way 1281185170)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1320818352,
+      "lat": 15.75005,
+      "lon": 32.568316,
+      "name": "Unnamed (way 1320818352)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322506563,
+      "lat": 17.699997,
+      "lon": 33.978721,
+      "name": "Unnamed (way 1322506563)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322506564,
+      "lat": 17.700821,
+      "lon": 33.978708,
+      "name": "Unnamed (way 1322506564)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322929798,
+      "lat": 19.534197,
+      "lon": 33.327434,
+      "name": "Unnamed (way 1322929798)",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1323002821,
+      "lat": 19.695001,
+      "lon": 33.146259,
+      "name": "Unnamed (way 1323002821)",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1323475146,
+      "lat": 13.008646,
+      "lon": 32.048173,
+      "name": "Unnamed (way 1323475146)",
+      "type": "halt",
+      "country": "SD"
+    },
+    {
+      "id": 1323601830,
+      "lat": 18.454382,
+      "lon": 36.654048,
+      "name": "Unnamed (way 1323601830)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1352023266,
+      "lat": 15.563389,
+      "lon": 32.514015,
+      "name": "Unnamed (way 1352023266)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1378178568,
+      "lat": 12.353811,
+      "lon": 29.225099,
+      "name": "Unnamed (way 1378178568)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 166763335,
+      "lat": 15.625919,
+      "lon": 32.530445,
+      "name": "Unnamed (way 166763335)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 188171176,
+      "lat": 9.090888,
+      "lon": 36.542089,
+      "name": "Unnamed (way 188171176)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 431943789,
+      "lat": 15.738927,
+      "lon": 38.323638,
+      "name": "Unnamed (way 431943789)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 459883945,
+      "lat": 15.550237,
+      "lon": 37.888331,
+      "name": "Unnamed (way 459883945)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 616928048,
+      "lat": 15.100427,
+      "lon": 37.584962,
+      "name": "Unnamed (way 616928048)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 675174581,
+      "lat": 11.722779,
+      "lon": 28.335286,
+      "name": "Unnamed (way 675174581)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 904363177,
+      "lat": 15.011703,
+      "lon": 33.107017,
+      "name": "Unnamed (way 904363177)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 907203170,
+      "lat": 14.73442,
+      "lon": 33.304159,
+      "name": "Unnamed (way 907203170)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 7731003748,
+      "lat": 15.833333,
+      "lon": 34.783333,
+      "name": "Wadi Sangarer",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4782457503,
+      "lat": 11.734426,
+      "lon": 32.82688,
+      "name": "Water Cart Filling Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 9505833585,
+      "lat": 10.568936,
+      "lon": 37.478407,
+      "name": "Zagol Gas Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12241220393,
+      "lat": 18.944607,
+      "lon": 33.578209,
+      "name": "ابوهشيم",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322886380,
+      "lat": 18.94453,
+      "lon": 33.57844,
+      "name": "ابوهشيم",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 724499800,
+      "lat": 15.74127,
+      "lon": 32.487163,
+      "name": "اخر محطة - ش النص",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2594256866,
+      "lat": 13.187158,
+      "lon": 30.225234,
+      "name": "الأبيض",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12249294661,
+      "lat": 11.448066,
+      "lon": 26.270319,
+      "name": "الجلابي",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323728325,
+      "lat": 11.448293,
+      "lon": 26.270349,
+      "name": "الجلابي",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12222975698,
+      "lat": 16.01049,
+      "lon": 32.587906,
+      "name": "الجيلى",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2090823258,
+      "lat": 11.472585,
+      "lon": 26.132813,
+      "name": "الضعين",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 8903304088,
+      "lat": 11.472822,
+      "lon": 26.132935,
+      "name": "الضعين",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6323046569,
+      "lat": 11.722957,
+      "lon": 28.335139,
+      "name": "الفولة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 320606369,
+      "lat": 14.255258,
+      "lon": 32.995929,
+      "name": "الميناء البري",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2589331718,
+      "lat": 11.333686,
+      "lon": 27.809994,
+      "name": "بابنوسة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323669079,
+      "lat": 11.333512,
+      "lon": 27.810036,
+      "name": "بابنوسة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1398630801,
+      "lat": 19.624935,
+      "lon": 37.213946,
+      "name": "بورتسودان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1321307722,
+      "lat": 16.698265,
+      "lon": 33.435383,
+      "name": "سكة حديدالسودان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12222872094,
+      "lat": 16.137825,
+      "lon": 32.663957,
+      "name": "سكك حديد السودان محطة الرويان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12227638136,
+      "lat": 17.100906,
+      "lon": 33.701854,
+      "name": "سندة المطمر",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12239655472,
+      "lat": 18.496235,
+      "lon": 33.677786,
+      "name": "قرية الكربه ب",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 428506959,
+      "lat": 15.450287,
+      "lon": 36.369233,
+      "name": "كسلا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12238699809,
+      "lat": 18.319116,
+      "lon": 33.844277,
+      "name": "مبيريكة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322633342,
+      "lat": 18.318966,
+      "lon": 33.844257,
+      "name": "مبيريكة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12223065567,
+      "lat": 15.671917,
+      "lon": 32.551723,
+      "name": "مترو بحري شمال مربع ٢٣",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2294325361,
+      "lat": 19.619867,
+      "lon": 32.957351,
+      "name": "مجطة مهيسة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2035603231,
+      "lat": 21.758987,
+      "lon": 31.458424,
+      "name": "محطة 1",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2062281647,
+      "lat": 21.596824,
+      "lon": 31.707379,
+      "name": "محطة 2",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2035602413,
+      "lat": 21.495805,
+      "lon": 31.969086,
+      "name": "محطة 3",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1406598796,
+      "lat": 15.463868,
+      "lon": 32.503267,
+      "name": "محطة 4",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2031094355,
+      "lat": 21.286926,
+      "lon": 32.203926,
+      "name": "محطة 4",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2031093878,
+      "lat": 21.039348,
+      "lon": 32.361122,
+      "name": "محطة 5",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1959997717,
+      "lat": 20.886836,
+      "lon": 32.460231,
+      "name": "محطة 5/6",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1959997699,
+      "lat": 20.750635,
+      "lon": 32.546703,
+      "name": "محطة 6",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2062457918,
+      "lat": 20.449716,
+      "lon": 32.575967,
+      "name": "محطة 7",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1959997663,
+      "lat": 20.301926,
+      "lon": 32.641275,
+      "name": "محطة 7/8",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1956205526,
+      "lat": 20.137742,
+      "lon": 32.752613,
+      "name": "محطة 8",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 233031841,
+      "lat": 20.137706,
+      "lon": 32.753092,
+      "name": "محطة 8",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2318713957,
+      "lat": 19.533993,
+      "lon": 33.327938,
+      "name": "محطة أبو حمد",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12241350250,
+      "lat": 19.130943,
+      "lon": 33.582062,
+      "name": "محطة ابوديس",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12238354073,
+      "lat": 17.819671,
+      "lon": 33.998306,
+      "name": "محطة السكة الحديد",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322583177,
+      "lat": 17.819679,
+      "lon": 33.99813,
+      "name": "محطة السكة الحديد",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12238616574,
+      "lat": 18.237389,
+      "lon": 33.945266,
+      "name": "محطة العبيدية",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322611675,
+      "lat": 18.237349,
+      "lon": 33.945108,
+      "name": "محطة العبيدية",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12249253463,
+      "lat": 11.399583,
+      "lon": 26.575309,
+      "name": "محطة بخيت",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323724900,
+      "lat": 11.399801,
+      "lon": 26.575344,
+      "name": "محطة بخيت",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12246842840,
+      "lat": 13.366436,
+      "lon": 33.150424,
+      "name": "محطة جبل دود",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323469303,
+      "lat": 13.366233,
+      "lon": 33.150459,
+      "name": "محطة جبل دود",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 2045374771,
+      "lat": 19.695911,
+      "lon": 33.145743,
+      "name": "محطة رقم 10",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12225660254,
+      "lat": 16.62295,
+      "lon": 33.278416,
+      "name": "محطة سكة حديد القوز",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12238479432,
+      "lat": 18.024173,
+      "lon": 33.990879,
+      "name": "محطة سكة حديد بربر",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322595487,
+      "lat": 18.024102,
+      "lon": 33.990638,
+      "name": "محطة سكة حديد بربر",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1807679955,
+      "lat": 17.700281,
+      "lon": 33.978611,
+      "name": "محطة سكة حديد عطبرة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322506562,
+      "lat": 17.699069,
+      "lon": 33.978562,
+      "name": "محطة سكة حديد عطبرة",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12238849452,
+      "lat": 18.722919,
+      "lon": 33.651972,
+      "name": "محطة سكة حديد قرية ندي",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322651176,
+      "lat": 18.723154,
+      "lon": 33.652062,
+      "name": "محطة سكة حديد قرية ندي",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 10151517584,
+      "lat": 12.714189,
+      "lon": 30.831371,
+      "name": "محطة سكه حديد السميح",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1323490952,
+      "lat": 12.714406,
+      "lon": 30.831185,
+      "name": "محطة سكه حديد السميح",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12225379427,
+      "lat": 16.518625,
+      "lon": 33.12096,
+      "name": "محطة سكه حديد ودبانقا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1137222499,
+      "lat": 15.595194,
+      "lon": 32.527593,
+      "name": "محطة قطار الخرطوم",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12222875463,
+      "lat": 16.393551,
+      "lon": 32.948692,
+      "name": "محطة قطار المجا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1098315586,
+      "lat": 15.633823,
+      "lon": 32.540779,
+      "name": "محطة قطار بحري",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12222827242,
+      "lat": 16.249777,
+      "lon": 32.795526,
+      "name": "محطة قطار جبل قري",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12227651916,
+      "lat": 16.891873,
+      "lon": 33.691088,
+      "name": "محطة كبوشيه",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1321387204,
+      "lat": 16.89195,
+      "lon": 33.690932,
+      "name": "محطة كبوشيه",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 3889176872,
+      "lat": 12.067967,
+      "lon": 24.898781,
+      "name": "محطة نيالا القطارات",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 675440087,
+      "lat": 14.397119,
+      "lon": 33.518911,
+      "name": "محطة ود مدني للسكة حديد",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12237468970,
+      "lat": 17.587457,
+      "lon": 33.959613,
+      "name": "محطه السكه الحديد - الدامر",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322475024,
+      "lat": 17.587457,
+      "lon": 33.959733,
+      "name": "محطه السكه الحديد - الدامر",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1959977773,
+      "lat": 18.781116,
+      "lon": 33.573749,
+      "name": "محطه الشريك",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 1322732418,
+      "lat": 18.781064,
+      "lon": 33.573904,
+      "name": "محطه الشريك",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 130096712,
+      "lat": 15.527686,
+      "lon": 32.543478,
+      "name": "موقف الميناء البري",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 738864985,
+      "lat": 14.737843,
+      "lon": 33.303685,
+      "name": "موقف رفاعة و تمبول",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12227655809,
+      "lat": 16.97277,
+      "lon": 33.725487,
+      "name": "هلّة قدو",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12060712967,
+      "lat": 19.62456,
+      "lon": 37.214078,
+      "name": "هيئة سكك حديد السودان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 332547723,
+      "lat": 15.595597,
+      "lon": 32.527009,
+      "name": "هيئة سكك حديد السودان",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 12259406992,
+      "lat": 21.803817,
+      "lon": 31.339693,
+      "name": "وادي حلفا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 557635772,
+      "lat": 21.803542,
+      "lon": 31.3398,
+      "name": "وادي حلفا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 6325462262,
+      "lat": 14.396913,
+      "lon": 33.518899,
+      "name": "ود مدني",
+      "type": "stop",
+      "country": "SD"
+    },
+    {
+      "id": 324883754,
+      "lat": 15.776928,
+      "lon": 38.453627,
+      "name": "ከረን keren كرن",
+      "type": "station",
+      "country": "SD"
+    },
+    {
+      "id": 4690744789,
+      "lat": 14.098638,
+      "lon": 38.278889,
+      "name": "ጉዕሽ ነዳዲ መዐደሊ Guesh Fuel Station",
+      "type": "station",
+      "country": "SD"
+    }
+  ]
+}
