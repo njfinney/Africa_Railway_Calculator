@@ -6,9 +6,9 @@
  * for each African country, saving them as static JSON files for use by the web application.
  * 
  * Usage:
- *   node extract-railway-data.js [country-code]
- *   node extract-railway-data.js --all
- *   node extract-railway-data.js --region "Southern Africa"
+ *   node scripts/extract-railway-data.js [country-code]
+ *   node scripts/extract-railway-data.js --all
+ *   node scripts/extract-railway-data.js --region "Southern Africa"
  * 
  * Output:
  *   data/stations/{country-code}.json - Station data
@@ -20,11 +20,10 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-// Load country definitions (handle both running from repo root and from scripts dir)
-const countriesPath = fs.existsSync(path.join(__dirname, 'countries.json')) 
-    ? path.join(__dirname, 'countries.json')
-    : path.join(__dirname, '..', 'scripts', 'countries.json');
-const countriesData = JSON.parse(fs.readFileSync(countriesPath, 'utf8'));
+// Load country definitions from JSON file in same directory as this script
+const countriesFile = path.join(__dirname, 'countries.json');
+console.log(`Loading countries from: ${countriesFile}`);
+const countriesData = JSON.parse(fs.readFileSync(countriesFile, 'utf8'));
 
 const OVERPASS_ENDPOINTS = [
     'https://overpass-api.de/api/interpreter',
@@ -36,32 +35,30 @@ const RATE_LIMIT_DELAY = 5000; // 5 seconds between requests
 const MAX_RETRIES = 3;
 const REQUEST_TIMEOUT = 120000; // 2 minutes
 
-// Ensure output directories exist
-// When running from repo root: data/stations, data/railways
-// When running from scripts dir: ../data/stations, ../data/railways
-const DATA_DIR = fs.existsSync(path.join(process.cwd(), 'data')) || !fs.existsSync(path.join(__dirname, '..', 'data'))
-    ? path.join(process.cwd(), 'data')
-    : path.join(__dirname, '..', 'data');
+// Output directories - use current working directory
+const DATA_DIR = path.join(process.cwd(), 'data');
 const STATIONS_DIR = path.join(DATA_DIR, 'stations');
 const RAILWAYS_DIR = path.join(DATA_DIR, 'railways');
 
+// Ensure directories exist
 [DATA_DIR, STATIONS_DIR, RAILWAYS_DIR].forEach(dir => {
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
+        console.log(`Created directory: ${dir}`);
     }
 });
 
 /**
  * Make an HTTP request with timeout and retry logic
  */
-function makeRequest(url, body, endpointIndex = 0, retries = 0) {
+function makeRequest(query, endpointIndex = 0, retries = 0) {
     return new Promise((resolve, reject) => {
         const endpoint = OVERPASS_ENDPOINTS[endpointIndex];
-        const fullUrl = endpoint;
+        const body = `data=${encodeURIComponent(query)}`;
         
         console.log(`  [Request] Using endpoint: ${endpoint} (attempt ${retries + 1})`);
         
-        const urlObj = new URL(fullUrl);
+        const urlObj = new URL(endpoint);
         const options = {
             hostname: urlObj.hostname,
             port: 443,
@@ -92,12 +89,12 @@ function makeRequest(url, body, endpointIndex = 0, retries = 0) {
                     if (endpointIndex < OVERPASS_ENDPOINTS.length - 1) {
                         console.log(`  [Retry] Status ${res.statusCode}, trying next endpoint...`);
                         setTimeout(() => {
-                            resolve(makeRequest(url, body, endpointIndex + 1, 0));
+                            resolve(makeRequest(query, endpointIndex + 1, 0));
                         }, RATE_LIMIT_DELAY);
                     } else if (retries < MAX_RETRIES) {
                         console.log(`  [Retry] Status ${res.statusCode}, retrying in ${RATE_LIMIT_DELAY/1000}s...`);
                         setTimeout(() => {
-                            resolve(makeRequest(url, body, 0, retries + 1));
+                            resolve(makeRequest(query, 0, retries + 1));
                         }, RATE_LIMIT_DELAY * (retries + 1));
                     } else {
                         reject(new Error(`HTTP ${res.statusCode} after ${MAX_RETRIES} retries`));
@@ -112,10 +109,10 @@ function makeRequest(url, body, endpointIndex = 0, retries = 0) {
             req.destroy();
             if (endpointIndex < OVERPASS_ENDPOINTS.length - 1) {
                 console.log(`  [Timeout] Trying next endpoint...`);
-                resolve(makeRequest(url, body, endpointIndex + 1, retries));
+                resolve(makeRequest(query, endpointIndex + 1, retries));
             } else if (retries < MAX_RETRIES) {
                 console.log(`  [Timeout] Retrying...`);
-                resolve(makeRequest(url, body, 0, retries + 1));
+                resolve(makeRequest(query, 0, retries + 1));
             } else {
                 reject(new Error('Request timeout after all retries'));
             }
@@ -125,7 +122,7 @@ function makeRequest(url, body, endpointIndex = 0, retries = 0) {
             if (retries < MAX_RETRIES) {
                 console.log(`  [Error] ${e.message}, retrying...`);
                 setTimeout(() => {
-                    resolve(makeRequest(url, body, endpointIndex, retries + 1));
+                    resolve(makeRequest(query, endpointIndex, retries + 1));
                 }, RATE_LIMIT_DELAY);
             } else {
                 reject(e);
@@ -157,7 +154,7 @@ out center tags;`;
 
     console.log(`  Extracting stations for ${country.name}...`);
     
-    const data = await makeRequest('overpass', `data=${encodeURIComponent(query)}`);
+    const data = await makeRequest(query);
     
     if (!data.elements || data.elements.length === 0) {
         console.log(`  No stations found for ${country.name}`);
@@ -209,7 +206,7 @@ out geom;`;
 
     console.log(`  Extracting railways for ${country.name}...`);
     
-    const data = await makeRequest('overpass', `data=${encodeURIComponent(query)}`);
+    const data = await makeRequest(query);
     
     if (!data.elements || data.elements.length === 0) {
         console.log(`  No railways found for ${country.name}`);
@@ -339,6 +336,12 @@ function updateManifest(results) {
  * Main execution
  */
 async function main() {
+    console.log('Africa Railway Data Extraction Script');
+    console.log('=====================================');
+    console.log(`Working directory: ${process.cwd()}`);
+    console.log(`Data directory: ${DATA_DIR}`);
+    console.log('');
+    
     const args = process.argv.slice(2);
     
     let countriesToProcess = [];
@@ -365,20 +368,17 @@ async function main() {
             process.exit(1);
         }
     } else {
-        console.log('Africa Railway Data Extraction Script');
-        console.log('=====================================');
-        console.log('');
         console.log('Usage:');
-        console.log('  node extract-railway-data.js ZA MW MZ   # Extract specific countries');
-        console.log('  node extract-railway-data.js --region "Southern Africa"');
-        console.log('  node extract-railway-data.js --all      # Extract all countries');
+        console.log('  node scripts/extract-railway-data.js ZA MW MZ   # Extract specific countries');
+        console.log('  node scripts/extract-railway-data.js --region "Southern Africa"');
+        console.log('  node scripts/extract-railway-data.js --all      # Extract all countries');
         console.log('');
         console.log('Available regions:', Object.keys(countriesData.regions).join(', '));
         console.log('Available countries:', countriesData.countries.map(c => c.code).join(', '));
         process.exit(0);
     }
     
-    console.log(`\nProcessing ${countriesToProcess.length} countries...`);
+    console.log(`Processing ${countriesToProcess.length} countries...`);
     console.log('Countries:', countriesToProcess.map(c => c.name).join(', '));
     
     const results = [];
