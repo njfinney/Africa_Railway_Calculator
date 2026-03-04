@@ -25,6 +25,65 @@ const countriesFile = path.join(__dirname, 'countries.json');
 console.log(`Loading countries from: ${countriesFile}`);
 const countriesData = JSON.parse(fs.readFileSync(countriesFile, 'utf8'));
 
+// Load country boundary polygons for accurate point-in-polygon testing
+const boundariesFile = path.join(process.cwd(), 'data', 'africa_boundaries.json');
+let COUNTRY_BOUNDARIES = null;
+try {
+    if (fs.existsSync(boundariesFile)) {
+        COUNTRY_BOUNDARIES = JSON.parse(fs.readFileSync(boundariesFile, 'utf8'));
+        console.log(`Loaded boundaries for ${COUNTRY_BOUNDARIES.features.length} countries`);
+    } else {
+        console.log('Warning: africa_boundaries.json not found - will use bounding boxes only');
+    }
+} catch (e) {
+    console.log(`Warning: Could not load boundaries file: ${e.message}`);
+}
+
+/**
+ * Ray-casting algorithm for point-in-polygon test
+ * Returns true if point (lat, lon) is inside the polygon
+ */
+function pointInPolygon(lat, lon, polygon) {
+    // polygon is an array of [lon, lat] coordinate pairs (GeoJSON format)
+    let inside = false;
+    for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
+        const xi = polygon[i][0], yi = polygon[i][1];
+        const xj = polygon[j][0], yj = polygon[j][1];
+        
+        const intersect = ((yi > lat) !== (yj > lat)) &&
+            (lon < (xj - xi) * (lat - yi) / (yj - yi) + xi);
+        if (intersect) inside = !inside;
+    }
+    return inside;
+}
+
+/**
+ * Check if a point is inside a country's boundary (handles MultiPolygon)
+ */
+function isPointInCountry(lat, lon, countryCode) {
+    if (!COUNTRY_BOUNDARIES) return true; // Fall back to accepting all if no boundaries
+    
+    const feature = COUNTRY_BOUNDARIES.features.find(f => f.properties.code === countryCode);
+    if (!feature) return true; // Country not in boundaries, accept all
+    
+    const geom = feature.geometry;
+    
+    if (geom.type === 'Polygon') {
+        // Polygon: array of rings, first is outer boundary
+        return pointInPolygon(lat, lon, geom.coordinates[0]);
+    } else if (geom.type === 'MultiPolygon') {
+        // MultiPolygon: array of polygons
+        for (const polygon of geom.coordinates) {
+            if (pointInPolygon(lat, lon, polygon[0])) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    return true; // Unknown geometry type, accept
+}
+
 const OVERPASS_ENDPOINTS = [
     'https://overpass-api.de/api/interpreter',
     'https://overpass.kumi.systems/api/interpreter',
@@ -189,12 +248,20 @@ out center tags;`;
     
     // Process and deduplicate stations
     const stationMap = new Map();
+    let filteredOut = 0;
     
     for (const el of data.elements) {
         const lat = el.type === 'way' ? el.center?.lat : el.lat;
         const lon = el.type === 'way' ? el.center?.lon : el.lon;
         
         if (!lat || !lon) continue;
+        
+        // IMPORTANT: Check if this station is actually inside the country polygon
+        // This prevents stations from appearing in multiple country files
+        if (!isPointInCountry(lat, lon, country.code)) {
+            filteredOut++;
+            continue;
+        }
         
         const name = el.tags?.name || el.tags?.ref || `Unnamed (${el.type} ${el.id})`;
         const locKey = `${lat.toFixed(4)},${lon.toFixed(4)}`; // ~10m precision for dedup
@@ -214,6 +281,9 @@ out center tags;`;
     }
     
     const stations = Array.from(stationMap.values()).sort((a, b) => a.name.localeCompare(b.name));
+    if (filteredOut > 0) {
+        console.log(`  Filtered out ${filteredOut} stations outside ${country.name} boundary`);
+    }
     console.log(`  Found ${stations.length} stations in ${country.name}`);
     
     return stations;
