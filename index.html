@@ -165,6 +165,7 @@
         // ===== STATE =====
         const STATE = {
             manifest: null,
+            countryBoundaries: null,
             stations: [],
             railways: [],
             filteredStations: [[], []],
@@ -283,6 +284,21 @@
                 log('Could not load manifest, will use live Overpass API', 'info');
                 updateDataBadge(false);
             }
+            
+            // Also load country boundaries for accurate point-in-polygon testing
+            await loadCountryBoundaries();
+        }
+        
+        async function loadCountryBoundaries() {
+            try {
+                const resp = await fetch(`${CONFIG.dataBaseUrl}/africa_boundaries.json`);
+                if (resp.ok) {
+                    STATE.countryBoundaries = await resp.json();
+                    log(`Loaded boundaries for ${STATE.countryBoundaries.features.length} countries`, 'info');
+                }
+            } catch (e) {
+                log('Country boundaries not loaded - using fallback deduplication', 'info');
+            }
         }
 
         function updateDataBadge(isStatic) {
@@ -315,6 +331,52 @@
             document.getElementById('status-panel').style.display = 'none';
         }
 
+        // ===== POINT-IN-POLYGON =====
+        // Ray-casting algorithm to test if a point is inside a polygon
+        function pointInPolygon(lat, lon, polygon) {
+            let inside = false;
+            for (let i = 0, j = polygon.length - 1; i < polygon.length; j = i++) {
+                const xi = polygon[i][0], yi = polygon[i][1];
+                const xj = polygon[j][0], yj = polygon[j][1];
+                const intersect = ((yi > lat) !== (yj > lat)) &&
+                    (lon < (xj - xi) * (lat - yi) / (yj - yi) + xi);
+                if (intersect) inside = !inside;
+            }
+            return inside;
+        }
+        
+        // Check if a point is inside any polygon of a country (handles MultiPolygon)
+        function isPointInCountry(lat, lon, countryCode) {
+            if (!STATE.countryBoundaries) return null; // No boundaries loaded
+            
+            const feature = STATE.countryBoundaries.features.find(f => f.properties.code === countryCode);
+            if (!feature) return null;
+            
+            const geom = feature.geometry;
+            if (geom.type === 'Polygon') {
+                return pointInPolygon(lat, lon, geom.coordinates[0]);
+            } else if (geom.type === 'MultiPolygon') {
+                for (const polygon of geom.coordinates) {
+                    if (pointInPolygon(lat, lon, polygon[0])) return true;
+                }
+                return false;
+            }
+            return null;
+        }
+        
+        // Find which country a point actually belongs to
+        function findCountryForPoint(lat, lon) {
+            if (!STATE.countryBoundaries) return null;
+            
+            for (const feature of STATE.countryBoundaries.features) {
+                const code = feature.properties.code;
+                if (isPointInCountry(lat, lon, code)) {
+                    return code;
+                }
+            }
+            return null;
+        }
+
         // ===== HAVERSINE DISTANCE =====
         function haversine(lat1, lon1, lat2, lon2) {
             const R = 6371;
@@ -324,6 +386,99 @@
                       Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
                       Math.sin(dLon/2) * Math.sin(dLon/2);
             return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+        }
+
+        // ===== STATION DEDUPLICATION =====
+        // When loading multiple countries, the same station might appear in multiple country files
+        // (due to overlapping bounding boxes). This function keeps only one copy, assigned to 
+        // the correct country using point-in-polygon testing.
+        function deduplicateStations(stations) {
+            // Group stations by location (rounded coordinates)
+            const locationMap = new Map();
+            
+            for (const station of stations) {
+                // Use 3 decimal places (~111m) for grouping nearby stations
+                const key = `${station.lat.toFixed(3)},${station.lon.toFixed(3)}`;
+                
+                if (!locationMap.has(key)) {
+                    locationMap.set(key, []);
+                }
+                locationMap.get(key).push(station);
+            }
+            
+            const result = [];
+            
+            for (const [key, stationsAtLocation] of locationMap) {
+                if (stationsAtLocation.length === 1) {
+                    // Only one station at this location - keep it, but verify country
+                    const s = stationsAtLocation[0];
+                    
+                    // If we have boundaries, verify/correct the country assignment
+                    if (STATE.countryBoundaries) {
+                        const actualCountry = findCountryForPoint(s.lat, s.lon);
+                        if (actualCountry && actualCountry !== s.country) {
+                            // Reassign to correct country
+                            s.country = actualCountry;
+                            s.countryName = COUNTRIES[actualCountry]?.name || actualCountry;
+                            s.displayName = `${s.name} (${s.countryName})`;
+                        }
+                    }
+                    result.push(s);
+                } else {
+                    // Multiple stations at same location - use point-in-polygon to find correct one
+                    let best = stationsAtLocation[0];
+                    
+                    if (STATE.countryBoundaries) {
+                        // Find which country this point actually belongs to
+                        const actualCountry = findCountryForPoint(best.lat, best.lon);
+                        
+                        if (actualCountry) {
+                            // Find the station entry from that country, or use any and reassign
+                            const correctEntry = stationsAtLocation.find(s => s.country === actualCountry);
+                            if (correctEntry) {
+                                best = correctEntry;
+                            } else {
+                                // Reassign the best-named entry to the correct country
+                                best = stationsAtLocation.reduce((a, b) => {
+                                    // Prefer named stations
+                                    const aScore = (a.name && !a.name.startsWith('Unnamed') ? 100 : 0) + 
+                                                   (a.type === 'station' ? 50 : 0);
+                                    const bScore = (b.name && !b.name.startsWith('Unnamed') ? 100 : 0) + 
+                                                   (b.type === 'station' ? 50 : 0);
+                                    return bScore > aScore ? b : a;
+                                });
+                                best.country = actualCountry;
+                                best.countryName = COUNTRIES[actualCountry]?.name || actualCountry;
+                                best.displayName = `${best.name} (${best.countryName})`;
+                            }
+                        }
+                    } else {
+                        // Fallback: use distance-to-center heuristic
+                        let bestScore = -Infinity;
+                        for (const s of stationsAtLocation) {
+                            let score = 0;
+                            const countryData = COUNTRIES[s.country];
+                            if (countryData) {
+                                const [south, west, north, east] = countryData.bbox;
+                                const centerLat = (south + north) / 2;
+                                const centerLon = (west + east) / 2;
+                                score = 10000 - haversine(s.lat, s.lon, centerLat, centerLon);
+                            }
+                            if (s.name && !s.name.startsWith('Unnamed')) score += 100;
+                            if (s.type === 'station') score += 50;
+                            if (score > bestScore) {
+                                bestScore = score;
+                                best = s;
+                            }
+                        }
+                    }
+                    
+                    result.push(best);
+                }
+            }
+            
+            // Sort alphabetically by name
+            return result.sort((a, b) => a.name.localeCompare(b.name));
         }
 
         // ===== DATA LOADING =====
@@ -394,6 +549,15 @@
 
             log(`Loaded ${STATE.stations.length} stations, ${STATE.railways.length} railway segments`, 'success');
             log(`Sources: ${loadedStatic} static, ${loadedLive} live API`, 'info');
+
+            // Deduplicate stations - same location appearing in multiple countries
+            // Keep the station assigned to the country it's actually in (by checking distance to country center)
+            const deduplicatedStations = deduplicateStations(STATE.stations);
+            const removed = STATE.stations.length - deduplicatedStations.length;
+            if (removed > 0) {
+                log(`Removed ${removed} duplicate stations (same location in multiple countries)`, 'info');
+            }
+            STATE.stations = deduplicatedStations;
 
             populateCountryFilters();
             STATE.filteredStations = [STATE.stations, STATE.stations];
