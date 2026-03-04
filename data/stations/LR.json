@@ -8,7 +8,7 @@
     8.55,
     -7.37
   ],
-  "extracted": "2026-03-03T12:22:14.470Z",
+  "extracted": "2026-03-04T18:51:53.124Z",
   "count": 189,
   "stations": [
     {
@@ -308,6 +308,14 @@
       "country": "LR"
     },
     {
+      "id": 8886329317,
+      "lat": 7.760661,
+      "lon": -8.818308,
+      "name": "gare routière",
+      "type": "station",
+      "country": "LR"
+    },
+    {
       "id": 4256755253,
       "lat": 7.863556,
       "lon": -8.100722,
@@ -336,14 +344,6 @@
       "lat": 7.80638,
       "lon": -8.540346,
       "name": "Gare routière de Lola",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 8886329317,
-      "lat": 7.760661,
-      "lon": -8.818308,
-      "name": "gare routi��re",
       "type": "station",
       "country": "LR"
     },
