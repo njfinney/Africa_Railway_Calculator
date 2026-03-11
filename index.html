@@ -881,6 +881,47 @@ out geom;`;
             return graph;
         }
         
+        // Bridge small gaps between track endpoints (handles bridges, tunnels, level crossings)
+        // These are places where OSM ways don't quite connect due to mapping inconsistencies
+        function bridgeSmallGaps(graph) {
+            log('Checking for small gaps (bridges, tunnels)...');
+            
+            // Find all endpoints (nodes with only 1 edge)
+            const endpoints = [];
+            for (const [nodeId, node] of graph.nodes) {
+                if (node.edges.length === 1) {
+                    endpoints.push({ id: nodeId, lat: node.lat, lon: node.lon });
+                }
+            }
+            
+            let bridged = 0;
+            const MAX_GAP = 0.15; // 150 meters - enough for bridge/tunnel gaps but not random connections
+            
+            for (let i = 0; i < endpoints.length; i++) {
+                for (let j = i + 1; j < endpoints.length; j++) {
+                    const e1 = endpoints[i];
+                    const e2 = endpoints[j];
+                    
+                    if (e1.id === e2.id) continue;
+                    
+                    const dist = haversine(e1.lat, e1.lon, e2.lat, e2.lon);
+                    
+                    // Bridge gaps under 150m (typical bridge/tunnel disconnects)
+                    if (dist < MAX_GAP && dist > 0.005) { // > 5m to avoid noise
+                        if (!graph.nodes.get(e1.id).edges.some(e => e.to === e2.id)) {
+                            graph.nodes.get(e1.id).edges.push({ to: e2.id, distance: dist });
+                            graph.nodes.get(e2.id).edges.push({ to: e1.id, distance: dist });
+                            bridged++;
+                        }
+                    }
+                }
+            }
+            
+            if (bridged > 0) {
+                log(`Bridged ${bridged} small gaps (< 150m)`, 'success');
+            }
+        }
+        
         // Connect railway graph nodes near stations
         // This handles junctions like Bulawayo where trains must reverse:
         // Multiple railway lines enter a station yard but may not share graph nodes
@@ -1141,6 +1182,9 @@ out geom;`;
                 log('Building graph...');
                 const graph = buildRailwayGraph(railways);
                 log(`Graph: ${graph.nodes.size} nodes`);
+                
+                // Bridge small gaps (handles bridges, tunnels, level crossings where OSM ways don't connect)
+                bridgeSmallGaps(graph);
                 
                 // Connect railway lines at station yards (handles reversing stations like Bulawayo)
                 // Get stations in the route area
