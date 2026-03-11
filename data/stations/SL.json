@@ -8,8 +8,8 @@
     10,
     -10.28
   ],
-  "extracted": "2026-03-08T04:30:59.453Z",
-  "count": 89,
+  "extracted": "2026-03-11T11:59:35.255Z",
+  "count": 73,
   "stations": [
     {
       "id": 4530647922,
@@ -92,14 +92,6 @@
       "country": "SL"
     },
     {
-      "id": 4514072953,
-      "lat": 8.061482,
-      "lon": -10.507218,
-      "name": "Checkpoint At The Police Station",
-      "type": "station",
-      "country": "SL"
-    },
-    {
       "id": 3589579878,
       "lat": 7.961635,
       "lon": -11.740663,
@@ -140,14 +132,6 @@
       "country": "SL"
     },
     {
-      "id": 1890995534,
-      "lat": 9.883173,
-      "lon": -13.111418,
-      "name": "Debele",
-      "type": "station",
-      "country": "SL"
-    },
-    {
       "id": 3354032076,
       "lat": 8.449975,
       "lon": -13.236616,
@@ -160,14 +144,6 @@
       "lat": 8.446742,
       "lon": -13.231999,
       "name": "Drive Imatt Hill Station Community",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 13355134390,
-      "lat": 9.900205,
-      "lon": -10.672769,
-      "name": "Faranah",
       "type": "station",
       "country": "SL"
     },
@@ -428,14 +404,6 @@
       "country": "SL"
     },
     {
-      "id": 1890979320,
-      "lat": 9.876451,
-      "lon": -13.089681,
-      "name": "Pièrre",
-      "type": "station",
-      "country": "SL"
-    },
-    {
       "id": 6360130144,
       "lat": 8.456799,
       "lon": -13.249576,
@@ -448,14 +416,6 @@
       "lat": 8.459922,
       "lon": -13.270386,
       "name": "Police station",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 3110521527,
-      "lat": 6.989842,
-      "lon": -10.7885,
-      "name": "Police Station",
       "type": "station",
       "country": "SL"
     },
@@ -516,14 +476,6 @@
       "country": "SL"
     },
     {
-      "id": 4537495792,
-      "lat": 7.020405,
-      "lon": -11.382365,
-      "name": "Shared Taxi Station",
-      "type": "station",
-      "country": "SL"
-    },
-    {
       "id": 4526166389,
       "lat": 8.480643,
       "lon": -13.207327,
@@ -532,50 +484,10 @@
       "country": "SL"
     },
     {
-      "id": 4534062510,
-      "lat": 9.426699,
-      "lon": -13.081238,
-      "name": "Station",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 11207992578,
-      "lat": 9.995026,
-      "lon": -12.753105,
-      "name": "Station BTH",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 11199615047,
-      "lat": 9.867459,
-      "lon": -13.056667,
-      "name": "Station BtN",
-      "type": "station",
-      "country": "SL"
-    },
-    {
       "id": 5516978681,
       "lat": 7.952618,
       "lon": -11.752006,
       "name": "Station Conex",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 4543182651,
-      "lat": 9.433011,
-      "lon": -13.093384,
-      "name": "Station Essence",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 6387433582,
-      "lat": 9.978848,
-      "lon": -12.914078,
-      "name": "Station Total",
       "type": "station",
       "country": "SL"
     },
@@ -664,46 +576,6 @@
       "lat": 8.878851,
       "lon": -12.049434,
       "name": "Turn Table filling station",
-      "type": "station",
-      "country": "SL"
-    },
-    {
-      "id": 13180582893,
-      "lat": 9.87581,
-      "lon": -13.089944,
-      "name": "Unnamed (node 13180582893)",
-      "type": "buffer_stop",
-      "country": "SL"
-    },
-    {
-      "id": 13180591244,
-      "lat": 9.883335,
-      "lon": -13.114114,
-      "name": "Unnamed (node 13180591244)",
-      "type": "buffer_stop",
-      "country": "SL"
-    },
-    {
-      "id": 1890979304,
-      "lat": 9.882462,
-      "lon": -13.089166,
-      "name": "Unnamed (node 1890979304)",
-      "type": "buffer_stop",
-      "country": "SL"
-    },
-    {
-      "id": 1890995510,
-      "lat": 9.882729,
-      "lon": -13.107322,
-      "name": "Unnamed (node 1890995510)",
-      "type": "buffer_stop",
-      "country": "SL"
-    },
-    {
-      "id": 3077192524,
-      "lat": 9.94008,
-      "lon": -13.062779,
-      "name": "Unnamed (node 3077192524)",
       "type": "station",
       "country": "SL"
     },

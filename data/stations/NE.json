@@ -8,22 +8,14 @@
     23.53,
     15.99
   ],
-  "extracted": "2026-03-08T04:26:41.073Z",
-  "count": 462,
+  "extracted": "2026-03-11T11:52:24.655Z",
+  "count": 363,
   "stations": [
     {
       "id": 1055819071,
       "lat": 13.543485,
       "lon": 2.12617,
       "name": "3 STV Niger",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2570329858,
-      "lat": 12.983627,
-      "lon": 7.602238,
-      "name": "A.A. Rano Filling Station",
       "type": "station",
       "country": "NE"
     },
@@ -40,22 +32,6 @@
       "lat": 13.526037,
       "lon": 2.121267,
       "name": "Ader Station Service",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2150752711,
-      "lat": 16.161612,
-      "lon": 2.191129,
-      "name": "Agare M'Baou",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7720787679,
-      "lat": 15.139793,
-      "lon": 15.380058,
-      "name": "Agarenga",
       "type": "station",
       "country": "NE"
     },
@@ -164,30 +140,6 @@
       "country": "NE"
     },
     {
-      "id": 11175700938,
-      "lat": 11.986473,
-      "lon": 8.480708,
-      "name": "AYM Shafa filling station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 501340879,
-      "lat": 12.508862,
-      "lon": 4.686042,
-      "name": "Bagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7503395455,
-      "lat": 12.112,
-      "lon": 8.68359,
-      "name": "Bangare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 2538115943,
       "lat": 14.068755,
       "lon": 5.965496,
@@ -208,22 +160,6 @@
       "lat": 12.990503,
       "lon": 2.595945,
       "name": "Billo Jingarey",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7720785009,
-      "lat": 15.390998,
-      "lon": 14.523573,
-      "name": "Bogaret",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7720785430,
-      "lat": 15.657741,
-      "lon": 14.333949,
-      "name": "Bogaret",
       "type": "station",
       "country": "NE"
     },
@@ -252,22 +188,6 @@
       "country": "NE"
     },
     {
-      "id": 2570329856,
-      "lat": 12.984485,
-      "lon": 7.601131,
-      "name": "Conoil Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 501288424,
-      "lat": 12.123551,
-      "lon": 8.980414,
-      "name": "Dabi",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 11635621301,
       "lat": 16.799503,
       "lon": 6.650076,
@@ -280,14 +200,6 @@
       "lat": 13.150667,
       "lon": 1.819683,
       "name": "Doungare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10788396605,
-      "lat": 12.118809,
-      "lon": 15.118234,
-      "name": "Ecole Communale  CEG de Boutalbagare",
       "type": "station",
       "country": "NE"
     },
@@ -340,66 +252,10 @@
       "country": "NE"
     },
     {
-      "id": 501271361,
-      "lat": 12.396442,
-      "lon": 9.588174,
-      "name": "Gagarwa",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 10720292534,
       "lat": 13.057529,
       "lon": 2.664198,
       "name": "Gakoy Jingarey",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7500672248,
-      "lat": 12.0184,
-      "lon": 7.94475,
-      "name": "Gangare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7500711824,
-      "lat": 11.775,
-      "lon": 8.01749,
-      "name": "Gangare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7910240734,
-      "lat": 12.278418,
-      "lon": 4.004097,
-      "name": "Gangare Health Facility",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7503343733,
-      "lat": 12.1208,
-      "lon": 8.45427,
-      "name": "Gangaren Dutse",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3134981852,
-      "lat": 12.120351,
-      "lon": 15.083175,
-      "name": "gare d'Abeché محطة أبشي",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 308210027,
-      "lat": 12.120893,
-      "lon": 15.083801,
-      "name": "Gare d'Abeché محطة أبشي",
       "type": "station",
       "country": "NE"
     },
@@ -432,14 +288,6 @@
       "lat": 13.537647,
       "lon": 2.080656,
       "name": "Gare de Tillabery",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3741556218,
-      "lat": 12.071083,
-      "lon": 1.782754,
-      "name": "Gare Principale de Diapaga",
       "type": "station",
       "country": "NE"
     },
@@ -492,58 +340,10 @@
       "country": "NE"
     },
     {
-      "id": 501369561,
-      "lat": 13.07401,
-      "lon": 12.795271,
-      "name": "Garema-Maleri",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3463510059,
-      "lat": 12.650961,
-      "lon": 13.088821,
-      "name": "Garemiri",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7530113291,
-      "lat": 13.271809,
-      "lon": 0.431914,
-      "name": "Garemwan",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 473431419,
       "lat": 13.665209,
       "lon": 9.450253,
       "name": "Gareré",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 501416592,
-      "lat": 13.293496,
-      "lon": 13.341248,
-      "name": "Garere Kiriye",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3380371323,
-      "lat": 13.197566,
-      "lon": 13.265999,
-      "name": "Garere Kiriye",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 308210025,
-      "lat": 12.100086,
-      "lon": 15.083396,
-      "name": "Gares du Sud",
       "type": "station",
       "country": "NE"
     },
@@ -604,14 +404,6 @@
       "country": "NE"
     },
     {
-      "id": 501282987,
-      "lat": 12.665785,
-      "lon": 10.079689,
-      "name": "Garun Gabbas",
-      "type": "halt",
-      "country": "NE"
-    },
-    {
       "id": 10720292513,
       "lat": 13.1793,
       "lon": 2.82674,
@@ -620,42 +412,10 @@
       "country": "NE"
     },
     {
-      "id": 501521125,
-      "lat": 12.336205,
-      "lon": 6.699893,
-      "name": "Guidan Gagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 9482338890,
       "lat": 12.558711,
       "lon": 2.699194,
       "name": "Guingarey Koira",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2279518368,
-      "lat": 12.165676,
-      "lon": 6.671209,
-      "name": "Gusau",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4515491137,
-      "lat": 12.027895,
-      "lon": 8.551224,
-      "name": "Gwagwarwa police station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 501466631,
-      "lat": 12.542809,
-      "lon": 4.108698,
-      "name": "Gwargare",
       "type": "station",
       "country": "NE"
     },
@@ -676,34 +436,10 @@
       "country": "NE"
     },
     {
-      "id": 501461521,
-      "lat": 13.354787,
-      "lon": 5.621441,
-      "name": "Illela Dawagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3322958269,
-      "lat": 16.309369,
-      "lon": 2.472412,
-      "name": "Imbougaretane",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 9675814322,
       "lat": 11.923248,
       "lon": 3.334544,
       "name": "INRAN Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7503462550,
-      "lat": 12.0643,
-      "lon": 8.8713,
-      "name": "Jalogare",
       "type": "station",
       "country": "NE"
     },
@@ -732,14 +468,6 @@
       "country": "NE"
     },
     {
-      "id": 4182959731,
-      "lat": 12.023023,
-      "lon": 8.704982,
-      "name": "Jogana",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4599347187,
       "lat": 13.502762,
       "lon": 12.865657,
@@ -748,58 +476,10 @@
       "country": "NE"
     },
     {
-      "id": 3968587796,
-      "lat": 13.759271,
-      "lon": 13.866395,
-      "name": "Kagarerom Centre",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3985132772,
-      "lat": 13.743911,
-      "lon": 13.871565,
-      "name": "Kagarerom Karia",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3985132635,
-      "lat": 13.770941,
-      "lon": 13.864081,
-      "name": "Kagarerom Nord",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1737874144,
-      "lat": 11.999497,
-      "lon": 8.539424,
-      "name": "Kano",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 10716734233,
       "lat": 13.292138,
       "lon": 9.915525,
       "name": "Katagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4182751963,
-      "lat": 12.477789,
-      "lon": 9.736307,
-      "name": "Kaugama",
-      "type": "halt",
-      "country": "NE"
-    },
-    {
-      "id": 4184967568,
-      "lat": 12.574313,
-      "lon": 6.573409,
-      "name": "Kaura-Namoda",
       "type": "station",
       "country": "NE"
     },
@@ -876,22 +556,6 @@
       "country": "NE"
     },
     {
-      "id": 2787411810,
-      "lat": 11.832187,
-      "lon": 7.02136,
-      "name": "Kutcheri",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4184990352,
-      "lat": 12.360211,
-      "lon": 6.590634,
-      "name": "Lango",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 8084835516,
       "lat": 13.200987,
       "lon": 1.652586,
@@ -908,34 +572,10 @@
       "country": "NE"
     },
     {
-      "id": 1838737235,
-      "lat": 11.862572,
-      "lon": 13.156795,
-      "name": "Maiduguri",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4941872957,
       "lat": 14.95235,
       "lon": 3.342403,
       "name": "Maimagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4182757658,
-      "lat": 12.5598,
-      "lon": 9.885948,
-      "name": "Malam-Maduri",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2570329862,
-      "lat": 12.987129,
-      "lon": 7.599665,
-      "name": "Mobil Filling Station",
       "type": "station",
       "country": "NE"
     },
@@ -980,46 +620,6 @@
       "country": "NE"
     },
     {
-      "id": 2177222464,
-      "lat": 11.977647,
-      "lon": 8.565007,
-      "name": "Mrs Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2570329857,
-      "lat": 12.984732,
-      "lon": 7.600752,
-      "name": "MRS Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 6004534728,
-      "lat": 11.965397,
-      "lon": 8.404449,
-      "name": "Musba'u Garba Fuel Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 9223439671,
-      "lat": 12.389745,
-      "lon": 1.552388,
-      "name": "Namagare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1923645503,
-      "lat": 12.859464,
-      "lon": 10.434894,
-      "name": "Nguru",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 11396385636,
       "lat": 13.594575,
       "lon": 2.104475,
@@ -1036,50 +636,10 @@
       "country": "NE"
     },
     {
-      "id": 2706126482,
-      "lat": 11.810637,
-      "lon": 13.140075,
-      "name": "NTA Radio Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2570329860,
-      "lat": 12.983356,
-      "lon": 7.602716,
-      "name": "Oando Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 2570329861,
-      "lat": 12.986792,
-      "lon": 7.599768,
-      "name": "Oando Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 3210453066,
       "lat": 13.491205,
       "lon": 2.097645,
       "name": "Ola Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7187796034,
-      "lat": 12.981168,
-      "lon": 15.721783,
-      "name": "ONAMA Station Provinciale de Massakory",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 13208448902,
-      "lat": 12.04111,
-      "lon": 5.74472,
-      "name": "Police Station Nasarawa Division",
       "type": "station",
       "country": "NE"
     },
@@ -1100,42 +660,10 @@
       "country": "NE"
     },
     {
-      "id": 7503559595,
-      "lat": 11.8152,
-      "lon": 8.89196,
-      "name": "Rege Gangare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 11964306674,
       "lat": 14.023179,
       "lon": 8.953927,
       "name": "Rewild.Earth Direct Seeding Research Station Wild Perennial Park",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4182806630,
-      "lat": 12.157891,
-      "lon": 9.167969,
-      "name": "Ringim",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1934376534,
-      "lat": 11.70819,
-      "lon": 7.162865,
-      "name": "Shemi",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 318507720,
-      "lat": 13.058761,
-      "lon": 5.226043,
-      "name": "Sokoto Main Garage",
       "type": "station",
       "country": "NE"
     },
@@ -1268,14 +796,6 @@
       "country": "NE"
     },
     {
-      "id": 10777800505,
-      "lat": 12.096841,
-      "lon": 15.132221,
-      "name": "Station Abdou-Nadjwa",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 5183847338,
       "lat": 16.963743,
       "lon": 7.983227,
@@ -1296,14 +816,6 @@
       "lat": 16.973737,
       "lon": 7.98334,
       "name": "Station Air Service",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10877820905,
-      "lat": 12.112451,
-      "lon": 15.126342,
-      "name": "Station AL-WATAN",
       "type": "station",
       "country": "NE"
     },
@@ -1612,22 +1124,6 @@
       "country": "NE"
     },
     {
-      "id": 11610290769,
-      "lat": 12.105413,
-      "lon": 15.126051,
-      "name": "Station bus 22",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 7208311162,
-      "lat": 13.00714,
-      "lon": 15.741503,
-      "name": "Station carburant",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 8534213149,
       "lat": 13.57198,
       "lon": 2.090851,
@@ -1676,34 +1172,10 @@
       "country": "NE"
     },
     {
-      "id": 10763102310,
-      "lat": 12.101727,
-      "lon": 15.108173,
-      "name": "Station Dalil",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4420582964,
       "lat": 16.981249,
       "lon": 7.986004,
       "name": "Station Damergou",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4334344389,
-      "lat": 12.105999,
-      "lon": 15.054828,
-      "name": "station de lavage",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10177876417,
-      "lat": 12.938623,
-      "lon": 15.696032,
-      "name": "Station de pesage poids lourds",
       "type": "station",
       "country": "NE"
     },
@@ -1920,22 +1392,6 @@
       "lat": 13.55501,
       "lon": 7.080281,
       "name": "Station Groupe Amintchi",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4116323990,
-      "lat": 12.114336,
-      "lon": 15.10992,
-      "name": "Station Hydrocarbures",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 5617378092,
-      "lat": 12.084023,
-      "lon": 15.138145,
-      "name": "Station Hylale محطة هلال",
       "type": "station",
       "country": "NE"
     },
@@ -2240,14 +1696,6 @@
       "lat": 16.976937,
       "lon": 7.98388,
       "name": "Station Nour Service",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10882864005,
-      "lat": 12.117823,
-      "lon": 15.083788,
-      "name": "Station Noursi (Abou Aziza)",
       "type": "station",
       "country": "NE"
     },
@@ -2940,14 +2388,6 @@
       "country": "NE"
     },
     {
-      "id": 4362806850,
-      "lat": 12.087865,
-      "lon": 15.128667,
-      "name": "Station Service  Soprimex",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4895466421,
       "lat": 13.485156,
       "lon": 2.112463,
@@ -2960,14 +2400,6 @@
       "lat": 13.466206,
       "lon": 2.142704,
       "name": "Station Service 3SK",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 8176565117,
-      "lat": 12.118784,
-      "lon": 15.057851,
-      "name": "Station service Al Hadath",
       "type": "station",
       "country": "NE"
     },
@@ -3012,42 +2444,10 @@
       "country": "NE"
     },
     {
-      "id": 10763102405,
-      "lat": 12.088931,
-      "lon": 15.12544,
-      "name": "Station Service Honda",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10741192707,
-      "lat": 12.095661,
-      "lon": 15.109531,
-      "name": "Station service Loni",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10777687206,
-      "lat": 12.118453,
-      "lon": 15.09599,
-      "name": "Station Service Moderne",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 10188058603,
       "lat": 14.006775,
       "lon": 0.751361,
       "name": "Station service Morey",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 13508157058,
-      "lat": 22.771389,
-      "lon": 5.526621,
-      "name": "Station Service Naftal",
       "type": "station",
       "country": "NE"
     },
@@ -3152,14 +2552,6 @@
       "lat": 13.52512,
       "lon": 2.126888,
       "name": "Station Service Tilba",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10741192706,
-      "lat": 12.097661,
-      "lon": 15.109597,
-      "name": "Station Service Yago",
       "type": "station",
       "country": "NE"
     },
@@ -3316,14 +2708,6 @@
       "country": "NE"
     },
     {
-      "id": 7204064863,
-      "lat": 12.178193,
-      "lon": 15.038881,
-      "name": "Station Total",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4880298733,
       "lat": 13.535322,
       "lon": 2.134822,
@@ -3460,38 +2844,6 @@
       "country": "NE"
     },
     {
-      "id": 4954044422,
-      "lat": 12.172415,
-      "lon": 15.037386,
-      "name": "Station war sortie Nord Ndjamena",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 10763102406,
-      "lat": 12.106482,
-      "lon": 15.109615,
-      "name": "Station-service Mojobok",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4108574689,
-      "lat": 12.104405,
-      "lon": 15.095707,
-      "name": "Super Station de la Grande Mosquée Annexe",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 264961768,
-      "lat": 11.811446,
-      "lon": 13.182083,
-      "name": "Tashan Bama",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 3834811158,
       "lat": 16.877675,
       "lon": 5.872868,
@@ -3524,114 +2876,10 @@
       "country": "NE"
     },
     {
-      "id": 3812586159,
-      "lat": 11.967518,
-      "lon": 8.530118,
-      "name": "Total Filling Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 6004537927,
-      "lat": 11.964487,
-      "lon": 8.404476,
-      "name": "Total Fuel Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 4915887322,
       "lat": 13.535225,
       "lon": 2.126231,
       "name": "Total Gare Rimbo",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 5656690602,
-      "lat": 12.990254,
-      "lon": 7.585907,
-      "name": "Turare Filling station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1811011358,
-      "lat": 12.578573,
-      "lon": 6.574059,
-      "name": "Unnamed (node 1811011358)",
-      "type": "buffer_stop",
-      "country": "NE"
-    },
-    {
-      "id": 1838694198,
-      "lat": 11.84076,
-      "lon": 13.114232,
-      "name": "Unnamed (node 1838694198)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1838694213,
-      "lat": 11.832934,
-      "lon": 13.100548,
-      "name": "Unnamed (node 1838694213)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1838694219,
-      "lat": 11.821375,
-      "lon": 13.080716,
-      "name": "Unnamed (node 1838694219)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1923645476,
-      "lat": 12.855037,
-      "lon": 10.437246,
-      "name": "Unnamed (node 1923645476)",
-      "type": "buffer_stop",
-      "country": "NE"
-    },
-    {
-      "id": 1923645608,
-      "lat": 12.875819,
-      "lon": 10.444509,
-      "name": "Unnamed (node 1923645608)",
-      "type": "buffer_stop",
-      "country": "NE"
-    },
-    {
-      "id": 2787415461,
-      "lat": 11.946325,
-      "lon": 6.947152,
-      "name": "Unnamed (node 2787415461)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4184995550,
-      "lat": 12.075246,
-      "lon": 6.785454,
-      "name": "Unnamed (node 4184995550)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1337648066,
-      "lat": 12.071136,
-      "lon": 1.782669,
-      "name": "Unnamed (way 1337648066)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 1442191637,
-      "lat": 22.817178,
-      "lon": 5.489407,
-      "name": "Unnamed (way 1442191637)",
       "type": "station",
       "country": "NE"
     },
@@ -3644,26 +2892,10 @@
       "country": "NE"
     },
     {
-      "id": 308210028,
-      "lat": 12.100747,
-      "lon": 15.083203,
-      "name": "Unnamed (way 308210028)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
       "id": 467240075,
       "lat": 13.220432,
       "lon": 12.028036,
       "name": "Unnamed (way 467240075)",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 707457331,
-      "lat": 12.859625,
-      "lon": 10.434933,
-      "name": "Unnamed (way 707457331)",
       "type": "station",
       "country": "NE"
     },
@@ -3680,30 +2912,6 @@
       "lat": 14.028367,
       "lon": 1.2248,
       "name": "Yogarey",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 4182899168,
-      "lat": 12.097992,
-      "lon": 8.890746,
-      "name": "Zakirai",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 3066938938,
-      "lat": 14.22132,
-      "lon": 15.044108,
-      "name": "دجيجاري Djigare",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 298332987,
-      "lat": 22.805777,
-      "lon": 5.506044,
-      "name": "محطة حافلات الجامعة",
       "type": "station",
       "country": "NE"
     }

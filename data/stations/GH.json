@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-03-08T04:20:56.218Z",
-  "count": 847,
+  "extracted": "2026-03-11T11:41:29.562Z",
+  "count": 724,
   "stations": [
     {
       "id": 6968590872,
@@ -396,14 +396,6 @@
       "country": "GH"
     },
     {
-      "id": 8791863125,
-      "lat": 8.322628,
-      "lon": 0.97811,
-      "name": "Affaire sociale de Blitta Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 2579170855,
       "lat": 5.803417,
       "lon": 0.007203,
@@ -480,14 +472,6 @@
       "lat": 5.686792,
       "lon": -0.171917,
       "name": "Agbogba station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 2938857447,
-      "lat": 7.514133,
-      "lon": 1.152605,
-      "name": "Agbonou Gare",
       "type": "station",
       "country": "GH"
     },
@@ -748,26 +732,10 @@
       "country": "GH"
     },
     {
-      "id": 12966420432,
-      "lat": 6.947989,
-      "lon": 0.584259,
-      "name": "Ancienne station coloniale Missahoé",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 8920690468,
       "lat": 6.881353,
       "lon": 0.277013,
       "name": "Anfoega Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4313356544,
-      "lat": 7.75104,
-      "lon": 1.188266,
-      "name": "Anie-gare (balise CRT)",
       "type": "station",
       "country": "GH"
     },
@@ -1172,26 +1140,10 @@
       "country": "GH"
     },
     {
-      "id": 4596780089,
-      "lat": 6.843831,
-      "lon": 0.715436,
-      "name": "Bibliotheque d'Agou Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 10242246414,
       "lat": 5.611648,
       "lon": -1.549594,
       "name": "Bicycle Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 1947278728,
-      "lat": 8.324158,
-      "lon": 0.977518,
-      "name": "Blitta-Gare",
       "type": "station",
       "country": "GH"
     },
@@ -1292,14 +1244,6 @@
       "country": "GH"
     },
     {
-      "id": 7797578070,
-      "lat": 10.51876,
-      "lon": 0.096554,
-      "name": "Bunkpurugu Metro Mass Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 6787725699,
       "lat": 5.7529,
       "lon": -0.179645,
@@ -1320,14 +1264,6 @@
       "lat": 5.584047,
       "lon": -0.105206,
       "name": "Bus Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 2018583444,
-      "lat": 5.340819,
-      "lon": -0.623452,
-      "name": "Bus Station, Accra, Cape Coast",
       "type": "station",
       "country": "GH"
     },
@@ -1404,38 +1340,6 @@
       "country": "GH"
     },
     {
-      "id": 4587623590,
-      "lat": 6.837799,
-      "lon": 0.714151,
-      "name": "CEG Agou Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8791863130,
-      "lat": 8.316579,
-      "lon": 0.968556,
-      "name": "CEG Blitta Gare 2",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6166451199,
-      "lat": 8.326201,
-      "lon": 0.98651,
-      "name": "CEG de Blitta-Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9258068317,
-      "lat": 8.171595,
-      "lon": 0.973029,
-      "name": "CEG Pagala Gare 2",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 6234182247,
       "lat": 6.091058,
       "lon": -0.255708,
@@ -1480,14 +1384,6 @@
       "lat": 7.338503,
       "lon": -2.325847,
       "name": "Chiraaa Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 2148020793,
-      "lat": 5.527576,
-      "lon": -0.237233,
-      "name": "Chokor Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -1544,14 +1440,6 @@
       "lat": 5.569751,
       "lon": -0.216795,
       "name": "Circle Trotro Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8183725447,
-      "lat": 6.233627,
-      "lon": 1.154063,
-      "name": "CM Petroleum Station d'essence de Zossimé",
       "type": "station",
       "country": "GH"
     },
@@ -1916,14 +1804,6 @@
       "country": "GH"
     },
     {
-      "id": 5475959001,
-      "lat": 6.907923,
-      "lon": 0.633732,
-      "name": "Ecole Primaire Publique la Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 7728573173,
       "lat": 6.551171,
       "lon": -1.596144,
@@ -1944,22 +1824,6 @@
       "lat": 6.84979,
       "lon": -1.395966,
       "name": "Effiduasi Lorry Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 12691812602,
-      "lat": 8.342244,
-      "lon": 1.012165,
-      "name": "Eglise Catholique de Blitta Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 11433154189,
-      "lat": 8.181173,
-      "lon": 0.96976,
-      "name": "Eglise Évangélique Presbytérienne du Togo Paroisse Béthel Pagala-Gare",
       "type": "station",
       "country": "GH"
     },
@@ -2008,22 +1872,6 @@
       "lat": 5.681175,
       "lon": -0.338904,
       "name": "engen fuel station doblo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10782363827,
-      "lat": 7.513316,
-      "lon": 1.154865,
-      "name": "EPP Agbonou-Gare Groupe A",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5994262642,
-      "lat": 6.914672,
-      "lon": 0.643065,
-      "name": "EPP gare c",
       "type": "station",
       "country": "GH"
     },
@@ -2184,214 +2032,6 @@
       "lat": 6.078608,
       "lon": -0.256541,
       "name": "Galloway Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 1067825323,
-      "lat": 10.357967,
-      "lon": -3.18041,
-      "name": "Gaoua",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3613258851,
-      "lat": 7.801619,
-      "lon": -3.168739,
-      "name": "Gare d'abidjan",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3613258852,
-      "lat": 7.801777,
-      "lon": -3.168765,
-      "name": "Gare d'abidjan",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10722529605,
-      "lat": 7.120705,
-      "lon": -3.203877,
-      "name": "Gare d'Abidjan",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 355790320,
-      "lat": 7.800786,
-      "lon": -3.164685,
-      "name": "Gare d'Assuefry",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3812849326,
-      "lat": 6.795696,
-      "lon": 0.794685,
-      "name": "Gare d'Avetonou, Car taxi and taxi moto pick up and drop off",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3613258853,
-      "lat": 7.801553,
-      "lon": -3.168277,
-      "name": "Gare de Bondoukou",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3325171531,
-      "lat": 11.151236,
-      "lon": -3.061103,
-      "name": "Gare de Dano",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4905011414,
-      "lat": 9.700798,
-      "lon": 0.606264,
-      "name": "Gare de Guérin-Kouka",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7088199526,
-      "lat": 10.354318,
-      "lon": 0.469496,
-      "name": "Gare de Mango",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10696972205,
-      "lat": 7.128241,
-      "lon": -3.199544,
-      "name": "Gare de TAKIKRO",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9006025941,
-      "lat": 9.274609,
-      "lon": -2.995075,
-      "name": "Gare MT",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5818732822,
-      "lat": 11.119763,
-      "lon": -0.005114,
-      "name": "Gare routière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 2117107504,
-      "lat": 8.987523,
-      "lon": 1.13683,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 60149555,
-      "lat": 10.973406,
-      "lon": -3.250835,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 839406886,
-      "lat": 7.178247,
-      "lon": 1.15563,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4183084104,
-      "lat": 8.986054,
-      "lon": 1.137418,
-      "name": "Gare Routière - Titan",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5352981266,
-      "lat": 9.875167,
-      "lon": -2.920209,
-      "name": "Gare routière de Batié",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3165540166,
-      "lat": 6.909694,
-      "lon": 0.633632,
-      "name": "Gare routière de Kpalimé",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6909333608,
-      "lat": 11.097914,
-      "lon": -2.107269,
-      "name": "Gare Routière de Léo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10782320253,
-      "lat": 7.525546,
-      "lon": 1.135416,
-      "name": "Gare routière de nyékonakpoè",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 1469942708,
-      "lat": 9.533441,
-      "lon": 1.189045,
-      "name": "Gare routière Kabou",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7086260960,
-      "lat": 6.902455,
-      "lon": 0.634207,
-      "name": "Gare routière Kpalimé-Agou",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5948824486,
-      "lat": 6.905015,
-      "lon": 0.630623,
-      "name": "Gare routière kpalimé-Fiwokpo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7061825259,
-      "lat": 11.102462,
-      "lon": -2.09988,
-      "name": "Gare routière STAF",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4360252869,
-      "lat": 11.117422,
-      "lon": 0.005398,
-      "name": "Gare Staff Cinkansé",
       "type": "station",
       "country": "GH"
     },
@@ -2636,14 +2276,6 @@
       "country": "GH"
     },
     {
-      "id": 4293672985,
-      "lat": 8.868086,
-      "lon": -2.991649,
-      "name": "Haltiendouo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 3802723681,
       "lat": 6.755335,
       "lon": 0.358606,
@@ -2744,14 +2376,6 @@
       "lat": 5.631182,
       "lon": -0.269047,
       "name": "Isreal Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5083501068,
-      "lat": 5.536136,
-      "lon": -0.213575,
-      "name": "Jamestown Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -3364,14 +2988,6 @@
       "country": "GH"
     },
     {
-      "id": 6357255105,
-      "lat": 5.526525,
-      "lon": -0.245952,
-      "name": "Lantemaamli Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 6117909629,
       "lat": 5.607762,
       "lon": -0.24504,
@@ -3520,22 +3136,6 @@
       "lat": 6.624978,
       "lon": -1.211661,
       "name": "Lowcost Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8226297037,
-      "lat": 8.327803,
-      "lon": 0.988445,
-      "name": "Lycée de Blitta-Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 2505412763,
-      "lat": 8.178758,
-      "lon": 0.98612,
-      "name": "Lycee Pagala Gare",
       "type": "station",
       "country": "GH"
     },
@@ -3776,14 +3376,6 @@
       "lat": 5.60531,
       "lon": -0.275925,
       "name": "Model petrol station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10844061631,
-      "lat": 7.526318,
-      "lon": 1.136155,
-      "name": "Mosquée de la gare routière Nyekonakpoe",
       "type": "station",
       "country": "GH"
     },
@@ -4064,14 +3656,6 @@
       "lat": 5.677008,
       "lon": -0.118335,
       "name": "Nmai Dzorn Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6480238440,
-      "lat": 8.027771,
-      "lon": -2.808699,
-      "name": "Nouvelle gare d'Abidjan",
       "type": "station",
       "country": "GH"
     },
@@ -4444,14 +4028,6 @@
       "country": "GH"
     },
     {
-      "id": 2505435386,
-      "lat": 8.178716,
-      "lon": 0.977315,
-      "name": "Pagala Gare",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 5355078621,
       "lat": 6.69745,
       "lon": -1.624215,
@@ -4528,14 +4104,6 @@
       "lat": 5.646127,
       "lon": -0.290353,
       "name": "Pentecost Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10782291065,
-      "lat": 7.515487,
-      "lon": 1.152029,
-      "name": "Petit marché d'Agbonou gare",
       "type": "station",
       "country": "GH"
     },
@@ -5052,14 +4620,6 @@
       "country": "GH"
     },
     {
-      "id": 10855726091,
-      "lat": 7.521779,
-      "lon": 1.147182,
-      "name": "Sous station de la CEET",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 11488298530,
       "lat": 5.605023,
       "lon": -0.078284,
@@ -5072,22 +4632,6 @@
       "lat": 5.629358,
       "lon": -0.146777,
       "name": "Spintex Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13206791577,
-      "lat": 6.89475,
-      "lon": 0.638861,
-      "name": "Spiro Battery Swap Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13206791579,
-      "lat": 6.913778,
-      "lon": 0.630639,
-      "name": "Spiro Battery Swap Station",
       "type": "station",
       "country": "GH"
     },
@@ -5212,474 +4756,10 @@
       "country": "GH"
     },
     {
-      "id": 12719006431,
-      "lat": 5.208614,
-      "lon": -0.935732,
-      "name": "Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5994363027,
-      "lat": 6.896528,
-      "lon": 0.628972,
-      "name": "station cap",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8147222938,
-      "lat": 9.26148,
-      "lon": 0.779078,
-      "name": "Station CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13523660110,
-      "lat": 11.11863,
-      "lon": 0.00312,
-      "name": "Station d'essence",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5115474505,
-      "lat": 10.872015,
-      "lon": 0.20209,
-      "name": "Station d'essence Cap",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5186934001,
-      "lat": 6.193619,
-      "lon": 1.138176,
-      "name": "Station d'essence Sanol",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9085112344,
-      "lat": 6.340698,
-      "lon": 1.110598,
-      "name": "Station d'essence T - oil de kovié",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9173364570,
-      "lat": 6.357161,
-      "lon": 1.09689,
-      "name": "Station d'expérimentations agronomique de kovié",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8853935186,
-      "lat": 11.106008,
-      "lon": 0.014802,
-      "name": "Station de Bus",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9700887117,
-      "lat": 6.879579,
-      "lon": 0.822392,
-      "name": "Station de captage d'eau potable",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 11449755829,
-      "lat": 6.946194,
-      "lon": 1.174705,
-      "name": "Station de notse barrière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9275288721,
-      "lat": 8.657741,
-      "lon": 1.014974,
-      "name": "Station de Pompage d'eau",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9348618612,
-      "lat": 6.448003,
-      "lon": 1.027386,
-      "name": "Station de recherche du Laboratoire de recherche forestière",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4596779989,
-      "lat": 6.848337,
-      "lon": 0.717016,
-      "name": "Station de Taxi voiture",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7640326485,
-      "lat": 6.446683,
-      "lon": 1.077945,
-      "name": "Station Dicloro d'Alokoegbe",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6923813587,
-      "lat": 11.149229,
-      "lon": -3.062909,
-      "name": "Station ECO OIL",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3935743486,
-      "lat": 6.448723,
-      "lon": 0.914842,
-      "name": "Station essence MRS",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 3661904513,
       "lat": 5.574581,
       "lon": -0.272971,
       "name": "Station G",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9136285143,
-      "lat": 10.846455,
-      "lon": 0.199994,
-      "name": "Station LK",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5994288177,
-      "lat": 6.956157,
-      "lon": 0.571986,
-      "name": "Station météo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9061640400,
-      "lat": 10.835536,
-      "lon": 0.227485,
-      "name": "Station météo de Dapaong",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7057351098,
-      "lat": 6.910382,
-      "lon": 0.632138,
-      "name": "Station Mrs",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9313253022,
-      "lat": 10.845069,
-      "lon": 0.200397,
-      "name": "Station MRS",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10782320254,
-      "lat": 7.526156,
-      "lon": 1.135413,
-      "name": "Station Nykonakpoe",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6466425839,
-      "lat": 7.481813,
-      "lon": -3.254137,
-      "name": "Station oil lybia",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5029697521,
-      "lat": 6.207291,
-      "lon": 1.141028,
-      "name": "Station Sanol Atigangomé",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10574069306,
-      "lat": 6.198871,
-      "lon": 1.179997,
-      "name": "Station service",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6166455823,
-      "lat": 8.320411,
-      "lon": 0.990953,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7353135166,
-      "lat": 6.233363,
-      "lon": 1.145275,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8861039852,
-      "lat": 6.260696,
-      "lon": 1.162946,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9133741715,
-      "lat": 6.213265,
-      "lon": 1.184348,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 12252445364,
-      "lat": 9.034364,
-      "lon": 1.136072,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 12736297695,
-      "lat": 7.579892,
-      "lon": 1.157803,
-      "name": "Station service CAP",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5491157223,
-      "lat": 6.203626,
-      "lon": 1.165437,
-      "name": "Station service CAP Amandahomé",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5314322672,
-      "lat": 6.221298,
-      "lon": 1.170322,
-      "name": "Station service CM Petroleum Agoè Telessou",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5219375447,
-      "lat": 6.230952,
-      "lon": 1.112052,
-      "name": "Station service Oando",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6360161066,
-      "lat": 7.539705,
-      "lon": 1.14618,
-      "name": "Station Service Oando",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 11337816873,
-      "lat": 10.244546,
-      "lon": 0.642376,
-      "name": "Station Service Oando",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10942616265,
-      "lat": 7.582862,
-      "lon": 0.612725,
-      "name": "Station Service SADKO",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 11772385163,
-      "lat": 7.651859,
-      "lon": 0.789923,
-      "name": "Station Service SADKO",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5186991283,
-      "lat": 6.189885,
-      "lon": 1.153939,
-      "name": "Station service Sanol",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9180983565,
-      "lat": 6.202048,
-      "lon": 1.147573,
-      "name": "Station service T Oil",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5488561781,
-      "lat": 6.200284,
-      "lon": 1.180465,
-      "name": "Station service T-Oil",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5565113055,
-      "lat": 6.220523,
-      "lon": 1.166448,
-      "name": "Station service T-Oil E/se De l'Union",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3613258859,
-      "lat": 7.801232,
-      "lon": -3.166852,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8853935170,
-      "lat": 11.09952,
-      "lon": 0.017923,
-      "name": "Station Sitisali",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6923813586,
-      "lat": 11.14975,
-      "lon": -3.062582,
-      "name": "Station SODIP SA",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 4209417013,
-      "lat": 8.987192,
-      "lon": 1.139222,
-      "name": "Station Sokodé Aléhéride",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7141299800,
-      "lat": 6.866763,
-      "lon": 1.182868,
-      "name": "Station SOMAYAF",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6480238442,
-      "lat": 8.028304,
-      "lon": -2.809314,
-      "name": "Station star oil",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6926749657,
-      "lat": 10.878737,
-      "lon": 0.195346,
-      "name": "Station Stisali Dapaaong",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 9063077795,
-      "lat": 6.340628,
-      "lon": 1.110696,
-      "name": "Station T oil",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5031006126,
-      "lat": 6.200864,
-      "lon": 1.147908,
-      "name": "Station T-OIL 1 (Adidogomé Assiyéyé)",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 5037437423,
-      "lat": 6.201105,
-      "lon": 1.148564,
-      "name": "Station T-OIL 2 (Adidogomé Assiyéyé)",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10822161045,
-      "lat": 7.526184,
-      "lon": 1.134879,
-      "name": "Station T-OIL Nyekonakpoe",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8430049307,
-      "lat": 6.341128,
-      "lon": 1.108074,
-      "name": "Station taxi Kovié",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3613258860,
-      "lat": 7.801848,
-      "lon": -3.168267,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 12429563490,
-      "lat": 9.656874,
-      "lon": 1.133275,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 8670519690,
-      "lat": 6.19225,
-      "lon": 1.144296,
-      "name": "Station-service YATCO Sagbado",
       "type": "station",
       "country": "GH"
     },
@@ -5896,14 +4976,6 @@
       "lat": 6.091689,
       "lon": -0.257344,
       "name": "Taxi Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7057900063,
-      "lat": 6.915763,
-      "lon": 0.640182,
-      "name": "TDE station de traitement de Kpalimé",
       "type": "station",
       "country": "GH"
     },
@@ -6268,22 +5340,6 @@
       "country": "GH"
     },
     {
-      "id": 2203705920,
-      "lat": 7.532382,
-      "lon": 1.123656,
-      "name": "Unnamed (node 2203705920)",
-      "type": "buffer_stop",
-      "country": "GH"
-    },
-    {
-      "id": 2203705922,
-      "lat": 7.532401,
-      "lon": 1.123779,
-      "name": "Unnamed (node 2203705922)",
-      "type": "buffer_stop",
-      "country": "GH"
-    },
-    {
       "id": 3914593851,
       "lat": 5.548648,
       "lon": -0.210832,
@@ -6332,14 +5388,6 @@
       "country": "GH"
     },
     {
-      "id": 215166917,
-      "lat": 7.530928,
-      "lon": 1.12455,
-      "name": "Unnamed (way 215166917)",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 318656222,
       "lat": 5.304912,
       "lon": -1.995806,
@@ -6384,14 +5432,6 @@
       "lat": 10.062861,
       "lon": -2.507191,
       "name": "Unnamed (way 441207713)",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 569338428,
-      "lat": 6.909411,
-      "lon": 0.633949,
-      "name": "Unnamed (way 569338428)",
       "type": "station",
       "country": "GH"
     },
@@ -6656,30 +5696,6 @@
       "lat": 5.789032,
       "lon": -2.083986,
       "name": "Wassa Akropong Police station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10780601085,
-      "lat": 7.525229,
-      "lon": 1.148622,
-      "name": "WC de la station centre culturel",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10780601076,
-      "lat": 7.526219,
-      "lon": 1.134951,
-      "name": "WC de la station Nyekonakpoe",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 10780601074,
-      "lat": 7.526299,
-      "lon": 1.135068,
-      "name": "WC gare routière nykonakpoe",
       "type": "station",
       "country": "GH"
     },

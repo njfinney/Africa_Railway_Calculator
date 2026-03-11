@@ -8,8 +8,8 @@
     13.83,
     -13.8
   ],
-  "extracted": "2026-03-08T04:20:14.851Z",
-  "count": 54,
+  "extracted": "2026-03-11T11:39:58.699Z",
+  "count": 49,
   "stations": [
     {
       "id": 6979290785,
@@ -168,22 +168,6 @@
       "lat": 13.433865,
       "lon": -16.690486,
       "name": "Galp Station",
-      "type": "station",
-      "country": "GM"
-    },
-    {
-      "id": 545050858,
-      "lat": 13.292919,
-      "lon": -14.714749,
-      "name": "Garage de Medina Yoro Foulah",
-      "type": "station",
-      "country": "GM"
-    },
-    {
-      "id": 7104045485,
-      "lat": 13.335819,
-      "lon": -13.821875,
-      "name": "Gare routière",
       "type": "station",
       "country": "GM"
     },
@@ -348,14 +332,6 @@
       "country": "GM"
     },
     {
-      "id": 5235509513,
-      "lat": 13.817513,
-      "lon": -13.921949,
-      "name": "Sinthiou Maleme",
-      "type": "station",
-      "country": "GM"
-    },
-    {
       "id": 371244323,
       "lat": 13.440671,
       "lon": -15.535003,
@@ -396,26 +372,10 @@
       "country": "GM"
     },
     {
-      "id": 255213795,
-      "lat": 13.336032,
-      "lon": -13.821841,
-      "name": "Unnamed (way 255213795)",
-      "type": "station",
-      "country": "GM"
-    },
-    {
       "id": 370435339,
       "lat": 13.573092,
       "lon": -15.591386,
       "name": "Unnamed (way 370435339)",
-      "type": "station",
-      "country": "GM"
-    },
-    {
-      "id": 462820458,
-      "lat": 13.145673,
-      "lon": -14.103199,
-      "name": "Unnamed (way 462820458)",
       "type": "station",
       "country": "GM"
     },

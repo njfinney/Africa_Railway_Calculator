@@ -8,70 +8,14 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-03-08T04:30:14.678Z",
-  "count": 365,
+  "extracted": "2026-03-11T11:57:31.016Z",
+  "count": 269,
   "stations": [
-    {
-      "id": 6979290785,
-      "lat": 13.401233,
-      "lon": -16.655032,
-      "name": "Abuko police station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158302143,
-      "lat": 13.404338,
-      "lon": -16.663811,
-      "name": "Abusey Gas station",
-      "type": "station",
-      "country": "SN"
-    },
     {
       "id": 1026518933,
       "lat": 14.74462,
       "lon": -17.454641,
       "name": "AIBD Dem Dikk - gare routière navette express Aéroport International Blaise Diagne",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4655383378,
-      "lat": 14.590115,
-      "lon": -11.786128,
-      "name": "Ambidedi Poste",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6560511750,
-      "lat": 16.582812,
-      "lon": -14.272327,
-      "name": "Ancienne station-service محطة بنزين قديمة",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4513211090,
-      "lat": 13.41914,
-      "lon": -16.673786,
-      "name": "Atlas Gas Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5167233097,
-      "lat": 13.477864,
-      "lon": -16.676822,
-      "name": "Atlas Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6024788738,
-      "lat": 13.441124,
-      "lon": -15.535222,
-      "name": "Atlast Petrol station",
       "type": "station",
       "country": "SN"
     },
@@ -84,43 +28,11 @@
       "country": "SN"
     },
     {
-      "id": 6979290685,
-      "lat": 13.37032,
-      "lon": -16.65346,
-      "name": "Banjulinding Police station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 9373876213,
       "lat": 14.698179,
       "lon": -17.229166,
       "name": "Bargny",
       "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 1064563866,
-      "lat": 13.484928,
-      "lon": -16.545763,
-      "name": "Barra Ferry Terminal",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6027550087,
-      "lat": 13.298101,
-      "lon": -14.21255,
-      "name": "Basse fire station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6299152602,
-      "lat": 13.310695,
-      "lon": -14.212359,
-      "name": "Basse Police Station",
-      "type": "station",
       "country": "SN"
     },
     {
@@ -156,58 +68,10 @@
       "country": "SN"
     },
     {
-      "id": 8397431517,
-      "lat": 13.2846,
-      "lon": -16.64144,
-      "name": "Brikama Misira police station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 10655962605,
-      "lat": 13.410291,
-      "lon": -16.722877,
-      "name": "Brusubi Police Station and Immigration Office",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5836381291,
-      "lat": 13.418421,
-      "lon": -16.677465,
-      "name": "Bundung Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 8598559615,
       "lat": 14.344447,
       "lon": -16.420354,
       "name": "Cafe de la gare",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158301276,
-      "lat": 13.573713,
-      "lon": -15.601849,
-      "name": "car station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6988066189,
-      "lat": 13.415616,
-      "lon": -16.67519,
-      "name": "Castle petrol Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 2561169347,
-      "lat": 13.434322,
-      "lon": -16.676272,
-      "name": "Churchills Town Fire Station",
       "type": "station",
       "country": "SN"
     },
@@ -292,14 +156,6 @@
       "country": "SN"
     },
     {
-      "id": 9688318279,
-      "lat": 14.674234,
-      "lon": -17.430762,
-      "name": "Défibrillateur de la Gare Maritime",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 1020644503,
       "lat": 15.294635,
       "lon": -13.959172,
@@ -348,14 +204,6 @@
       "country": "SN"
     },
     {
-      "id": 9158197428,
-      "lat": 13.441806,
-      "lon": -15.518116,
-      "name": "Dibba fuel station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 9929984705,
       "lat": 16.148109,
       "lon": -13.786948,
@@ -396,30 +244,6 @@
       "country": "SN"
     },
     {
-      "id": 6031729286,
-      "lat": 13.572341,
-      "lon": -15.596552,
-      "name": "Farafeni Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5426413925,
-      "lat": 13.573121,
-      "lon": -15.597682,
-      "name": "Farafenni Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 2617342769,
-      "lat": 13.3219,
-      "lon": -16.666387,
-      "name": "Furtune petrol station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3674719741,
       "lat": 14.343734,
       "lon": -15.985073,
@@ -432,14 +256,6 @@
       "lat": 14.341867,
       "lon": -15.98522,
       "name": "Gagnik Halte",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 2242576004,
-      "lat": 13.433865,
-      "lon": -16.690486,
-      "name": "Galp Station",
       "type": "station",
       "country": "SN"
     },
@@ -500,34 +316,10 @@
       "country": "SN"
     },
     {
-      "id": 27294596,
-      "lat": 14.675603,
-      "lon": -17.433365,
-      "name": "Gare de Dakar",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 1016285866,
-      "lat": 14.676433,
-      "lon": -17.433743,
-      "name": "Gare de Dakar",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 340239695,
       "lat": 14.106344,
       "lon": -15.547711,
       "name": "Gare de Kaffrine",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 286647286,
-      "lat": 14.434402,
-      "lon": -11.4274,
-      "name": "Gare de Kayes",
       "type": "station",
       "country": "SN"
     },
@@ -620,30 +412,6 @@
       "country": "SN"
     },
     {
-      "id": 5706104491,
-      "lat": 14.672134,
-      "lon": -17.427581,
-      "name": "Gare Leclerc",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6149437796,
-      "lat": 14.140528,
-      "lon": -16.472918,
-      "name": "Gare Maritime de Foundiougne-Ndakhonga",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 538102828,
-      "lat": 14.140909,
-      "lon": -16.47294,
-      "name": "Gare Maritime de Foundiougne-Ndakhonga",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 2409742915,
       "lat": 14.712738,
       "lon": -17.279162,
@@ -656,22 +424,6 @@
       "lat": 12.588188,
       "lon": -16.268231,
       "name": "Gare Maritime de Ziguinchor",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 560149694,
-      "lat": 14.651041,
-      "lon": -17.433456,
-      "name": "Gare Palais 1",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4754586087,
-      "lat": 14.652875,
-      "lon": -17.433433,
-      "name": "Gare Palais 2",
       "type": "station",
       "country": "SN"
     },
@@ -916,14 +668,6 @@
       "country": "SN"
     },
     {
-      "id": 5165506055,
-      "lat": 14.436332,
-      "lon": -11.441462,
-      "name": "Gare Routiere Place Kenieba",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 1833345005,
       "lat": 15.619279,
       "lon": -16.210212,
@@ -944,14 +688,6 @@
       "lat": 15.619284,
       "lon": -16.209984,
       "name": "Gare Routière Touba",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 12484452501,
-      "lat": 14.455839,
-      "lon": -11.433488,
-      "name": "Gare selibaby",
       "type": "station",
       "country": "SN"
     },
@@ -980,26 +716,10 @@
       "country": "SN"
     },
     {
-      "id": 370184285,
-      "lat": 13.452789,
-      "lon": -16.670776,
-      "name": "Green Bus Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3674384235,
       "lat": 14.268782,
       "lon": -15.947387,
       "name": "Guinguinéo",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4315506596,
-      "lat": 13.169738,
-      "lon": -16.760827,
-      "name": "Gunjur police station",
       "type": "station",
       "country": "SN"
     },
@@ -1036,38 +756,6 @@
       "country": "SN"
     },
     {
-      "id": 6027550086,
-      "lat": 13.299364,
-      "lon": -14.207368,
-      "name": "Jah Oil Petrol Station - Mansajang",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6299152597,
-      "lat": 13.304941,
-      "lon": -14.210106,
-      "name": "Jallow's Gas Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6299161496,
-      "lat": 13.307543,
-      "lon": -14.210052,
-      "name": "Jallow's Petrol Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 3741578138,
-      "lat": 13.46232,
-      "lon": -16.687866,
-      "name": "Jet Stationary",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 4066544539,
       "lat": 14.741916,
       "lon": -16.61664,
@@ -1084,26 +772,10 @@
       "country": "SN"
     },
     {
-      "id": 3741582713,
-      "lat": 13.462826,
-      "lon": -16.688237,
-      "name": "Kairaba Stationary",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 661546860,
       "lat": 15.489176,
       "lon": -13.183691,
       "name": "Kanel Garage",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 2903243880,
-      "lat": 14.434357,
-      "lon": -11.427323,
-      "name": "Kayes",
       "type": "station",
       "country": "SN"
     },
@@ -1124,26 +796,10 @@
       "country": "SN"
     },
     {
-      "id": 5307044027,
-      "lat": 13.492939,
-      "lon": -16.08883,
-      "name": "Kerewan Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3659737615,
       "lat": 14.765457,
       "lon": -16.68784,
       "name": "Khombole",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 3920985257,
-      "lat": 14.455791,
-      "lon": -12.220793,
-      "name": "Kidira",
       "type": "station",
       "country": "SN"
     },
@@ -1172,14 +828,6 @@
       "country": "SN"
     },
     {
-      "id": 7739400419,
-      "lat": 16.683333,
-      "lon": -15.983333,
-      "name": "Lekhalt",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 4065514320,
       "lat": 15.39196,
       "lon": -15.115118,
@@ -1204,14 +852,6 @@
       "country": "SN"
     },
     {
-      "id": 4584422094,
-      "lat": 16.023822,
-      "lon": -16.492575,
-      "name": "Maison de la Gare des Talibés",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3743310668,
       "lat": 14.035606,
       "lon": -15.02424,
@@ -1224,30 +864,6 @@
       "lat": 14.087286,
       "lon": -15.293652,
       "name": "Malem Hoddar",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6299160389,
-      "lat": 13.444743,
-      "lon": -16.703741,
-      "name": "Manjai Petrol Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 13340705740,
-      "lat": 13.444798,
-      "lon": -16.701561,
-      "name": "Manjay Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158173690,
-      "lat": 13.459707,
-      "lon": -15.537389,
-      "name": "Mansakonko police station",
       "type": "station",
       "country": "SN"
     },
@@ -1297,14 +913,6 @@
       "lon": -16.632682,
       "name": "Mékhé",
       "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 3741578139,
-      "lat": 13.462362,
-      "lon": -16.68789,
-      "name": "Modern Stationary",
-      "type": "station",
       "country": "SN"
     },
     {
@@ -1364,14 +972,6 @@
       "country": "SN"
     },
     {
-      "id": 12811651692,
-      "lat": 12.520054,
-      "lon": -12.926426,
-      "name": "Negare",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 10981080868,
       "lat": 15.181634,
       "lon": -16.192561,
@@ -1388,34 +988,10 @@
       "country": "SN"
     },
     {
-      "id": 11913991836,
-      "lat": 13.314616,
-      "lon": -16.663656,
-      "name": "NP Petrol Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6979290287,
-      "lat": 13.282334,
-      "lon": -16.654721,
-      "name": "Oryx petrol station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 232787142,
       "lat": 15.610952,
       "lon": -13.317402,
       "name": "Ourossogui Garage",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5213200837,
-      "lat": 14.431786,
-      "lon": -11.426334,
-      "name": "Pharmacie de la Gare",
       "type": "station",
       "country": "SN"
     },
@@ -1484,14 +1060,6 @@
       "country": "SN"
     },
     {
-      "id": 9158214277,
-      "lat": 13.368361,
-      "lon": -16.679814,
-      "name": "police station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3743663808,
       "lat": 14.046091,
       "lon": -15.111363,
@@ -1513,14 +1081,6 @@
       "lon": -17.060543,
       "name": "Pout",
       "type": "halt",
-      "country": "SN"
-    },
-    {
-      "id": 3741578144,
-      "lat": 13.462614,
-      "lon": -16.687391,
-      "name": "Prime Stationary",
-      "type": "station",
       "country": "SN"
     },
     {
@@ -1564,14 +1124,6 @@
       "country": "SN"
     },
     {
-      "id": 3666789179,
-      "lat": 16.024714,
-      "lon": -16.498193,
-      "name": "Saint-Louis",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
       "id": 1985196410,
       "lat": 15.98841,
       "lon": -16.488331,
@@ -1596,38 +1148,6 @@
       "country": "SN"
     },
     {
-      "id": 9118721610,
-      "lat": 13.443834,
-      "lon": -15.536615,
-      "name": "Samboujang Fuel Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6498234685,
-      "lat": 13.572025,
-      "lon": -15.596722,
-      "name": "Sankareh’s Stationary and Book Shop",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5592103823,
-      "lat": 13.406331,
-      "lon": -16.730006,
-      "name": "Senegambia Gare",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 13625115630,
-      "lat": 13.183656,
-      "lon": -16.698465,
-      "name": "Siffoe Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 5235509513,
       "lat": 13.817513,
       "lon": -13.921949,
@@ -1636,50 +1156,10 @@
       "country": "SN"
     },
     {
-      "id": 371244323,
-      "lat": 13.440671,
-      "lon": -15.535003,
-      "name": "Soma Carpark",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158102886,
-      "lat": 13.454079,
-      "lon": -15.535854,
-      "name": "Soma Fire Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158117109,
-      "lat": 13.453229,
-      "lon": -15.535865,
-      "name": "Soma Fire Station Resident",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 9158165455,
-      "lat": 13.441602,
-      "lon": -15.53131,
-      "name": "Soma police station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 4188939389,
       "lat": 13.985499,
       "lon": -16.257111,
       "name": "Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 7418047534,
-      "lat": 14.451694,
-      "lon": -11.465714,
-      "name": "Station AMI",
       "type": "station",
       "country": "SN"
     },
@@ -1708,34 +1188,10 @@
       "country": "SN"
     },
     {
-      "id": 4461262498,
-      "lat": 16.581808,
-      "lon": -14.274257,
-      "name": "Station de ferry de Boghé محطة بوغي العبارة",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 3644126888,
-      "lat": 16.580938,
-      "lon": -14.275494,
-      "name": "Station de ferry de Démèt محطة ديمت العبارة",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 3756048258,
       "lat": 16.54717,
       "lon": -14.772636,
       "name": "Station de pompage",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4811488866,
-      "lat": 14.685222,
-      "lon": -17.469185,
-      "name": "Station de Pompage",
       "type": "station",
       "country": "SN"
     },
@@ -1776,30 +1232,6 @@
       "lat": 16.027459,
       "lon": -16.490371,
       "name": "station de relevement eaux usées ONAS",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5823879258,
-      "lat": 14.447542,
-      "lon": -11.443861,
-      "name": "Station des Taxi",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5823879260,
-      "lat": 14.444091,
-      "lon": -11.438004,
-      "name": "Station des Taxi",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 5914890121,
-      "lat": 14.449742,
-      "lon": -11.441455,
-      "name": "Station détaillant Essence",
       "type": "station",
       "country": "SN"
     },
@@ -2068,22 +1500,6 @@
       "country": "SN"
     },
     {
-      "id": 5761344476,
-      "lat": 16.037746,
-      "lon": -16.503013,
-      "name": "Station régionale RTS Saint Louis",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4396138021,
-      "lat": 14.447838,
-      "lon": -11.44378,
-      "name": "Station Sad Oil",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 9522758631,
       "lat": 14.166427,
       "lon": -16.075536,
@@ -2252,14 +1668,6 @@
       "country": "SN"
     },
     {
-      "id": 6113530032,
-      "lat": 16.024659,
-      "lon": -16.495513,
-      "name": "Station total",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 2465643436,
       "lat": 14.788941,
       "lon": -16.930079,
@@ -2284,14 +1692,6 @@
       "country": "SN"
     },
     {
-      "id": 7132488186,
-      "lat": 12.486277,
-      "lon": -13.296738,
-      "name": "Station Total",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 2162801116,
       "lat": 14.756692,
       "lon": -17.4282,
@@ -2308,34 +1708,10 @@
       "country": "SN"
     },
     {
-      "id": 5221346722,
-      "lat": 14.451973,
-      "lon": -11.458288,
-      "name": "Station Totale",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 8464260819,
-      "lat": 16.597089,
-      "lon": -14.257167,
-      "name": "Station-service NP",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 2902898618,
       "lat": 13.774,
       "lon": -13.672322,
       "name": "Tambacounda",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 217819465,
-      "lat": 14.671807,
-      "lon": -17.427477,
-      "name": "Terminus Dakar Dem Dikk Leclerc",
       "type": "station",
       "country": "SN"
     },
@@ -2468,14 +1844,6 @@
       "country": "SN"
     },
     {
-      "id": 3105710868,
-      "lat": 16.024967,
-      "lon": -16.497931,
-      "name": "Touba Gare",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 10245432029,
       "lat": 14.68218,
       "lon": -17.436758,
@@ -2588,22 +1956,6 @@
       "country": "SN"
     },
     {
-      "id": 5226588321,
-      "lat": 14.525317,
-      "lon": -12.042395,
-      "name": "Unnamed (node 5226588321)",
-      "type": "halt",
-      "country": "SN"
-    },
-    {
-      "id": 5226588334,
-      "lat": 14.485443,
-      "lon": -11.571366,
-      "name": "Unnamed (node 5226588334)",
-      "type": "halt",
-      "country": "SN"
-    },
-    {
       "id": 6216013168,
       "lat": 14.672561,
       "lon": -17.064318,
@@ -2616,38 +1968,6 @@
       "lat": 14.699695,
       "lon": -17.440162,
       "name": "Unnamed (node 6570144316)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7570062801,
-      "lat": 14.675994,
-      "lon": -17.433594,
-      "name": "Unnamed (node 7570062801)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7570062807,
-      "lat": 14.676109,
-      "lon": -17.433369,
-      "name": "Unnamed (node 7570062807)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7570062808,
-      "lat": 14.676059,
-      "lon": -17.433457,
-      "name": "Unnamed (node 7570062808)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7570063001,
-      "lat": 14.676039,
-      "lon": -17.433488,
-      "name": "Unnamed (node 7570063001)",
       "type": "buffer_stop",
       "country": "SN"
     },
@@ -2772,26 +2092,10 @@
       "country": "SN"
     },
     {
-      "id": 1477024843,
-      "lat": 13.407073,
-      "lon": -16.727902,
-      "name": "Unnamed (way 1477024843)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 197717386,
       "lat": 14.797484,
       "lon": -16.929335,
       "name": "Unnamed (way 197717386)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 216611360,
-      "lat": 16.025733,
-      "lon": -16.496785,
-      "name": "Unnamed (way 216611360)",
       "type": "station",
       "country": "SN"
     },
@@ -2820,34 +2124,10 @@
       "country": "SN"
     },
     {
-      "id": 309636756,
-      "lat": 14.525147,
-      "lon": -12.042344,
-      "name": "Unnamed (way 309636756)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 362022946,
       "lat": 14.668902,
       "lon": -17.441105,
       "name": "Unnamed (way 362022946)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 370435339,
-      "lat": 13.573092,
-      "lon": -15.591386,
-      "name": "Unnamed (way 370435339)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 388918726,
-      "lat": 14.455592,
-      "lon": -12.220624,
-      "name": "Unnamed (way 388918726)",
       "type": "station",
       "country": "SN"
     },
@@ -2876,59 +2156,11 @@
       "country": "SN"
     },
     {
-      "id": 540206174,
-      "lat": 14.485504,
-      "lon": -11.571324,
-      "name": "Unnamed (way 540206174)",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6029690791,
-      "lat": 13.693086,
-      "lon": -14.879686,
-      "name": "Wassu Police and Immigration Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 4085411833,
-      "lat": 13.479516,
-      "lon": -15.558917,
-      "name": "Weigh Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 6988066585,
-      "lat": 13.398455,
-      "lon": -16.673526,
-      "name": "Wellingara Police Station",
-      "type": "station",
-      "country": "SN"
-    },
-    {
       "id": 9373889175,
       "lat": 14.764895,
       "lon": -17.356529,
       "name": "Yeumbeul",
       "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 507257089,
-      "lat": 16.508551,
-      "lon": -15.811851,
-      "name": "روصو",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 430941079,
-      "lat": 16.513608,
-      "lon": -15.811534,
-      "name": "محطة الحافلات",
-      "type": "station",
       "country": "SN"
     }
   ]

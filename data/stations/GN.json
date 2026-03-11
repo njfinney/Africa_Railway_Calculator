@@ -8,54 +8,14 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-03-08T04:21:45.292Z",
-  "count": 741,
+  "extracted": "2026-03-11T11:43:11.820Z",
+  "count": 333,
   "stations": [
-    {
-      "id": 4530647922,
-      "lat": 8.461612,
-      "lon": -10.338188,
-      "name": "Abu Jalloh's Charging Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 12261017272,
-      "lat": 8.460228,
-      "lon": -13.278823,
-      "name": "ACE Fibre landing station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 2888490537,
-      "lat": 8.685571,
-      "lon": -12.168006,
-      "name": "Addax - Climate Station",
-      "type": "station",
-      "country": "GN"
-    },
     {
       "id": 5966756331,
       "lat": 9.548014,
       "lon": -13.673771,
       "name": "AFETEB Prestation Informatique",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514040947,
-      "lat": 9.112161,
-      "lon": -12.925584,
-      "name": "Aliear filling station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033124,
-      "lat": 7.22816,
-      "lon": -8.983742,
-      "name": "Aminata Gas Station",
       "type": "station",
       "country": "GN"
     },
@@ -72,134 +32,6 @@
       "lat": 9.581303,
       "lon": -13.61322,
       "name": "API-Sarl (Agence de Prestation Informatique)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6945622668,
-      "lat": 12.661026,
-      "lon": -7.987287,
-      "name": "Arrêt Gare Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6945170941,
-      "lat": 12.668446,
-      "lon": -7.926615,
-      "name": "Arrêt Station Soleil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6949711526,
-      "lat": 12.621772,
-      "lon": -8.025633,
-      "name": "Arrêt Station Totale",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4459049675,
-      "lat": 12.598362,
-      "lon": -7.959532,
-      "name": "auto gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5999277885,
-      "lat": 12.649165,
-      "lon": -8.000162,
-      "name": "Auto gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6951594275,
-      "lat": 12.597259,
-      "lon": -7.960155,
-      "name": "Auto Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952105800,
-      "lat": 12.597366,
-      "lon": -7.959966,
-      "name": "Auto Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047726219,
-      "lat": 12.596852,
-      "lon": -7.959648,
-      "name": "Auto Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4459039492,
-      "lat": 12.598106,
-      "lon": -7.959684,
-      "name": "Auto gare de Sogoniko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080044326,
-      "lat": 12.595767,
-      "lon": -7.958151,
-      "name": "Auto Gare de Sokoniko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4826161422,
-      "lat": 12.605305,
-      "lon": -7.971925,
-      "name": "Autogare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7632677385,
-      "lat": 8.878382,
-      "lon": -12.051609,
-      "name": "Azzolini Highway filling station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3497288142,
-      "lat": 12.648641,
-      "lon": -7.998838,
-      "name": "Bamako",
-      "type": "stop",
-      "country": "GN"
-    },
-    {
-      "id": 90527879,
-      "lat": 12.64836,
-      "lon": -7.999028,
-      "name": "Bamako",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3191534289,
-      "lat": 12.660031,
-      "lon": -7.952714,
-      "name": "Bamako Goods Depot",
-      "type": "service_station",
-      "country": "GN"
-    },
-    {
-      "id": 6955553320,
-      "lat": 12.660281,
-      "lon": -7.959863,
-      "name": "Banconi Tournant Station Shell",
       "type": "station",
       "country": "GN"
     },
@@ -228,30 +60,6 @@
       "country": "GN"
     },
     {
-      "id": 5034897327,
-      "lat": 7.229852,
-      "lon": -8.984766,
-      "name": "Blessed Child Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3589607735,
-      "lat": 7.967383,
-      "lon": -11.741121,
-      "name": "Bo Central Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3589607741,
-      "lat": 7.948666,
-      "lon": -11.72001,
-      "name": "Bo Eastern Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 2623837164,
       "lat": 10.952613,
       "lon": -14.304478,
@@ -276,14 +84,6 @@
       "country": "GN"
     },
     {
-      "id": 4513738580,
-      "lat": 8.277385,
-      "lon": -10.37568,
-      "name": "Buedu Police Station Check Point",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 8731459017,
       "lat": 10.376329,
       "lon": -9.303819,
@@ -304,14 +104,6 @@
       "lat": 7.728019,
       "lon": -9.209492,
       "name": "Cabine de vente de cigarette",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5440880621,
-      "lat": 8.431383,
-      "lon": -13.155377,
-      "name": "Calaba Town last station",
       "type": "station",
       "country": "GN"
     },
@@ -348,38 +140,6 @@
       "country": "GN"
     },
     {
-      "id": 4488778290,
-      "lat": 7.874886,
-      "lon": -11.192092,
-      "name": "Centre Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7053184501,
-      "lat": 12.541913,
-      "lon": -8.034933,
-      "name": "Chèbani Station Nih",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7053184517,
-      "lat": 12.541659,
-      "lon": -8.035146,
-      "name": "Chèbani Station Nih",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514072953,
-      "lat": 8.061482,
-      "lon": -10.507218,
-      "name": "Checkpoint At The Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 3457266009,
       "lat": 9.67567,
       "lon": -13.531458,
@@ -396,67 +156,11 @@
       "country": "GN"
     },
     {
-      "id": 3589579878,
-      "lat": 7.961635,
-      "lon": -11.740663,
-      "name": "Conex Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7007785386,
-      "lat": 7.873246,
-      "lon": -11.192734,
-      "name": "Conex Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 393740286,
-      "lat": 8.48487,
-      "lon": -13.259899,
-      "name": "Conex Fuel Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 1765613666,
-      "lat": 8.466562,
-      "lon": -13.27376,
-      "name": "Conex Fuel Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 378731470,
-      "lat": 8.483232,
-      "lon": -13.259075,
-      "name": "Congo Cross Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13138304290,
       "lat": 9.8603,
       "lon": -13.507806,
       "name": "Correro",
       "type": "service_station",
-      "country": "GN"
-    },
-    {
-      "id": 10976658710,
-      "lat": 12.60623,
-      "lon": -7.933293,
-      "name": "CTR 201710M001003 Pour scellés capot et cache bornes violés au Nom de Samasekou Kaka à Banankabougou .zone Station service EDS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 10976658906,
-      "lat": 12.569161,
-      "lon": -7.928081,
-      "name": "CTR32032711197 En BD Au Nom de N'Diaye Néné à Sirakoro Virage Station service BCF en étant sur la Route de SENOU",
-      "type": "station",
       "country": "GN"
     },
     {
@@ -516,22 +220,6 @@
       "country": "GN"
     },
     {
-      "id": 3354032076,
-      "lat": 8.449975,
-      "lon": -13.236616,
-      "name": "Drive Hill Station Community",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3353967886,
-      "lat": 8.446742,
-      "lon": -13.231999,
-      "name": "Drive Imatt Hill Station Community",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13138304325,
       "lat": 9.790822,
       "lon": -13.486942,
@@ -548,58 +236,10 @@
       "country": "GN"
     },
     {
-      "id": 4514671085,
-      "lat": 7.774493,
-      "lon": -9.429325,
-      "name": "Ecors Parking Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6792411543,
-      "lat": 7.226309,
-      "lon": -8.986811,
-      "name": "Edwin The Boss Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4534379769,
       "lat": 10.185099,
       "lon": -11.842076,
       "name": "En gare vente des condiment",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5200033228,
-      "lat": 12.57137,
-      "lon": -8.001263,
-      "name": "Entreprise Général Étude Formation Prestations Service",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5991401128,
-      "lat": 9.512258,
-      "lon": -13.708797,
-      "name": "EP Franco-arabe de la Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4912797573,
-      "lat": 7.201888,
-      "lon": -9.017265,
-      "name": "Esther W Krua Company Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4918550494,
-      "lat": 7.210215,
-      "lon": -8.973852,
-      "name": "Family Tree Filling Station",
       "type": "station",
       "country": "GN"
     },
@@ -612,46 +252,6 @@
       "country": "GN"
     },
     {
-      "id": 4893342342,
-      "lat": 7.219931,
-      "lon": -8.97716,
-      "name": "Fear God Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4905954411,
-      "lat": 7.201964,
-      "lon": -8.915551,
-      "name": "Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4907050373,
-      "lat": 7.226554,
-      "lon": -8.933411,
-      "name": "Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5039934626,
-      "lat": 7.245005,
-      "lon": -8.982459,
-      "name": "Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033509,
-      "lat": 7.227262,
-      "lon": -8.983465,
-      "name": "Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 2623837061,
       "lat": 10.84387,
       "lon": -14.356714,
@@ -660,34 +260,10 @@
       "country": "GN"
     },
     {
-      "id": 370751258,
-      "lat": 8.458545,
-      "lon": -13.25287,
-      "name": "Former Hill Station",
-      "type": "halt",
-      "country": "GN"
-    },
-    {
-      "id": 370327628,
-      "lat": 8.43443,
-      "lon": -13.275357,
-      "name": "Former SLBC Goderich Shortwave station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6151863685,
       "lat": 10.170961,
       "lon": -11.409762,
       "name": "Fuel station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6790918117,
-      "lat": 7.232812,
-      "lon": -8.988596,
-      "name": "Fuel Station",
       "type": "station",
       "country": "GN"
     },
@@ -708,114 +284,10 @@
       "country": "GN"
     },
     {
-      "id": 7056382663,
-      "lat": 12.616463,
-      "lon": -7.992724,
-      "name": "Gare Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7056740794,
-      "lat": 12.574784,
-      "lon": -8.027131,
-      "name": "Gare Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6948901913,
-      "lat": 12.662404,
-      "lon": -7.984562,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952010726,
-      "lat": 12.662073,
-      "lon": -7.987007,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952324964,
-      "lat": 12.626385,
-      "lon": -8.039783,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960096885,
-      "lat": 12.613967,
-      "lon": -8.044716,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966658472,
-      "lat": 12.661935,
-      "lon": -7.989549,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047108033,
-      "lat": 12.509864,
-      "lon": -8.022655,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080044300,
-      "lat": 12.615455,
-      "lon": -7.77788,
-      "name": "Gare de Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080323252,
-      "lat": 12.546924,
-      "lon": -7.861407,
-      "name": "Gare De Bus",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6691723385,
-      "lat": 7.263368,
-      "lon": -8.142991,
-      "name": "Gare de Man",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7041828885,
       "lat": 9.186158,
       "lon": -10.094063,
       "name": "Gare des voitures",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5223065133,
-      "lat": 12.607292,
-      "lon": -7.898199,
-      "name": "Gare Gros bois",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7262596685,
-      "lat": 12.613786,
-      "lon": -8.042866,
-      "name": "Gare guinee",
       "type": "station",
       "country": "GN"
     },
@@ -828,58 +300,10 @@
       "country": "GN"
     },
     {
-      "id": 5691071723,
-      "lat": 12.594241,
-      "lon": -8.059083,
-      "name": "Gare moto-taxis",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5113975381,
-      "lat": 12.641358,
-      "lon": -7.988945,
-      "name": "Gare Niono",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4951017444,
-      "lat": 8.239305,
-      "lon": -7.868196,
-      "name": "Gare Ouaninou",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6948525011,
-      "lat": 12.650564,
-      "lon": -7.991581,
-      "name": "Gare Railda-Fadjiguila",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 8082637884,
-      "lat": 12.638037,
-      "lon": -7.990645,
-      "name": "Gare Routère AK transport",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5618147121,
       "lat": 10.369453,
       "lon": -9.295508,
       "name": "Gare routier à Bamako",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960117009,
-      "lat": 12.522147,
-      "lon": -8.042242,
-      "name": "Gare Routiere",
       "type": "station",
       "country": "GN"
     },
@@ -900,14 +324,6 @@
       "country": "GN"
     },
     {
-      "id": 4256755253,
-      "lat": 7.863556,
-      "lon": -8.100722,
-      "name": "Gare routière",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4770935538,
       "lat": 9.707452,
       "lon": -13.38417,
@@ -920,14 +336,6 @@
       "lat": 10.910677,
       "lon": -14.306451,
       "name": "Gare routière 400 Bâtiments",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4740518623,
-      "lat": 12.655261,
-      "lon": -8.023693,
-      "name": "Gare Routière Africa Star Badialan",
       "type": "station",
       "country": "GN"
     },
@@ -960,14 +368,6 @@
       "lat": 8.548216,
       "lon": -9.47109,
       "name": "Gare routière de Kankan, Siguiri, Gueckedou pour Syndicat Indépendant",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3170922822,
-      "lat": 12.558345,
-      "lon": -12.18419,
-      "name": "Gare Routière de Kédougou",
       "type": "station",
       "country": "GN"
     },
@@ -1012,22 +412,6 @@
       "country": "GN"
     },
     {
-      "id": 4740518625,
-      "lat": 12.655344,
-      "lon": -8.024032,
-      "name": "Gare Routière de Tilemsi Badialan",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 10751496230,
-      "lat": 11.178726,
-      "lon": -8.151701,
-      "name": "Gare routière de Yanfolila",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6080256235,
       "lat": 11.817163,
       "lon": -12.34958,
@@ -1040,22 +424,6 @@
       "lat": 10.737607,
       "lon": -11.127135,
       "name": "Gare routière destinations via Mamou (Labé, Conakry...)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6176663886,
-      "lat": 12.59321,
-      "lon": -7.940077,
-      "name": "Gare routière Elhadj Dougnon",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3592271219,
-      "lat": 12.613422,
-      "lon": -8.043616,
-      "name": "Gare routière Guinée",
       "type": "station",
       "country": "GN"
     },
@@ -1084,22 +452,6 @@
       "country": "GN"
     },
     {
-      "id": 4740518624,
-      "lat": 12.654957,
-      "lon": -8.023007,
-      "name": "Gare Routière Nour Transport Badialan",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4721180647,
-      "lat": 12.615937,
-      "lon": -7.978285,
-      "name": "Gare Routière Rimbo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 538281237,
       "lat": 10.664294,
       "lon": -14.581615,
@@ -1108,34 +460,10 @@
       "country": "GN"
     },
     {
-      "id": 8292745017,
-      "lat": 7.259815,
-      "lon": -8.15494,
-      "name": "Gare SDS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 8521052817,
-      "lat": 7.259652,
-      "lon": -8.155718,
-      "name": "Gare ST DANANÉ",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 12287519436,
       "lat": 7.757254,
       "lon": -8.804772,
       "name": "Gare ST Soumahoro Transport",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6964595644,
-      "lat": 12.54828,
-      "lon": -8.112118,
-      "name": "Gare Station Yara",
       "type": "station",
       "country": "GN"
     },
@@ -1172,46 +500,6 @@
       "country": "GN"
     },
     {
-      "id": 13565363712,
-      "lat": 9.587556,
-      "lon": -12.217611,
-      "name": "Gas station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514682818,
-      "lat": 7.573517,
-      "lon": -8.54618,
-      "name": "Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4903841871,
-      "lat": 7.230415,
-      "lon": -8.892468,
-      "name": "Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3021613173,
-      "lat": 7.28458,
-      "lon": -8.824939,
-      "name": "Gbedin Rice Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4912797738,
-      "lat": 7.215073,
-      "lon": -8.98669,
-      "name": "George Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 8268352213,
       "lat": 11.052956,
       "lon": -14.097759,
@@ -1220,58 +508,10 @@
       "country": "GN"
     },
     {
-      "id": 4888195667,
-      "lat": 7.231971,
-      "lon": -8.990949,
-      "name": "God Willing Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4888555157,
-      "lat": 7.231687,
-      "lon": -8.99192,
-      "name": "God Willing Inc Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5025065336,
-      "lat": 7.234021,
-      "lon": -8.983524,
-      "name": "Good Sister Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4534094991,
-      "lat": 7.879582,
-      "lon": -11.189999,
-      "name": "Goverment Bus Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3356047557,
-      "lat": 8.457343,
-      "lon": -13.254126,
-      "name": "Government Quarter Hillstation",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 12222504507,
       "lat": 10.394764,
       "lon": -9.299502,
       "name": "Grande gare routière de Kankan",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4887962931,
-      "lat": 12.582596,
-      "lon": -8.005111,
-      "name": "Groupe Scolaire Privé Aisse Ahmadou Sangare",
       "type": "station",
       "country": "GN"
     },
@@ -1300,54 +540,6 @@
       "country": "GN"
     },
     {
-      "id": 629364575,
-      "lat": 8.386464,
-      "lon": -13.13424,
-      "name": "Hastings",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 11196003541,
-      "lat": 8.645881,
-      "lon": -10.960218,
-      "name": "Hill station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 11196018437,
-      "lat": 8.645174,
-      "lon": -10.95997,
-      "name": "Hill station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 371009770,
-      "lat": 8.459407,
-      "lon": -13.253941,
-      "name": "Hill Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3124095918,
-      "lat": 8.456214,
-      "lon": -13.253446,
-      "name": "Hill Station Club",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3359248148,
-      "lat": 8.454636,
-      "lon": -13.243354,
-      "name": "Hill Station Community",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 8922188844,
       "lat": 10.049411,
       "lon": -12.848286,
@@ -1356,82 +548,10 @@
       "country": "GN"
     },
     {
-      "id": 5414430486,
-      "lat": 12.581979,
-      "lon": -7.991781,
-      "name": "Hôtel Oumou Sangare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5093266341,
-      "lat": 7.231669,
-      "lon": -8.994863,
-      "name": "HottFM Radio Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033487,
-      "lat": 7.226556,
-      "lon": -8.983319,
-      "name": "In God We Trust Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4100642430,
-      "lat": 8.42541,
-      "lon": -9.756082,
-      "name": "Jallah Woiwor Charging Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6790918067,
-      "lat": 7.23257,
-      "lon": -8.989416,
-      "name": "Joy Service Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3353967885,
-      "lat": 8.44673,
-      "lon": -13.231908,
-      "name": "Junction Hill Station Community",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 11758326230,
-      "lat": 9.585967,
-      "lon": -11.550622,
-      "name": "Kabala Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7632669286,
-      "lat": 8.889852,
-      "lon": -12.065873,
-      "name": "Kamathor fuel stations.",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 9910522987,
       "lat": 10.657904,
       "lon": -14.598768,
       "name": "Kamsar",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7716102761,
-      "lat": 11.644096,
-      "lon": -8.191116,
-      "name": "Kangare",
       "type": "station",
       "country": "GN"
     },
@@ -1484,58 +604,10 @@
       "country": "GN"
     },
     {
-      "id": 11757909384,
-      "lat": 9.584009,
-      "lon": -11.55286,
-      "name": "lantej fuel station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3589640143,
-      "lat": 7.944078,
-      "lon": -11.728984,
-      "name": "Leonco Shell Mingo Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 12020259869,
-      "lat": 7.944863,
-      "lon": -11.727714,
-      "name": "Local car station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033469,
-      "lat": 7.226962,
-      "lon": -8.983423,
-      "name": "Lord Brother Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514682817,
-      "lat": 7.565987,
-      "lon": -8.55213,
-      "name": "Ma Bee White Flower Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6726804320,
       "lat": 11.105504,
       "lon": -13.811283,
       "name": "Mairie de Sangaredi",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7006531222,
-      "lat": 7.94818,
-      "lon": -11.71335,
-      "name": "Malador Filling Station",
       "type": "station",
       "country": "GN"
     },
@@ -1580,58 +652,10 @@
       "country": "GN"
     },
     {
-      "id": 5025229399,
-      "lat": 7.231997,
-      "lon": -8.984488,
-      "name": "Mark Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3916632555,
-      "lat": 12.601522,
-      "lon": -7.923832,
-      "name": "Messery Sangare & Freres",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5958548785,
       "lat": 9.546981,
       "lon": -13.677426,
       "name": "Mina Prestations",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4530280417,
-      "lat": 8.27663,
-      "lon": -10.567498,
-      "name": "Morie Eddie's Charging Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033446,
-      "lat": 7.227821,
-      "lon": -8.983605,
-      "name": "Morning Star Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 2947470712,
-      "lat": 8.611626,
-      "lon": -11.019581,
-      "name": "Motema Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5027113945,
-      "lat": 7.216319,
-      "lon": -8.976106,
-      "name": "Mother Blessing Filling Station",
       "type": "station",
       "country": "GN"
     },
@@ -1644,110 +668,6 @@
       "country": "GN"
     },
     {
-      "id": 4861864811,
-      "lat": 8.87809,
-      "lon": -12.052585,
-      "name": "Nena Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4489243892,
-      "lat": 7.869339,
-      "lon": -11.194289,
-      "name": "NP filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3379671843,
-      "lat": 8.333712,
-      "lon": -13.069946,
-      "name": "NP Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4818907723,
-      "lat": 8.332076,
-      "lon": -13.046111,
-      "name": "NP Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7006533708,
-      "lat": 7.948188,
-      "lon": -11.708168,
-      "name": "NP Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7007786685,
-      "lat": 7.880236,
-      "lon": -11.190575,
-      "name": "NP Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514040925,
-      "lat": 9.127666,
-      "lon": -12.921597,
-      "name": "NP Fuel station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 369417973,
-      "lat": 8.483699,
-      "lon": -13.259272,
-      "name": "NP Fuel Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4513738584,
-      "lat": 8.279233,
-      "lon": -10.371738,
-      "name": "NP Fuel Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4861867435,
-      "lat": 8.888756,
-      "lon": -12.054589,
-      "name": "NP Wusum Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4888195687,
-      "lat": 7.232952,
-      "lon": -8.990328,
-      "name": "NTA Bus Parking Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 9803411758,
-      "lat": 8.469205,
-      "lon": -12.249078,
-      "name": "Oasis Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5025065234,
-      "lat": 7.233702,
-      "lon": -8.983471,
-      "name": "Oshel Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13138304166,
       "lat": 10.021541,
       "lon": -13.638069,
@@ -1756,154 +676,10 @@
       "country": "GN"
     },
     {
-      "id": 4909724676,
-      "lat": 12.264348,
-      "lon": -8.554273,
-      "name": "panneau",
-      "type": "tram_stop",
-      "country": "GN"
-    },
-    {
-      "id": 4517312144,
-      "lat": 7.229248,
-      "lon": -9.001467,
-      "name": "Part It Better Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4912797798,
-      "lat": 7.21403,
-      "lon": -8.988169,
-      "name": "Patrick Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514682798,
-      "lat": 7.573703,
-      "lon": -8.54615,
-      "name": "Peter Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514040892,
-      "lat": 9.109364,
-      "lon": -12.92561,
-      "name": "Peterol Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5483737401,
-      "lat": 9.513279,
-      "lon": -13.706027,
-      "name": "Pharmacie de la Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3638133639,
-      "lat": 12.596565,
-      "lon": -7.958232,
-      "name": "pharmacie officine Dr A.Singare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 1890979320,
       "lat": 9.876451,
       "lon": -13.089681,
       "name": "Pièrre",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5037823349,
-      "lat": 7.228749,
-      "lon": -8.987323,
-      "name": "Play Station and Bet",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4462819092,
-      "lat": 12.597226,
-      "lon": -7.959895,
-      "name": "Police de la circulation carrefour Auto gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6360130144,
-      "lat": 8.456799,
-      "lon": -13.249576,
-      "name": "Police Post- Hill Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 12037781370,
-      "lat": 8.459922,
-      "lon": -13.270386,
-      "name": "Police station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3342206750,
-      "lat": 8.474646,
-      "lon": -13.191083,
-      "name": "Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514675516,
-      "lat": 7.233713,
-      "lon": -9.16677,
-      "name": "Police Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3457364545,
-      "lat": 9.519514,
-      "lon": -13.701915,
-      "name": "Portovoya",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5545812979,
-      "lat": 12.598053,
-      "lon": -7.960099,
-      "name": "Poste de Police Auto Gare Sogoniko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6866835407,
-      "lat": 9.514181,
-      "lon": -13.709473,
-      "name": "Poste de Santé de la Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4893342381,
-      "lat": 7.220876,
-      "lon": -8.977691,
-      "name": "Powerful God Filling Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4893342384,
-      "lat": 7.220857,
-      "lon": -8.977793,
-      "name": "Powerful God Filling Station Fuel Store",
       "type": "station",
       "country": "GN"
     },
@@ -1916,130 +692,10 @@
       "country": "GN"
     },
     {
-      "id": 4514682800,
-      "lat": 7.573924,
-      "lon": -8.54612,
-      "name": "Prince Daysee Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5037823367,
-      "lat": 7.229132,
-      "lon": -8.984477,
-      "name": "Puff Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7632563585,
-      "lat": 8.888107,
-      "lon": -12.043856,
-      "name": "PZ Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5214297090,
-      "lat": 12.574753,
-      "lon": -7.921482,
-      "name": "René Alphonse station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5144203436,
-      "lat": 12.647347,
-      "lon": -7.999309,
-      "name": "Restaurant La Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5028564477,
-      "lat": 7.236665,
-      "lon": -8.969523,
-      "name": "River Inn Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5025065362,
-      "lat": 7.234161,
-      "lon": -8.980958,
-      "name": "Rivet Inn Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 2218430789,
-      "lat": 8.604588,
-      "lon": -13.18006,
-      "name": "Rotifunk Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5028564455,
-      "lat": 7.246307,
-      "lon": -8.970551,
-      "name": "Rubber Purchasing Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5034741517,
-      "lat": 7.231779,
-      "lon": -8.99026,
-      "name": "S. P. Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5034897404,
-      "lat": 7.232692,
-      "lon": -8.985881,
-      "name": "Saclepea Car Parking Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4861867434,
-      "lat": 8.891764,
-      "lon": -12.04202,
-      "name": "Safecon Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4530474810,
-      "lat": 8.281884,
-      "lon": -10.371362,
-      "name": "Sahr K Bundor's Charging Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5966555763,
       "lat": 9.54872,
       "lon": -13.674796,
       "name": "Salle de Jeux PlayStation",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5024739596,
-      "lat": 7.215671,
-      "lon": -8.976031,
-      "name": "Same God Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3371623410,
-      "lat": 8.447933,
-      "lon": -13.240891,
-      "name": "Sand Ground Hill Station",
       "type": "station",
       "country": "GN"
     },
@@ -2068,14 +724,6 @@
       "country": "GN"
     },
     {
-      "id": 4517312183,
-      "lat": 7.23397,
-      "lon": -8.983759,
-      "name": "Sanniquellie Parking Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13138304239,
       "lat": 9.892085,
       "lon": -13.57586,
@@ -2084,50 +732,10 @@
       "country": "GN"
     },
     {
-      "id": 4912797610,
-      "lat": 7.213847,
-      "lon": -9.010814,
-      "name": "Savinah Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4581007164,
-      "lat": 12.647758,
-      "lon": -8.017996,
-      "name": "SDS station d'essence",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6791033260,
-      "lat": 7.228859,
-      "lon": -8.982902,
-      "name": "Seletowah Radio Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7110265685,
       "lat": 11.316825,
       "lon": -12.282954,
       "name": "Sept-place Gare - aller Sud",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4532060589,
-      "lat": 7.965084,
-      "lon": -11.737095,
-      "name": "Shared Taxi Park Station for Makeni Kono",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4526166389,
-      "lat": 8.480643,
-      "lon": -13.207327,
-      "name": "Shared Taxi to Guinea Station",
       "type": "station",
       "country": "GN"
     },
@@ -2144,14 +752,6 @@
       "lat": 9.612573,
       "lon": -13.602667,
       "name": "Simbaya Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4517339685,
-      "lat": 7.360455,
-      "lon": -8.707369,
-      "name": "Small Brother Filling Station",
       "type": "station",
       "country": "GN"
     },
@@ -2180,14 +780,6 @@
       "country": "GN"
     },
     {
-      "id": 4517339678,
-      "lat": 7.37214,
-      "lon": -8.706369,
-      "name": "St. Portin Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4558791009,
       "lat": 10.086167,
       "lon": -12.639986,
@@ -2196,33 +788,9 @@
       "country": "GN"
     },
     {
-      "id": 6958882971,
-      "lat": 12.651754,
-      "lon": -7.895976,
-      "name": "station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6959920441,
-      "lat": 12.651677,
-      "lon": -7.895815,
-      "name": "station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4534062510,
       "lat": 9.426699,
       "lon": -13.081238,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5223657361,
-      "lat": 12.573753,
-      "lon": -7.914438,
       "name": "Station",
       "type": "station",
       "country": "GN"
@@ -2260,54 +828,6 @@
       "country": "GN"
     },
     {
-      "id": 6948970274,
-      "lat": 12.678968,
-      "lon": -7.949781,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952324938,
-      "lat": 12.643884,
-      "lon": -8.014733,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960222430,
-      "lat": 12.593473,
-      "lon": -7.982766,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7046747299,
-      "lat": 12.552699,
-      "lon": -8.011231,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7046904004,
-      "lat": 12.605561,
-      "lon": -8.008904,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054514187,
-      "lat": 12.575699,
-      "lon": -7.970418,
-      "name": "Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 8321527192,
       "lat": 9.713798,
       "lon": -13.48567,
@@ -2316,130 +836,10 @@
       "country": "GN"
     },
     {
-      "id": 5357144342,
-      "lat": 12.574257,
-      "lon": -7.963698,
-      "name": "Station 30m",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6217127156,
-      "lat": 12.652985,
-      "lon": -7.983143,
-      "name": "Station AGG",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6355343232,
       "lat": 9.593932,
       "lon": -13.604232,
       "name": "Station AP Oil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6951594255,
-      "lat": 12.511114,
-      "lon": -7.933072,
-      "name": "Station Ba",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952105820,
-      "lat": 12.510882,
-      "lon": -7.933101,
-      "name": "Station Ba",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4937736297,
-      "lat": 12.573791,
-      "lon": -7.964217,
-      "name": "Station Baraka Petroleum",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6974064657,
-      "lat": 12.584423,
-      "lon": -8.001329,
-      "name": "Station Baraka Petrolum",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6974148789,
-      "lat": 12.584545,
-      "lon": -8.001307,
-      "name": "Station Baraka Petrolum",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 9909438517,
-      "lat": 12.59405,
-      "lon": -7.933594,
-      "name": "station Batraka",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7279297986,
-      "lat": 12.665807,
-      "lon": -7.933148,
-      "name": "Station bcf",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515599,
-      "lat": 12.592675,
-      "lon": -7.867831,
-      "name": "Station BCF",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5145159425,
-      "lat": 12.597292,
-      "lon": -7.88067,
-      "name": "Station Biliko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515596,
-      "lat": 12.596486,
-      "lon": -7.877476,
-      "name": "Station Biliko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515616,
-      "lat": 12.598295,
-      "lon": -7.882312,
-      "name": "Station Biliko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515623,
-      "lat": 12.590301,
-      "lon": -7.941769,
-      "name": "Station Bleu Blanc",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047108029,
-      "lat": 12.531508,
-      "lon": -8.017575,
-      "name": "Station Boubou Service",
       "type": "station",
       "country": "GN"
     },
@@ -2588,150 +988,6 @@
       "country": "GN"
     },
     {
-      "id": 5516978681,
-      "lat": 7.952618,
-      "lon": -11.752006,
-      "name": "Station Conex",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080044309,
-      "lat": 12.586336,
-      "lon": -7.829682,
-      "name": "Station Coulibaly",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5123170623,
-      "lat": 12.585488,
-      "lon": -7.82801,
-      "name": "Station Coulibaly et frères",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4740518626,
-      "lat": 12.65502,
-      "lon": -8.023186,
-      "name": "Station d'essence 3PS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5421416622,
-      "lat": 12.538811,
-      "lon": -7.994331,
-      "name": "Station d'Essence Agai",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4694355789,
-      "lat": 12.522271,
-      "lon": -8.042113,
-      "name": "Station d'essence Benkadi",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4740518627,
-      "lat": 12.655101,
-      "lon": -8.023409,
-      "name": "Station d'essence Etoile",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4694355791,
-      "lat": 12.541826,
-      "lon": -8.034859,
-      "name": "Station d'essence Groupe OASIS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4694355792,
-      "lat": 12.531634,
-      "lon": -8.040821,
-      "name": "Station d'essence Kass et Frères",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5421416721,
-      "lat": 12.536833,
-      "lon": -7.994152,
-      "name": "Station d'Essence Petit Kida",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5421388124,
-      "lat": 12.519776,
-      "lon": -7.995804,
-      "name": "Station d'Essence Petro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4694383713,
-      "lat": 12.579376,
-      "lon": -8.025312,
-      "name": "Station d'essence SOMAYAF",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6964262270,
-      "lat": 12.558027,
-      "lon": -8.062271,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6964280392,
-      "lat": 12.615478,
-      "lon": -8.038979,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6969448503,
-      "lat": 12.657065,
-      "lon": -8.028526,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6969448505,
-      "lat": 12.65559,
-      "lon": -8.024791,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054837075,
-      "lat": 12.655614,
-      "lon": -8.024936,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055355574,
-      "lat": 12.510573,
-      "lon": -7.933203,
-      "name": "Station Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6775967184,
       "lat": 10.555659,
       "lon": -8.896064,
@@ -2772,14 +1028,6 @@
       "country": "GN"
     },
     {
-      "id": 5293954667,
-      "lat": 12.624281,
-      "lon": -7.988598,
-      "name": "Station de Police",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13188651407,
       "lat": 11.200045,
       "lon": -12.540823,
@@ -2792,14 +1040,6 @@
       "lat": 10.096618,
       "lon": -12.622995,
       "name": "Station de services",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5818618293,
-      "lat": 12.589722,
-      "lon": -8.063133,
-      "name": "Station de Taxi",
       "type": "station",
       "country": "GN"
     },
@@ -2820,30 +1060,6 @@
       "country": "GN"
     },
     {
-      "id": 3811325880,
-      "lat": 12.630432,
-      "lon": -7.921712,
-      "name": "station Dia negos",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047500589,
-      "lat": 12.543528,
-      "lon": -8.003454,
-      "name": "Station Diallo et Frère",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054862352,
-      "lat": 12.580716,
-      "lon": -8.018693,
-      "name": "Station DS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6423838033,
       "lat": 11.457572,
       "lon": -9.153385,
@@ -2852,26 +1068,10 @@
       "country": "GN"
     },
     {
-      "id": 5009311323,
-      "lat": 12.664777,
-      "lon": -7.937623,
-      "name": "Station EDS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6479101007,
       "lat": 9.645913,
       "lon": -13.337342,
       "name": "Station Emo metro oil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 9563676292,
-      "lat": 12.604288,
-      "lon": -7.978221,
-      "name": "Station EOSY",
       "type": "station",
       "country": "GN"
     },
@@ -2892,194 +1092,10 @@
       "country": "GN"
     },
     {
-      "id": 8626898020,
-      "lat": 12.560286,
-      "lon": -7.990094,
-      "name": "Station Essence SAD",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5236749206,
-      "lat": 12.588808,
-      "lon": -7.988555,
-      "name": "Station Essence SS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6969448506,
-      "lat": 12.654845,
-      "lon": -8.022896,
-      "name": "Station Etoile Yoro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054837073,
-      "lat": 12.654862,
-      "lon": -8.023033,
-      "name": "Station Etoile Yoro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055684769,
-      "lat": 12.486997,
-      "lon": -7.936523,
-      "name": "Station Filana",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055733906,
-      "lat": 12.486875,
-      "lon": -7.936511,
-      "name": "Station Filana",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6976662306,
-      "lat": 12.654213,
-      "lon": -8.021345,
-      "name": "Station Fofana",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055156620,
-      "lat": 12.488262,
-      "lon": -7.936328,
-      "name": "Station Folo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055684770,
-      "lat": 12.488841,
-      "lon": -7.93628,
-      "name": "Station Folo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 11196450061,
-      "lat": 12.28643,
-      "lon": -14.244357,
-      "name": "Station GALP",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6991965459,
       "lat": 10.376733,
       "lon": -9.296895,
       "name": "Station grande mosquée",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4987135368,
-      "lat": 12.573044,
-      "lon": -8.005497,
-      "name": "Station Gyf",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5758447121,
-      "lat": 12.653345,
-      "lon": -8.024525,
-      "name": "Station Halimatou Services",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 10834319588,
-      "lat": 12.590939,
-      "lon": -7.858211,
-      "name": "Station Kanta et Frère",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5753660078,
-      "lat": 12.585298,
-      "lon": -7.959143,
-      "name": "Station Kasse",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5753660079,
-      "lat": 12.585497,
-      "lon": -7.959159,
-      "name": "Station Kasse",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7049847110,
-      "lat": 12.588871,
-      "lon": -7.988128,
-      "name": "Station Kassé",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5113375121,
-      "lat": 12.672303,
-      "lon": -8.039991,
-      "name": "Station Kasse et frères",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6974064652,
-      "lat": 12.542657,
-      "lon": -8.015232,
-      "name": "Station Keita",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5223073826,
-      "lat": 12.610077,
-      "lon": -7.910529,
-      "name": "Station Kondo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080323248,
-      "lat": 12.556315,
-      "lon": -7.866008,
-      "name": "Station Kôrô",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6965031241,
-      "lat": 12.578551,
-      "lon": -7.948093,
-      "name": "Station Laban",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047108019,
-      "lat": 12.545765,
-      "lon": -7.99985,
-      "name": "Station Lafia Néré-Coro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7047108045,
-      "lat": 12.546456,
-      "lon": -7.999647,
-      "name": "Station Lafia Néré-Coro",
       "type": "station",
       "country": "GN"
     },
@@ -3092,50 +1108,10 @@
       "country": "GN"
     },
     {
-      "id": 6964030732,
-      "lat": 12.603514,
-      "lon": -8.050055,
-      "name": "Station N'dour",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7022728372,
-      "lat": 12.603504,
-      "lon": -8.050207,
-      "name": "Station N'dour",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6784041223,
       "lat": 9.193474,
       "lon": -10.100358,
       "name": "Station Nana Teliko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4281254098,
-      "lat": 12.598574,
-      "lon": -8.013399,
-      "name": "Station Nientao",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7053158681,
-      "lat": 12.598427,
-      "lon": -8.013618,
-      "name": "Station Nientao",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966783068,
-      "lat": 12.627843,
-      "lon": -7.921425,
-      "name": "Station Nièta",
       "type": "station",
       "country": "GN"
     },
@@ -3148,62 +1124,6 @@
       "country": "GN"
     },
     {
-      "id": 3240947035,
-      "lat": 12.571472,
-      "lon": -7.940436,
-      "name": "Station Oil Lybiya",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7317233606,
-      "lat": 12.604741,
-      "lon": -7.970412,
-      "name": "Station Oilibya",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952862536,
-      "lat": 12.55289,
-      "lon": -7.999016,
-      "name": "Station Okane",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6953005889,
-      "lat": 12.552966,
-      "lon": -7.998951,
-      "name": "Station Okane",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966509576,
-      "lat": 12.613869,
-      "lon": -7.977221,
-      "name": "Station Oryx",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6969151126,
-      "lat": 12.654276,
-      "lon": -8.021527,
-      "name": "Station Oryx",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7022728373,
-      "lat": 12.609443,
-      "lon": -8.046095,
-      "name": "Station Oryx",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5697185446,
       "lat": 9.690966,
       "lon": -13.518704,
@@ -3212,98 +1132,10 @@
       "country": "GN"
     },
     {
-      "id": 7047500588,
-      "lat": 12.545354,
-      "lon": -8.000533,
-      "name": "Station Petro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6959964065,
-      "lat": 12.50249,
-      "lon": -7.934296,
-      "name": "Station Petro Bourgo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080044285,
-      "lat": 12.581122,
-      "lon": -7.814283,
-      "name": "Station Petro Diabasso",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4231033616,
-      "lat": 12.609787,
-      "lon": -7.911685,
-      "name": "Station Petro Kondo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7080044305,
-      "lat": 12.586448,
-      "lon": -7.767736,
-      "name": "Station Petro Kondo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5702459087,
-      "lat": 12.562463,
-      "lon": -8.002022,
-      "name": "Station Pétro Momo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055355559,
-      "lat": 12.556786,
-      "lon": -7.914042,
-      "name": "Station Petro Niena",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5113375326,
-      "lat": 12.628422,
-      "lon": -7.921705,
-      "name": "Station petro Nientoa",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5123170333,
-      "lat": 12.587167,
-      "lon": -7.834474,
-      "name": "Station Petro Nièta",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5251291900,
       "lat": 10.188364,
       "lon": -14.042485,
       "name": "Station PM",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6439913575,
-      "lat": 12.560005,
-      "lon": -8.100926,
-      "name": "Station S.K",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5585992517,
-      "lat": 12.559228,
-      "lon": -8.002337,
-      "name": "Station SAD",
       "type": "station",
       "country": "GN"
     },
@@ -3388,26 +1220,10 @@
       "country": "GN"
     },
     {
-      "id": 1829778673,
-      "lat": 12.657365,
-      "lon": -7.966748,
-      "name": "Station Service Ben & Co.",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 9695561902,
       "lat": 11.446622,
       "lon": -11.846194,
       "name": "Station service de Konah",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3592326172,
-      "lat": 12.614776,
-      "lon": -8.040659,
-      "name": "Station SGS",
       "type": "station",
       "country": "GN"
     },
@@ -3444,14 +1260,6 @@
       "country": "GN"
     },
     {
-      "id": 3814543680,
-      "lat": 12.607682,
-      "lon": -8.046957,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4179488650,
       "lat": 10.032182,
       "lon": -12.858234,
@@ -3471,22 +1279,6 @@
       "id": 4541927523,
       "lat": 7.760319,
       "lon": -8.817596,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5144203423,
-      "lat": 12.619992,
-      "lon": -7.984781,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5222485822,
-      "lat": 12.578609,
-      "lon": -7.986916,
       "name": "Station Shell",
       "type": "station",
       "country": "GN"
@@ -3519,22 +1311,6 @@
       "id": 5251292378,
       "lat": 10.358196,
       "lon": -14.270254,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5307498121,
-      "lat": 12.635065,
-      "lon": -8.01807,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5333189407,
-      "lat": 12.638885,
-      "lon": -7.997015,
       "name": "Station Shell",
       "type": "station",
       "country": "GN"
@@ -3636,110 +1412,6 @@
       "country": "GN"
     },
     {
-      "id": 6952324949,
-      "lat": 12.638978,
-      "lon": -8.034987,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952862551,
-      "lat": 12.578517,
-      "lon": -7.986715,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952999069,
-      "lat": 12.577714,
-      "lon": -7.985641,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960117031,
-      "lat": 12.582337,
-      "lon": -8.023615,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6965031217,
-      "lat": 12.637738,
-      "lon": -7.996727,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515621,
-      "lat": 12.597088,
-      "lon": -7.936919,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966783070,
-      "lat": 12.621719,
-      "lon": -7.920366,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7046568218,
-      "lat": 12.596755,
-      "lon": -8.015254,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054477877,
-      "lat": 12.590798,
-      "lon": -7.991856,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054862337,
-      "lat": 12.572394,
-      "lon": -7.995805,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055702131,
-      "lat": 12.582239,
-      "lon": -8.023598,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055702135,
-      "lat": 12.549361,
-      "lon": -8.033801,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7056234335,
-      "lat": 12.611242,
-      "lon": -7.976122,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7305963705,
       "lat": 9.653584,
       "lon": -13.546893,
@@ -3759,14 +1431,6 @@
       "id": 8341813193,
       "lat": 9.641007,
       "lon": -13.612506,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 8499944702,
-      "lat": 12.586048,
-      "lon": -7.943138,
       "name": "Station Shell",
       "type": "station",
       "country": "GN"
@@ -3868,22 +1532,6 @@
       "country": "GN"
     },
     {
-      "id": 7049847158,
-      "lat": 12.61512,
-      "lon": -7.978311,
-      "name": "Station Shell de Daoudabougou",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7056945224,
-      "lat": 12.615255,
-      "lon": -7.978232,
-      "name": "Station Shell de Daoudabougou",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6079505865,
       "lat": 11.359181,
       "lon": -12.268309,
@@ -3892,170 +1540,10 @@
       "country": "GN"
     },
     {
-      "id": 7080044321,
-      "lat": 12.603177,
-      "lon": -7.930737,
-      "name": "Station Shell de Yirimadio",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4694383711,
-      "lat": 12.582311,
-      "lon": -8.023669,
-      "name": "Station Shell Helix",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055315662,
-      "lat": 12.607486,
-      "lon": -7.960077,
-      "name": "Station Shell Sogoniko",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5302139921,
       "lat": 9.650329,
       "lon": -13.549667,
       "name": "Station Shell Tombolia",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952862556,
-      "lat": 12.589255,
-      "lon": -7.987673,
-      "name": "Station SKF",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952999063,
-      "lat": 12.588803,
-      "lon": -7.988158,
-      "name": "Station SKF",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7056808999,
-      "lat": 12.589292,
-      "lon": -7.987578,
-      "name": "Station SKF",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5753660080,
-      "lat": 12.585023,
-      "lon": -7.960107,
-      "name": "Station Sobaco",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054862318,
-      "lat": 12.578149,
-      "lon": -7.948417,
-      "name": "Station SODIES",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6944830894,
-      "lat": 12.668046,
-      "lon": -7.927157,
-      "name": "Station Soleil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6945170915,
-      "lat": 12.66817,
-      "lon": -7.927239,
-      "name": "Station Soleil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952876274,
-      "lat": 12.667722,
-      "lon": -7.927874,
-      "name": "Station Soleil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7346158391,
-      "lat": 12.669356,
-      "lon": -7.91425,
-      "name": "Station SOLEIL",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3988129642,
-      "lat": 12.581283,
-      "lon": -8.023953,
-      "name": "Station Somayaf",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966515587,
-      "lat": 12.606787,
-      "lon": -7.924615,
-      "name": "Station Somayaf",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4230980416,
-      "lat": 12.606215,
-      "lon": -7.925214,
-      "name": "Station Somayaf SA",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4929590744,
-      "lat": 12.605657,
-      "lon": -7.94958,
-      "name": "Station SOS",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6954388413,
-      "lat": 12.591613,
-      "lon": -8.001951,
-      "name": "Station Sotrama Sabalibougou Nv Marché",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6954514018,
-      "lat": 12.591746,
-      "lon": -8.002026,
-      "name": "Station Sotrama Sabalibougou Nv Marché",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5143313210,
-      "lat": 12.649648,
-      "lon": -7.99637,
-      "name": "Station Sotrama Worokourou",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7078558241,
-      "lat": 12.659667,
-      "lon": -8.033,
-      "name": "Station St",
       "type": "station",
       "country": "GN"
     },
@@ -4132,22 +1620,6 @@
       "country": "GN"
     },
     {
-      "id": 6284064153,
-      "lat": 12.649623,
-      "lon": -7.968326,
-      "name": "Station Star",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7066261539,
-      "lat": 12.597406,
-      "lon": -8.056415,
-      "name": "Station Star",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7275540661,
       "lat": 9.616999,
       "lon": -13.640242,
@@ -4168,22 +1640,6 @@
       "lat": 9.654122,
       "lon": -13.576409,
       "name": "Station Star T6 Nord",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5123170330,
-      "lat": 12.587911,
-      "lon": -7.764213,
-      "name": "Station Tapo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5123170627,
-      "lat": 12.593165,
-      "lon": -7.870458,
-      "name": "Station Tapo",
       "type": "station",
       "country": "GN"
     },
@@ -4316,41 +1772,9 @@
       "country": "GN"
     },
     {
-      "id": 3463637258,
-      "lat": 12.624451,
-      "lon": -8.024887,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4382448859,
-      "lat": 12.628769,
-      "lon": -8.043562,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5235724825,
-      "lat": 12.589885,
-      "lon": -7.991683,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5251291893,
       "lat": 9.751118,
       "lon": -13.500266,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5294022125,
-      "lat": 12.583743,
-      "lon": -7.942686,
       "name": "Station Total",
       "type": "station",
       "country": "GN"
@@ -4412,134 +1836,6 @@
       "country": "GN"
     },
     {
-      "id": 6949005860,
-      "lat": 12.590355,
-      "lon": -8.063245,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952066621,
-      "lat": 12.658765,
-      "lon": -7.988753,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952310866,
-      "lat": 12.597199,
-      "lon": -7.879336,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952862552,
-      "lat": 12.579742,
-      "lon": -7.988674,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952862559,
-      "lat": 12.598634,
-      "lon": -7.98055,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952999059,
-      "lat": 12.596139,
-      "lon": -7.981341,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952999068,
-      "lat": 12.579506,
-      "lon": -7.987833,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6954514023,
-      "lat": 12.579815,
-      "lon": -7.999237,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6955521117,
-      "lat": 12.583996,
-      "lon": -8.023109,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6955587327,
-      "lat": 12.601024,
-      "lon": -8.012132,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6955587335,
-      "lat": 12.583997,
-      "lon": -8.023022,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6959920451,
-      "lat": 12.651,
-      "lon": -7.956312,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960117037,
-      "lat": 12.601095,
-      "lon": -8.012229,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960222433,
-      "lat": 12.596047,
-      "lon": -7.981474,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6964595654,
-      "lat": 12.578589,
-      "lon": -8.074657,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6966346422,
-      "lat": 12.579545,
-      "lon": -7.999521,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7090520290,
       "lat": 9.625416,
       "lon": -13.63473,
@@ -4551,14 +1847,6 @@
       "id": 7132488186,
       "lat": 12.486277,
       "lon": -13.296738,
-      "name": "Station Total",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7279265194,
-      "lat": 12.673098,
-      "lon": -7.93464,
       "name": "Station Total",
       "type": "station",
       "country": "GN"
@@ -4628,70 +1916,6 @@
       "country": "GN"
     },
     {
-      "id": 7054862319,
-      "lat": 12.577752,
-      "lon": -7.948732,
-      "name": "Station TOTAL",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7054862377,
-      "lat": 12.573366,
-      "lon": -8.005072,
-      "name": "Station TOTAL",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7982385675,
-      "lat": 12.553593,
-      "lon": -8.000771,
-      "name": "Station TOTAL",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7066261540,
-      "lat": 12.613014,
-      "lon": -8.043682,
-      "name": "Station Total Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7049847109,
-      "lat": 12.59857,
-      "lon": -7.980557,
-      "name": "Station Total Daoudabougou",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4281287396,
-      "lat": 12.579582,
-      "lon": -7.988371,
-      "name": "Station Total de kalaban coura",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4397143592,
-      "lat": 12.579386,
-      "lon": -7.9885,
-      "name": "Station Total de kalaban coura",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6041857832,
-      "lat": 12.620187,
-      "lon": -7.983642,
-      "name": "Station Total du Fleuve",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 5251291904,
       "lat": 9.766274,
       "lon": -13.491945,
@@ -4724,30 +1948,6 @@
       "country": "GN"
     },
     {
-      "id": 7049847104,
-      "lat": 12.6444,
-      "lon": -7.999753,
-      "name": "Station Total Quintin",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7499636749,
-      "lat": 12.59009,
-      "lon": -8.063117,
-      "name": "Station Total Sébénicoro",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5421468621,
-      "lat": 12.589404,
-      "lon": -7.991737,
-      "name": "Station TOTAL Sogolon",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4341028947,
       "lat": 9.605344,
       "lon": -13.648509,
@@ -4760,14 +1960,6 @@
       "lat": 11.312874,
       "lon": -12.306064,
       "name": "Station Total Taka",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5307498122,
-      "lat": 12.63495,
-      "lon": -8.018185,
-      "name": "Station Totale",
       "type": "station",
       "country": "GN"
     },
@@ -4820,94 +2012,6 @@
       "country": "GN"
     },
     {
-      "id": 6955553324,
-      "lat": 12.665874,
-      "lon": -7.933606,
-      "name": "Station yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4919551124,
-      "lat": 12.604236,
-      "lon": -7.969631,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6951594253,
-      "lat": 12.507878,
-      "lon": -7.933598,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952105821,
-      "lat": 12.507834,
-      "lon": -7.933558,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6960117013,
-      "lat": 12.534814,
-      "lon": -8.039336,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7053184504,
-      "lat": 12.534537,
-      "lon": -8.039413,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 8500013274,
-      "lat": 12.588722,
-      "lon": -7.942537,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 8626893713,
-      "lat": 12.589222,
-      "lon": -7.992076,
-      "name": "Station Yara",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7055684772,
-      "lat": 12.500417,
-      "lon": -7.934632,
-      "name": "Station YARA",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5113369723,
-      "lat": 12.66159,
-      "lon": -8.035509,
-      "name": "Station Yara Service",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 10798042533,
-      "lat": 12.604049,
-      "lon": -7.894552,
-      "name": "Station Yaraoil",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 7093695683,
       "lat": 9.61747,
       "lon": -13.633424,
@@ -4924,58 +2028,10 @@
       "country": "GN"
     },
     {
-      "id": 4540110818,
-      "lat": 8.484673,
-      "lon": -13.238101,
-      "name": "stationary",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4540110915,
-      "lat": 8.488226,
-      "lon": -13.232625,
-      "name": "stationary shop",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5034897407,
-      "lat": 7.23304,
-      "lon": -8.986237,
-      "name": "Stationery store",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5024739546,
-      "lat": 7.209116,
-      "lon": -8.973494,
-      "name": "Super Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5093266355,
-      "lat": 7.230967,
-      "lon": -8.995534,
-      "name": "Supreme Square Gas Station Gas Store",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 13189233337,
       "lat": 11.039901,
       "lon": -14.214836,
       "name": "Tanéné",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 2888525430,
-      "lat": 8.833339,
-      "lon": -12.000088,
-      "name": "Teko Livestock Station",
       "type": "station",
       "country": "GN"
     },
@@ -4988,171 +2044,11 @@
       "country": "GN"
     },
     {
-      "id": 3161754034,
-      "lat": 8.378059,
-      "lon": -13.101322,
-      "name": "Tombodu Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 1607841634,
-      "lat": 8.640485,
-      "lon": -10.976901,
-      "name": "Total Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4489200391,
-      "lat": 7.881414,
-      "lon": -11.190353,
-      "name": "Total Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4861867432,
-      "lat": 8.8886,
-      "lon": -12.054263,
-      "name": "Total Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514040778,
-      "lat": 9.105656,
-      "lon": -12.923656,
-      "name": "Total Fuel Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3589576421,
-      "lat": 8.47317,
-      "lon": -13.23691,
-      "name": "Total Fuel Station- Jomo Kenyatta/Pademba Road",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 4320811401,
       "lat": 10.375388,
       "lon": -9.299683,
       "name": "Total Gas Station",
       "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4861867431,
-      "lat": 8.887789,
-      "lon": -12.049964,
-      "name": "Total Sierra Leone(Filling Station)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6952105789,
-      "lat": 12.647329,
-      "lon": -7.999828,
-      "name": "Train Gare",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6951422965,
-      "lat": 12.647026,
-      "lon": -7.999851,
-      "name": "Train Gare Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 6958399044,
-      "lat": 12.647902,
-      "lon": -7.997823,
-      "name": "Train Gare Da",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4906611244,
-      "lat": 7.203375,
-      "lon": -8.974577,
-      "name": "Truth Prayer Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4517339657,
-      "lat": 7.371769,
-      "lon": -8.706853,
-      "name": "Try & See Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 7632669287,
-      "lat": 8.878851,
-      "lon": -12.049434,
-      "name": "Turn Table filling station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514671080,
-      "lat": 7.776123,
-      "lon": -9.428527,
-      "name": "United Brother Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 1050158350,
-      "lat": 12.654368,
-      "lon": -7.950708,
-      "name": "Unnamed (node 1050158350)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 1050158526,
-      "lat": 12.654338,
-      "lon": -7.950699,
-      "name": "Unnamed (node 1050158526)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 1050215751,
-      "lat": 12.64988,
-      "lon": -7.994501,
-      "name": "Unnamed (node 1050215751)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 1050215814,
-      "lat": 12.649517,
-      "lon": -7.995717,
-      "name": "Unnamed (node 1050215814)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 1050215842,
-      "lat": 12.648494,
-      "lon": -8.004314,
-      "name": "Unnamed (node 1050215842)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 1050215922,
-      "lat": 12.649564,
-      "lon": -7.995733,
-      "name": "Unnamed (node 1050215922)",
-      "type": "buffer_stop",
       "country": "GN"
     },
     {
@@ -5184,22 +2080,6 @@
       "lat": 9.604265,
       "lon": -13.638989,
       "name": "Unnamed (node 13138304396)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 13138304517,
-      "lat": 9.51336,
-      "lon": -13.718492,
-      "name": "Unnamed (node 13138304517)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 13138304539,
-      "lat": 9.51236,
-      "lon": -13.720292,
-      "name": "Unnamed (node 13138304539)",
       "type": "buffer_stop",
       "country": "GN"
     },
@@ -5476,14 +2356,6 @@
       "country": "GN"
     },
     {
-      "id": 1802937694,
-      "lat": 12.670964,
-      "lon": -7.957661,
-      "name": "Unnamed (node 1802937694)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 1890979304,
       "lat": 9.882462,
       "lon": -13.089166,
@@ -5596,34 +2468,10 @@
       "country": "GN"
     },
     {
-      "id": 3089046701,
-      "lat": 7.452244,
-      "lon": -8.638804,
-      "name": "Unnamed (node 3089046701)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
       "id": 457631923,
       "lat": 9.621207,
       "lon": -13.594725,
       "name": "Unnamed (node 457631923)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 457897821,
-      "lat": 9.511645,
-      "lon": -13.719403,
-      "name": "Unnamed (node 457897821)",
-      "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 457898028,
-      "lat": 9.512522,
-      "lon": -13.720422,
-      "name": "Unnamed (node 457898028)",
       "type": "buffer_stop",
       "country": "GN"
     },
@@ -5633,14 +2481,6 @@
       "lon": -14.560956,
       "name": "Unnamed (node 5736576118)",
       "type": "buffer_stop",
-      "country": "GN"
-    },
-    {
-      "id": 7501587641,
-      "lat": 12.605544,
-      "lon": -8.048305,
-      "name": "Unnamed (node 7501587641)",
-      "type": "station",
       "country": "GN"
     },
     {
@@ -5780,30 +2620,6 @@
       "country": "GN"
     },
     {
-      "id": 308071767,
-      "lat": 7.222711,
-      "lon": -8.97939,
-      "name": "Unnamed (way 308071767)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 461171083,
-      "lat": 7.219443,
-      "lon": -8.976018,
-      "name": "Unnamed (way 461171083)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 541043821,
-      "lat": 12.607829,
-      "lon": -7.975342,
-      "name": "Unnamed (way 541043821)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 548472903,
       "lat": 9.685688,
       "lon": -13.492062,
@@ -5812,34 +2628,10 @@
       "country": "GN"
     },
     {
-      "id": 830003988,
-      "lat": 12.608268,
-      "lon": -7.975544,
-      "name": "Unnamed (way 830003988)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 949554631,
       "lat": 10.719447,
       "lon": -14.104969,
       "name": "Unnamed (way 949554631)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5025229343,
-      "lat": 7.232893,
-      "lon": -8.984917,
-      "name": "Video Player Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4888555019,
-      "lat": 7.231901,
-      "lon": -8.993747,
-      "name": "Voice Of Gompa 106.5 MHZ Radio Station",
       "type": "station",
       "country": "GN"
     },
@@ -5868,14 +2660,6 @@
       "country": "GN"
     },
     {
-      "id": 401475830,
-      "lat": 8.339084,
-      "lon": -13.073611,
-      "name": "Waterloo",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6743940688,
       "lat": 10.388338,
       "lon": -9.316083,
@@ -5884,58 +2668,10 @@
       "country": "GN"
     },
     {
-      "id": 394687755,
-      "lat": 8.480362,
-      "lon": -13.259098,
-      "name": "Wilberforce Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5039439759,
-      "lat": 7.222096,
-      "lon": -8.978513,
-      "name": "Wuo M. Dolo's Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5011612055,
-      "lat": 7.234626,
-      "lon": -8.988643,
-      "name": "Yei Gorma Stationery & Printing Center",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 5093175038,
-      "lat": 7.227978,
-      "lon": -8.977431,
-      "name": "Young H R Filling Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4874506493,
-      "lat": 7.226533,
-      "lon": -9.003006,
-      "name": "Young Philip Gas Station",
-      "type": "station",
-      "country": "GN"
-    },
-    {
       "id": 6194977285,
       "lat": 10.36828,
       "lon": -13.579253,
       "name": "Z Prestation",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 4514671077,
-      "lat": 7.774317,
-      "lon": -9.428699,
-      "name": "Zorzor Filling Station",
       "type": "station",
       "country": "GN"
     }

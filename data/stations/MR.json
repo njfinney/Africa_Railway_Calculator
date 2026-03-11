@@ -8,8 +8,8 @@
     27.3,
     -4.83
   ],
-  "extracted": "2026-03-08T04:25:48.640Z",
-  "count": 165,
+  "extracted": "2026-03-11T11:51:30.785Z",
+  "count": 62,
   "stations": [
     {
       "id": 6560511750,
@@ -28,14 +28,6 @@
       "country": "MR"
     },
     {
-      "id": 4069601015,
-      "lat": 15.396822,
-      "lon": -15.66075,
-      "name": "Boulal",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 2583957309,
       "lat": 21.297511,
       "lon": -13.068026,
@@ -48,38 +40,6 @@
       "lat": 21.297561,
       "lon": -13.058035,
       "name": "Choum شوم",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1020644503,
-      "lat": 15.294635,
-      "lon": -13.959172,
-      "name": "Demba Bocar Ba",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9929984705,
-      "lat": 16.148109,
-      "lon": -13.786948,
-      "name": "Dingarel Torrobbé",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3658964054,
-      "lat": 16.116959,
-      "lon": -13.712393,
-      "name": "Diobivol Station",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12400099796,
-      "lat": 16.117692,
-      "lon": -13.71246,
-      "name": "École élémentaire Diorbivol Station",
       "type": "station",
       "country": "MR"
     },
@@ -108,43 +68,11 @@
       "country": "MR"
     },
     {
-      "id": 13565516388,
-      "lat": 26.817445,
-      "lon": -7.450748,
-      "name": "Gara Djebilet",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 8187079417,
-      "lat": 14.847278,
-      "lon": -15.877654,
-      "name": "Gare bou mack",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 482292056,
-      "lat": 15.624561,
-      "lon": -16.225323,
-      "name": "Gare de Louga",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 7843556286,
       "lat": 22.690556,
       "lon": -12.664373,
       "name": "Gare de passagers Fdérick",
       "type": "halt",
-      "country": "MR"
-    },
-    {
-      "id": 334011051,
-      "lat": 14.953464,
-      "lon": -16.816802,
-      "name": "Gare de Tivaouane",
-      "type": "station",
       "country": "MR"
     },
     {
@@ -164,98 +92,10 @@
       "country": "MR"
     },
     {
-      "id": 1034652636,
-      "lat": 27.162373,
-      "lon": -13.216145,
-      "name": "Gare routier محطة الحافلات",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 6053169186,
       "lat": 20.963324,
       "lon": -17.040161,
       "name": "Gare routière à destination de Darkla محطة الحافلات إلى الداخلة",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5046686588,
-      "lat": 14.897306,
-      "lon": -12.468037,
-      "name": "Gare Routiere de Bakel",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 260837922,
-      "lat": 15.348639,
-      "lon": -15.490156,
-      "name": "Gare routiere de Dahra",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 312271919,
-      "lat": 23.706758,
-      "lon": -15.944355,
-      "name": "Gare routière de Dakhla",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1006160841,
-      "lat": 15.398978,
-      "lon": -15.127817,
-      "name": "Gare Routière de Linguère",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 360569191,
-      "lat": 16.646074,
-      "lon": -14.955923,
-      "name": "Gare routière de Podor",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 292879422,
-      "lat": 16.49914,
-      "lon": -15.801156,
-      "name": "Gare routière de Rosso Sénégal",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5807083162,
-      "lat": 14.798003,
-      "lon": -15.546307,
-      "name": "Gare routière de Sadio",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1833345005,
-      "lat": 15.619279,
-      "lon": -16.210212,
-      "name": "Gare Routière Touba",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 477003061,
-      "lat": 14.821078,
-      "lon": -15.905383,
-      "name": "Gare Routière Touba",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1119893853,
-      "lat": 15.619284,
-      "lon": -16.209984,
-      "name": "Gare Routière Touba",
       "type": "station",
       "country": "MR"
     },
@@ -284,186 +124,10 @@
       "country": "MR"
     },
     {
-      "id": 4066544539,
-      "lat": 14.741916,
-      "lon": -16.61664,
-      "name": "Kaba Fandène",
-      "type": "halt",
-      "country": "MR"
-    },
-    {
-      "id": 661546860,
-      "lat": 15.489176,
-      "lon": -13.183691,
-      "name": "Kanel Garage",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3668760867,
-      "lat": 15.370767,
-      "lon": -16.446212,
-      "name": "Kébémer",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 351422330,
-      "lat": 15.185389,
-      "lon": -16.577244,
-      "name": "Kelle",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3659737615,
-      "lat": 14.765457,
-      "lon": -16.68784,
-      "name": "Khombole",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4069845816,
-      "lat": 15.505035,
-      "lon": -15.989137,
-      "name": "Koki",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 1268383011,
-      "lat": 27.144022,
-      "lon": -13.171336,
-      "name": "Laayoune bus",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 7739400419,
       "lat": 16.683333,
       "lon": -15.983333,
       "name": "Lekhalt",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4065514320,
-      "lat": 15.39196,
-      "lon": -15.115118,
-      "name": "Linguère",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1980158707,
-      "lat": 15.624739,
-      "lon": -16.225419,
-      "name": "Louga",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 4069842319,
-      "lat": 15.497124,
-      "lon": -15.94167,
-      "name": "Loumène",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 4584422094,
-      "lat": 16.023822,
-      "lon": -16.492575,
-      "name": "Maison de la Gare des Talibés",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3865042676,
-      "lat": 14.800767,
-      "lon": -15.909165,
-      "name": "Mbacké",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3476051229,
-      "lat": 15.113808,
-      "lon": -16.632682,
-      "name": "Mékhé",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 4069769717,
-      "lat": 15.437632,
-      "lon": -15.783354,
-      "name": "Mouk Mouk",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 4003835322,
-      "lat": 15.918532,
-      "lon": -16.272427,
-      "name": "Mpal",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 1977199753,
-      "lat": 15.280319,
-      "lon": -16.52348,
-      "name": "Ndande",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4066481022,
-      "lat": 14.725485,
-      "lon": -16.566914,
-      "name": "Ndangalma",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 1977198373,
-      "lat": 15.089974,
-      "lon": -16.657665,
-      "name": "Ndia",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 4066561829,
-      "lat": 14.75165,
-      "lon": -16.646087,
-      "name": "Ndie Ngom",
-      "type": "halt",
-      "country": "MR"
-    },
-    {
-      "id": 4066660747,
-      "lat": 14.736561,
-      "lon": -16.113313,
-      "name": "Ndoulo",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 10981080868,
-      "lat": 15.181634,
-      "lon": -16.192561,
-      "name": "Ngare Ouolof",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 10981080878,
-      "lat": 15.186807,
-      "lon": -16.190275,
-      "name": "Ngare Peulh",
       "type": "station",
       "country": "MR"
     },
@@ -500,91 +164,11 @@
       "country": "MR"
     },
     {
-      "id": 232787142,
-      "lat": 15.610952,
-      "lon": -13.317402,
-      "name": "Ourossogui Garage",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3476169649,
-      "lat": 15.01291,
-      "lon": -16.735264,
-      "name": "Pire Gourey",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 3650882771,
-      "lat": 16.645811,
-      "lon": -14.95603,
-      "name": "Podor, gare routière",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3476419996,
-      "lat": 14.770488,
-      "lon": -17.060543,
-      "name": "Pout",
-      "type": "halt",
-      "country": "MR"
-    },
-    {
-      "id": 4069600703,
-      "lat": 23.613006,
-      "lon": -15.72306,
-      "name": "Pumping station",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4005698189,
-      "lat": 15.921896,
-      "lon": -16.398341,
-      "name": "Rao",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 2964366933,
-      "lat": 16.499041,
-      "lon": -15.801208,
-      "name": "Rosso Sénégal, Gare routiére",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 3666789179,
       "lat": 16.024714,
       "lon": -16.498193,
       "name": "Saint-Louis",
       "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 1985196410,
-      "lat": 15.98841,
-      "lon": -16.488331,
-      "name": "Saint-Louis, Gare Dakar",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3631207409,
-      "lat": 15.831678,
-      "lon": -16.223052,
-      "name": "Sakal",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 12598615601,
-      "lat": 26.738431,
-      "lon": -11.699504,
-      "name": "Smara bus station",
-      "type": "station",
       "country": "MR"
     },
     {
@@ -612,210 +196,10 @@
       "country": "MR"
     },
     {
-      "id": 3756048258,
-      "lat": 16.54717,
-      "lon": -14.772636,
-      "name": "Station de pompage",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9870792486,
-      "lat": 16.418326,
-      "lon": -16.111694,
-      "name": "Station de pompage Gayla Union de Mboundoum",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12397690633,
-      "lat": 16.10075,
-      "lon": -13.70202,
-      "name": "Station de pompage scolaire de Diorbivol",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12397763621,
-      "lat": 16.093782,
-      "lon": -13.671065,
-      "name": "Station de pompage solaire de Thiaski",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 2109338780,
-      "lat": 16.027459,
-      "lon": -16.490371,
-      "name": "station de relevement eaux usées ONAS",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12397588416,
-      "lat": 16.125367,
-      "lon": -13.715926,
-      "name": "Station eau",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12397601244,
-      "lat": 16.117086,
-      "lon": -13.712906,
-      "name": "Station eau",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4447623587,
-      "lat": 16.060129,
-      "lon": -16.416626,
-      "name": "Station EDK",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3660257581,
-      "lat": 14.783742,
-      "lon": -16.96626,
-      "name": "Station Elton",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3809360212,
-      "lat": 14.824268,
-      "lon": -15.895699,
-      "name": "Station Elton",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4584422095,
-      "lat": 16.048411,
-      "lon": -16.433004,
-      "name": "Station Elton",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5079074325,
-      "lat": 14.822938,
-      "lon": -15.89643,
-      "name": "Station Elton",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 8314721483,
-      "lat": 14.796502,
-      "lon": -15.905312,
-      "name": "Station Elton",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9826810421,
-      "lat": 16.530223,
-      "lon": -15.199403,
-      "name": "Station ISRA FANAYE",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4584421995,
-      "lat": 16.133718,
-      "lon": -16.32358,
-      "name": "Station ISRA Ndiol",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9085130558,
-      "lat": 16.461378,
-      "lon": -15.674243,
-      "name": "Station Lobbou Oil",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5079391427,
-      "lat": 14.856924,
-      "lon": -15.878723,
-      "name": "Station MAACK",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 8314721484,
-      "lat": 14.796979,
-      "lon": -15.90565,
-      "name": "Station MKA",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5079423822,
-      "lat": 14.819123,
-      "lon": -15.904258,
-      "name": "Station ORYX",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3566542191,
-      "lat": 15.135942,
-      "lon": -16.88241,
-      "name": "station pa dabo",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9839117188,
-      "lat": 15.873865,
-      "lon": -14.323256,
-      "name": "station pastorale",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9866258509,
-      "lat": 15.767418,
-      "lon": -15.555761,
-      "name": "station pastorale",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4704186836,
-      "lat": 14.819795,
-      "lon": -15.910623,
-      "name": "station petrodis",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 11506827912,
-      "lat": 16.525774,
-      "lon": -15.506342,
-      "name": "Station Pompage Dagana A",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 5761344476,
       "lat": 16.037746,
       "lon": -16.503013,
       "name": "Station régionale RTS Saint Louis",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12395938403,
-      "lat": 16.035522,
-      "lon": -13.723934,
-      "name": "Station service",
       "type": "station",
       "country": "MR"
     },
@@ -836,90 +220,10 @@
       "country": "MR"
     },
     {
-      "id": 4479019989,
-      "lat": 15.165665,
-      "lon": -7.289022,
-      "name": "Station Service Tamba keita",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4584421301,
-      "lat": 16.0513,
-      "lon": -16.430174,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5079362925,
-      "lat": 14.82295,
-      "lon": -15.896434,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9085102458,
-      "lat": 16.466434,
-      "lon": -15.699396,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 9085136822,
-      "lat": 16.467383,
-      "lon": -15.703747,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12351904252,
-      "lat": 14.772634,
-      "lon": -16.934262,
-      "name": "Station Shell",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 5013086075,
       "lat": 16.658944,
       "lon": -9.602428,
       "name": "Station SMP Atlas",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 6113530032,
-      "lat": 16.024659,
-      "lon": -16.495513,
-      "name": "Station total",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 2465643436,
-      "lat": 14.788941,
-      "lon": -16.930079,
-      "name": "Station Total",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 5079011621,
-      "lat": 14.827849,
-      "lon": -15.893933,
-      "name": "Station Total",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 7127057345,
-      "lat": 16.502545,
-      "lon": -15.809799,
-      "name": "Station Total",
       "type": "station",
       "country": "MR"
     },
@@ -996,62 +300,6 @@
       "country": "MR"
     },
     {
-      "id": 11413612113,
-      "lat": 14.92355,
-      "lon": -10.989337,
-      "name": "Tchaltoune Yande",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 4069830168,
-      "lat": 15.476716,
-      "lon": -15.868126,
-      "name": "Thiamène",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 3476289043,
-      "lat": 14.797281,
-      "lon": -16.92934,
-      "name": "Thiès",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 10246034251,
-      "lat": 14.797231,
-      "lon": -16.929331,
-      "name": "Thiès",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 2251183644,
-      "lat": 14.76305,
-      "lon": -16.796925,
-      "name": "Tiéna Gare",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3669754840,
-      "lat": 14.765339,
-      "lon": -16.795967,
-      "name": "Tiéna Gare",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 3476199569,
-      "lat": 14.950003,
-      "lon": -16.82064,
-      "name": "Tivaouane",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 10047993860,
       "lat": 21.23861,
       "lon": -14.391383,
@@ -1073,22 +321,6 @@
       "lon": -16.497931,
       "name": "Touba Gare",
       "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 12485294616,
-      "lat": 14.954761,
-      "lon": -16.815626,
-      "name": "Unnamed (node 12485294616)",
-      "type": "buffer_stop",
-      "country": "MR"
-    },
-    {
-      "id": 12485294623,
-      "lat": 14.953188,
-      "lon": -16.817169,
-      "name": "Unnamed (node 12485294623)",
-      "type": "buffer_stop",
       "country": "MR"
     },
     {
@@ -1145,30 +377,6 @@
       "lon": -12.463933,
       "name": "Unnamed (node 2585305041)",
       "type": "buffer_stop",
-      "country": "MR"
-    },
-    {
-      "id": 3476116042,
-      "lat": 15.101784,
-      "lon": -16.645422,
-      "name": "Unnamed (node 3476116042)",
-      "type": "halt",
-      "country": "MR"
-    },
-    {
-      "id": 3476151066,
-      "lat": 15.082967,
-      "lon": -16.664199,
-      "name": "Unnamed (node 3476151066)",
-      "type": "stop",
-      "country": "MR"
-    },
-    {
-      "id": 3476251360,
-      "lat": 14.898873,
-      "lon": -16.86444,
-      "name": "Unnamed (node 3476251360)",
-      "type": "station",
       "country": "MR"
     },
     {
@@ -1260,14 +468,6 @@
       "country": "MR"
     },
     {
-      "id": 197717386,
-      "lat": 14.797484,
-      "lon": -16.929335,
-      "name": "Unnamed (way 197717386)",
-      "type": "station",
-      "country": "MR"
-    },
-    {
       "id": 216611360,
       "lat": 16.025733,
       "lon": -16.496785,
@@ -1280,30 +480,6 @@
       "lat": 21.297673,
       "lon": -13.058064,
       "name": "Unnamed (way 252340326)",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 290377251,
-      "lat": 26.124061,
-      "lon": -14.475122,
-      "name": "Unnamed (way 290377251)",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 404387666,
-      "lat": 14.736682,
-      "lon": -16.113393,
-      "name": "Unnamed (way 404387666)",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 465236150,
-      "lat": 15.658105,
-      "lon": -13.262944,
-      "name": "Unnamed (way 465236150)",
       "type": "station",
       "country": "MR"
     },

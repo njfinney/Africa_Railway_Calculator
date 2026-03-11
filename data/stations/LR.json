@@ -8,22 +8,14 @@
     8.55,
     -7.37
   ],
-  "extracted": "2026-03-08T04:24:02.940Z",
-  "count": 189,
+  "extracted": "2026-03-11T11:47:05.522Z",
+  "count": 140,
   "stations": [
     {
       "id": 5024727352,
       "lat": 6.068541,
       "lon": -8.134788,
       "name": "AAA Filling Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4530647922,
-      "lat": 8.461612,
-      "lon": -10.338188,
-      "name": "Abu Jalloh's Charging Station",
       "type": "station",
       "country": "LR"
     },
@@ -52,42 +44,10 @@
       "country": "LR"
     },
     {
-      "id": 4513738580,
-      "lat": 8.277385,
-      "lon": -10.37568,
-      "name": "Buedu Police Station Check Point",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541335358,
-      "lat": 7.728019,
-      "lon": -9.209492,
-      "name": "Cabine de vente de cigarette",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 5034472538,
       "lat": 7.002325,
       "lon": -9.564906,
       "name": "CARI Fuel Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541927795,
-      "lat": 7.762105,
-      "lon": -8.81691,
-      "name": "Centre de Prestation Service D'informatique",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4488778290,
-      "lat": 7.874886,
-      "lon": -11.192092,
-      "name": "Centre Police Station",
       "type": "station",
       "country": "LR"
     },
@@ -112,14 +72,6 @@
       "lat": 7.00707,
       "lon": -9.37679,
       "name": "Cigarette",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 7007785386,
-      "lat": 7.873246,
-      "lon": -11.192734,
-      "name": "Conex Filling Station",
       "type": "station",
       "country": "LR"
     },
@@ -276,134 +228,6 @@
       "country": "LR"
     },
     {
-      "id": 300274517,
-      "lat": 7.410107,
-      "lon": -7.551354,
-      "name": "Gare BAN",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 6691723385,
-      "lat": 7.263368,
-      "lon": -8.142991,
-      "name": "Gare de Man",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 300274515,
-      "lat": 7.407717,
-      "lon": -7.551447,
-      "name": "Gare MTT",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4951017444,
-      "lat": 8.239305,
-      "lon": -7.868196,
-      "name": "Gare Ouaninou",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 8886329317,
-      "lat": 7.760661,
-      "lon": -8.818308,
-      "name": "gare routière",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4256755253,
-      "lat": 7.863556,
-      "lon": -8.100722,
-      "name": "Gare routière",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541917387,
-      "lat": 7.349064,
-      "lon": -8.944582,
-      "name": "Gare routière de Diecké",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4543522914,
-      "lat": 8.548216,
-      "lon": -9.47109,
-      "name": "Gare routière de Kankan, Siguiri, Gueckedou pour Syndicat Indépendant",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 427639311,
-      "lat": 7.80638,
-      "lon": -8.540346,
-      "name": "Gare routière de Lola",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 8292745017,
-      "lat": 7.259815,
-      "lon": -8.15494,
-      "name": "Gare SDS",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 8521052817,
-      "lat": 7.259652,
-      "lon": -8.155718,
-      "name": "Gare ST DANANÉ",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 12287519436,
-      "lat": 7.757254,
-      "lon": -8.804772,
-      "name": "Gare ST Soumahoro Transport",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 300274516,
-      "lat": 7.407512,
-      "lon": -7.551187,
-      "name": "Gare STT",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 12736465701,
-      "lat": 7.401807,
-      "lon": -7.557223,
-      "name": "Gare TSR",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 11114383405,
-      "lat": 7.402334,
-      "lon": -7.557943,
-      "name": "Gare UTB",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 300274481,
-      "lat": 7.409259,
-      "lon": -7.554158,
-      "name": "Gare UTB",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 3099598627,
       "lat": 6.164443,
       "lon": -10.23231,
@@ -504,14 +328,6 @@
       "lat": 7.234021,
       "lon": -8.983524,
       "name": "Good Sister Filling Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4534094991,
-      "lat": 7.879582,
-      "lon": -11.189999,
-      "name": "Goverment Bus Station",
       "type": "station",
       "country": "LR"
     },
@@ -652,14 +468,6 @@
       "country": "LR"
     },
     {
-      "id": 6021987086,
-      "lat": 6.32689,
-      "lon": -10.79617,
-      "name": "LEC Power Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 5054040054,
       "lat": 6.994456,
       "lon": -9.46903,
@@ -708,14 +516,6 @@
       "country": "LR"
     },
     {
-      "id": 4530280417,
-      "lat": 8.27663,
-      "lon": -10.567498,
-      "name": "Morie Eddie's Charging Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 6791033446,
       "lat": 7.227821,
       "lon": -8.983605,
@@ -744,30 +544,6 @@
       "lat": 6.066055,
       "lon": -8.131993,
       "name": "New Vision Play Station & Charging Business Center",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4489243892,
-      "lat": 7.869339,
-      "lon": -11.194289,
-      "name": "NP filling Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 7007786685,
-      "lat": 7.880236,
-      "lon": -11.190575,
-      "name": "NP Filling Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4513738584,
-      "lat": 8.279233,
-      "lon": -10.371738,
-      "name": "NP Fuel Station",
       "type": "station",
       "country": "LR"
     },
@@ -988,26 +764,10 @@
       "country": "LR"
     },
     {
-      "id": 7205801875,
-      "lat": 6.371844,
-      "lon": -10.787846,
-      "name": "Sackie Filling Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 5034897404,
       "lat": 7.232692,
       "lon": -8.985881,
       "name": "Saclepea Car Parking Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4530474810,
-      "lat": 8.281884,
-      "lon": -10.371362,
-      "name": "Sahr K Bundor's Charging Station",
       "type": "station",
       "country": "LR"
     },
@@ -1076,22 +836,6 @@
       "country": "LR"
     },
     {
-      "id": 4537714890,
-      "lat": 6.375572,
-      "lon": -10.786024,
-      "name": "Shared Taxi Station (long distance)",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 7212534433,
-      "lat": 6.37747,
-      "lon": -10.784404,
-      "name": "Sky one Gas Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 4517339685,
       "lat": 7.360455,
       "lon": -8.707369,
@@ -1108,14 +852,6 @@
       "country": "LR"
     },
     {
-      "id": 11068708613,
-      "lat": 6.571344,
-      "lon": -8.005716,
-      "name": "SMT Gare de Bus",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 4517339678,
       "lat": 7.37214,
       "lon": -8.706369,
@@ -1124,106 +860,10 @@
       "country": "LR"
     },
     {
-      "id": 7503277864,
-      "lat": 4.526942,
-      "lon": -7.478683,
-      "name": "Station Blidouba",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541927511,
-      "lat": 7.760872,
-      "lon": -8.807041,
-      "name": "Station de l'essence",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541907869,
-      "lat": 7.900846,
-      "lon": -9.361843,
-      "name": "Station de l'essence de Mama Fait Guilavogui",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 11232470365,
       "lat": 7.02062,
       "lon": -9.494035,
       "name": "Station ELF",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4569607698,
-      "lat": 7.454135,
-      "lon": -7.637145,
-      "name": "Station hertzienne de la Radiodiffusion Télévision Ivoirienne (RTI)",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 12364657673,
-      "lat": 8.377585,
-      "lon": -9.292234,
-      "name": "Station service",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4556890493,
-      "lat": 7.01073,
-      "lon": -7.490624,
-      "name": "Station Service IDC Bangolo",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4256131090,
-      "lat": 7.408736,
-      "lon": -7.551262,
-      "name": "Station Service IDC Man",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4566536446,
-      "lat": 7.411882,
-      "lon": -7.549956,
-      "name": "Station Service Oilibya Man",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4313158790,
-      "lat": 7.364463,
-      "lon": -7.58611,
-      "name": "Station Service Petro Ivoire Zélé",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4557015770,
-      "lat": 7.102448,
-      "lon": -7.547685,
-      "name": "Station Service Sara Petroleum Logoualé",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4556890381,
-      "lat": 7.011885,
-      "lon": -7.490706,
-      "name": "Station Service Shell Bangolo",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4541927523,
-      "lat": 7.760319,
-      "lon": -8.817596,
-      "name": "Station Shell",
       "type": "station",
       "country": "LR"
     },
@@ -1252,14 +892,6 @@
       "country": "LR"
     },
     {
-      "id": 5619703221,
-      "lat": 6.315014,
-      "lon": -10.805471,
-      "name": "Stomach Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 5024739546,
       "lat": 7.209116,
       "lon": -8.973494,
@@ -1284,26 +916,10 @@
       "country": "LR"
     },
     {
-      "id": 3042308440,
-      "lat": 5.827475,
-      "lon": -7.506696,
-      "name": "Tempo Border Joint Security Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
       "id": 3042416534,
       "lat": 6.407321,
       "lon": -8.557158,
       "name": "Toe Town Police Station",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 4489200391,
-      "lat": 7.881414,
-      "lon": -11.190353,
-      "name": "Total Filling Station",
       "type": "station",
       "country": "LR"
     },
@@ -1448,14 +1064,6 @@
       "lat": 6.035988,
       "lon": -8.053406,
       "name": "Unnamed (way 513704512)",
-      "type": "station",
-      "country": "LR"
-    },
-    {
-      "id": 7205801654,
-      "lat": 6.366151,
-      "lon": -10.78763,
-      "name": "V. Sherruef Gas Station",
       "type": "station",
       "country": "LR"
     },
