@@ -1116,14 +1116,18 @@ out geom;`;
             log(`Route: ${s1.name} → ${s2.name}`);
             
             try {
-                // Get railways for the route area - use larger padding for cross-border routes
+                // IMPORTANT: Railways often take very indirect routes!
+                // Lusaka → Harare goes via Livingstone & Bulawayo (southwest then east)
+                // So we need a MUCH larger search area than the direct line between points
+                
                 const latDiff = Math.abs(s1.lat - s2.lat);
                 const lonDiff = Math.abs(s1.lon - s2.lon);
-                const routeLength = Math.sqrt(latDiff * latDiff + lonDiff * lonDiff);
+                const directDistance = Math.sqrt(latDiff * latDiff + lonDiff * lonDiff);
                 
-                // Larger padding for longer routes (railways often go around, not straight)
-                const pad = Math.max(2, routeLength * 0.3);
-                log(`Route span: ${routeLength.toFixed(1)}°, using padding: ${pad.toFixed(1)}°`);
+                // Use very generous padding - railways can go 2-3x the direct distance
+                // Minimum 5 degrees padding, or 100% of route span, whichever is larger
+                const pad = Math.max(5, directDistance * 1.0);
+                log(`Direct span: ${directDistance.toFixed(1)}°, using padding: ${pad.toFixed(1)}°`);
                 
                 const bbox = [
                     Math.min(s1.lat, s2.lat) - pad,
@@ -1132,24 +1136,17 @@ out geom;`;
                     Math.max(s1.lon, s2.lon) + pad
                 ];
                 
-                // Filter railways - include if ANY point is in or near the bbox
-                let railways = STATE.railways.filter(r => {
-                    if (!r.geometry || r.geometry.length === 0) return false;
-                    
-                    // Check if any point of this railway is within the expanded bbox
-                    for (const point of r.geometry) {
-                        const [lat, lon] = Array.isArray(point) ? point : [point.lat, point.lon];
-                        if (lat >= bbox[0] && lat <= bbox[2] && lon >= bbox[1] && lon <= bbox[3]) {
-                            return true;
-                        }
-                    }
-                    return false;
-                });
+                log(`Search bbox: [${bbox.map(b => b.toFixed(1)).join(', ')}]`);
                 
-                log(`Using ${railways.length} railway segments from loaded data`);
+                // Use ALL loaded railways for the graph - don't filter by bbox
+                // The loaded data already covers the selected regions
+                // Filtering can exclude critical indirect routes
+                let railways = STATE.railways.slice(); // Use all loaded railways
                 
-                // If not enough railways loaded, fetch from API with expanded bbox
-                if (railways.length < 100) {
+                log(`Using all ${railways.length} loaded railway segments`);
+                
+                // Only fetch from API if we have very few railways
+                if (railways.length < 50) {
                     log('Fetching additional railway data from API...', 'info');
                     // Include all railway types that might be part of a route
                     const query = `[out:json][timeout:180][bbox:${bbox.join(',')}];
@@ -1187,12 +1184,8 @@ out geom;`;
                 bridgeSmallGaps(graph);
                 
                 // Connect railway lines at station yards (handles reversing stations like Bulawayo)
-                // Get stations in the route area
-                const routeStations = STATE.stations.filter(s => 
-                    s.lat >= bbox[0] && s.lat <= bbox[2] && 
-                    s.lon >= bbox[1] && s.lon <= bbox[3]
-                );
-                connectStationsToGraph(graph, routeStations);
+                // Use ALL loaded stations - critical junctions might be outside direct bbox
+                connectStationsToGraph(graph, STATE.stations);
                 
                 log('Finding shortest path...');
                 const result = findShortestPath(graph, s1, s2);
