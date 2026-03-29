@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-03-22T04:31:09.851Z",
-  "count": 724,
+  "extracted": "2026-03-29T04:46:39.314Z",
+  "count": 725,
   "stations": [
     {
       "id": 6968590872,
@@ -4880,6 +4880,14 @@
       "lat": 4.896669,
       "lon": -1.764716,
       "name": "Takoradi-Old Accra Bus Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13685713846,
+      "lat": 10.138146,
+      "lon": 0.291192,
+      "name": "Tamale station",
       "type": "station",
       "country": "GH"
     },

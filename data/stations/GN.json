@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-03-22T04:31:59.854Z",
-  "count": 333,
+  "extracted": "2026-03-29T04:48:01.534Z",
+  "count": 334,
   "stations": [
     {
       "id": 5966756331,
@@ -840,6 +840,14 @@
       "lat": 9.593932,
       "lon": -13.604232,
       "name": "Station AP Oil",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 11195875893,
+      "lat": 9.996341,
+      "lon": -12.753679,
+      "name": "Station BTH",
       "type": "station",
       "country": "GN"
     },
