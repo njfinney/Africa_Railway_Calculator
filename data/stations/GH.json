@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-03-29T04:46:39.314Z",
-  "count": 725,
+  "extracted": "2026-04-05T04:46:45.609Z",
+  "count": 726,
   "stations": [
     {
       "id": 6968590872,
@@ -1872,6 +1872,14 @@
       "lat": 5.681175,
       "lon": -0.338904,
       "name": "engen fuel station doblo",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13704897416,
+      "lat": 5.4004,
+      "lon": -0.979252,
+      "name": "Enyan Denkyira Police Station",
       "type": "station",
       "country": "GH"
     },
