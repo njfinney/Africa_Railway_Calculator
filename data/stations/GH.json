@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-04-05T04:46:45.609Z",
-  "count": 726,
+  "extracted": "2026-04-12T04:55:53.125Z",
+  "count": 722,
   "stations": [
     {
       "id": 6968590872,
@@ -1452,14 +1452,6 @@
       "country": "GH"
     },
     {
-      "id": 13556437222,
-      "lat": 6.454782,
-      "lon": -0.932124,
-      "name": "Cocoa Buying Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 11418277985,
       "lat": 6.496038,
       "lon": -0.849874,
@@ -1872,14 +1864,6 @@
       "lat": 5.681175,
       "lon": -0.338904,
       "name": "engen fuel station doblo",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13704897416,
-      "lat": 5.4004,
-      "lon": -0.979252,
-      "name": "Enyan Denkyira Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -3668,14 +3652,6 @@
       "country": "GH"
     },
     {
-      "id": 13608342214,
-      "lat": 6.45397,
-      "lon": -0.93094,
-      "name": "Noyem motor station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 9937562411,
       "lat": 5.810726,
       "lon": -0.353359,
@@ -4892,14 +4868,6 @@
       "country": "GH"
     },
     {
-      "id": 13685713846,
-      "lat": 10.138146,
-      "lon": 0.291192,
-      "name": "Tamale station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 2515586418,
       "lat": 9.851833,
       "lon": -0.733006,
@@ -5248,6 +5216,14 @@
       "lat": 6.542733,
       "lon": 0.289459,
       "name": "Tsitso Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13326863521,
+      "lat": 5.533131,
+      "lon": -0.385782,
+      "name": "Tuba Total Energies Service Station",
       "type": "station",
       "country": "GH"
     },
@@ -5688,14 +5664,6 @@
       "lat": 10.351398,
       "lon": -0.797612,
       "name": "Walewale Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13607690877,
-      "lat": 6.089956,
-      "lon": -2.213539,
-      "name": "Wasa Juabo Police Station",
       "type": "station",
       "country": "GH"
     },

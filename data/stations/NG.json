@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-04-05T04:56:02.306Z",
-  "count": 746,
+  "extracted": "2026-04-12T05:03:01.263Z",
+  "count": 744,
   "stations": [
     {
       "id": 13047975346,
@@ -876,14 +876,6 @@
       "country": "NG"
     },
     {
-      "id": 5604821200,
-      "lat": 11.834709,
-      "lon": 13.115723,
-      "name": "Borno Express Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 5560442325,
       "lat": 5.565218,
       "lon": 5.759743,
@@ -949,8 +941,8 @@
     },
     {
       "id": 668542274,
-      "lat": 9.536559,
-      "lon": 6.455468,
+      "lat": 9.536562,
+      "lon": 6.455472,
       "name": "Bus Park",
       "type": "station",
       "country": "NG"
@@ -1344,14 +1336,6 @@
       "lat": 6.442456,
       "lon": 7.493565,
       "name": "Enugu",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 13613907953,
-      "lat": 7.569662,
-      "lon": 4.890746,
-      "name": "Erin-Ijesa Police station",
       "type": "station",
       "country": "NG"
     },

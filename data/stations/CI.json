@@ -8,7 +8,7 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-04-05T04:45:01.408Z",
+  "extracted": "2026-04-12T04:53:50.486Z",
   "count": 1212,
   "stations": [
     {
@@ -6900,6 +6900,14 @@
       "country": "CI"
     },
     {
+      "id": 6480238442,
+      "lat": 8.028304,
+      "lon": -2.809314,
+      "name": "Station Oryx",
+      "type": "station",
+      "country": "CI"
+    },
+    {
       "id": 6637702437,
       "lat": 8.654813,
       "lon": -5.288664,
@@ -8412,14 +8420,6 @@
       "country": "CI"
     },
     {
-      "id": 6480238442,
-      "lat": 8.028304,
-      "lon": -2.809314,
-      "name": "Station star oil",
-      "type": "station",
-      "country": "CI"
-    },
-    {
       "id": 8841921618,
       "lat": 5.433625,
       "lon": -3.988883,
@@ -9582,7 +9582,7 @@
     {
       "id": 325761936,
       "lat": 5.353708,
-      "lon": -4.011433,
+      "lon": -4.011448,
       "name": "Unnamed (way 325761936)",
       "type": "station",
       "country": "CI"

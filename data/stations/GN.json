@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-04-05T04:48:32.878Z",
-  "count": 333,
+  "extracted": "2026-04-12T04:56:45.225Z",
+  "count": 334,
   "stations": [
     {
       "id": 5966756331,
@@ -719,6 +719,14 @@
       "id": 7176889685,
       "lat": 10.205943,
       "lon": -12.738143,
+      "name": "Sangareya",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 13724149795,
+      "lat": 11.37378,
+      "lon": -10.895918,
       "name": "Sangareya",
       "type": "station",
       "country": "GN"
@@ -1957,8 +1965,8 @@
     },
     {
       "id": 7303962282,
-      "lat": 11.312874,
-      "lon": -12.306064,
+      "lat": 11.312763,
+      "lon": -12.305872,
       "name": "Station Total Taka",
       "type": "station",
       "country": "GN"

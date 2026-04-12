@@ -8,8 +8,8 @@
     13.83,
     -13.8
   ],
-  "extracted": "2026-04-05T04:45:42.657Z",
-  "count": 49,
+  "extracted": "2026-04-12T04:54:47.508Z",
+  "count": 50,
   "stations": [
     {
       "id": 6979290785,
@@ -232,6 +232,14 @@
       "lat": 13.492939,
       "lon": -16.08883,
       "name": "Kerewan Police Station",
+      "type": "station",
+      "country": "GM"
+    },
+    {
+      "id": 9158275426,
+      "lat": 13.280662,
+      "lon": -16.591497,
+      "name": "Mandina Ba Police Station",
       "type": "station",
       "country": "GM"
     },
