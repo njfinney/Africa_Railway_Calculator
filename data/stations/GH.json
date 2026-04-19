@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-04-12T04:55:53.125Z",
-  "count": 722,
+  "extracted": "2026-04-19T04:59:22.912Z",
+  "count": 726,
   "stations": [
     {
       "id": 6968590872,
@@ -1452,6 +1452,14 @@
       "country": "GH"
     },
     {
+      "id": 13556437222,
+      "lat": 6.454782,
+      "lon": -0.932124,
+      "name": "Cocoa Buying Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 11418277985,
       "lat": 6.496038,
       "lon": -0.849874,
@@ -1864,6 +1872,14 @@
       "lat": 5.681175,
       "lon": -0.338904,
       "name": "engen fuel station doblo",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13704897416,
+      "lat": 5.4004,
+      "lon": -0.979252,
+      "name": "Enyan Denkyira Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -3652,6 +3668,14 @@
       "country": "GH"
     },
     {
+      "id": 13608342214,
+      "lat": 6.45397,
+      "lon": -0.93094,
+      "name": "Noyem motor station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 9937562411,
       "lat": 5.810726,
       "lon": -0.353359,
@@ -4436,14 +4460,6 @@
       "country": "GH"
     },
     {
-      "id": 5913338184,
-      "lat": 11.01589,
-      "lon": -0.265759,
-      "name": "Savanna Agricultural Research Institute-Manga Station (Upper East Research Group)",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 1791481011,
       "lat": 9.406708,
       "lon": -0.84272,
@@ -4868,6 +4884,14 @@
       "country": "GH"
     },
     {
+      "id": 13685713846,
+      "lat": 10.138146,
+      "lon": 0.291192,
+      "name": "Tamale station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 2515586418,
       "lat": 9.851833,
       "lon": -0.733006,
@@ -5108,6 +5132,14 @@
       "country": "GH"
     },
     {
+      "id": 13739999941,
+      "lat": 10.895529,
+      "lon": -1.083574,
+      "name": "Total filling Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 7395651748,
       "lat": 6.397579,
       "lon": -0.143343,
@@ -5216,14 +5248,6 @@
       "lat": 6.542733,
       "lon": 0.289459,
       "name": "Tsitso Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13326863521,
-      "lat": 5.533131,
-      "lon": -0.385782,
-      "name": "Tuba Total Energies Service Station",
       "type": "station",
       "country": "GH"
     },
@@ -5664,6 +5688,14 @@
       "lat": 10.351398,
       "lon": -0.797612,
       "name": "Walewale Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13607690877,
+      "lat": 6.089956,
+      "lon": -2.213539,
+      "name": "Wasa Juabo Police Station",
       "type": "station",
       "country": "GH"
     },

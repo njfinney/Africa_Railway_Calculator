@@ -8,7 +8,7 @@
     13.83,
     -13.8
   ],
-  "extracted": "2026-04-12T04:54:47.508Z",
+  "extracted": "2026-04-19T04:58:46.015Z",
   "count": 50,
   "stations": [
     {
@@ -173,8 +173,8 @@
     },
     {
       "id": 370184285,
-      "lat": 13.452789,
-      "lon": -16.670776,
+      "lat": 13.452506,
+      "lon": -16.671057,
       "name": "Green Bus Station",
       "type": "station",
       "country": "GM"
