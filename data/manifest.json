@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-04-19T05:10:02.499Z",
+  "generated": "2026-04-26T05:27:30.387Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -490,7 +490,7 @@
       "stationCount": 189,
       "railwayCount": 535,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "BF": {
       "name": "Burkina Faso",
@@ -504,7 +504,7 @@
       "stationCount": 374,
       "railwayCount": 626,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "CI": {
       "name": "Côte d'Ivoire",
@@ -518,7 +518,7 @@
       "stationCount": 1212,
       "railwayCount": 571,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "GM": {
       "name": "Gambia",
@@ -532,7 +532,7 @@
       "stationCount": 50,
       "railwayCount": 5,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "GH": {
       "name": "Ghana",
@@ -543,10 +543,10 @@
         11.17,
         1.19
       ],
-      "stationCount": 726,
+      "stationCount": 728,
       "railwayCount": 328,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "GN": {
       "name": "Guinea",
@@ -560,7 +560,7 @@
       "stationCount": 334,
       "railwayCount": 1224,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "GW": {
       "name": "Guinea-Bissau",
@@ -574,7 +574,7 @@
       "stationCount": 2,
       "railwayCount": 122,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "LR": {
       "name": "Liberia",
@@ -588,7 +588,7 @@
       "stationCount": 140,
       "railwayCount": 88,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "ML": {
       "name": "Mali",
@@ -599,10 +599,10 @@
         25,
         4.27
       ],
-      "stationCount": 479,
+      "stationCount": 480,
       "railwayCount": 1244,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "MR": {
       "name": "Mauritania",
@@ -616,7 +616,7 @@
       "stationCount": 62,
       "railwayCount": 346,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "NE": {
       "name": "Niger",
@@ -630,7 +630,7 @@
       "stationCount": 363,
       "railwayCount": 168,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "NG": {
       "name": "Nigeria",
@@ -644,7 +644,7 @@
       "stationCount": 746,
       "railwayCount": 1922,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "SN": {
       "name": "Senegal",
@@ -656,9 +656,9 @@
         -11.36
       ],
       "stationCount": 269,
-      "railwayCount": 449,
+      "railwayCount": 448,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "SL": {
       "name": "Sierra Leone",
@@ -672,7 +672,7 @@
       "stationCount": 73,
       "railwayCount": 229,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     },
     "TG": {
       "name": "Togo",
@@ -686,7 +686,7 @@
       "stationCount": 177,
       "railwayCount": 320,
       "hasData": true,
-      "lastUpdated": "2026-04-19T05:09:39.059Z"
+      "lastUpdated": "2026-04-26T05:27:07.839Z"
     }
   }
 }

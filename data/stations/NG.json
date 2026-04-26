@@ -8,7 +8,7 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-04-19T05:06:30.535Z",
+  "extracted": "2026-04-26T05:25:01.187Z",
   "count": 746,
   "stations": [
     {
@@ -445,8 +445,8 @@
     },
     {
       "id": 3084908547,
-      "lat": 7.356023,
-      "lon": 3.919011,
+      "lat": 7.356005,
+      "lon": 3.918947,
       "name": "Anetosh Global Ltd. Filling Station",
       "type": "station",
       "country": "NG"
@@ -2645,8 +2645,8 @@
     },
     {
       "id": 3084907698,
-      "lat": 7.358525,
-      "lon": 3.914207,
+      "lat": 7.358506,
+      "lon": 3.914113,
       "name": "Kappan Filling Station",
       "type": "station",
       "country": "NG"

@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-04-19T04:59:22.912Z",
-  "count": 726,
+  "extracted": "2026-04-26T05:19:58.831Z",
+  "count": 728,
   "stations": [
     {
       "id": 6968590872,
@@ -3144,6 +3144,22 @@
       "lat": 6.624978,
       "lon": -1.211661,
       "name": "Lowcost Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13745509209,
+      "lat": 6.784917,
+      "lon": -1.614882,
+      "name": "maase station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13745509210,
+      "lat": 6.784489,
+      "lon": -1.614552,
+      "name": "maase to meduma station",
       "type": "station",
       "country": "GH"
     },
