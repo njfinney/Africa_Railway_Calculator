@@ -8,7 +8,7 @@
     27.3,
     -4.83
   ],
-  "extracted": "2026-04-26T05:23:15.352Z",
+  "extracted": "2026-05-03T05:42:06.548Z",
   "count": 62,
   "stations": [
     {
@@ -128,14 +128,6 @@
       "lat": 16.683333,
       "lon": -15.983333,
       "name": "Lekhalt",
-      "type": "station",
-      "country": "MR"
-    },
-    {
-      "id": 10054762488,
-      "lat": 20.882393,
-      "lon": -17.06192,
-      "name": "Nouadhibou Gare Voyageurs (Ancienne) محطة المسافرين",
       "type": "station",
       "country": "MR"
     },
@@ -496,6 +488,14 @@
       "lat": 16.513608,
       "lon": -15.811534,
       "name": "محطة الحافلات",
+      "type": "station",
+      "country": "MR"
+    },
+    {
+      "id": 10054762488,
+      "lat": 20.882393,
+      "lon": -17.06192,
+      "name": "محطة المسافرين",
       "type": "station",
       "country": "MR"
     },

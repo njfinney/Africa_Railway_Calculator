@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-04-26T05:20:40.205Z",
-  "count": 334,
+  "extracted": "2026-05-03T05:39:29.418Z",
+  "count": 333,
   "stations": [
     {
       "id": 5966756331,
@@ -719,14 +719,6 @@
       "id": 7176889685,
       "lat": 10.205943,
       "lon": -12.738143,
-      "name": "Sangareya",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 13724149795,
-      "lat": 11.37378,
-      "lon": -10.895918,
       "name": "Sangareya",
       "type": "station",
       "country": "GN"
