@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-05-03T05:37:31.317Z",
-  "count": 1212,
+  "extracted": "2026-05-10T05:43:40.861Z",
+  "count": 1213,
   "stations": [
     {
       "id": 9300351953,
@@ -6576,6 +6576,14 @@
       "lat": 6.327427,
       "lon": -3.441213,
       "name": "Station Delta oil",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 13790351901,
+      "lat": 5.249675,
+      "lon": -3.943052,
+      "name": "Station des wôro-wôros",
       "type": "station",
       "country": "CI"
     },

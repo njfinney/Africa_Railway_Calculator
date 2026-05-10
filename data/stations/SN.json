@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-05-03T05:45:07.146Z",
-  "count": 269,
+  "extracted": "2026-05-10T05:51:25.195Z",
+  "count": 270,
   "stations": [
     {
       "id": 1026518933,
@@ -1704,6 +1704,14 @@
       "lat": 14.756091,
       "lon": -17.429248,
       "name": "Station Total Case Bi",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 13791542443,
+      "lat": 13.146446,
+      "lon": -13.762198,
+      "name": "Station-Service",
       "type": "station",
       "country": "SN"
     },

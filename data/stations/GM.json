@@ -8,8 +8,8 @@
     13.83,
     -13.8
   ],
-  "extracted": "2026-05-03T05:38:06.115Z",
-  "count": 50,
+  "extracted": "2026-05-10T05:44:20.684Z",
+  "count": 49,
   "stations": [
     {
       "id": 6979290785,
@@ -256,14 +256,6 @@
       "lat": 13.444798,
       "lon": -16.701561,
       "name": "Manjay Police Station",
-      "type": "station",
-      "country": "GM"
-    },
-    {
-      "id": 9158173690,
-      "lat": 13.459707,
-      "lon": -15.537389,
-      "name": "Mansakonko police station",
       "type": "station",
       "country": "GM"
     },

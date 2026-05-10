@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-05-03T05:44:13.373Z",
-  "count": 746,
+  "extracted": "2026-05-10T05:50:29.527Z",
+  "count": 745,
   "stations": [
     {
       "id": 13047975346,
@@ -4696,14 +4696,6 @@
       "lat": 6.328992,
       "lon": 5.591175,
       "name": "Tanyi Filling Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 264961768,
-      "lat": 11.811446,
-      "lon": 13.182083,
-      "name": "Tashan Bama",
       "type": "station",
       "country": "NG"
     },
