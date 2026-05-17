@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-05-10T05:51:25.195Z",
-  "count": 270,
+  "extracted": "2026-05-17T06:03:43.262Z",
+  "count": 266,
   "stations": [
     {
       "id": 1026518933,
@@ -96,46 +96,6 @@
       "lat": 14.700348,
       "lon": -17.441652,
       "name": "Colobane",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 8231182164,
-      "lat": 14.676729,
-      "lon": -17.433825,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889219,
-      "lat": 14.676768,
-      "lon": -17.43374,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889220,
-      "lat": 14.676664,
-      "lon": -17.433952,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889221,
-      "lat": 14.676711,
-      "lon": -17.433861,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 10245379100,
-      "lat": 14.676585,
-      "lon": -17.433861,
-      "name": "Dakar",
       "type": "station",
       "country": "SN"
     },
@@ -312,6 +272,14 @@
       "lat": 14.793716,
       "lon": -17.336185,
       "name": "Gare Dakar Dem Dikk",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 1016285866,
+      "lat": 14.676452,
+      "lon": -17.433747,
+      "name": "Gare de Dakar",
       "type": "station",
       "country": "SN"
     },

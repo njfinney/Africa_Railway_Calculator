@@ -8,7 +8,7 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-05-10T05:50:29.527Z",
+  "extracted": "2026-05-17T06:02:45.079Z",
   "count": 745,
   "stations": [
     {
@@ -1452,6 +1452,14 @@
       "country": "NG"
     },
     {
+      "id": 13047975124,
+      "lat": 8.453612,
+      "lon": 4.581001,
+      "name": "FH3J+98J, OFFA GARAGE RAILWAY LINE, Offa Garage, Oko Erin 240101, Kwara, Nigeria",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 12287862273,
       "lat": 6.528395,
       "lon": 3.237727,
@@ -1592,14 +1600,6 @@
       "lat": 5.568615,
       "lon": 5.744394,
       "name": "French Joga Nig. Ltd Filling Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 6549211595,
-      "lat": 5.523223,
-      "lon": 7.267328,
-      "name": "fuel station",
       "type": "station",
       "country": "NG"
     },

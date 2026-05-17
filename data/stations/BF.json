@@ -8,8 +8,8 @@
     15.08,
     2.4
   ],
-  "extracted": "2026-05-10T05:43:03.402Z",
-  "count": 374,
+  "extracted": "2026-05-17T05:55:12.262Z",
+  "count": 376,
   "stations": [
     {
       "id": 5829761299,
@@ -732,6 +732,14 @@
       "country": "BF"
     },
     {
+      "id": 13825233842,
+      "lat": 11.192774,
+      "lon": -0.636679,
+      "name": "Gare routière de Zabré",
+      "type": "station",
+      "country": "BF"
+    },
+    {
       "id": 3406732593,
       "lat": 12.362993,
       "lon": -1.531059,
@@ -1168,6 +1176,14 @@
       "lat": 14.326076,
       "lon": -1.444026,
       "name": "Silati Dogare",
+      "type": "station",
+      "country": "BF"
+    },
+    {
+      "id": 13820404793,
+      "lat": 11.178275,
+      "lon": -4.30663,
+      "name": "Sitarail",
       "type": "station",
       "country": "BF"
     },
