@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-05-17T05:57:11.260Z",
-  "count": 728,
+  "extracted": "2026-05-24T06:10:51.104Z",
+  "count": 734,
   "stations": [
     {
       "id": 6968590872,
@@ -2100,6 +2100,14 @@
       "country": "GH"
     },
     {
+      "id": 13853347708,
+      "lat": 6.219368,
+      "lon": -0.110148,
+      "name": "GATSONYA Fuel Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 4462281489,
       "lat": 5.576636,
       "lon": -0.309555,
@@ -2208,6 +2216,14 @@
       "lat": 5.700038,
       "lon": -0.171987,
       "name": "Goil Filling Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 3818011857,
+      "lat": 4.904292,
+      "lon": -1.753621,
+      "name": "Goil Fuel Station",
       "type": "station",
       "country": "GH"
     },
@@ -2724,6 +2740,14 @@
       "country": "GH"
     },
     {
+      "id": 13853347607,
+      "lat": 6.211847,
+      "lon": -0.110855,
+      "name": "Kornokli Petrol Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 5036738897,
       "lat": 5.592391,
       "lon": -0.204254,
@@ -3120,6 +3144,14 @@
       "lat": 6.764958,
       "lon": -3.191282,
       "name": "lorry  station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 1520148139,
+      "lat": 6.798083,
+      "lon": -1.081977,
+      "name": "Lorry Park",
       "type": "station",
       "country": "GH"
     },
@@ -5800,6 +5832,22 @@
       "lat": 5.974066,
       "lon": -1.872936,
       "name": "Wompam",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13853347704,
+      "lat": 6.150549,
+      "lon": -0.072057,
+      "name": "Yilo Krobo Gas Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13853347696,
+      "lat": 6.185052,
+      "lon": -0.136144,
+      "name": "Yokornor Gas Station",
       "type": "station",
       "country": "GH"
     },

@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-05-17T06:03:43.262Z",
-  "count": 266,
+  "extracted": "2026-05-24T06:17:58.157Z",
+  "count": 267,
   "stations": [
     {
       "id": 1026518933,
@@ -2137,6 +2137,14 @@
       "lon": -17.356529,
       "name": "Yeumbeul",
       "type": "stop",
+      "country": "SN"
+    },
+    {
+      "id": 13859255781,
+      "lat": 14.764761,
+      "lon": -17.356246,
+      "name": "Yeumbeul",
+      "type": "station",
       "country": "SN"
     }
   ]

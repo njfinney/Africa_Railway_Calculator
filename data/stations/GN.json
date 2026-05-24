@@ -8,7 +8,7 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-05-17T05:57:56.142Z",
+  "extracted": "2026-05-24T06:11:42.883Z",
   "count": 333,
   "stations": [
     {
@@ -508,10 +508,10 @@
       "country": "GN"
     },
     {
-      "id": 12222504507,
-      "lat": 10.394764,
-      "lon": -9.299502,
-      "name": "Grande gare routière de Kankan",
+      "id": 1515478520,
+      "lat": 10.394387,
+      "lon": -9.299267,
+      "name": "Grande Gare Routière de Kankan",
       "type": "station",
       "country": "GN"
     },

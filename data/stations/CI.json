@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-05-17T05:55:53.666Z",
-  "count": 1213,
+  "extracted": "2026-05-24T06:09:21.613Z",
+  "count": 1214,
   "stations": [
     {
       "id": 9300351953,
@@ -7144,6 +7144,14 @@
       "lat": 5.324344,
       "lon": -4.022174,
       "name": "Station Service Corlay Plateau",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 13851562953,
+      "lat": 6.531402,
+      "lon": -8.500809,
+      "name": "Station Service de Tiobly",
       "type": "station",
       "country": "CI"
     },
