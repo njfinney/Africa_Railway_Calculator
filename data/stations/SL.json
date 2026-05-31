@@ -8,8 +8,8 @@
     10,
     -10.28
   ],
-  "extracted": "2026-05-24T06:18:34.077Z",
-  "count": 73,
+  "extracted": "2026-05-31T06:39:05.498Z",
+  "count": 74,
   "stations": [
     {
       "id": 4530647922,
@@ -400,6 +400,14 @@
       "lat": 9.109364,
       "lon": -12.92561,
       "name": "Peterol Station",
+      "type": "station",
+      "country": "SL"
+    },
+    {
+      "id": 11195738262,
+      "lat": 8.217733,
+      "lon": -13.097521,
+      "name": "Pips Oyidoh's Gas Station",
       "type": "station",
       "country": "SL"
     },

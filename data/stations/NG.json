@@ -8,7 +8,7 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-05-24T06:17:03.440Z",
+  "extracted": "2026-05-31T06:37:29.852Z",
   "count": 746,
   "stations": [
     {
@@ -813,8 +813,8 @@
     },
     {
       "id": 11837320103,
-      "lat": 10.379889,
-      "lon": 7.396771,
+      "lat": 10.379821,
+      "lon": 7.396789,
       "name": "Beside Startech Filing Station Kakau",
       "type": "station",
       "country": "NG"
@@ -4765,8 +4765,8 @@
     },
     {
       "id": 8852934987,
-      "lat": 9.46854,
-      "lon": 12.030981,
+      "lat": 9.468574,
+      "lon": 12.031002,
       "name": "Total - Numan Ferry Service Station",
       "type": "station",
       "country": "NG"

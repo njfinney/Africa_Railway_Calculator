@@ -8,8 +8,8 @@
     11.14,
     1.81
   ],
-  "extracted": "2026-05-24T06:19:10.327Z",
-  "count": 177,
+  "extracted": "2026-05-31T06:39:44.752Z",
+  "count": 176,
   "stations": [
     {
       "id": 8791863125,
@@ -432,14 +432,6 @@
       "lat": 6.905015,
       "lon": 0.630623,
       "name": "Gare routière kpalimé-Fiwokpo",
-      "type": "station",
-      "country": "TG"
-    },
-    {
-      "id": 12399669730,
-      "lat": 9.539134,
-      "lon": 1.196081,
-      "name": "Gare Routière Nagodé",
       "type": "station",
       "country": "TG"
     },

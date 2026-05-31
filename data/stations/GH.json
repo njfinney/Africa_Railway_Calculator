@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-05-24T06:10:51.104Z",
-  "count": 734,
+  "extracted": "2026-05-31T06:30:52.371Z",
+  "count": 736,
   "stations": [
     {
       "id": 6968590872,
@@ -544,6 +544,14 @@
       "lat": 5.603717,
       "lon": -0.172583,
       "name": "Airport Fire Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13894149216,
+      "lat": 6.711629,
+      "lon": -1.597769,
+      "name": "Airport police station",
       "type": "station",
       "country": "GH"
     },
@@ -2024,6 +2032,14 @@
       "lat": 7.953057,
       "lon": -2.669836,
       "name": "Fuel station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 11261395701,
+      "lat": 5.086504,
+      "lon": -1.522442,
+      "name": "Fuel Station",
       "type": "station",
       "country": "GH"
     },

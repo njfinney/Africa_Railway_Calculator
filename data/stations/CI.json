@@ -8,7 +8,7 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-05-24T06:09:21.613Z",
+  "extracted": "2026-05-31T06:29:02.606Z",
   "count": 1214,
   "stations": [
     {
@@ -3277,16 +3277,16 @@
     },
     {
       "id": 7079782626,
-      "lat": 5.326305,
-      "lon": -3.921182,
+      "lat": 5.326418,
+      "lon": -3.921204,
       "name": "Gare lagunaire Aqualines Abatta",
       "type": "station",
       "country": "CI"
     },
     {
       "id": 7079782627,
-      "lat": 5.326175,
-      "lon": -3.921092,
+      "lat": 5.326112,
+      "lon": -3.920985,
       "name": "Gare lagunaire Aqualines Abatta",
       "type": "station",
       "country": "CI"
@@ -3421,16 +3421,16 @@
     },
     {
       "id": 7046900012,
-      "lat": 5.315627,
-      "lon": -3.952125,
+      "lat": 5.315481,
+      "lon": -3.952157,
       "name": "Gare Lagunaire Koumassi STL",
       "type": "station",
       "country": "CI"
     },
     {
       "id": 7046900014,
-      "lat": 5.31586,
-      "lon": -3.952117,
+      "lat": 5.315932,
+      "lon": -3.952138,
       "name": "Gare Lagunaire Koumassi STL",
       "type": "station",
       "country": "CI"
@@ -6557,8 +6557,8 @@
     },
     {
       "id": 4202157692,
-      "lat": 5.403091,
-      "lon": -4.148503,
+      "lat": 5.40304,
+      "lon": -4.148525,
       "name": "Station de Pesage d'Allokoi",
       "type": "station",
       "country": "CI"
@@ -8509,8 +8509,8 @@
     },
     {
       "id": 5209368574,
-      "lat": 4.779141,
-      "lon": -6.658327,
+      "lat": 4.779103,
+      "lon": -6.658427,
       "name": "Station Total",
       "type": "station",
       "country": "CI"
