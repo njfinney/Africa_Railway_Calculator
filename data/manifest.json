@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-05-31T06:40:32.043Z",
+  "generated": "2026-06-07T06:58:11.690Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -11,10 +11,10 @@
         -4.38,
         24.08
       ],
-      "stationCount": 738,
-      "railwayCount": 2090,
+      "stationCount": 553,
+      "railwayCount": 2094,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "CM": {
       "name": "Cameroon",
@@ -25,10 +25,10 @@
         13.08,
         16.19
       ],
-      "stationCount": 416,
+      "stationCount": 251,
       "railwayCount": 870,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "CF": {
       "name": "Central African Republic",
@@ -39,10 +39,10 @@
         11.01,
         27.46
       ],
-      "stationCount": 61,
-      "railwayCount": 179,
-      "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "stationCount": 0,
+      "railwayCount": 0,
+      "hasData": false,
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "TD": {
       "name": "Chad",
@@ -53,10 +53,10 @@
         23.45,
         24
       ],
-      "stationCount": 71,
+      "stationCount": 52,
       "railwayCount": 4,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "CG": {
       "name": "Congo (Brazzaville)",
@@ -67,10 +67,10 @@
         3.71,
         18.65
       ],
-      "stationCount": 258,
-      "railwayCount": 580,
+      "stationCount": 129,
+      "railwayCount": 583,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "CD": {
       "name": "Congo (DRC)",
@@ -81,10 +81,10 @@
         5.39,
         31.31
       ],
-      "stationCount": 1464,
-      "railwayCount": 4282,
+      "stationCount": 584,
+      "railwayCount": 4307,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.012Z"
     },
     "GQ": {
       "name": "Equatorial Guinea",
@@ -98,7 +98,7 @@
       "stationCount": 0,
       "railwayCount": 0,
       "hasData": false,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.013Z"
     },
     "GA": {
       "name": "Gabon",
@@ -109,10 +109,10 @@
         2.32,
         14.52
       ],
-      "stationCount": 102,
-      "railwayCount": 391,
+      "stationCount": 72,
+      "railwayCount": 407,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:26:15.080Z"
+      "lastUpdated": "2026-06-07T06:45:25.013Z"
     },
     "BI": {
       "name": "Burundi",

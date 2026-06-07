@@ -8,8 +8,8 @@
     2.32,
     14.52
   ],
-  "extracted": "2026-03-03T12:26:00.368Z",
-  "count": 102,
+  "extracted": "2026-06-07T06:44:42.781Z",
+  "count": 72,
   "stations": [
     {
       "id": 4866498062,
@@ -60,43 +60,11 @@
       "country": "GA"
     },
     {
-      "id": 3302030420,
-      "lat": -3.421652,
-      "lon": 12.662509,
-      "name": "Boudianga",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 3302030448,
-      "lat": -3.372568,
-      "lon": 12.652617,
-      "name": "Boundji",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 12099801407,
-      "lat": 0.438552,
-      "lon": 9.418964,
-      "name": "Caisse des Pensions et des Prestations Familiales",
-      "type": "station",
-      "country": "GA"
-    },
-    {
       "id": 4433410598,
       "lat": -1.519784,
       "lon": 13.207214,
       "name": "Carrefour de la Gare",
       "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 3302030421,
-      "lat": -3.778212,
-      "lon": 12.724772,
-      "name": "Dihesse",
-      "type": "halt",
       "country": "GA"
     },
     {
@@ -189,9 +157,9 @@
     },
     {
       "id": 494923953,
-      "lat": -1.314445,
-      "lon": 13.264236,
-      "name": "Gare de Mboungou",
+      "lat": -1.314384,
+      "lon": 13.26421,
+      "name": "Gare de Mboungou-Mbadouma",
       "type": "station",
       "country": "GA"
     },
@@ -253,8 +221,8 @@
     },
     {
       "id": 4986529561,
-      "lat": -0.809255,
-      "lon": 12.730714,
+      "lat": -0.809253,
+      "lon": 12.73072,
       "name": "Gare Routière",
       "type": "station",
       "country": "GA"
@@ -289,22 +257,6 @@
       "lon": 13.156964,
       "name": "Gare Routière de Mounana",
       "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 10994350327,
-      "lat": -0.810269,
-      "lon": 12.73342,
-      "name": "Halte garderie",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027154,
-      "lat": -3.183088,
-      "lon": 12.660477,
-      "name": "Itsotsou",
-      "type": "halt",
       "country": "GA"
     },
     {
@@ -348,14 +300,6 @@
       "country": "GA"
     },
     {
-      "id": 5670027176,
-      "lat": -2.493187,
-      "lon": 12.726989,
-      "name": "M'Baka",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
       "id": 4866556706,
       "lat": 0.27212,
       "lon": 10.168961,
@@ -380,62 +324,6 @@
       "country": "GA"
     },
     {
-      "id": 3302030429,
-      "lat": -3.256805,
-      "lon": 12.689284,
-      "name": "Mabafi",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 3302030431,
-      "lat": -3.336491,
-      "lon": 12.656796,
-      "name": "Mahitoula",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5669722108,
-      "lat": -3.484218,
-      "lon": 12.610009,
-      "name": "Makabana",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027214,
-      "lat": -2.256298,
-      "lon": 12.816914,
-      "name": "Mayoko Gare",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027426,
-      "lat": -2.292703,
-      "lon": 12.808678,
-      "name": "Mayoko Halte",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 5670027427,
-      "lat": -2.108718,
-      "lon": 12.862846,
-      "name": "Mbinda",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 4867038479,
-      "lat": -1.314439,
-      "lon": 13.264341,
-      "name": "Mboungou",
-      "type": "station",
-      "country": "GA"
-    },
-    {
       "id": 4866795923,
       "lat": -0.547857,
       "lon": 12.644988,
@@ -452,46 +340,6 @@
       "country": "GA"
     },
     {
-      "id": 5669721815,
-      "lat": -2.907703,
-      "lon": 12.696674,
-      "name": "Mossendjo",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 3302030435,
-      "lat": -3.93926,
-      "lon": 12.821514,
-      "name": "Mouindi",
-      "type": "stop",
-      "country": "GA"
-    },
-    {
-      "id": 3302030436,
-      "lat": -3.642998,
-      "lon": 12.653705,
-      "name": "Moukanga",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 5670027174,
-      "lat": -2.673862,
-      "lon": 12.681632,
-      "name": "Moungoundou",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 5670027173,
-      "lat": -2.779461,
-      "lon": 12.692693,
-      "name": "Moutebe",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
       "id": 4866796496,
       "lat": -0.342556,
       "lon": 12.437436,
@@ -500,35 +348,11 @@
       "country": "GA"
     },
     {
-      "id": 5670027152,
-      "lat": -2.941021,
-      "lon": 12.674752,
-      "name": "N'Gouelet",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
       "id": 4866419173,
       "lat": -0.133826,
       "lon": 10.800017,
       "name": "Ndjolé",
       "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027184,
-      "lat": -2.170322,
-      "lon": 12.859229,
-      "name": "Ngongo",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 5670026808,
-      "lat": -2.977941,
-      "lon": 12.659919,
-      "name": "Nianga",
-      "type": "halt",
       "country": "GA"
     },
     {
@@ -553,14 +377,6 @@
       "lon": 9.749038,
       "name": "Ntoum",
       "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027175,
-      "lat": -2.617011,
-      "lon": 12.692948,
-      "name": "Nzima",
-      "type": "halt",
       "country": "GA"
     },
     {
@@ -628,22 +444,6 @@
       "country": "GA"
     },
     {
-      "id": 5670027171,
-      "lat": -3.443818,
-      "lon": 12.628505,
-      "name": "Pont du Niari",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
-      "id": 5670027170,
-      "lat": -3.867396,
-      "lon": 12.780155,
-      "name": "Sinda",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
       "id": 7150704685,
       "lat": -2.917225,
       "lon": 10.994383,
@@ -660,14 +460,6 @@
       "country": "GA"
     },
     {
-      "id": 3302030452,
-      "lat": -3.231114,
-      "lon": 12.67819,
-      "name": "Titi",
-      "type": "halt",
-      "country": "GA"
-    },
-    {
       "id": 2057427066,
       "lat": -0.183156,
       "lon": 10.76912,
@@ -676,19 +468,11 @@
       "country": "GA"
     },
     {
-      "id": 5670027172,
-      "lat": -3.069539,
-      "lon": 12.666582,
-      "name": "Tsimba",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027179,
-      "lat": -2.426159,
-      "lon": 12.729544,
-      "name": "Tsinguidi",
-      "type": "station",
+      "id": 13726971888,
+      "lat": 0.312469,
+      "lon": 9.488659,
+      "name": "Unnamed (node 13726971888)",
+      "type": "buffer_stop",
       "country": "GA"
     },
     {
@@ -764,14 +548,6 @@
       "country": "GA"
     },
     {
-      "id": 406235400,
-      "lat": -2.42615,
-      "lon": 12.729549,
-      "name": "Unnamed (way 406235400)",
-      "type": "station",
-      "country": "GA"
-    },
-    {
       "id": 494232011,
       "lat": -1.640095,
       "lon": 13.572424,
@@ -809,22 +585,6 @@
       "lon": 11.60547,
       "name": "Unnamed (way 494889728)",
       "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 594676532,
-      "lat": -2.108711,
-      "lon": 12.862852,
-      "name": "Unnamed (way 594676532)",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 5670027178,
-      "lat": -2.545791,
-      "lon": 12.693437,
-      "name": "Vouka",
-      "type": "halt",
       "country": "GA"
     }
   ]

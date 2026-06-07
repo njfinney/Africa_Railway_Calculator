@@ -8,33 +8,9 @@
     3.71,
     18.65
   ],
-  "extracted": "2026-03-03T12:16:58.773Z",
-  "count": 258,
+  "extracted": "2026-06-07T06:40:38.495Z",
+  "count": 129,
   "stations": [
-    {
-      "id": 8820508815,
-      "lat": -4.407429,
-      "lon": 15.37405,
-      "name": "Arrêt Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 8820533551,
-      "lat": -4.406686,
-      "lon": 15.374533,
-      "name": "Arrêt Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4866430703,
-      "lat": -0.118235,
-      "lon": 11.43703,
-      "name": "Ayem",
-      "type": "station",
-      "country": "CG"
-    },
     {
       "id": 5670391124,
       "lat": -4.511591,
@@ -52,14 +28,6 @@
       "country": "CG"
     },
     {
-      "id": 4867037545,
-      "lat": -0.095672,
-      "lon": 11.257206,
-      "name": "Bissouma",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3323401301,
       "lat": -4.197003,
       "lon": 12.676042,
@@ -68,27 +36,11 @@
       "country": "CG"
     },
     {
-      "id": 6378631467,
-      "lat": -4.544827,
-      "lon": 15.215815,
-      "name": "Bloc 329",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
       "id": 3302030418,
       "lat": -4.18966,
       "lon": 13.398909,
       "name": "Bodissa",
       "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 4866293707,
-      "lat": -0.103874,
-      "lon": 11.948638,
-      "name": "Booué",
-      "type": "station",
       "country": "CG"
     },
     {
@@ -101,8 +53,8 @@
     },
     {
       "id": 3302030420,
-      "lat": -3.421652,
-      "lon": 12.662509,
+      "lat": -3.421602,
+      "lon": 12.662513,
       "name": "Boudianga",
       "type": "halt",
       "country": "CG"
@@ -112,22 +64,6 @@
       "lat": -3.372568,
       "lon": 12.652617,
       "name": "Boundji",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4433410598,
-      "lat": -1.519784,
-      "lon": 13.207214,
-      "name": "Carrefour de la Gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 7801588985,
-      "lat": 3.520586,
-      "lon": 11.503909,
-      "name": "Central Police station",
       "type": "station",
       "country": "CG"
     },
@@ -156,58 +92,10 @@
       "country": "CG"
     },
     {
-      "id": 4867038343,
-      "lat": -0.888786,
-      "lon": 12.991693,
-      "name": "Doumé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6039085861,
-      "lat": -4.33319,
-      "lon": 15.342883,
-      "name": "Egare Congo S.A.R.L",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 8341853618,
-      "lat": -3.315935,
-      "lon": 17.386682,
-      "name": "ENA RDC Ouest communauté la Gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 1954863566,
-      "lat": -1.640331,
-      "lon": 13.572389,
-      "name": "Franceville",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 594699647,
       "lat": -4.189345,
       "lon": 13.283065,
       "name": "Gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 11875897270,
-      "lat": -4.345327,
-      "lon": 15.230453,
-      "name": "Gare Centrale",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 11939978672,
-      "lat": -4.351869,
-      "lon": 15.218596,
-      "name": "Gare Centrale 1",
       "type": "station",
       "country": "CG"
     },
@@ -220,66 +108,10 @@
       "country": "CG"
     },
     {
-      "id": 697961217,
-      "lat": -0.196296,
-      "lon": 12.196127,
-      "name": "Gare d'Ivindo",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494923924,
-      "lat": -0.095769,
-      "lon": 11.257131,
-      "name": "Gare de Bissouma",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 1539417629,
       "lat": -4.269386,
       "lon": 15.288376,
       "name": "Gare de Brazzaville",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494923952,
-      "lat": -0.888854,
-      "lon": 12.991601,
-      "name": "Gare de Doumé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494904371,
-      "lat": -0.793737,
-      "lon": 12.774127,
-      "name": "Gare de Lastourville",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 690746105,
-      "lat": -1.066729,
-      "lon": 13.146657,
-      "name": "Gare de Lifouta",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 501171569,
-      "lat": -4.388447,
-      "lon": 15.352748,
-      "name": "Gare de Matete",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494923953,
-      "lat": -1.314445,
-      "lon": 13.264236,
-      "name": "Gare de Mboungou",
       "type": "station",
       "country": "CG"
     },
@@ -292,106 +124,18 @@
       "country": "CG"
     },
     {
-      "id": 510715946,
-      "lat": -1.50299,
-      "lon": 13.287874,
-      "name": "Gare de Moanda",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6430516584,
-      "lat": 1.419671,
-      "lon": 16.322337,
+      "id": 1498074498,
+      "lat": 1.420263,
+      "lon": 16.322651,
       "name": "Gare de routiere",
       "type": "station",
       "country": "CG"
     },
     {
-      "id": 345905013,
-      "lat": 3.59128,
-      "lon": 11.296622,
-      "name": "Gare férovière de Ngoumou",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 5670391328,
-      "lat": -4.207678,
-      "lon": 12.566686,
+      "lat": -4.207619,
+      "lon": 12.566664,
       "name": "Gare Les Bandas",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 1415820859,
-      "lat": -0.547755,
-      "lon": 12.645123,
-      "name": "Gare Milolé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494904387,
-      "lat": -0.342456,
-      "lon": 12.437516,
-      "name": "Gare Mouyabi",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 11813934332,
-      "lat": 3.514497,
-      "lon": 15.050877,
-      "name": "Gare routiere",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4986529561,
-      "lat": -0.809255,
-      "lon": 12.730714,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 11054703850,
-      "lat": -1.132528,
-      "lon": 12.464221,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 655339045,
-      "lat": 1.575776,
-      "lon": 11.569957,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 12058614644,
-      "lat": 1.007732,
-      "lon": 13.966257,
-      "name": "Gare Routière de Mékambo",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 509918493,
-      "lat": -1.383853,
-      "lon": 13.156964,
-      "name": "Gare Routière de Mounana",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 3525969539,
-      "lat": 3.592458,
-      "lon": 11.305057,
-      "name": "Gare routière de Ngoumou",
       "type": "station",
       "country": "CG"
     },
@@ -400,30 +144,6 @@
       "lat": -4.169406,
       "lon": 12.65574,
       "name": "Gare Routière Dolisie",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 1159441451,
-      "lat": 3.386087,
-      "lon": 12.735205,
-      "name": "Garre routière",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6383237385,
-      "lat": 3.466179,
-      "lon": 11.51426,
-      "name": "Green Oil Fuel Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 10994350327,
-      "lat": -0.810269,
-      "lon": 12.73342,
-      "name": "Halte garderie",
       "type": "station",
       "country": "CG"
     },
@@ -449,22 +169,6 @@
       "lon": 12.660477,
       "name": "Itsotsou",
       "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 4866796398,
-      "lat": -0.196446,
-      "lon": 12.196075,
-      "name": "Ivindo",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 715922817,
-      "lat": -4.59103,
-      "lon": 15.173239,
-      "name": "Kasangulu",
-      "type": "station",
       "country": "CG"
     },
     {
@@ -500,22 +204,6 @@
       "country": "CG"
     },
     {
-      "id": 715913464,
-      "lat": -4.469384,
-      "lon": 15.31644,
-      "name": "Kilembo",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 4111872433,
-      "lat": -4.750539,
-      "lon": 15.141448,
-      "name": "Kilunga",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3302030425,
       "lat": -4.190103,
       "lon": 13.481003,
@@ -532,34 +220,10 @@
       "country": "CG"
     },
     {
-      "id": 721880244,
-      "lat": -4.472734,
-      "lon": 15.281678,
-      "name": "Kimwenza",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 5670207830,
       "lat": -4.231094,
       "lon": 14.295943,
       "name": "Kingoyi",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 26917327,
-      "lat": -4.301133,
-      "lon": 15.317938,
-      "name": "Kinshasa Est",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 57359260,
-      "lat": -4.334031,
-      "lon": 15.258867,
-      "name": "Kinshasa Ouest",
       "type": "station",
       "country": "CG"
     },
@@ -572,30 +236,6 @@
       "country": "CG"
     },
     {
-      "id": 715876841,
-      "lat": -4.42183,
-      "lon": 15.354595,
-      "name": "Kisenso / Riflart",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6957900980,
-      "lat": -4.41908,
-      "lon": 15.353899,
-      "name": "Kisenso Gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 9065941483,
-      "lat": -4.419303,
-      "lon": 15.35423,
-      "name": "kn Kisenso Gare Centre de Santé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 781432878,
       "lat": -4.188918,
       "lon": 13.282557,
@@ -604,50 +244,10 @@
       "country": "CG"
     },
     {
-      "id": 4866795981,
-      "lat": -0.7936,
-      "lon": 12.774189,
-      "name": "Lastourville",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3302030427,
       "lat": -4.35694,
       "lon": 12.36225,
       "name": "Les Saras",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4867038142,
-      "lat": -1.066758,
-      "lon": 13.146801,
-      "name": "Lifouta",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6481087495,
-      "lat": -1.066768,
-      "lon": 13.146851,
-      "name": "Lifouta",
-      "type": "stop",
-      "country": "CG"
-    },
-    {
-      "id": 6378609282,
-      "lat": -4.330835,
-      "lon": 15.338435,
-      "name": "Limete Amicongo",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 4866650406,
-      "lat": -0.102934,
-      "lon": 11.605389,
-      "name": "Lopé",
       "type": "station",
       "country": "CG"
     },
@@ -680,14 +280,6 @@
       "lat": -4.2978,
       "lon": 13.856986,
       "name": "Loutété",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 2913853434,
-      "lat": -4.826545,
-      "lon": 15.172505,
-      "name": "Lwila",
       "type": "station",
       "country": "CG"
     },
@@ -756,43 +348,11 @@
       "country": "CG"
     },
     {
-      "id": 6261545865,
-      "lat": -3.331977,
-      "lon": 17.367808,
-      "name": "Marché de la gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6261545866,
-      "lat": -3.316029,
-      "lon": 17.381079,
-      "name": "Marché de la gare",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 715964332,
-      "lat": -4.3859,
-      "lon": 15.393735,
-      "name": "Masina Mapela",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 5670206696,
       "lat": -4.250474,
       "lon": 14.595385,
       "name": "Massembo - Loubaki",
       "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 29752813,
-      "lat": -4.388441,
-      "lon": 15.353024,
-      "name": "Matete",
-      "type": "stop",
       "country": "CG"
     },
     {
@@ -844,22 +404,6 @@
       "country": "CG"
     },
     {
-      "id": 4867038479,
-      "lat": -1.314439,
-      "lon": 13.264341,
-      "name": "Mboungou",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4866795923,
-      "lat": -0.547857,
-      "lon": 12.644988,
-      "name": "Milolé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 5274398034,
       "lat": -4.268671,
       "lon": 14.358066,
@@ -872,38 +416,6 @@
       "lat": -4.272706,
       "lon": 14.487836,
       "name": "Missafou",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 8820537828,
-      "lat": -4.413719,
-      "lon": 15.381068,
-      "name": "ML Station service",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 13173332134,
-      "lat": -4.365205,
-      "lon": 15.495082,
-      "name": "ML Station service",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 440146450,
-      "lat": -4.3462,
-      "lon": 15.263612,
-      "name": "ML-Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4433410188,
-      "lat": -1.502972,
-      "lon": 13.287984,
-      "name": "Moanda",
       "type": "station",
       "country": "CG"
     },
@@ -980,14 +492,6 @@
       "country": "CG"
     },
     {
-      "id": 4866796496,
-      "lat": -0.342556,
-      "lon": 12.437436,
-      "name": "Mouyabi",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3302030439,
       "lat": -4.267582,
       "lon": 12.468157,
@@ -1028,34 +532,10 @@
       "country": "CG"
     },
     {
-      "id": 797799785,
-      "lat": -4.391607,
-      "lon": 15.444974,
-      "name": "Ndjili Aéroport",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 26917534,
-      "lat": -4.312037,
-      "lon": 15.331259,
-      "name": "Ndolo",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3302030443,
       "lat": -4.49072,
       "lon": 12.349845,
       "name": "Nemba",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 2461916346,
-      "lat": 3.558505,
-      "lon": 15.056616,
-      "name": "Ngaressingo",
       "type": "station",
       "country": "CG"
     },
@@ -1081,14 +561,6 @@
       "lon": 12.859229,
       "name": "Ngongo",
       "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 3779378732,
-      "lat": 3.590695,
-      "lon": 11.296934,
-      "name": "Ngoumou",
-      "type": "station",
       "country": "CG"
     },
     {
@@ -1141,8 +613,8 @@
     },
     {
       "id": 3302030423,
-      "lat": -4.311305,
-      "lon": 12.700324,
+      "lat": -4.311325,
+      "lon": 12.700475,
       "name": "Nzoungo Kibangou",
       "type": "station",
       "country": "CG"
@@ -1156,50 +628,10 @@
       "country": "CG"
     },
     {
-      "id": 4866649951,
-      "lat": -0.101181,
-      "lon": 11.775982,
-      "name": "Offoué",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 3779382927,
-      "lat": 3.591843,
-      "lon": 11.245399,
-      "name": "Otélé",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 3779441375,
-      "lat": 3.663395,
-      "lon": 11.358457,
-      "name": "Oweng",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 5912709550,
-      "lat": -4.232126,
-      "lon": 15.557548,
-      "name": "Parc Naturel de la Nsele (Station)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3312362171,
       "lat": -4.801389,
       "lon": 11.84015,
       "name": "Pointe-Noire",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4303890693,
-      "lat": -4.980604,
-      "lon": 14.710301,
-      "name": "police station",
       "type": "station",
       "country": "CG"
     },
@@ -1209,14 +641,6 @@
       "lon": 12.628505,
       "name": "Pont du Niari",
       "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 6853515029,
-      "lat": -4.374199,
-      "lon": 15.283269,
-      "name": "poste de police/ station ENGEN",
-      "type": "station",
       "country": "CG"
     },
     {
@@ -1236,98 +660,10 @@
       "country": "CG"
     },
     {
-      "id": 389446823,
-      "lat": -4.395642,
-      "lon": 15.416806,
-      "name": "Site transco",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 7124323285,
-      "lat": -4.394033,
-      "lon": 15.332112,
-      "name": "Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 8191692217,
       "lat": -4.241017,
       "lon": 15.245089,
       "name": "Station Afric'",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6581917730,
-      "lat": -4.410181,
-      "lon": 15.316415,
-      "name": "Station Africain Oil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 440145107,
-      "lat": -4.348417,
-      "lon": 15.291894,
-      "name": "Station Cobil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5241592816,
-      "lat": -4.416002,
-      "lon": 15.314092,
-      "name": "Station Cobil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5266024627,
-      "lat": -4.340583,
-      "lon": 15.314131,
-      "name": "Station Cobil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5499269093,
-      "lat": -4.350514,
-      "lon": 15.324673,
-      "name": "Station Cobil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5241628103,
-      "lat": -4.389855,
-      "lon": 15.314768,
-      "name": "Station COBIL",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 8475816937,
-      "lat": 3.51632,
-      "lon": 11.497029,
-      "name": "Station de Mbalmayo",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5168323613,
-      "lat": -4.588579,
-      "lon": 15.16468,
-      "name": "Station de Pêche de Kasangulu",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5674782873,
-      "lat": -4.185022,
-      "lon": 12.594786,
-      "name": "Station de Pesage",
       "type": "station",
       "country": "CG"
     },
@@ -1348,122 +684,10 @@
       "country": "CG"
     },
     {
-      "id": 1763491533,
-      "lat": -4.429618,
-      "lon": 15.280398,
-      "name": "Station de police",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5499321336,
-      "lat": -4.349158,
-      "lon": 15.296657,
-      "name": "Station de Police",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5410320971,
-      "lat": -4.346045,
-      "lon": 15.264299,
-      "name": "Station de Police ML",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 10770534860,
-      "lat": 0.51294,
-      "lon": 12.803539,
-      "name": "Station de recherche d’Ipassa",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6853515012,
-      "lat": -4.373268,
-      "lon": 15.298732,
-      "name": "Station de service",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 2235123719,
-      "lat": -4.349313,
-      "lon": 15.325136,
-      "name": "Station Engen",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5860933267,
-      "lat": -3.317274,
-      "lon": 17.38093,
-      "name": "Station Engen",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6018279286,
-      "lat": -4.415445,
-      "lon": 15.31403,
-      "name": "Station Intendance Universitaire",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 6574947758,
-      "lat": -4.441051,
-      "lon": 15.375971,
-      "name": "Station Kimbanseke",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5266024622,
-      "lat": -4.344587,
-      "lon": 15.324635,
-      "name": "Station La Gradi",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5499321328,
-      "lat": -4.341009,
-      "lon": 15.299264,
-      "name": "Station Mjop Saio",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4793446056,
-      "lat": -4.390332,
-      "lon": 15.370312,
-      "name": "Station ML",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5765508588,
-      "lat": -4.406624,
-      "lon": 15.339519,
-      "name": "Station Oil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 11459292997,
       "lat": -4.139435,
       "lon": 15.346066,
       "name": "Station Oil UNIVERSITÉ",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5499321342,
-      "lat": -4.34291,
-      "lon": 15.283581,
-      "name": "Station Police",
       "type": "station",
       "country": "CG"
     },
@@ -1516,30 +740,6 @@
       "country": "CG"
     },
     {
-      "id": 9977060283,
-      "lat": -4.332255,
-      "lon": 15.314931,
-      "name": "Station Sendwe KMOil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 9977044012,
-      "lat": -4.341482,
-      "lon": 15.31365,
-      "name": "Station Service E.Leclerc",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 4378071291,
-      "lat": -4.466675,
-      "lon": 15.235886,
-      "name": "Station Service Mazarine",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 2452525178,
       "lat": -4.764806,
       "lon": 11.865374,
@@ -1580,14 +780,6 @@
       "country": "CG"
     },
     {
-      "id": 5268176446,
-      "lat": -4.3598,
-      "lon": 15.253036,
-      "name": "Station SNEL Ngaliema",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 9452645137,
       "lat": -4.258739,
       "lon": 15.277844,
@@ -1600,46 +792,6 @@
       "lat": -4.25598,
       "lon": 15.275521,
       "name": "Station SNPCD",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 440013896,
-      "lat": -4.3362,
-      "lon": 15.326316,
-      "name": "Station Sonahydroc",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 8814257348,
-      "lat": -4.406892,
-      "lon": 15.374447,
-      "name": "Station St Thérèse",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 439734821,
-      "lat": -4.379859,
-      "lon": 15.259202,
-      "name": "Station Total",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 440145106,
-      "lat": -4.348114,
-      "lon": 15.291345,
-      "name": "Station Total",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 5109221815,
-      "lat": -4.341707,
-      "lon": 15.281731,
-      "name": "Station Total",
       "type": "station",
       "country": "CG"
     },
@@ -1708,22 +860,6 @@
       "country": "CG"
     },
     {
-      "id": 9977000444,
-      "lat": -4.39554,
-      "lon": 15.307619,
-      "name": "Station Triangle",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 616509873,
-      "lat": -4.405733,
-      "lon": 15.256421,
-      "name": "Station UPN",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3291447231,
       "lat": -4.277998,
       "lon": 15.278496,
@@ -1744,14 +880,6 @@
       "lat": -4.788384,
       "lon": 11.872767,
       "name": "Station Xoil",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 3323403635,
-      "lat": -4.349466,
-      "lon": 11.644398,
-      "name": "Station Yanika",
       "type": "station",
       "country": "CG"
     },
@@ -1788,14 +916,6 @@
       "country": "CG"
     },
     {
-      "id": 6383237485,
-      "lat": 3.520131,
-      "lon": 11.512243,
-      "name": "Total Fuel Station",
-      "type": "station",
-      "country": "CG"
-    },
-    {
       "id": 3302030453,
       "lat": -4.492523,
       "lon": 12.543815,
@@ -1828,123 +948,19 @@
       "country": "CG"
     },
     {
-      "id": 2604759598,
-      "lat": 3.515865,
-      "lon": 11.497136,
-      "name": "Unnamed (node 2604759598)",
+      "id": 5670391131,
+      "lat": -4.481536,
+      "lon": 12.252996,
+      "name": "Unnamed (node 5670391131)",
       "type": "buffer_stop",
       "country": "CG"
     },
     {
-      "id": 2604759600,
-      "lat": 3.515858,
-      "lon": 11.497211,
-      "name": "Unnamed (node 2604759600)",
+      "id": 5670391136,
+      "lat": -4.481369,
+      "lon": 12.253101,
+      "name": "Unnamed (node 5670391136)",
       "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 26917332,
-      "lat": -4.303392,
-      "lon": 15.321687,
-      "name": "Unnamed (node 26917332)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 4979476315,
-      "lat": -0.799921,
-      "lon": 12.781439,
-      "name": "Unnamed (node 4979476315)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6239862595,
-      "lat": -0.098315,
-      "lon": 11.617229,
-      "name": "Unnamed (node 6239862595)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6378592807,
-      "lat": -4.372352,
-      "lon": 15.381548,
-      "name": "Unnamed (node 6378592807)",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 6555825011,
-      "lat": -0.810633,
-      "lon": 12.803682,
-      "name": "Unnamed (node 6555825011)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825020,
-      "lat": -0.801095,
-      "lon": 12.788643,
-      "name": "Unnamed (node 6555825020)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825021,
-      "lat": -0.800949,
-      "lon": 12.788324,
-      "name": "Unnamed (node 6555825021)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825032,
-      "lat": -0.798549,
-      "lon": 12.781868,
-      "name": "Unnamed (node 6555825032)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825034,
-      "lat": -0.797373,
-      "lon": 12.780629,
-      "name": "Unnamed (node 6555825034)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825039,
-      "lat": -0.792527,
-      "lon": 12.771923,
-      "name": "Unnamed (node 6555825039)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 6555825043,
-      "lat": -0.792806,
-      "lon": 12.772216,
-      "name": "Unnamed (node 6555825043)",
-      "type": "buffer_stop",
-      "country": "CG"
-    },
-    {
-      "id": 715959275,
-      "lat": -4.388435,
-      "lon": 15.412394,
-      "name": "Unnamed (node 715959275)",
-      "type": "halt",
-      "country": "CG"
-    },
-    {
-      "id": 8475184889,
-      "lat": 3.550976,
-      "lon": 11.416875,
-      "name": "Unnamed (node 8475184889)",
-      "type": "station",
       "country": "CG"
     },
     {
@@ -1952,46 +968,6 @@
       "lat": -2.42615,
       "lon": 12.729549,
       "name": "Unnamed (way 406235400)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494232011,
-      "lat": -1.640095,
-      "lon": 13.572424,
-      "name": "Unnamed (way 494232011)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494863306,
-      "lat": -0.103683,
-      "lon": 11.948484,
-      "name": "Unnamed (way 494863306)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494871401,
-      "lat": -0.118055,
-      "lon": 11.437085,
-      "name": "Unnamed (way 494871401)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494889714,
-      "lat": -0.101287,
-      "lon": 11.776035,
-      "name": "Unnamed (way 494889714)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 494889728,
-      "lat": -0.103104,
-      "lon": 11.60547,
-      "name": "Unnamed (way 494889728)",
       "type": "station",
       "country": "CG"
     },
@@ -2024,14 +1000,6 @@
       "lat": -4.191888,
       "lon": 13.530164,
       "name": "Unnamed (way 594699643)",
-      "type": "station",
-      "country": "CG"
-    },
-    {
-      "id": 594735991,
-      "lat": -4.311328,
-      "lon": 12.700475,
-      "name": "Unnamed (way 594735991)",
       "type": "station",
       "country": "CG"
     },

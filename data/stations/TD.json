@@ -8,8 +8,8 @@
     23.45,
     24
   ],
-  "extracted": "2026-03-03T12:14:44.258Z",
-  "count": 71,
+  "extracted": "2026-06-07T06:39:54.600Z",
+  "count": 52,
   "stations": [
     {
       "id": 3831072504,
@@ -36,34 +36,10 @@
       "country": "TD"
     },
     {
-      "id": 3037426184,
-      "lat": 9.464421,
-      "lon": 13.637465,
-      "name": "Badjouma_guizigare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
       "id": 7719727045,
       "lat": 10.35,
       "lon": 15.316667,
       "name": "Bagareye",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1067306295,
-      "lat": 9.392233,
-      "lon": 13.504011,
-      "name": "Barrier de Guizegare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 7731492964,
-      "lat": 10.145387,
-      "lon": 23.763854,
-      "name": "Bi’r Majangare",
       "type": "station",
       "country": "TD"
     },
@@ -84,50 +60,10 @@
       "country": "TD"
     },
     {
-      "id": 4557263056,
-      "lat": 15.159317,
-      "lon": 13.479583,
-      "name": "Bougarenga",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1067306174,
-      "lat": 9.392812,
-      "lon": 13.504717,
-      "name": "Chefferie de Guizigare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1049849444,
-      "lat": 9.395358,
-      "lon": 13.65502,
-      "name": "Djaouro (Chefferie) de Guizigare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1049705892,
-      "lat": 9.467473,
-      "lon": 13.637892,
-      "name": "Djaouro (Chefferie) Guizigare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
       "id": 10788396605,
       "lat": 12.118809,
       "lon": 15.118234,
       "name": "Ecole Communale  CEG de Boutalbagare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1049849526,
-      "lat": 9.395147,
-      "lon": 13.65541,
-      "name": "Eglis Baptist de Guizigare",
       "type": "station",
       "country": "TD"
     },
@@ -148,10 +84,10 @@
       "country": "TD"
     },
     {
-      "id": 7937985218,
-      "lat": 10.515387,
-      "lon": 14.228722,
-      "name": "Garel",
+      "id": 296496276,
+      "lat": 12.174259,
+      "lon": 18.692124,
+      "name": "Gare routière de Mongo محطة باصات منقو",
       "type": "station",
       "country": "TD"
     },
@@ -168,38 +104,6 @@
       "lat": 19.961816,
       "lon": 21.324379,
       "name": "Garet el Gorane",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 2933225779,
-      "lat": 10.03055,
-      "lon": 14.33421,
-      "name": "Garey Kaele",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 2933225780,
-      "lat": 10.0333,
-      "lon": 14.3333,
-      "name": "Garey_djidoma",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 3037426692,
-      "lat": 9.56598,
-      "lon": 13.7599,
-      "name": "Guizigare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 6545953545,
-      "lat": 9.017413,
-      "lon": 13.50896,
-      "name": "Hangar stationnement",
       "type": "station",
       "country": "TD"
     },
@@ -236,14 +140,6 @@
       "country": "TD"
     },
     {
-      "id": 13422055672,
-      "lat": 14.365706,
-      "lon": 22.45746,
-      "name": "Kulbus police station-مركز شرطة كلبس",
-      "type": "station",
-      "country": "TD"
-    },
-    {
       "id": 7719716671,
       "lat": 13.585545,
       "lon": 20.616247,
@@ -252,34 +148,10 @@
       "country": "TD"
     },
     {
-      "id": 3037427005,
-      "lat": 10.56608,
-      "lon": 13.82696,
-      "name": "Mangare",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 6546028895,
-      "lat": 9.018624,
-      "lon": 13.50933,
-      "name": "Mutuelles reunies de la gare routiere ngon",
-      "type": "station",
-      "country": "TD"
-    },
-    {
       "id": 7187796034,
       "lat": 12.981168,
       "lon": 15.721783,
       "name": "ONAMA Station Provinciale de Massakory",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1049849556,
-      "lat": 9.395014,
-      "lon": 13.656035,
-      "name": "Puit a ciel ouvert de Guizigare",
       "type": "station",
       "country": "TD"
     },
@@ -356,14 +228,6 @@
       "country": "TD"
     },
     {
-      "id": 1067306253,
-      "lat": 9.378899,
-      "lon": 13.49091,
-      "name": "station de Pessage de Pitoa Bounguel",
-      "type": "station",
-      "country": "TD"
-    },
-    {
       "id": 11286267992,
       "lat": 13.316835,
       "lon": 21.992368,
@@ -408,14 +272,6 @@
       "lat": 17.925986,
       "lon": 19.104511,
       "name": "Station MG Group",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 1067306290,
-      "lat": 9.386134,
-      "lon": 13.501678,
-      "name": "Station Mobile",
       "type": "station",
       "country": "TD"
     },
@@ -496,14 +352,6 @@
       "lat": 12.097661,
       "lon": 15.109597,
       "name": "Station Service Yago",
-      "type": "station",
-      "country": "TD"
-    },
-    {
-      "id": 4254428691,
-      "lat": 10.602111,
-      "lon": 14.344428,
-      "name": "Station Shel",
       "type": "station",
       "country": "TD"
     },

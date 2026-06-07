@@ -8,8 +8,8 @@
     -4.38,
     24.08
   ],
-  "extracted": "2026-03-03T12:07:26.454Z",
-  "count": 738,
+  "extracted": "2026-06-07T06:36:33.513Z",
+  "count": 553,
   "stations": [
     {
       "id": 6214913335,
@@ -116,22 +116,6 @@
       "country": "AO"
     },
     {
-      "id": 8820508815,
-      "lat": -4.407429,
-      "lon": 15.37405,
-      "name": "Arrêt Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 8820533551,
-      "lat": -4.406686,
-      "lon": 15.374533,
-      "name": "Arrêt Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 1808959231,
       "lat": -14.865006,
       "lon": 13.109444,
@@ -180,30 +164,6 @@
       "country": "AO"
     },
     {
-      "id": 4851704159,
-      "lat": -4.893987,
-      "lon": 22.075369,
-      "name": "Bakwa-Kenge",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 11396108811,
-      "lat": -4.871236,
-      "lon": 21.672868,
-      "name": "Bakwa-Mwanza",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 11395834055,
-      "lat": -4.48494,
-      "lon": 21.049551,
-      "name": "Banwa-Balamba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4107393700,
       "lat": -9.184817,
       "lon": 13.965804,
@@ -220,14 +180,6 @@
       "country": "AO"
     },
     {
-      "id": 1309056144,
-      "lat": -5.128026,
-      "lon": 22.171554,
-      "name": "Bena-Leka",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4104403932,
       "lat": -12.577171,
       "lon": 13.412061,
@@ -236,34 +188,10 @@
       "country": "AO"
     },
     {
-      "id": 1309064577,
-      "lat": -5.04702,
-      "lon": 22.166121,
-      "name": "Beya-Bwanga",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4099164211,
       "lat": -14.759443,
       "lon": 13.349688,
       "name": "Bibala (Km162)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5670391124,
-      "lat": -4.511591,
-      "lon": 12.225428,
-      "name": "Bilala",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5670391142,
-      "lat": -4.482883,
-      "lon": 12.248029,
-      "name": "Bilinga",
       "type": "station",
       "country": "AO"
     },
@@ -284,14 +212,6 @@
       "country": "AO"
     },
     {
-      "id": 6378631467,
-      "lat": -4.544827,
-      "lon": 15.215815,
-      "name": "Bloc 329",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
       "id": 1541419178,
       "lat": -12.69758,
       "lon": 16.025199,
@@ -308,22 +228,6 @@
       "country": "AO"
     },
     {
-      "id": 1309064568,
-      "lat": -4.705945,
-      "lon": 21.325761,
-      "name": "Bongo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3336638787,
-      "lat": -4.753031,
-      "lon": 21.471595,
-      "name": "Bulongo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 441601821,
       "lat": -8.805348,
       "lon": 13.24444,
@@ -336,22 +240,6 @@
       "lat": -8.805272,
       "lon": 13.24435,
       "name": "Bungo - Estação Central de Luanda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2266256952,
-      "lat": -13.544365,
-      "lon": 23.111022,
-      "name": "Bus Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 243297039,
-      "lat": -15.272062,
-      "lon": 23.135486,
-      "name": "Bus Station",
       "type": "station",
       "country": "AO"
     },
@@ -796,14 +684,6 @@
       "country": "AO"
     },
     {
-      "id": 956781894,
-      "lat": -5.461162,
-      "lon": 20.983073,
-      "name": "Charlesville",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 2631795513,
       "lat": -14.761417,
       "lon": 13.505354,
@@ -900,26 +780,10 @@
       "country": "AO"
     },
     {
-      "id": 2266243782,
-      "lat": -13.834744,
-      "lon": 23.209769,
-      "name": "Chitokoloki Mission Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 736369734,
       "lat": -13.007291,
       "lon": 13.989781,
       "name": "Ciambambo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5053627776,
-      "lat": -5.510441,
-      "lon": 14.691381,
-      "name": "Cité Gare",
       "type": "station",
       "country": "AO"
     },
@@ -1100,42 +964,10 @@
       "country": "AO"
     },
     {
-      "id": 1244257136,
-      "lat": -5.819279,
-      "lon": 13.461757,
-      "name": "de la Gare",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309056135,
-      "lat": -5.493648,
-      "lon": 22.268093,
-      "name": "Demba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 8746080946,
-      "lat": -10.698859,
-      "lon": 22.344234,
-      "name": "Dilolo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 629460305,
-      "lat": -10.698567,
-      "lon": 22.344235,
-      "name": "Dilolo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4113924338,
-      "lat": -10.598703,
-      "lon": 22.996412,
-      "name": "Divuma",
+      "id": 8708919094,
+      "lat": -15.221853,
+      "lon": 12.085471,
+      "name": "DESERTUS Prestação de Serviços, LDA",
       "type": "station",
       "country": "AO"
     },
@@ -1145,14 +977,6 @@
       "lon": 12.608013,
       "name": "Dois Irmãos (Km 70)",
       "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 1309061459,
-      "lat": -4.616559,
-      "lon": 21.220943,
-      "name": "Domiongo",
-      "type": "station",
       "country": "AO"
     },
     {
@@ -1245,8 +1069,8 @@
     },
     {
       "id": 735174646,
-      "lat": -15.19144,
-      "lon": 12.149734,
+      "lat": -15.191466,
+      "lon": 12.149802,
       "name": "Estação 1º de Maio",
       "type": "station",
       "country": "AO"
@@ -2068,14 +1892,6 @@
       "country": "AO"
     },
     {
-      "id": 5073062621,
-      "lat": -5.89708,
-      "lon": 22.438019,
-      "name": "Filling station Biduaya Muamba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 6513383093,
       "lat": -8.900427,
       "lon": 13.191555,
@@ -2092,34 +1908,10 @@
       "country": "AO"
     },
     {
-      "id": 2428285883,
-      "lat": -5.398942,
-      "lon": 12.199597,
-      "name": "Fuel Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 11976499631,
       "lat": -14.788517,
       "lon": 13.711616,
       "name": "Futura Subestação Electrica do Lubango",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138034020,
-      "lat": -6.342436,
-      "lon": 22.877733,
-      "name": "Fwamba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3764887127,
-      "lat": -17.778376,
-      "lon": 15.689946,
-      "name": "Fysal Service Station",
       "type": "station",
       "country": "AO"
     },
@@ -2152,38 +1944,6 @@
       "lat": -8.813748,
       "lon": 13.232238,
       "name": "Gare - Mutamba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5888220403,
-      "lat": -5.57037,
-      "lon": 17.153907,
-      "name": "Gare Bemba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1352534576,
-      "lat": -5.262245,
-      "lon": 14.855018,
-      "name": "Gare centrale",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 501171569,
-      "lat": -4.388447,
-      "lon": 15.352748,
-      "name": "Gare de Matete",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5107553539,
-      "lat": -5.533198,
-      "lon": 17.130316,
-      "name": "Gare Paul (Kihadi polo)",
       "type": "station",
       "country": "AO"
     },
@@ -2244,22 +2004,6 @@
       "country": "AO"
     },
     {
-      "id": 3302030424,
-      "lat": -4.620356,
-      "lon": 12.042648,
-      "name": "Hinda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6445818337,
-      "lat": -7.013361,
-      "lon": 23.451347,
-      "name": "Hôtel de la Gare",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4105156944,
       "lat": -12.763849,
       "lon": 15.745651,
@@ -2272,14 +2016,6 @@
       "lat": -14.730816,
       "lon": 13.455474,
       "name": "Humbia (Km180)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6871450366,
-      "lat": -4.788742,
-      "lon": 11.856782,
-      "name": "Hydro mega prestations",
       "type": "station",
       "country": "AO"
     },
@@ -2305,182 +2041,6 @@
       "lon": 13.528214,
       "name": "Jobita Transportes",
       "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3340987950,
-      "lat": -4.388619,
-      "lon": 20.876786,
-      "name": "Kabote",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 381274746,
-      "lat": -10.653638,
-      "lon": 22.672131,
-      "name": "Kahundu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 629090250,
-      "lat": -10.652141,
-      "lon": 22.674548,
-      "name": "Kahundu Gare",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1238284707,
-      "lat": -10.653511,
-      "lon": 22.671889,
-      "name": "Kahundu Railway Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309061456,
-      "lat": -4.870171,
-      "lon": 21.913153,
-      "name": "Kakenge",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 629096315,
-      "lat": -10.420428,
-      "lon": 23.668997,
-      "name": "Kakopa",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138034012,
-      "lat": -6.255625,
-      "lon": 22.788493,
-      "name": "Kakunda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309066971,
-      "lat": -7.128304,
-      "lon": 23.533766,
-      "name": "Kalenda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 889161657,
-      "lat": -6.03031,
-      "lon": 22.615544,
-      "name": "Kalumba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309066952,
-      "lat": -6.074791,
-      "lon": 22.707718,
-      "name": "Kamwandu",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 1719215929,
-      "lat": -5.896389,
-      "lon": 22.416432,
-      "name": "Kananga",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 80136704,
-      "lat": -5.895947,
-      "lon": 22.416315,
-      "name": "Kananga",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 629090269,
-      "lat": -10.384859,
-      "lon": 23.4507,
-      "name": "Kasaji",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 715922817,
-      "lat": -4.59103,
-      "lon": 15.173239,
-      "name": "Kasangulu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 11397651779,
-      "lat": -4.969563,
-      "lon": 22.09984,
-      "name": "Katanga",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 7681780718,
-      "lat": -10.660979,
-      "lon": 22.747085,
-      "name": "Katoka Brethren Assembly (Garenganze)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3170460094,
-      "lat": -10.675808,
-      "lon": 22.50442,
-      "name": "Katshilao",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309066949,
-      "lat": -5.983296,
-      "lon": 22.49741,
-      "name": "Katumanga",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 1309066962,
-      "lat": -6.614683,
-      "lon": 22.87152,
-      "name": "Kaulu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138132297,
-      "lat": -6.933475,
-      "lon": 23.203228,
-      "name": "Kele",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 617410445,
-      "lat": -5.767209,
-      "lon": 13.659453,
-      "name": "Kenge",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 715913464,
-      "lat": -4.469384,
-      "lon": 15.31644,
-      "name": "Kilembo",
-      "type": "halt",
       "country": "AO"
     },
     {
@@ -2513,78 +2073,6 @@
       "lon": 14.483929,
       "name": "Kilómetro 362 (Km 362)",
       "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 4111872433,
-      "lat": -4.750539,
-      "lon": 15.141448,
-      "name": "Kilunga",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 721880244,
-      "lat": -4.472734,
-      "lon": 15.281678,
-      "name": "Kimwenza",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309064571,
-      "lat": -4.807513,
-      "lon": 21.787375,
-      "name": "Kinda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2242566548,
-      "lat": -7.348095,
-      "lon": 24.025438,
-      "name": "Kisamba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 10936807772,
-      "lat": -5.125883,
-      "lon": 15.069545,
-      "name": "Kisantu–Inkisi",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1808841170,
-      "lat": -10.694589,
-      "lon": 23.18565,
-      "name": "Kisenge",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 715876841,
-      "lat": -4.42183,
-      "lon": 15.354595,
-      "name": "Kisenso / Riflart",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6957900980,
-      "lat": -4.41908,
-      "lon": 15.353899,
-      "name": "Kisenso Gare",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 9065941483,
-      "lat": -4.419303,
-      "lon": 15.35423,
-      "name": "kn Kisenso Gare Centre de Santé",
-      "type": "station",
       "country": "AO"
     },
     {
@@ -2708,17 +2196,33 @@
       "country": "AO"
     },
     {
-      "id": 7664006787,
-      "lat": -15.136445,
-      "lon": 23.654072,
-      "name": "Looma Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4105406000,
       "lat": -11.213505,
       "lon": 21.653912,
+      "name": "Luacano",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 13912971776,
+      "lat": -11.213483,
+      "lon": 21.653837,
+      "name": "Luacano",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 13912971777,
+      "lat": -11.21354,
+      "lon": 21.653972,
+      "name": "Luacano",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 715010258,
+      "lat": -11.213436,
+      "lon": 21.653671,
       "name": "Luacano",
       "type": "station",
       "country": "AO"
@@ -2733,16 +2237,32 @@
     },
     {
       "id": 8746050618,
-      "lat": -10.704897,
-      "lon": 22.226369,
+      "lat": -10.704914,
+      "lon": 22.226394,
       "name": "Luau",
       "type": "station",
       "country": "AO"
     },
     {
+      "id": 13912984252,
+      "lat": -10.704835,
+      "lon": 22.226347,
+      "name": "Luau",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
+      "id": 13912984255,
+      "lat": -10.705018,
+      "lon": 22.22646,
+      "name": "Luau",
+      "type": "stop",
+      "country": "AO"
+    },
+    {
       "id": 296194451,
-      "lat": -10.705248,
-      "lon": 22.226638,
+      "lat": -10.705201,
+      "lon": 22.226613,
       "name": "Luau",
       "type": "station",
       "country": "AO"
@@ -2752,14 +2272,6 @@
       "lat": -14.929921,
       "lon": 13.508781,
       "name": "Lubango (Km 246)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138128073,
-      "lat": -6.85869,
-      "lon": 23.069176,
-      "name": "Lubi",
       "type": "station",
       "country": "AO"
     },
@@ -2860,22 +2372,6 @@
       "country": "AO"
     },
     {
-      "id": 832203439,
-      "lat": -5.518852,
-      "lon": 14.516029,
-      "name": "Lukala",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 889163489,
-      "lat": -6.945008,
-      "lon": 23.328883,
-      "name": "Lukola",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
       "id": 3306517538,
       "lat": -11.555453,
       "lon": 20.782198,
@@ -2897,38 +2393,6 @@
       "lon": 13.519783,
       "name": "Luongo",
       "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309056136,
-      "lat": -7.165096,
-      "lon": 23.711589,
-      "name": "Luputa",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4143186376,
-      "lat": -7.333305,
-      "lon": 23.887389,
-      "name": "Lusuku",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2913853434,
-      "lat": -4.826545,
-      "lon": 15.172505,
-      "name": "Lwila",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5670391125,
-      "lat": -4.41334,
-      "lon": 12.291765,
-      "name": "M'foubou",
-      "type": "halt",
       "country": "AO"
     },
     {
@@ -2980,26 +2444,10 @@
       "country": "AO"
     },
     {
-      "id": 1380929453,
-      "lat": -5.813599,
-      "lon": 20.709077,
-      "name": "Makumbi",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4113781153,
       "lat": -9.542358,
       "lon": 16.34801,
       "name": "Malanje",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 623055937,
-      "lat": -10.421786,
-      "lon": 23.168765,
-      "name": "Malonga",
       "type": "station",
       "country": "AO"
     },
@@ -3020,22 +2468,6 @@
       "country": "AO"
     },
     {
-      "id": 715964332,
-      "lat": -4.3859,
-      "lon": 15.393735,
-      "name": "Masina Mapela",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3311959882,
-      "lat": -5.817824,
-      "lon": 13.45992,
-      "name": "Matadi",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 3193493389,
       "lat": -14.739493,
       "lon": 15.0245,
@@ -3044,35 +2476,11 @@
       "country": "AO"
     },
     {
-      "id": 29752813,
-      "lat": -4.388441,
-      "lon": 15.353024,
-      "name": "Matete",
-      "type": "stop",
-      "country": "AO"
-    },
-    {
       "id": 2180949036,
       "lat": -9.468209,
       "lon": 15.894288,
       "name": "Matete",
       "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 1146947786,
-      "lat": -5.262148,
-      "lon": 14.857549,
-      "name": "Mbanza-Ngungu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030433,
-      "lat": -4.531078,
-      "lon": 12.097339,
-      "name": "Mboukou",
-      "type": "station",
       "country": "AO"
     },
     {
@@ -3116,14 +2524,6 @@
       "country": "AO"
     },
     {
-      "id": 8820537828,
-      "lat": -4.413719,
-      "lon": 15.381068,
-      "name": "ML Station service",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4101699515,
       "lat": -15.191351,
       "lon": 12.149645,
@@ -3149,8 +2549,8 @@
     },
     {
       "id": 4105432451,
-      "lat": -11.026254,
-      "lon": 21.936642,
+      "lat": -11.026262,
+      "lon": 21.936668,
       "name": "Mucussueje",
       "type": "station",
       "country": "AO"
@@ -3168,14 +2568,6 @@
       "lat": -8.915902,
       "lon": 13.169713,
       "name": "Mulamba Comércio & Prestação de Serviço, Lda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1308996853,
-      "lat": -10.447468,
-      "lon": 24.024996,
-      "name": "Mungulunga",
       "type": "station",
       "country": "AO"
     },
@@ -3200,38 +2592,6 @@
       "lat": -14.941325,
       "lon": 12.961314,
       "name": "Munhino (Km 111)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309066961,
-      "lat": -6.161271,
-      "lon": 22.751406,
-      "name": "Mutefu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3660702569,
-      "lat": -5.268951,
-      "lon": 14.967161,
-      "name": "Mwala GTrain Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309061458,
-      "lat": -4.84504,
-      "lon": 21.561679,
-      "name": "Mweka",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309061460,
-      "lat": -7.013768,
-      "lon": 23.450135,
-      "name": "Mwene-Ditu",
       "type": "station",
       "country": "AO"
     },
@@ -3268,58 +2628,10 @@
       "country": "AO"
     },
     {
-      "id": 797799785,
-      "lat": -4.391607,
-      "lon": 15.444974,
-      "name": "Ndjili Aéroport",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 7249253586,
-      "lat": -15.091523,
-      "lon": 23.773321,
-      "name": "Ndondo Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030443,
-      "lat": -4.49072,
-      "lon": 12.349845,
-      "name": "Nemba",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 9905844352,
       "lat": -8.848574,
       "lon": 13.211434,
       "name": "Neoliv Comercio e Prestação de Serviços, Lda",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030444,
-      "lat": -4.741528,
-      "lon": 11.955351,
-      "name": "Ngondji",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 13188741949,
-      "lat": -4.807,
-      "lon": 21.788,
-      "name": "Nkinda Gare",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030445,
-      "lat": -4.517109,
-      "lon": 12.300069,
-      "name": "Nkoungi",
       "type": "station",
       "country": "AO"
     },
@@ -3336,22 +2648,6 @@
       "lat": -12.55144,
       "lon": 13.433335,
       "name": "Nossa Senhora da Graça",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030446,
-      "lat": -4.672998,
-      "lon": 11.992779,
-      "name": "Ntombo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030447,
-      "lat": -4.433508,
-      "lon": 12.597835,
-      "name": "Nzombo",
       "type": "station",
       "country": "AO"
     },
@@ -3388,34 +2684,10 @@
       "country": "AO"
     },
     {
-      "id": 4092118078,
-      "lat": -17.468108,
-      "lon": 15.88133,
-      "name": "Ohangwena",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3764887166,
-      "lat": -17.776831,
-      "lon": 15.694627,
-      "name": "Okatana Service Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 1916523612,
       "lat": -14.861658,
       "lon": 13.944357,
       "name": "Olivença(Km 303)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 709647409,
-      "lat": -17.774086,
-      "lon": 15.698841,
-      "name": "Omatara Bus Terminal",
       "type": "station",
       "country": "AO"
     },
@@ -3436,26 +2708,10 @@
       "country": "AO"
     },
     {
-      "id": 1299298360,
-      "lat": -17.899708,
-      "lon": 15.979075,
-      "name": "Ondangwa",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 5163886024,
       "lat": -8.826218,
       "lon": 13.215479,
       "name": "One Stop - Estação de Serviço",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4092153703,
-      "lat": -17.649048,
-      "lon": 15.917894,
-      "name": "Ongha",
       "type": "station",
       "country": "AO"
     },
@@ -3476,14 +2732,6 @@
       "country": "AO"
     },
     {
-      "id": 1822385845,
-      "lat": -17.396839,
-      "lon": 15.879175,
-      "name": "Oshikango",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 6139209754,
       "lat": -8.973573,
       "lon": 13.294986,
@@ -3496,14 +2744,6 @@
       "lat": -8.875547,
       "lon": 13.191394,
       "name": "Paltra, Lda Prestação de Serviço & Agência de Viagens",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 11395901369,
-      "lat": -4.547916,
-      "lon": 21.148263,
-      "name": "Pamba",
       "type": "station",
       "country": "AO"
     },
@@ -3524,50 +2764,10 @@
       "country": "AO"
     },
     {
-      "id": 1308973726,
-      "lat": -4.444394,
-      "lon": 20.942614,
-      "name": "Pebeangu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 748782908,
-      "lat": -5.846503,
-      "lon": 13.433583,
-      "name": "Petrocongo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1161447893,
-      "lat": -4.58338,
-      "lon": 18.69082,
-      "name": "Pindi Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 1916494610,
       "lat": -14.916939,
       "lon": 13.649042,
       "name": "Poiares (Km 264)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3312362171,
-      "lat": -4.801389,
-      "lon": 11.84015,
-      "name": "Pointe-Noire",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4303890693,
-      "lat": -4.980604,
-      "lon": 14.710301,
-      "name": "police station",
       "type": "station",
       "country": "AO"
     },
@@ -3628,14 +2828,6 @@
       "country": "AO"
     },
     {
-      "id": 9094287568,
-      "lat": -17.44681,
-      "lon": 15.885856,
-      "name": "Puma Service Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 7730023742,
       "lat": -14.781205,
       "lon": 13.495946,
@@ -3692,14 +2884,6 @@
       "country": "AO"
     },
     {
-      "id": 860417995,
-      "lat": -17.932073,
-      "lon": 19.77028,
-      "name": "Rundu Bus Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 6139526678,
       "lat": -8.987537,
       "lon": 13.395389,
@@ -3712,22 +2896,6 @@
       "lat": -15.117804,
       "lon": 12.143698,
       "name": "Saco-Mar (Km 10)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3906603429,
-      "lat": -5.841227,
-      "lon": 13.454759,
-      "name": "Salle de manifestation (fête, spectacle, réunion)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4113912179,
-      "lat": -10.651219,
-      "lon": 22.798214,
-      "name": "Sambembe",
       "type": "station",
       "country": "AO"
     },
@@ -3852,14 +3020,6 @@
       "country": "AO"
     },
     {
-      "id": 389446823,
-      "lat": -4.395642,
-      "lon": 15.416806,
-      "name": "Site transco",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 5549261745,
       "lat": -8.811069,
       "lon": 13.253906,
@@ -3892,238 +3052,6 @@
       "country": "AO"
     },
     {
-      "id": 7124323285,
-      "lat": -4.394033,
-      "lon": 15.332112,
-      "name": "Station",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6581917730,
-      "lat": -4.410181,
-      "lon": 15.316415,
-      "name": "Station Africain Oil",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5241592816,
-      "lat": -4.416002,
-      "lon": 15.314092,
-      "name": "Station Cobil",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 330335224,
-      "lat": -5.261154,
-      "lon": 14.859014,
-      "name": "Station COBIL",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5241628103,
-      "lat": -4.389855,
-      "lon": 15.314768,
-      "name": "Station COBIL",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5168323613,
-      "lat": -4.588579,
-      "lon": 15.16468,
-      "name": "Station de Pêche de Kasangulu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5674818460,
-      "lat": -4.688468,
-      "lon": 11.943496,
-      "name": "Station de Pesage",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5674848068,
-      "lat": -4.415917,
-      "lon": 12.146775,
-      "name": "Station de Pesage",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1763491533,
-      "lat": -4.429618,
-      "lon": 15.280398,
-      "name": "Station de police",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 7074470189,
-      "lat": -5.259782,
-      "lon": 14.859309,
-      "name": "Station Engen",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6018279286,
-      "lat": -4.415445,
-      "lon": 15.31403,
-      "name": "Station Intendance Universitaire",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6574947758,
-      "lat": -4.441051,
-      "lon": 15.375971,
-      "name": "Station Kimbanseke",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 9635402557,
-      "lat": -5.850932,
-      "lon": 13.053088,
-      "name": "Station kuntuala",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4793446056,
-      "lat": -4.390332,
-      "lon": 15.370312,
-      "name": "Station ML",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5765508588,
-      "lat": -4.406624,
-      "lon": 15.339519,
-      "name": "Station Oil",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6257867376,
-      "lat": -4.795829,
-      "lon": 11.869111,
-      "name": "Station puma",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 7997182785,
-      "lat": -4.760782,
-      "lon": 11.89685,
-      "name": "Station PUMA",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 8129832932,
-      "lat": -4.786046,
-      "lon": 11.894588,
-      "name": "Station PUMA",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4378071291,
-      "lat": -4.466675,
-      "lon": 15.235886,
-      "name": "Station Service Mazarine",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2452525178,
-      "lat": -4.764806,
-      "lon": 11.865374,
-      "name": "Station service PUMA",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2452525203,
-      "lat": -4.761828,
-      "lon": 11.870529,
-      "name": "Station service X-OIL Loandjili",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 2456738889,
-      "lat": -4.788404,
-      "lon": 11.872749,
-      "name": "Station Service X-OIL Mawata",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6447347187,
-      "lat": -4.774476,
-      "lon": 11.879281,
-      "name": "Station services Puma",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 8814257348,
-      "lat": -4.406892,
-      "lon": 15.374447,
-      "name": "Station St Thérèse",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6257868394,
-      "lat": -4.800234,
-      "lon": 11.842965,
-      "name": "Station Total",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6371096687,
-      "lat": -4.785321,
-      "lon": 11.877799,
-      "name": "Station Total de Mahouata",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 9977000444,
-      "lat": -4.39554,
-      "lon": 15.307619,
-      "name": "Station Triangle",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 616509873,
-      "lat": -4.405733,
-      "lon": 15.256421,
-      "name": "Station UPN",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 6257867375,
-      "lat": -4.788384,
-      "lon": 11.872767,
-      "name": "Station Xoil",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 11993349758,
       "lat": -9.105557,
       "lon": 13.689011,
@@ -4144,14 +3072,6 @@
       "lat": -8.94123,
       "lon": 13.17466,
       "name": "Sultec Estação de Serviço",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 5310179716,
-      "lat": -17.783074,
-      "lon": 23.326234,
-      "name": "Susuwe Ranger Station",
       "type": "station",
       "country": "AO"
     },
@@ -4177,14 +3097,6 @@
       "lon": 13.485731,
       "name": "Tchavola (Km 232)",
       "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 5670391122,
-      "lat": -4.538281,
-      "lon": 12.147338,
-      "name": "Tchitondi",
-      "type": "station",
       "country": "AO"
     },
     {
@@ -4236,14 +3148,6 @@
       "country": "AO"
     },
     {
-      "id": 2456739254,
-      "lat": -4.804956,
-      "lon": 11.897452,
-      "name": "TiéTié",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 7729704013,
       "lat": -14.673743,
       "lon": 13.470697,
@@ -4288,62 +3192,6 @@
       "lat": -14.6269,
       "lon": 15.609998,
       "name": "Trindade (Km 496)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030453,
-      "lat": -4.492523,
-      "lon": 12.543815,
-      "name": "Tsessi",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4142368018,
-      "lat": -7.255595,
-      "lon": 23.80308,
-      "name": "Tshabebo",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309064579,
-      "lat": -5.335847,
-      "lon": 22.19012,
-      "name": "Tshibumbula",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309064580,
-      "lat": -5.625001,
-      "lon": 22.266279,
-      "name": "Tshibungu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1309056140,
-      "lat": -6.473318,
-      "lon": 22.865646,
-      "name": "Tshimbulu",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4136117896,
-      "lat": -5.708001,
-      "lon": 22.328973,
-      "name": "Tshitenge",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 3302030450,
-      "lat": -4.460104,
-      "lon": 12.451672,
-      "name": "TSoumbou",
       "type": "station",
       "country": "AO"
     },
@@ -4404,6 +3252,14 @@
       "country": "AO"
     },
     {
+      "id": 11505476714,
+      "lat": -10.705558,
+      "lon": 22.22382,
+      "name": "Unnamed (node 11505476714)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
       "id": 13464190791,
       "lat": -12.758083,
       "lon": 15.761737,
@@ -4428,18 +3284,10 @@
       "country": "AO"
     },
     {
-      "id": 1808917538,
-      "lat": -10.385198,
-      "lon": 23.291227,
-      "name": "Unnamed (node 1808917538)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1822385846,
-      "lat": -17.392114,
-      "lon": 15.879071,
-      "name": "Unnamed (node 1822385846)",
+      "id": 13883771360,
+      "lat": -11.028706,
+      "lon": 21.936745,
+      "name": "Unnamed (node 13883771360)",
       "type": "buffer_stop",
       "country": "AO"
     },
@@ -4676,11 +3524,35 @@
       "country": "AO"
     },
     {
-      "id": 3885207155,
-      "lat": -5.260606,
-      "lon": 14.859071,
-      "name": "Unnamed (node 3885207155)",
-      "type": "station",
+      "id": 3637400957,
+      "lat": -10.701258,
+      "lon": 22.225141,
+      "name": "Unnamed (node 3637400957)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3678098375,
+      "lat": -10.706929,
+      "lon": 22.220436,
+      "name": "Unnamed (node 3678098375)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3678098387,
+      "lat": -10.706176,
+      "lon": 22.222541,
+      "name": "Unnamed (node 3678098387)",
+      "type": "buffer_stop",
+      "country": "AO"
+    },
+    {
+      "id": 3678098415,
+      "lat": -10.703485,
+      "lon": 22.230976,
+      "name": "Unnamed (node 3678098415)",
+      "type": "buffer_stop",
       "country": "AO"
     },
     {
@@ -4972,46 +3844,6 @@
       "country": "AO"
     },
     {
-      "id": 4114494288,
-      "lat": -10.452974,
-      "lon": 23.83203,
-      "name": "Unnamed (node 4114494288)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4129054062,
-      "lat": -5.832648,
-      "lon": 13.621261,
-      "name": "Unnamed (node 4129054062)",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 4136055294,
-      "lat": -4.384172,
-      "lon": 20.822071,
-      "name": "Unnamed (node 4136055294)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138075981,
-      "lat": -6.69927,
-      "lon": 22.930046,
-      "name": "Unnamed (node 4138075981)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 4138127998,
-      "lat": -6.749948,
-      "lon": 23.007838,
-      "name": "Unnamed (node 4138127998)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 4759873189,
       "lat": -12.635602,
       "lon": 13.461665,
@@ -5057,14 +3889,6 @@
       "lon": 12.133134,
       "name": "Unnamed (node 7118663395)",
       "type": "buffer_stop",
-      "country": "AO"
-    },
-    {
-      "id": 715959275,
-      "lat": -4.388435,
-      "lon": 15.412394,
-      "name": "Unnamed (node 715959275)",
-      "type": "halt",
       "country": "AO"
     },
     {
@@ -5136,14 +3960,6 @@
       "lat": -14.930514,
       "lon": 13.503243,
       "name": "Unnamed (node 7590737160)",
-      "type": "buffer_stop",
-      "country": "AO"
-    },
-    {
-      "id": 7761063635,
-      "lat": -5.84248,
-      "lon": 13.432952,
-      "name": "Unnamed (node 7761063635)",
       "type": "buffer_stop",
       "country": "AO"
     },
@@ -5276,174 +4092,6 @@
       "country": "AO"
     },
     {
-      "id": 1070377943,
-      "lat": -5.335653,
-      "lon": 22.19026,
-      "name": "Unnamed (way 1070377943)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1070765266,
-      "lat": -5.493785,
-      "lon": 22.268207,
-      "name": "Unnamed (way 1070765266)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1228820455,
-      "lat": -4.444114,
-      "lon": 20.942642,
-      "name": "Unnamed (way 1228820455)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1228847803,
-      "lat": -4.61674,
-      "lon": 21.221038,
-      "name": "Unnamed (way 1228847803)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1228847807,
-      "lat": -4.752929,
-      "lon": 21.471355,
-      "name": "Unnamed (way 1228847807)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1228850879,
-      "lat": -4.871349,
-      "lon": 21.672628,
-      "name": "Unnamed (way 1228850879)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1228850881,
-      "lat": -4.807358,
-      "lon": 21.787295,
-      "name": "Unnamed (way 1228850881)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229027485,
-      "lat": -4.870194,
-      "lon": 21.912903,
-      "name": "Unnamed (way 1229027485)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229027488,
-      "lat": -4.89377,
-      "lon": 22.074948,
-      "name": "Unnamed (way 1229027488)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229027490,
-      "lat": -4.969488,
-      "lon": 22.099996,
-      "name": "Unnamed (way 1229027490)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229027493,
-      "lat": -5.046204,
-      "lon": 22.166134,
-      "name": "Unnamed (way 1229027493)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229062928,
-      "lat": -6.030168,
-      "lon": 22.615458,
-      "name": "Unnamed (way 1229062928)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229081085,
-      "lat": -6.161307,
-      "lon": 22.751183,
-      "name": "Unnamed (way 1229081085)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229081086,
-      "lat": -6.255712,
-      "lon": 22.788383,
-      "name": "Unnamed (way 1229081086)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229082665,
-      "lat": -6.342582,
-      "lon": 22.877739,
-      "name": "Unnamed (way 1229082665)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229085329,
-      "lat": -6.473526,
-      "lon": 22.865696,
-      "name": "Unnamed (way 1229085329)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229243313,
-      "lat": -6.699259,
-      "lon": 22.929874,
-      "name": "Unnamed (way 1229243313)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229243314,
-      "lat": -6.749869,
-      "lon": 23.007723,
-      "name": "Unnamed (way 1229243314)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229243315,
-      "lat": -6.858582,
-      "lon": 23.068973,
-      "name": "Unnamed (way 1229243315)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229251257,
-      "lat": -7.013653,
-      "lon": 23.450371,
-      "name": "Unnamed (way 1229251257)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 1229256709,
-      "lat": -7.128125,
-      "lon": 23.533901,
-      "name": "Unnamed (way 1229256709)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 1230565981,
       "lat": -9.052288,
       "lon": 13.501598,
@@ -5548,22 +4196,6 @@
       "country": "AO"
     },
     {
-      "id": 326965967,
-      "lat": -4.845133,
-      "lon": 21.561455,
-      "name": "Unnamed (way 326965967)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 385164357,
-      "lat": -5.262415,
-      "lon": 14.857186,
-      "name": "Unnamed (way 385164357)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 434368216,
       "lat": -8.603143,
       "lon": 13.607379,
@@ -5584,22 +4216,6 @@
       "lat": -11.555586,
       "lon": 20.78237,
       "name": "Unnamed (way 448328219)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 531190227,
-      "lat": -17.475562,
-      "lon": 16.334142,
-      "name": "Unnamed (way 531190227)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 531191203,
-      "lat": -17.481137,
-      "lon": 16.332743,
-      "name": "Unnamed (way 531191203)",
       "type": "station",
       "country": "AO"
     },
@@ -5652,50 +4268,10 @@
       "country": "AO"
     },
     {
-      "id": 590488228,
-      "lat": -17.396788,
-      "lon": 15.879305,
-      "name": "Unnamed (way 590488228)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 594735995,
-      "lat": -4.433521,
-      "lon": 12.597942,
-      "name": "Unnamed (way 594735995)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 594735997,
-      "lat": -4.492582,
-      "lon": 12.54383,
-      "name": "Unnamed (way 594735997)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 594735998,
-      "lat": -4.459984,
-      "lon": 12.45173,
-      "name": "Unnamed (way 594735998)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 659416383,
       "lat": -12.149637,
       "lon": 17.279788,
       "name": "Unnamed (way 659416383)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 684798844,
-      "lat": -13.54432,
-      "lon": 23.110964,
-      "name": "Unnamed (way 684798844)",
       "type": "station",
       "country": "AO"
     },
@@ -5720,14 +4296,6 @@
       "lat": -12.263685,
       "lon": 17.125518,
       "name": "Unnamed (way 714982973)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 714994329,
-      "lat": -11.992673,
-      "lon": 17.665358,
-      "name": "Unnamed (way 714994329)",
       "type": "station",
       "country": "AO"
     },
@@ -5772,26 +4340,10 @@
       "country": "AO"
     },
     {
-      "id": 715010258,
-      "lat": -11.213417,
-      "lon": 21.653627,
-      "name": "Unnamed (way 715010258)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 715014190,
       "lat": -11.026174,
       "lon": 21.936486,
       "name": "Unnamed (way 715014190)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 819124466,
-      "lat": -7.164994,
-      "lon": 23.711769,
-      "name": "Unnamed (way 819124466)",
       "type": "station",
       "country": "AO"
     },
@@ -5812,14 +4364,6 @@
       "country": "AO"
     },
     {
-      "id": 863632145,
-      "lat": -17.90067,
-      "lon": 15.968988,
-      "name": "Unnamed (way 863632145)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
       "id": 905885945,
       "lat": -14.690485,
       "lon": 17.605592,
@@ -5832,22 +4376,6 @@
       "lat": -14.929131,
       "lon": 13.524169,
       "name": "Unnamed (way 919604309)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 944696010,
-      "lat": -10.675882,
-      "lon": 22.504614,
-      "name": "Unnamed (way 944696010)",
-      "type": "station",
-      "country": "AO"
-    },
-    {
-      "id": 945244891,
-      "lat": -10.69437,
-      "lon": 23.185471,
-      "name": "Unnamed (way 945244891)",
       "type": "station",
       "country": "AO"
     },
@@ -5888,14 +4416,6 @@
       "lat": -14.974617,
       "lon": 12.912674,
       "name": "Xutama (Km 104)",
-      "type": "halt",
-      "country": "AO"
-    },
-    {
-      "id": 5670391123,
-      "lat": -4.5565,
-      "lon": 12.193635,
-      "name": "Yanga",
       "type": "halt",
       "country": "AO"
     },
