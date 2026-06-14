@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-05-31T06:30:52.371Z",
+  "extracted": "2026-06-14T06:51:32.380Z",
   "count": 736,
   "stations": [
     {
@@ -1528,14 +1528,6 @@
       "lat": 5.667448,
       "lon": -0.009884,
       "name": "Community 8 Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6699460885,
-      "lat": 10.067402,
-      "lon": -2.490412,
-      "name": "Controller Goil Fuel Filling Station",
       "type": "station",
       "country": "GH"
     },
@@ -5464,6 +5456,14 @@
       "lat": 6.151102,
       "lon": 0.057636,
       "name": "Unnamed (way 1361391311)",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 1526505212,
+      "lat": 7.331939,
+      "lon": -2.32032,
+      "name": "Unnamed (way 1526505212)",
       "type": "station",
       "country": "GH"
     },

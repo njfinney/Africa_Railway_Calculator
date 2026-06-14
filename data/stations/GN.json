@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-05-31T06:31:46.253Z",
-  "count": 334,
+  "extracted": "2026-06-14T06:52:24.472Z",
+  "count": 335,
   "stations": [
     {
       "id": 5966756331,
@@ -184,6 +184,14 @@
       "lat": 9.883173,
       "lon": -13.111418,
       "name": "Debele",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 13921182917,
+      "lat": 10.468032,
+      "lon": -9.436445,
+      "name": "Diabalani gare",
       "type": "station",
       "country": "GN"
     },

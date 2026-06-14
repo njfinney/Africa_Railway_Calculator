@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-05-31T06:34:08.668Z",
-  "count": 480,
+  "extracted": "2026-06-14T06:54:37.295Z",
+  "count": 481,
   "stations": [
     {
       "id": 2150752711,
@@ -1592,6 +1592,14 @@
       "lat": 12.585488,
       "lon": -7.82801,
       "name": "Station Coulibaly et frères",
+      "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 4664234477,
+      "lat": 12.61439,
+      "lon": -7.999223,
+      "name": "Station d'essence",
       "type": "station",
       "country": "ML"
     },

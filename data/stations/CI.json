@@ -8,7 +8,7 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-05-31T06:29:02.606Z",
+  "extracted": "2026-06-14T06:50:10.033Z",
   "count": 1214,
   "stations": [
     {
@@ -556,17 +556,17 @@
       "country": "CI"
     },
     {
-      "id": 9125966143,
-      "lat": 8.452505,
-      "lon": -3.472578,
-      "name": "Boulangerie de la gare",
+      "id": 5973449429,
+      "lat": 5.426933,
+      "lon": -4.021311,
+      "name": "Boulangerie de la Gare",
       "type": "station",
       "country": "CI"
     },
     {
-      "id": 5973449429,
-      "lat": 5.426933,
-      "lon": -4.021311,
+      "id": 9125966143,
+      "lat": 8.452505,
+      "lon": -3.472578,
       "name": "Boulangerie de la Gare",
       "type": "station",
       "country": "CI"
@@ -861,8 +861,8 @@
     },
     {
       "id": 6176460486,
-      "lat": 8.95186,
-      "lon": -6.25787,
+      "lat": 8.951967,
+      "lon": -6.258009,
       "name": "Fuel Station",
       "type": "station",
       "country": "CI"
@@ -4956,14 +4956,6 @@
       "country": "CI"
     },
     {
-      "id": 273681798,
-      "lat": 5.405238,
-      "lon": -6.553648,
-      "name": "gare UTB",
-      "type": "station",
-      "country": "CI"
-    },
-    {
       "id": 7101374029,
       "lat": 6.482431,
       "lon": -6.585579,
@@ -5031,6 +5023,14 @@
       "id": 12023023574,
       "lat": 5.832941,
       "lon": -5.364667,
+      "name": "Gare UTB",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 273681798,
+      "lat": 5.405238,
+      "lon": -6.553648,
       "name": "Gare UTB",
       "type": "station",
       "country": "CI"
