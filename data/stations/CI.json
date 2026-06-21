@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-06-14T06:50:10.033Z",
-  "count": 1214,
+  "extracted": "2026-06-21T07:02:26.723Z",
+  "count": 1213,
   "stations": [
     {
       "id": 9300351953,
@@ -8232,14 +8232,6 @@
       "lat": 5.309253,
       "lon": -4.005581,
       "name": "Station Shell Boulevard Nanan Yamousso",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 2686213774,
-      "lat": 5.248182,
-      "lon": -3.950393,
-      "name": "Station Shell Boulevard Valéry Giscard d'Estaing",
       "type": "station",
       "country": "CI"
     },

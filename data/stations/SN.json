@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-06-14T06:59:35.058Z",
-  "count": 267,
+  "extracted": "2026-06-21T07:16:10.385Z",
+  "count": 266,
   "stations": [
     {
       "id": 1026518933,
@@ -317,17 +317,9 @@
     },
     {
       "id": 6192243765,
-      "lat": 14.697405,
-      "lon": -17.040643,
+      "lat": 14.697539,
+      "lon": -17.040677,
       "name": "Gare de Péage A 1 et A 2",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 7063797982,
-      "lat": 14.711386,
-      "lon": -17.096703,
-      "name": "Gare de péage de Toglou",
       "type": "station",
       "country": "SN"
     },

@@ -8,7 +8,7 @@
     12.42,
     3.85
   ],
-  "extracted": "2026-06-14T06:48:28.807Z",
+  "extracted": "2026-06-21T06:57:26.461Z",
   "count": 189,
   "stations": [
     {
@@ -79,7 +79,7 @@
       "id": 12950377682,
       "lat": 6.658581,
       "lon": 2.690439,
-      "name": "Banigbé-Gare",
+      "name": "Banigb��-Gare",
       "type": "station",
       "country": "BJ"
     },
