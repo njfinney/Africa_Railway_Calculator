@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-06-21T07:13:20.855Z",
-  "count": 746,
+  "extracted": "2026-06-28T06:41:27.203Z",
+  "count": 747,
   "stations": [
     {
       "id": 13047975346,
@@ -880,6 +880,14 @@
       "lat": 11.834709,
       "lon": 13.115723,
       "name": "Borno Express Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1532458012,
+      "lat": 11.8355,
+      "lon": 13.115421,
+      "name": "Borno Express Terminal",
       "type": "station",
       "country": "NG"
     },

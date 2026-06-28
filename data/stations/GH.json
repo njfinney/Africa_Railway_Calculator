@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-06-21T07:07:09.922Z",
-  "count": 736,
+  "extracted": "2026-06-28T06:33:14.597Z",
+  "count": 735,
   "stations": [
     {
       "id": 6968590872,
@@ -2224,14 +2224,6 @@
       "lat": 5.700038,
       "lon": -0.171987,
       "name": "Goil Filling Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 3818011857,
-      "lat": 4.904292,
-      "lon": -1.753621,
-      "name": "Goil Fuel Station",
       "type": "station",
       "country": "GH"
     },
