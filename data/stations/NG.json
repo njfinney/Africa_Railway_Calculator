@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-06-28T06:41:27.203Z",
-  "count": 747,
+  "extracted": "2026-07-05T06:27:48.690Z",
+  "count": 748,
   "stations": [
     {
       "id": 13047975346,
@@ -3552,6 +3552,14 @@
       "lat": 7.894559,
       "lon": 4.307371,
       "name": "Nigeria Police Station( EJIGBO)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 13978285035,
+      "lat": 9.035336,
+      "lon": 7.592889,
+      "name": "Nigerian Police Outstation Kabayi",
       "type": "station",
       "country": "NG"
     },

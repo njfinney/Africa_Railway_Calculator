@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-06-28T06:33:14.597Z",
+  "extracted": "2026-07-05T06:18:04.905Z",
   "count": 735,
   "stations": [
     {
@@ -4519,7 +4519,7 @@
       "id": 6949782698,
       "lat": 5.553149,
       "lon": -0.342348,
-      "name": "SCC Police station",
+      "name": "SCC Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -4879,7 +4879,7 @@
       "id": 2974330093,
       "lat": 5.686433,
       "lon": -0.273524,
-      "name": "Swl gas filling station",
+      "name": "SWL Gas Filling Station",
       "type": "station",
       "country": "GH"
     },
@@ -4935,7 +4935,7 @@
       "id": 13685713846,
       "lat": 10.138146,
       "lon": 0.291192,
-      "name": "Tamale station",
+      "name": "Tamale Station",
       "type": "station",
       "country": "GH"
     },

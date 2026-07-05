@@ -8,8 +8,8 @@
     12.42,
     3.85
   ],
-  "extracted": "2026-06-28T06:29:11.641Z",
-  "count": 189,
+  "extracted": "2026-07-05T06:11:33.871Z",
+  "count": 188,
   "stations": [
     {
       "id": 4434573038,
@@ -565,8 +565,8 @@
     },
     {
       "id": 6318542185,
-      "lat": 7.741669,
-      "lon": 2.186702,
+      "lat": 7.74186,
+      "lon": 2.186484,
       "name": "JNP fuel station",
       "type": "station",
       "country": "BJ"
@@ -648,14 +648,6 @@
       "lat": 10.618671,
       "lon": 1.271642,
       "name": "Minivan and Shared taxi station",
-      "type": "station",
-      "country": "BJ"
-    },
-    {
-      "id": 6318540787,
-      "lat": 7.770687,
-      "lon": 2.184247,
-      "name": "MRS fuel station",
       "type": "station",
       "country": "BJ"
     },
