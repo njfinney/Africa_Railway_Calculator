@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-07-05T06:28:51.925Z",
-  "count": 266,
+  "extracted": "2026-07-12T05:54:57.409Z",
+  "count": 267,
   "stations": [
     {
       "id": 1026518933,
@@ -432,6 +432,14 @@
       "lat": 14.42592,
       "lon": -16.971711,
       "name": "Gare routière",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 13997445201,
+      "lat": 12.486844,
+      "lon": -16.539209,
+      "name": "Gare Routière",
       "type": "station",
       "country": "SN"
     },

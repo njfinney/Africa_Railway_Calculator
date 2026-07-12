@@ -8,7 +8,7 @@
     25,
     4.27
   ],
-  "extracted": "2026-07-05T06:24:35.999Z",
+  "extracted": "2026-07-12T05:45:19.984Z",
   "count": 481,
   "stations": [
     {
@@ -684,18 +684,18 @@
       "country": "ML"
     },
     {
-      "id": 6341999058,
-      "lat": 11.304299,
-      "lon": -5.66002,
-      "name": "Gare routière",
+      "id": 5127562748,
+      "lat": 14.369781,
+      "lon": -8.20904,
+      "name": "gare routière",
       "type": "station",
       "country": "ML"
     },
     {
-      "id": 5127562748,
-      "lat": 14.369781,
-      "lon": -8.20904,
-      "name": "Gare Routière",
+      "id": 6341999058,
+      "lat": 11.304299,
+      "lon": -5.66002,
+      "name": "Gare routière",
       "type": "station",
       "country": "ML"
     },

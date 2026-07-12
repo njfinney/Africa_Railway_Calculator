@@ -8,7 +8,7 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-07-05T06:14:48.617Z",
+  "extracted": "2026-07-12T05:36:45.742Z",
   "count": 1213,
   "stations": [
     {
@@ -5252,6 +5252,14 @@
       "country": "CI"
     },
     {
+      "id": 745499674,
+      "lat": 5.298547,
+      "lon": -4.001097,
+      "name": "Gare wôrô-wôrô Grand carrefour de Koumasi",
+      "type": "station",
+      "country": "CI"
+    },
+    {
       "id": 745502443,
       "lat": 5.324669,
       "lon": -4.022138,
@@ -5264,14 +5272,6 @@
       "lat": 5.40369,
       "lon": -3.984287,
       "name": "Gare Woro-Woro Riviera",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 745499674,
-      "lat": 5.298547,
-      "lon": -4.001097,
-      "name": "Gare w��rô-wôrô Grand carrefour de Koumasi",
       "type": "station",
       "country": "CI"
     },

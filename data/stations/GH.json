@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-07-05T06:18:04.905Z",
-  "count": 735,
+  "extracted": "2026-07-12T05:38:32.885Z",
+  "count": 739,
   "stations": [
     {
       "id": 6968590872,
@@ -5084,19 +5084,19 @@
       "country": "GH"
     },
     {
+      "id": 9937916704,
+      "lat": 5.631063,
+      "lon": 0.00187,
+      "name": "Tema Harbour",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 2018321897,
       "lat": 5.631125,
       "lon": 0.001807,
       "name": "Tema Harbour Train Station",
       "type": "stop",
-      "country": "GH"
-    },
-    {
-      "id": 9937916704,
-      "lat": 5.631285,
-      "lon": 0.001808,
-      "name": "Tema Harbour Train Station",
-      "type": "station",
       "country": "GH"
     },
     {
@@ -5396,10 +5396,34 @@
       "country": "GH"
     },
     {
+      "id": 13997828097,
+      "lat": 5.620351,
+      "lon": -0.012265,
+      "name": "Unnamed (node 13997828097)",
+      "type": "buffer_stop",
+      "country": "GH"
+    },
+    {
+      "id": 13997828101,
+      "lat": 5.620472,
+      "lon": -0.012328,
+      "name": "Unnamed (node 13997828101)",
+      "type": "buffer_stop",
+      "country": "GH"
+    },
+    {
       "id": 1804043489,
       "lat": 5.304888,
       "lon": -1.995934,
       "name": "Unnamed (node 1804043489)",
+      "type": "stop",
+      "country": "GH"
+    },
+    {
+      "id": 1810235074,
+      "lat": 5.630933,
+      "lon": 0.001976,
+      "name": "Unnamed (node 1810235074)",
       "type": "stop",
       "country": "GH"
     },
@@ -5528,6 +5552,14 @@
       "lat": 5.739985,
       "lon": -0.357037,
       "name": "Unnamed (way 666945150)",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 666986845,
+      "lat": 5.631284,
+      "lon": 0.00183,
+      "name": "Unnamed (way 666986845)",
       "type": "station",
       "country": "GH"
     },
