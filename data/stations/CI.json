@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-07-12T05:36:45.742Z",
-  "count": 1213,
+  "extracted": "2026-07-19T05:32:56.049Z",
+  "count": 1212,
   "stations": [
     {
       "id": 9300351953,
@@ -5344,14 +5344,6 @@
       "lat": 5.314672,
       "lon": -4.018521,
       "name": "Gare-Sud",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 6206726285,
-      "lat": 6.388671,
-      "lon": -3.346019,
-      "name": "Gas & Oil station",
       "type": "station",
       "country": "CI"
     },

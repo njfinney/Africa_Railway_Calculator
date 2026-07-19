@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-07-12T05:38:32.885Z",
+  "extracted": "2026-07-19T05:39:16.188Z",
   "count": 739,
   "stations": [
     {
@@ -823,7 +823,7 @@
       "id": 7669779980,
       "lat": 6.665442,
       "lon": -1.512557,
-      "name": "Apeadu-Kokoben station",
+      "name": "Apeadu-Kokoben Station",
       "type": "station",
       "country": "GH"
     },
@@ -1871,7 +1871,7 @@
       "id": 12283286766,
       "lat": 5.681175,
       "lon": -0.338904,
-      "name": "engen fuel station doblo",
+      "name": "Engen Fuel Station Doblo",
       "type": "station",
       "country": "GH"
     },
