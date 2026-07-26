@@ -8,7 +8,7 @@
     15.08,
     2.4
   ],
-  "extracted": "2026-07-19T05:30:03.421Z",
+  "extracted": "2026-07-26T05:39:04.498Z",
   "count": 376,
   "stations": [
     {
@@ -710,7 +710,7 @@
     {
       "id": 958886055,
       "lat": 12.060544,
-      "lon": -2.227589,
+      "lon": -2.22756,
       "name": "Gare routière de Sabou",
       "type": "station",
       "country": "BF"

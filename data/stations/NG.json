@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-07-19T05:50:39.606Z",
-  "count": 760,
+  "extracted": "2026-07-26T05:54:39.361Z",
+  "count": 748,
   "stations": [
     {
       "id": 13047975346,
@@ -520,14 +520,6 @@
       "lat": 8.470306,
       "lon": 4.526865,
       "name": "Araoje Filling Station, Abdul Azeez Attah Road, Oko Erin, Nigeria",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 14024431582,
-      "lat": 9.034884,
-      "lon": 7.487923,
-      "name": "Area 8 Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -1132,14 +1124,6 @@
       "country": "NG"
     },
     {
-      "id": 14024430011,
-      "lat": 8.967434,
-      "lon": 7.351986,
-      "name": "Conoil Petrol Station Junction Akin Mabogunje Drive",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 3799232986,
       "lat": 7.751941,
       "lon": 4.521469,
@@ -1328,14 +1312,6 @@
       "lat": 5.551786,
       "lon": 5.912476,
       "name": "Eki 1 Global Energy Filling Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 14024431570,
-      "lat": 9.147636,
-      "lon": 7.324686,
-      "name": "El-Rufai Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -1908,14 +1884,6 @@
       "country": "NG"
     },
     {
-      "id": 14024431515,
-      "lat": 9.066619,
-      "lon": 7.442699,
-      "name": "Guo Logistics - Utako Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 2279518368,
       "lat": 12.165676,
       "lon": 6.671209,
@@ -2344,14 +2312,6 @@
       "lat": 7.556517,
       "lon": 4.204803,
       "name": "Iwo Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 14024431508,
-      "lat": 9.06487,
-      "lon": 7.434417,
-      "name": "Jabi Central Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -2940,14 +2900,6 @@
       "country": "NG"
     },
     {
-      "id": 14024431576,
-      "lat": 9.06801,
-      "lon": 7.402902,
-      "name": "Life Camp Bus Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 4180773164,
       "lat": 10.005957,
       "lon": 9.78201,
@@ -3308,14 +3260,6 @@
       "country": "NG"
     },
     {
-      "id": 14024431509,
-      "lat": 9.086398,
-      "lon": 7.457546,
-      "name": "Mobil Filling Station - Mabushi Abuja",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 9769449830,
       "lat": 9.920007,
       "lon": 8.889363,
@@ -3556,14 +3500,6 @@
       "country": "NG"
     },
     {
-      "id": 14024431502,
-      "lat": 8.957438,
-      "lon": 7.367204,
-      "name": "New Police Station Road Mpape",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 1923645503,
       "lat": 12.859464,
       "lon": 10.434894,
@@ -3632,14 +3568,6 @@
       "lat": 6.45798,
       "lon": 7.525389,
       "name": "Nipco Filling Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 14024431591,
-      "lat": 9.056011,
-      "lon": 7.485884,
-      "name": "Nnpc Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -4348,14 +4276,6 @@
       "country": "NG"
     },
     {
-      "id": 14019345799,
-      "lat": 8.955189,
-      "lon": 7.690543,
-      "name": "Police Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 9796329426,
       "lat": 9.942291,
       "lon": 8.877735,
@@ -4792,14 +4712,6 @@
       "lat": 6.328992,
       "lon": 5.591175,
       "name": "Tanyi Filling Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 14024430017,
-      "lat": 9.008705,
-      "lon": 7.373122,
-      "name": "Tcn Sub Station, Zhidu Junction",
       "type": "station",
       "country": "NG"
     },
@@ -5993,14 +5905,6 @@
       "lon": 7.3949,
       "name": "Wupa",
       "type": "halt",
-      "country": "NG"
-    },
-    {
-      "id": 14024431573,
-      "lat": 9.06605,
-      "lon": 7.464929,
-      "name": "Wuse Bus Station",
-      "type": "station",
       "country": "NG"
     },
     {

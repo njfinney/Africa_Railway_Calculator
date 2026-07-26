@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-07-19T05:40:23.687Z",
-  "count": 335,
+  "extracted": "2026-07-26T05:46:05.440Z",
+  "count": 334,
   "stations": [
     {
       "id": 5966756331,
@@ -2472,14 +2472,6 @@
       "lat": 10.371087,
       "lon": -12.085658,
       "name": "Unnamed (node 3076938268)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3077192524,
-      "lat": 9.94008,
-      "lon": -13.062779,
-      "name": "Unnamed (node 3077192524)",
       "type": "station",
       "country": "GN"
     },

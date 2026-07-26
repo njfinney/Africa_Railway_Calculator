@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-07-19T05:39:16.188Z",
-  "count": 739,
+  "extracted": "2026-07-26T05:44:52.817Z",
+  "count": 740,
   "stations": [
     {
       "id": 6968590872,
@@ -5052,6 +5052,14 @@
       "country": "GH"
     },
     {
+      "id": 1543170632,
+      "lat": 6.700012,
+      "lon": -1.622676,
+      "name": "Techiman/Sunyani/Kintampo Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 9472263265,
       "lat": 5.751188,
       "lon": -0.184057,
@@ -5623,7 +5631,7 @@
       "id": 6547667677,
       "lat": 5.115111,
       "lon": -1.281716,
-      "name": "Valco Taxi station",
+      "name": "Valco Taxi Station",
       "type": "station",
       "country": "GH"
     },
@@ -5639,7 +5647,7 @@
       "id": 10295243309,
       "lat": 5.110572,
       "lon": -1.247939,
-      "name": "Vikandy - cigarettes wholesaler",
+      "name": "Vikandy - Cigarettes Wholesaler",
       "type": "station",
       "country": "GH"
     },
