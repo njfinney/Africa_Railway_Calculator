@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-07-26T05:44:52.817Z",
-  "count": 740,
+  "extracted": "2026-08-02T05:38:48.344Z",
+  "count": 739,
   "stations": [
     {
       "id": 6968590872,
@@ -2596,14 +2596,6 @@
       "country": "GH"
     },
     {
-      "id": 8573162142,
-      "lat": 6.670128,
-      "lon": 0.353108,
-      "name": "King's Filling Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 1400185060,
       "lat": 5.554883,
       "lon": -0.172282,
@@ -4573,8 +4565,8 @@
     },
     {
       "id": 390130676,
-      "lat": 4.937742,
-      "lon": -1.710236,
+      "lat": 4.937717,
+      "lon": -1.71048,
       "name": "Sekondi",
       "type": "station",
       "country": "GH"
@@ -4703,7 +4695,7 @@
       "id": 7181053385,
       "lat": 8.222815,
       "lon": -0.669689,
-      "name": "Star oil fuel stations",
+      "name": "Star Oil Fuel Stations",
       "type": "station",
       "country": "GH"
     },

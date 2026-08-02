@@ -8,8 +8,8 @@
     13.83,
     -13.8
   ],
-  "extracted": "2026-07-26T05:43:57.672Z",
-  "count": 49,
+  "extracted": "2026-08-02T05:37:49.927Z",
+  "count": 48,
   "stations": [
     {
       "id": 6979290785,
@@ -240,14 +240,6 @@
       "lat": 13.280662,
       "lon": -16.591497,
       "name": "Mandina Ba Police Station",
-      "type": "station",
-      "country": "GM"
-    },
-    {
-      "id": 6299160389,
-      "lat": 13.444743,
-      "lon": -16.703741,
-      "name": "Manjai Petrol Station",
       "type": "station",
       "country": "GM"
     },

@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-07-26T05:41:58.711Z",
-  "count": 1212,
+  "extracted": "2026-08-02T05:37:02.594Z",
+  "count": 1213,
   "stations": [
     {
       "id": 9300351953,
@@ -3655,7 +3655,7 @@
       "id": 7966767633,
       "lat": 5.309815,
       "lon": -4.076137,
-      "name": "Gare Marché / Oulaï",
+      "name": "Gare Marché/ Oulaï",
       "type": "station",
       "country": "CI"
     },
@@ -3663,7 +3663,7 @@
       "id": 10600864024,
       "lat": 5.309885,
       "lon": -4.076134,
-      "name": "Gare Marché / Oulaï",
+      "name": "Gare Marché/ Oulaï",
       "type": "station",
       "country": "CI"
     },
@@ -5344,6 +5344,14 @@
       "lat": 5.314672,
       "lon": -4.018521,
       "name": "Gare-Sud",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 6206726285,
+      "lat": 6.388671,
+      "lon": -3.346019,
+      "name": "Gas & Oil station",
       "type": "station",
       "country": "CI"
     },

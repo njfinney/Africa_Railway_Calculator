@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-07-26T05:54:39.361Z",
-  "count": 748,
+  "extracted": "2026-08-02T05:48:11.205Z",
+  "count": 761,
   "stations": [
     {
       "id": 13047975346,
@@ -524,6 +524,14 @@
       "country": "NG"
     },
     {
+      "id": 14024364192,
+      "lat": 9.034884,
+      "lon": 7.487923,
+      "name": "Area 8 Bus Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 13047975285,
       "lat": 8.503274,
       "lon": 4.625856,
@@ -972,6 +980,14 @@
       "country": "NG"
     },
     {
+      "id": 1217215362,
+      "lat": 9.949061,
+      "lon": 8.890865,
+      "name": "Bus Park",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 13047975268,
       "lat": 8.48489,
       "lon": 4.562458,
@@ -1120,6 +1136,14 @@
       "lat": 6.298082,
       "lon": 5.631011,
       "name": "Conoil Petrol Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14024356421,
+      "lat": 8.967434,
+      "lon": 7.351986,
+      "name": "Conoil Petrol Station Junction Akin Mabogunje Drive",
       "type": "station",
       "country": "NG"
     },
@@ -1312,6 +1336,14 @@
       "lat": 5.551786,
       "lon": 5.912476,
       "name": "Eki 1 Global Energy Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14024364180,
+      "lat": 9.147636,
+      "lon": 7.324686,
+      "name": "El-Rufai Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -1884,6 +1916,14 @@
       "country": "NG"
     },
     {
+      "id": 14024431515,
+      "lat": 9.066619,
+      "lon": 7.442699,
+      "name": "Guo Logistics - Utako Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 2279518368,
       "lat": 12.165676,
       "lon": 6.671209,
@@ -2312,6 +2352,14 @@
       "lat": 7.556517,
       "lon": 4.204803,
       "name": "Iwo Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14024431508,
+      "lat": 9.06487,
+      "lon": 7.434417,
+      "name": "Jabi Central Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -2900,6 +2948,14 @@
       "country": "NG"
     },
     {
+      "id": 14024364186,
+      "lat": 9.06801,
+      "lon": 7.402902,
+      "name": "Life Camp Bus Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 4180773164,
       "lat": 10.005957,
       "lon": 9.78201,
@@ -3260,6 +3316,14 @@
       "country": "NG"
     },
     {
+      "id": 14024364119,
+      "lat": 9.086398,
+      "lon": 7.457546,
+      "name": "Mobil Filling Station - Mabushi Abuja",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 9769449830,
       "lat": 9.920007,
       "lon": 8.889363,
@@ -3453,16 +3517,16 @@
     },
     {
       "id": 6288801277,
-      "lat": 6.474559,
-      "lon": 3.368737,
+      "lat": 6.474611,
+      "lon": 3.368733,
       "name": "National Theatre",
       "type": "stop",
       "country": "NG"
     },
     {
       "id": 10777382247,
-      "lat": 6.474679,
-      "lon": 3.36877,
+      "lat": 6.474784,
+      "lon": 3.368847,
       "name": "National Theatre",
       "type": "station",
       "country": "NG"
@@ -3496,6 +3560,14 @@
       "lat": 5.552384,
       "lon": 5.744102,
       "name": "New Citizen Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14024364112,
+      "lat": 8.957438,
+      "lon": 7.367204,
+      "name": "New Police Station Road Mpape",
       "type": "station",
       "country": "NG"
     },
@@ -3568,6 +3640,14 @@
       "lat": 6.45798,
       "lon": 7.525389,
       "name": "Nipco Filling Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14024364201,
+      "lat": 9.056011,
+      "lon": 7.485884,
+      "name": "Nnpc Bus Station",
       "type": "station",
       "country": "NG"
     },
@@ -4276,6 +4356,14 @@
       "country": "NG"
     },
     {
+      "id": 14019345799,
+      "lat": 8.955189,
+      "lon": 7.690543,
+      "name": "Police Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 9796329426,
       "lat": 9.942291,
       "lon": 8.877735,
@@ -4716,6 +4804,14 @@
       "country": "NG"
     },
     {
+      "id": 14024356427,
+      "lat": 9.008705,
+      "lon": 7.373122,
+      "name": "Tcn Sub Station, Zhidu Junction",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 5427746124,
       "lat": 5.564637,
       "lon": 5.763152,
@@ -5045,8 +5141,8 @@
     },
     {
       "id": 11733991473,
-      "lat": 9.967341,
-      "lon": 8.880377,
+      "lat": 9.967322,
+      "lon": 8.880225,
       "name": "university of weather station",
       "type": "station",
       "country": "NG"
@@ -5660,6 +5756,14 @@
       "country": "NG"
     },
     {
+      "id": 1545832030,
+      "lat": 7.853864,
+      "lon": 6.684403,
+      "name": "Unnamed (way 1545832030)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 161134222,
       "lat": 10.491871,
       "lon": 7.416283,
@@ -5712,14 +5816,6 @@
       "lat": 9.030386,
       "lon": 7.422753,
       "name": "Unnamed (way 607109948)",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 662451287,
-      "lat": 6.474549,
-      "lon": 3.368723,
-      "name": "Unnamed (way 662451287)",
       "type": "station",
       "country": "NG"
     },
@@ -5905,6 +6001,14 @@
       "lon": 7.3949,
       "name": "Wupa",
       "type": "halt",
+      "country": "NG"
+    },
+    {
+      "id": 14024364183,
+      "lat": 9.06605,
+      "lon": 7.464929,
+      "name": "Wuse Bus Station",
+      "type": "station",
       "country": "NG"
     },
     {
