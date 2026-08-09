@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-08-02T05:52:27.427Z",
+  "generated": "2026-08-09T04:28:56.000Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -490,7 +490,7 @@
       "stationCount": 188,
       "railwayCount": 535,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "BF": {
       "name": "Burkina Faso",
@@ -504,7 +504,7 @@
       "stationCount": 376,
       "railwayCount": 626,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "CI": {
       "name": "Côte d'Ivoire",
@@ -515,10 +515,10 @@
         10.74,
         -2.49
       ],
-      "stationCount": 1213,
+      "stationCount": 1214,
       "railwayCount": 572,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "GM": {
       "name": "Gambia",
@@ -532,7 +532,7 @@
       "stationCount": 48,
       "railwayCount": 5,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "GH": {
       "name": "Ghana",
@@ -543,10 +543,10 @@
         11.17,
         1.19
       ],
-      "stationCount": 739,
-      "railwayCount": 321,
+      "stationCount": 0,
+      "railwayCount": 332,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "GN": {
       "name": "Guinea",
@@ -558,9 +558,9 @@
         -7.64
       ],
       "stationCount": 334,
-      "railwayCount": 1271,
+      "railwayCount": 1272,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "GW": {
       "name": "Guinea-Bissau",
@@ -574,7 +574,7 @@
       "stationCount": 2,
       "railwayCount": 122,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "LR": {
       "name": "Liberia",
@@ -588,7 +588,7 @@
       "stationCount": 140,
       "railwayCount": 88,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "ML": {
       "name": "Mali",
@@ -602,7 +602,7 @@
       "stationCount": 481,
       "railwayCount": 1244,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "MR": {
       "name": "Mauritania",
@@ -616,7 +616,7 @@
       "stationCount": 62,
       "railwayCount": 346,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "NE": {
       "name": "Niger",
@@ -630,7 +630,7 @@
       "stationCount": 363,
       "railwayCount": 169,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "NG": {
       "name": "Nigeria",
@@ -644,7 +644,7 @@
       "stationCount": 761,
       "railwayCount": 1932,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "SN": {
       "name": "Senegal",
@@ -655,10 +655,10 @@
         16.69,
         -11.36
       ],
-      "stationCount": 267,
+      "stationCount": 270,
       "railwayCount": 448,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "SL": {
       "name": "Sierra Leone",
@@ -670,9 +670,9 @@
         -10.28
       ],
       "stationCount": 74,
-      "railwayCount": 253,
+      "railwayCount": 267,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     },
     "TG": {
       "name": "Togo",
@@ -686,7 +686,7 @@
       "stationCount": 176,
       "railwayCount": 313,
       "hasData": true,
-      "lastUpdated": "2026-08-02T05:51:44.855Z"
+      "lastUpdated": "2026-08-09T04:28:27.857Z"
     }
   }
 }

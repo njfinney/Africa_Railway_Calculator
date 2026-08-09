@@ -8,7 +8,7 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-08-02T05:40:13.775Z",
+  "extracted": "2026-08-09T03:59:09.622Z",
   "count": 334,
   "stations": [
     {
@@ -184,14 +184,6 @@
       "lat": 9.883173,
       "lon": -13.111418,
       "name": "Debele",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 13921182917,
-      "lat": 10.468032,
-      "lon": -9.436445,
-      "name": "Diabalani gare",
       "type": "station",
       "country": "GN"
     },
@@ -2472,6 +2464,14 @@
       "lat": 10.371087,
       "lon": -12.085658,
       "name": "Unnamed (node 3076938268)",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 3077192524,
+      "lat": 9.94008,
+      "lon": -13.062779,
+      "name": "Unnamed (node 3077192524)",
       "type": "station",
       "country": "GN"
     },

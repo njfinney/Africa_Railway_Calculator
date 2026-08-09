@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-08-02T05:37:02.594Z",
-  "count": 1213,
+  "extracted": "2026-08-09T03:51:32.439Z",
+  "count": 1214,
   "stations": [
     {
       "id": 9300351953,
@@ -556,17 +556,17 @@
       "country": "CI"
     },
     {
-      "id": 5973449429,
-      "lat": 5.426933,
-      "lon": -4.021311,
-      "name": "Boulangerie de la Gare",
+      "id": 9125966143,
+      "lat": 8.452505,
+      "lon": -3.472578,
+      "name": "Boulangerie de la gare",
       "type": "station",
       "country": "CI"
     },
     {
-      "id": 9125966143,
-      "lat": 8.452505,
-      "lon": -3.472578,
+      "id": 5973449429,
+      "lat": 5.426933,
+      "lon": -4.021311,
       "name": "Boulangerie de la Gare",
       "type": "station",
       "country": "CI"
@@ -861,8 +861,8 @@
     },
     {
       "id": 6176460486,
-      "lat": 8.951967,
-      "lon": -6.258009,
+      "lat": 8.95186,
+      "lon": -6.25787,
       "name": "Fuel Station",
       "type": "station",
       "country": "CI"
@@ -4956,6 +4956,14 @@
       "country": "CI"
     },
     {
+      "id": 273681798,
+      "lat": 5.405238,
+      "lon": -6.553648,
+      "name": "gare UTB",
+      "type": "station",
+      "country": "CI"
+    },
+    {
       "id": 7101374029,
       "lat": 6.482431,
       "lon": -6.585579,
@@ -5023,14 +5031,6 @@
       "id": 12023023574,
       "lat": 5.832941,
       "lon": -5.364667,
-      "name": "Gare UTB",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 273681798,
-      "lat": 5.405238,
-      "lon": -6.553648,
       "name": "Gare UTB",
       "type": "station",
       "country": "CI"
@@ -8232,6 +8232,14 @@
       "lat": 5.309253,
       "lon": -4.005581,
       "name": "Station Shell Boulevard Nanan Yamousso",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 2686213774,
+      "lat": 5.248182,
+      "lon": -3.950393,
+      "name": "Station Shell Boulevard Valéry Giscard d'Estaing",
       "type": "station",
       "country": "CI"
     },
