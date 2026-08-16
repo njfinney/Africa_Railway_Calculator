@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-08-09T03:59:09.622Z",
-  "count": 334,
+  "extracted": "2026-08-16T03:19:59.767Z",
+  "count": 335,
   "stations": [
     {
       "id": 5966756331,
@@ -184,6 +184,14 @@
       "lat": 9.883173,
       "lon": -13.111418,
       "name": "Debele",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 13921182917,
+      "lat": 10.468032,
+      "lon": -9.436445,
+      "name": "Diabalani gare",
       "type": "station",
       "country": "GN"
     },
@@ -464,6 +472,14 @@
       "lat": 7.757254,
       "lon": -8.804772,
       "name": "Gare ST Soumahoro Transport",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 14093045298,
+      "lat": 7.639748,
+      "lon": -8.7974,
+      "name": "Gare taxi moto de Bounouma centre",
       "type": "station",
       "country": "GN"
     },
@@ -2464,14 +2480,6 @@
       "lat": 10.371087,
       "lon": -12.085658,
       "name": "Unnamed (node 3076938268)",
-      "type": "station",
-      "country": "GN"
-    },
-    {
-      "id": 3077192524,
-      "lat": 9.94008,
-      "lon": -13.062779,
-      "name": "Unnamed (node 3077192524)",
       "type": "station",
       "country": "GN"
     },

@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-08-09T04:14:02.105Z",
-  "count": 761,
+  "extracted": "2026-08-16T03:35:27.842Z",
+  "count": 763,
   "stations": [
     {
       "id": 13047975346,
@@ -2556,6 +2556,14 @@
       "country": "NG"
     },
     {
+      "id": 14096951102,
+      "lat": 12.96313,
+      "lon": 8.408426,
+      "name": "Kagare",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 6146209621,
       "lat": 9.124647,
       "lon": 7.292179,
@@ -5096,6 +5104,14 @@
       "lat": 6.445276,
       "lon": 7.496321,
       "name": "UBA bank 10 Station Road",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14092031010,
+      "lat": 4.997754,
+      "lon": 8.335008,
+      "name": "Udddy King Petol Station",
       "type": "station",
       "country": "NG"
     },

@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-08-09T04:04:45.465Z",
-  "count": 481,
+  "extracted": "2026-08-16T03:25:44.125Z",
+  "count": 482,
   "stations": [
     {
       "id": 2150752711,
@@ -345,6 +345,14 @@
       "lon": -10.498496,
       "name": "Dioubéba",
       "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 14084570787,
+      "lat": 12.846361,
+      "lon": -8.334646,
+      "name": "Djinina",
+      "type": "halt",
       "country": "ML"
     },
     {

@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-08-09T04:22:28.176Z",
-  "count": 270,
+  "extracted": "2026-08-16T03:36:38.097Z",
+  "count": 267,
   "stations": [
     {
       "id": 1026518933,
@@ -96,46 +96,6 @@
       "lat": 14.700348,
       "lon": -17.441652,
       "name": "Colobane",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 8231182164,
-      "lat": 14.676729,
-      "lon": -17.433825,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889219,
-      "lat": 14.676768,
-      "lon": -17.43374,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889220,
-      "lat": 14.676664,
-      "lon": -17.433952,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 9373889221,
-      "lat": 14.676711,
-      "lon": -17.433861,
-      "name": "Dakar",
-      "type": "stop",
-      "country": "SN"
-    },
-    {
-      "id": 10245379100,
-      "lat": 14.676585,
-      "lon": -17.433861,
-      "name": "Dakar",
       "type": "station",
       "country": "SN"
     },
@@ -316,6 +276,14 @@
       "country": "SN"
     },
     {
+      "id": 1016285866,
+      "lat": 14.676452,
+      "lon": -17.433747,
+      "name": "Gare de Dakar",
+      "type": "station",
+      "country": "SN"
+    },
+    {
       "id": 340239695,
       "lat": 14.106344,
       "lon": -15.547711,
@@ -349,17 +317,9 @@
     },
     {
       "id": 6192243765,
-      "lat": 14.697405,
-      "lon": -17.040643,
+      "lat": 14.697539,
+      "lon": -17.040677,
       "name": "Gare de Péage A 1 et A 2",
-      "type": "station",
-      "country": "SN"
-    },
-    {
-      "id": 7063797982,
-      "lat": 14.711386,
-      "lon": -17.096703,
-      "name": "Gare de péage de Toglou",
       "type": "station",
       "country": "SN"
     },
@@ -472,6 +432,14 @@
       "lat": 14.42592,
       "lon": -16.971711,
       "name": "Gare routière",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 13997445201,
+      "lat": 12.486844,
+      "lon": -16.539209,
+      "name": "Gare Routière",
       "type": "station",
       "country": "SN"
     },
@@ -2169,6 +2137,14 @@
       "lon": -17.356529,
       "name": "Yeumbeul",
       "type": "stop",
+      "country": "SN"
+    },
+    {
+      "id": 13859255781,
+      "lat": 14.764761,
+      "lon": -17.356246,
+      "name": "Yeumbeul",
+      "type": "station",
       "country": "SN"
     }
   ]

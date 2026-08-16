@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-08-09T03:51:32.439Z",
-  "count": 1214,
+  "extracted": "2026-08-16T03:09:12.732Z",
+  "count": 1212,
   "stations": [
     {
       "id": 9300351953,
@@ -556,17 +556,17 @@
       "country": "CI"
     },
     {
-      "id": 9125966143,
-      "lat": 8.452505,
-      "lon": -3.472578,
-      "name": "Boulangerie de la gare",
+      "id": 5973449429,
+      "lat": 5.426933,
+      "lon": -4.021311,
+      "name": "Boulangerie de la Gare",
       "type": "station",
       "country": "CI"
     },
     {
-      "id": 5973449429,
-      "lat": 5.426933,
-      "lon": -4.021311,
+      "id": 9125966143,
+      "lat": 8.452505,
+      "lon": -3.472578,
       "name": "Boulangerie de la Gare",
       "type": "station",
       "country": "CI"
@@ -861,8 +861,8 @@
     },
     {
       "id": 6176460486,
-      "lat": 8.95186,
-      "lon": -6.25787,
+      "lat": 8.951967,
+      "lon": -6.258009,
       "name": "Fuel Station",
       "type": "station",
       "country": "CI"
@@ -3655,7 +3655,7 @@
       "id": 7966767633,
       "lat": 5.309815,
       "lon": -4.076137,
-      "name": "Gare Marché/ Oulaï",
+      "name": "Gare Marché / Oulaï",
       "type": "station",
       "country": "CI"
     },
@@ -3663,7 +3663,7 @@
       "id": 10600864024,
       "lat": 5.309885,
       "lon": -4.076134,
-      "name": "Gare Marché/ Oulaï",
+      "name": "Gare Marché / Oulaï",
       "type": "station",
       "country": "CI"
     },
@@ -4956,14 +4956,6 @@
       "country": "CI"
     },
     {
-      "id": 273681798,
-      "lat": 5.405238,
-      "lon": -6.553648,
-      "name": "gare UTB",
-      "type": "station",
-      "country": "CI"
-    },
-    {
       "id": 7101374029,
       "lat": 6.482431,
       "lon": -6.585579,
@@ -5031,6 +5023,14 @@
       "id": 12023023574,
       "lat": 5.832941,
       "lon": -5.364667,
+      "name": "Gare UTB",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 273681798,
+      "lat": 5.405238,
+      "lon": -6.553648,
       "name": "Gare UTB",
       "type": "station",
       "country": "CI"
@@ -5344,14 +5344,6 @@
       "lat": 5.314672,
       "lon": -4.018521,
       "name": "Gare-Sud",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 6206726285,
-      "lat": 6.388671,
-      "lon": -3.346019,
-      "name": "Gas & Oil station",
       "type": "station",
       "country": "CI"
     },
@@ -8236,14 +8228,6 @@
       "country": "CI"
     },
     {
-      "id": 2686213774,
-      "lat": 5.248182,
-      "lon": -3.950393,
-      "name": "Station Shell Boulevard Valéry Giscard d'Estaing",
-      "type": "station",
-      "country": "CI"
-    },
-    {
       "id": 6909707233,
       "lat": 5.35611,
       "lon": -4.08511,
@@ -9598,7 +9582,7 @@
     {
       "id": 325761936,
       "lat": 5.353708,
-      "lon": -4.011448,
+      "lon": -4.011433,
       "name": "Unnamed (way 325761936)",
       "type": "station",
       "country": "CI"
