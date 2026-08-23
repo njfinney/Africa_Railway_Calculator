@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-08-16T03:25:44.125Z",
-  "count": 482,
+  "extracted": "2026-08-23T03:16:25.228Z",
+  "count": 484,
   "stations": [
     {
       "id": 2150752711,
@@ -333,8 +333,16 @@
     },
     {
       "id": 10748906807,
-      "lat": 12.805148,
-      "lon": -8.245341,
+      "lat": 12.804968,
+      "lon": -8.245622,
+      "name": "Dio Gare",
+      "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 318753163,
+      "lat": 12.805229,
+      "lon": -8.243683,
       "name": "Dio Gare",
       "type": "station",
       "country": "ML"
@@ -623,7 +631,7 @@
       "id": 5162842243,
       "lat": 13.431764,
       "lon": -6.253178,
-      "name": "Gare gros bois de Ségou",
+      "name": "Gare gros bois de S��gou",
       "type": "station",
       "country": "ML"
     },
@@ -3761,6 +3769,14 @@
       "lon": -7.995733,
       "name": "Unnamed (node 1050215922)",
       "type": "buffer_stop",
+      "country": "ML"
+    },
+    {
+      "id": 14099709046,
+      "lat": 12.805144,
+      "lon": -8.243711,
+      "name": "Unnamed (node 14099709046)",
+      "type": "stop",
       "country": "ML"
     },
     {
