@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-08-23T03:12:33.022Z",
-  "count": 736,
+  "extracted": "2026-08-30T08:13:56.763Z",
+  "count": 737,
   "stations": [
     {
       "id": 6968590872,
@@ -2632,6 +2632,14 @@
       "lat": 5.650962,
       "lon": -0.007703,
       "name": "Kingdom Books Stationery",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 6294993076,
+      "lat": 5.660701,
+      "lon": -0.05175,
+      "name": "Klagon Police Station",
       "type": "station",
       "country": "GH"
     },

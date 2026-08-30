@@ -8,7 +8,7 @@
     25,
     4.27
   ],
-  "extracted": "2026-08-23T03:16:25.228Z",
+  "extracted": "2026-08-30T08:17:14.073Z",
   "count": 484,
   "stations": [
     {
@@ -631,7 +631,7 @@
       "id": 5162842243,
       "lat": 13.431764,
       "lon": -6.253178,
-      "name": "Gare gros bois de S��gou",
+      "name": "Gare gros bois de Ségou",
       "type": "station",
       "country": "ML"
     },

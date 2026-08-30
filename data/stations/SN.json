@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-08-23T03:21:26.183Z",
-  "count": 267,
+  "extracted": "2026-08-30T08:22:03.319Z",
+  "count": 268,
   "stations": [
     {
       "id": 1026518933,
@@ -1672,6 +1672,14 @@
       "lat": 14.756091,
       "lon": -17.429248,
       "name": "Station Total Case Bi",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 14133522201,
+      "lat": 14.721142,
+      "lon": -17.447522,
+      "name": "Station TotalEnergie castors",
       "type": "station",
       "country": "SN"
     },
