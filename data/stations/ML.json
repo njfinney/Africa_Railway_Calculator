@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-08-30T08:17:14.073Z",
-  "count": 484,
+  "extracted": "2026-09-06T07:15:20.145Z",
+  "count": 487,
   "stations": [
     {
       "id": 2150752711,
@@ -1532,6 +1532,14 @@
       "country": "ML"
     },
     {
+      "id": 14136504817,
+      "lat": 12.926155,
+      "lon": -6.748248,
+      "name": "Station BCF",
+      "type": "station",
+      "country": "ML"
+    },
+    {
       "id": 5237663934,
       "lat": 13.565465,
       "lon": -8.034348,
@@ -1848,6 +1856,14 @@
       "lat": 14.082698,
       "lon": -3.511967,
       "name": "Station DJIMDE",
+      "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 14136504819,
+      "lat": 12.92501,
+      "lon": -6.74932,
+      "name": "Station Doumbia et fils",
       "type": "station",
       "country": "ML"
     },
@@ -2464,6 +2480,14 @@
       "lat": 14.447838,
       "lon": -11.44378,
       "name": "Station Sad Oil",
+      "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 14138926583,
+      "lat": 12.920627,
+      "lon": -6.757884,
+      "name": "Station Salif Coulibaly & Fils",
       "type": "station",
       "country": "ML"
     },

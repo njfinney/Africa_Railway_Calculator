@@ -8,8 +8,8 @@
     11.14,
     1.81
   ],
-  "extracted": "2026-08-30T08:23:19.127Z",
-  "count": 176,
+  "extracted": "2026-09-06T07:22:38.279Z",
+  "count": 177,
   "stations": [
     {
       "id": 8791863125,
@@ -272,6 +272,14 @@
       "lat": 10.354318,
       "lon": 0.469496,
       "name": "Gare de Mango",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 14144884803,
+      "lat": 9.549321,
+      "lon": 1.197581,
+      "name": "gare de minivan ( faite attention il esseyerons de vous arnaquer et sont très agressif ))",
       "type": "station",
       "country": "TG"
     },

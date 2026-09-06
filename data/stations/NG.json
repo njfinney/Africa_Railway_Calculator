@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-08-30T08:20:47.696Z",
-  "count": 763,
+  "extracted": "2026-09-06T07:19:53.247Z",
+  "count": 760,
   "stations": [
     {
       "id": 13047975346,
@@ -975,14 +975,6 @@
       "id": 670770746,
       "lat": 5.828045,
       "lon": 7.395389,
-      "name": "Bus Park",
-      "type": "station",
-      "country": "NG"
-    },
-    {
-      "id": 1217215362,
-      "lat": 9.949061,
-      "lon": 8.890865,
       "name": "Bus Park",
       "type": "station",
       "country": "NG"
@@ -2556,14 +2548,6 @@
       "country": "NG"
     },
     {
-      "id": 14096951102,
-      "lat": 12.96313,
-      "lon": 8.408426,
-      "name": "Kagare",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 6146209621,
       "lat": 9.124647,
       "lon": 7.292179,
@@ -3525,16 +3509,16 @@
     },
     {
       "id": 6288801277,
-      "lat": 6.474611,
-      "lon": 3.368733,
+      "lat": 6.474559,
+      "lon": 3.368737,
       "name": "National Theatre",
       "type": "stop",
       "country": "NG"
     },
     {
       "id": 10777382247,
-      "lat": 6.474784,
-      "lon": 3.368847,
+      "lat": 6.474679,
+      "lon": 3.36877,
       "name": "National Theatre",
       "type": "station",
       "country": "NG"
@@ -5108,14 +5092,6 @@
       "country": "NG"
     },
     {
-      "id": 14092031010,
-      "lat": 4.997754,
-      "lon": 8.335008,
-      "name": "Udddy King Petol Station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 6252091692,
       "lat": 5.468535,
       "lon": 5.811574,
@@ -5157,8 +5133,8 @@
     },
     {
       "id": 11733991473,
-      "lat": 9.967322,
-      "lon": 8.880225,
+      "lat": 9.967341,
+      "lon": 8.880377,
       "name": "university of weather station",
       "type": "station",
       "country": "NG"
@@ -5772,14 +5748,6 @@
       "country": "NG"
     },
     {
-      "id": 1545832030,
-      "lat": 7.853864,
-      "lon": 6.684403,
-      "name": "Unnamed (way 1545832030)",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 161134222,
       "lat": 10.491871,
       "lon": 7.416283,
@@ -5832,6 +5800,14 @@
       "lat": 9.030386,
       "lon": 7.422753,
       "name": "Unnamed (way 607109948)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 662451287,
+      "lat": 6.474549,
+      "lon": 3.368723,
+      "name": "Unnamed (way 662451287)",
       "type": "station",
       "country": "NG"
     },

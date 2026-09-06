@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-08-30T08:13:56.763Z",
+  "extracted": "2026-09-06T07:09:36.926Z",
   "count": 737,
   "stations": [
     {
@@ -208,6 +208,14 @@
       "lat": 5.58152,
       "lon": -0.20887,
       "name": "Accra New Town Taxi Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 6102719268,
+      "lat": 8.852955,
+      "lon": 0.057582,
+      "name": "Accra station",
       "type": "station",
       "country": "GH"
     },
@@ -5264,14 +5272,6 @@
       "lat": 9.444652,
       "lon": -0.006219,
       "name": "Trotro station Tamale",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6102719268,
-      "lat": 8.852955,
-      "lon": 0.057582,
-      "name": "Trotro station to accra",
       "type": "station",
       "country": "GH"
     },
