@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-09-06T07:09:36.926Z",
+  "extracted": "2026-09-13T07:27:22.656Z",
   "count": 737,
   "stations": [
     {
@@ -1837,8 +1837,8 @@
     },
     {
       "id": 290460785,
-      "lat": 6.84979,
-      "lon": -1.395966,
+      "lat": 6.849791,
+      "lon": -1.395974,
       "name": "Effiduasi Lorry Station",
       "type": "station",
       "country": "GH"
@@ -2855,7 +2855,7 @@
       "id": 6244833585,
       "lat": 6.618658,
       "lon": 0.469787,
-      "name": "Kpeve taxi station",
+      "name": "Kpeve Taxi Station",
       "type": "station",
       "country": "GH"
     },

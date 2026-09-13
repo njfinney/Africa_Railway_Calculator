@@ -8,9 +8,25 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-09-06T07:20:59.420Z",
+  "extracted": "2026-09-13T07:44:31.259Z",
   "count": 268,
   "stations": [
+    {
+      "id": 14160412786,
+      "lat": 14.67227,
+      "lon": -17.064555,
+      "name": "Aérogare Blaise Diagne",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 14160412785,
+      "lat": 14.67333,
+      "lon": -17.064303,
+      "name": "AIBD",
+      "type": "stop",
+      "country": "SN"
+    },
     {
       "id": 1026518933,
       "lat": 14.74462,
@@ -1941,8 +1957,8 @@
     },
     {
       "id": 6216013168,
-      "lat": 14.672561,
-      "lon": -17.064318,
+      "lat": 14.672564,
+      "lon": -17.0643,
       "name": "Unnamed (node 6216013168)",
       "type": "buffer_stop",
       "country": "SN"
@@ -2024,22 +2040,6 @@
       "lat": 14.764449,
       "lon": -17.360929,
       "name": "Unnamed (node 7574999072)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7576143908,
-      "lat": 14.72154,
-      "lon": -17.187715,
-      "name": "Unnamed (node 7576143908)",
-      "type": "buffer_stop",
-      "country": "SN"
-    },
-    {
-      "id": 7576143923,
-      "lat": 14.721571,
-      "lon": -17.187728,
-      "name": "Unnamed (node 7576143923)",
       "type": "buffer_stop",
       "country": "SN"
     },
