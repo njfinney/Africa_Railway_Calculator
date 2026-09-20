@@ -8,7 +8,7 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-09-13T07:27:22.656Z",
+  "extracted": "2026-09-20T07:46:58.522Z",
   "count": 737,
   "stations": [
     {
@@ -3140,18 +3140,18 @@
       "country": "GH"
     },
     {
-      "id": 1309945090,
-      "lat": 6.764958,
-      "lon": -3.191282,
-      "name": "lorry  station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 1520148139,
       "lat": 6.798083,
       "lon": -1.081977,
       "name": "Lorry Park",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 1309945090,
+      "lat": 6.764958,
+      "lon": -3.191282,
+      "name": "Lorry station",
       "type": "station",
       "country": "GH"
     },
@@ -4463,7 +4463,7 @@
       "id": 5064078025,
       "lat": 5.722249,
       "lon": -0.365723,
-      "name": "Sampahman police station",
+      "name": "Sampahman Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -4471,7 +4471,7 @@
       "id": 5064189146,
       "lat": 5.722164,
       "lon": -0.365605,
-      "name": "Sampahman police station",
+      "name": "Sampahman Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -4680,6 +4680,14 @@
       "lat": 6.206091,
       "lon": -1.612929,
       "name": "St Margaret Educational Complex",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 14180318430,
+      "lat": 5.55001,
+      "lon": -0.435258,
+      "name": "St. Joseph Stationery Shop",
       "type": "station",
       "country": "GH"
     },
@@ -5176,14 +5184,6 @@
       "lat": 5.655354,
       "lon": -0.263011,
       "name": "Total Energies Service Station Ofankor",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 13739999941,
-      "lat": 10.895529,
-      "lon": -1.083574,
-      "name": "Total filling Station",
       "type": "station",
       "country": "GH"
     },

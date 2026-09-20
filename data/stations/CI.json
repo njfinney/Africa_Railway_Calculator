@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-09-13T07:25:18.063Z",
-  "count": 1212,
+  "extracted": "2026-09-20T07:43:59.723Z",
+  "count": 1216,
   "stations": [
     {
       "id": 9300351953,
@@ -4908,6 +4908,14 @@
       "country": "CI"
     },
     {
+      "id": 14178978996,
+      "lat": 5.350916,
+      "lon": -4.022222,
+      "name": "Gare TSFA",
+      "type": "station",
+      "country": "CI"
+    },
+    {
       "id": 4808223234,
       "lat": 4.776158,
       "lon": -6.647176,
@@ -4944,6 +4952,30 @@
       "lat": 5.356725,
       "lon": -4.024243,
       "name": "Gare TSR Abidjan-Sikensi",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 14179677214,
+      "lat": 7.018366,
+      "lon": -7.489474,
+      "name": "Gare TSR BANGOLO",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 14179685120,
+      "lat": 6.892729,
+      "lon": -6.433833,
+      "name": "Gare TSR DALOA",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 14179667160,
+      "lat": 6.747347,
+      "lon": -7.349347,
+      "name": "Gare TSR DUEKOUE",
       "type": "station",
       "country": "CI"
     },
@@ -6684,18 +6716,18 @@
       "country": "CI"
     },
     {
-      "id": 13063737872,
-      "lat": 6.774752,
-      "lon": -3.465508,
-      "name": "Station I.F.C.C.",
-      "type": "station",
-      "country": "CI"
-    },
-    {
       "id": 7101340219,
       "lat": 6.479738,
       "lon": -6.271183,
       "name": "Station Idc",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 13063737872,
+      "lat": 6.774752,
+      "lon": -3.465508,
+      "name": "Station IFCC",
       "type": "station",
       "country": "CI"
     },

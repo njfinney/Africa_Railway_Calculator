@@ -8,7 +8,7 @@
     10,
     -10.28
   ],
-  "extracted": "2026-09-13T07:45:18.725Z",
+  "extracted": "2026-09-20T08:18:55.649Z",
   "count": 74,
   "stations": [
     {
@@ -485,8 +485,8 @@
     },
     {
       "id": 4526166389,
-      "lat": 8.480644,
-      "lon": -13.207311,
+      "lat": 8.480643,
+      "lon": -13.207327,
       "name": "Shared Taxi to Guinea Station",
       "type": "station",
       "country": "SL"
@@ -509,8 +509,8 @@
     },
     {
       "id": 4540110915,
-      "lat": 8.488283,
-      "lon": -13.232637,
+      "lat": 8.488226,
+      "lon": -13.232625,
       "name": "stationary shop",
       "type": "station",
       "country": "SL"

@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-09-13T07:35:20.254Z",
-  "count": 487,
+  "extracted": "2026-09-20T07:59:52.367Z",
+  "count": 488,
   "stations": [
     {
       "id": 2150752711,
@@ -304,6 +304,14 @@
       "lat": 12.569161,
       "lon": -7.928081,
       "name": "CTR32032711197 En BD Au Nom de N'Diaye Néné à Sirakoro Virage Station service BCF en étant sur la Route de SENOU",
+      "type": "station",
+      "country": "ML"
+    },
+    {
+      "id": 14185634861,
+      "lat": 12.777935,
+      "lon": -8.154889,
+      "name": "Diago Gare",
       "type": "station",
       "country": "ML"
     },
