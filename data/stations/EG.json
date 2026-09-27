@@ -8,41 +8,9 @@
     31.67,
     36.9
   ],
-  "extracted": "2026-03-03T12:10:02.992Z",
-  "count": 1595,
+  "extracted": "2026-09-27T07:59:03.952Z",
+  "count": 1637,
   "stations": [
-    {
-      "id": 2988381437,
-      "lat": 27.855336,
-      "lon": 34.315971,
-      "name": "1",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 3055055939,
-      "lat": 27.855359,
-      "lon": 34.315978,
-      "name": "1",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 8153781067,
-      "lat": 30.071544,
-      "lon": 31.317605,
-      "name": "1",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206899290,
-      "lat": 30.071595,
-      "lon": 31.317726,
-      "name": "1",
-      "type": "stop",
-      "country": "EG"
-    },
     {
       "id": 12208556747,
       "lat": 30.060478,
@@ -56,30 +24,6 @@
       "lat": 30.062121,
       "lon": 31.187261,
       "name": "1",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 1324845446,
-      "lat": 21.75905,
-      "lon": 31.458606,
-      "name": "1 محطة",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 12206666397,
-      "lat": 30.025525,
-      "lon": 31.459916,
-      "name": "10",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206666398,
-      "lat": 30.025445,
-      "lon": 31.459911,
-      "name": "10",
       "type": "stop",
       "country": "EG"
     },
@@ -100,19 +44,27 @@
       "country": "EG"
     },
     {
-      "id": 12206658462,
-      "lat": 30.025404,
-      "lon": 31.490658,
-      "name": "11",
-      "type": "stop",
+      "id": 1155532386,
+      "lat": 29.963659,
+      "lon": 30.9146,
+      "name": "10th District Station (6th of October)",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12206658463,
-      "lat": 30.02531,
-      "lon": 31.490655,
-      "name": "11",
-      "type": "stop",
+      "id": 4190713184,
+      "lat": 29.963803,
+      "lon": 30.914482,
+      "name": "10th District Station (6th of October)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6511253851,
+      "lat": 29.964641,
+      "lon": 30.916066,
+      "name": "10th District Station (6th of October)",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -120,22 +72,6 @@
       "lat": 29.963325,
       "lon": 30.926056,
       "name": "11",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204816177,
-      "lat": 30.013291,
-      "lon": 31.519595,
-      "name": "12",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204816178,
-      "lat": 30.013222,
-      "lon": 31.519531,
-      "name": "12",
       "type": "stop",
       "country": "EG"
     },
@@ -156,14 +92,6 @@
       "country": "EG"
     },
     {
-      "id": 12204802780,
-      "lat": 30.027045,
-      "lon": 31.533039,
-      "name": "13",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
       "id": 12208793212,
       "lat": 29.908125,
       "lon": 30.841408,
@@ -180,139 +108,51 @@
       "country": "EG"
     },
     {
-      "id": 12204780997,
-      "lat": 30.026838,
-      "lon": 31.56059,
-      "name": "14",
-      "type": "stop",
+      "id": 1531391163,
+      "lat": 29.811081,
+      "lon": 31.378359,
+      "name": "15th of May",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12204780998,
-      "lat": 30.026912,
-      "lon": 31.560582,
-      "name": "14",
-      "type": "stop",
+      "id": 1134773161,
+      "lat": 30.164559,
+      "lon": 31.339337,
+      "name": "23 يوليو",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12204760499,
-      "lat": 30.024772,
-      "lon": 31.598783,
-      "name": "15",
-      "type": "stop",
+      "id": 8244992158,
+      "lat": 30.050532,
+      "lon": 31.31204,
+      "name": "2nd Nasr City Police Station",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12204760500,
-      "lat": 30.024724,
-      "lon": 31.598901,
-      "name": "15",
-      "type": "stop",
+      "id": 12406944886,
+      "lat": 30.050687,
+      "lon": 31.311869,
+      "name": "2nd Nasr City Police Station",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12204707792,
-      "lat": 30.016989,
-      "lon": 31.631012,
-      "name": "16",
-      "type": "stop",
+      "id": 6423661583,
+      "lat": 29.984311,
+      "lon": 31.442445,
+      "name": "3rd Settlement Station",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 8153887878,
-      "lat": 30.018235,
-      "lon": 31.663366,
-      "name": "17",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204707225,
-      "lat": 30.018323,
-      "lon": 31.663357,
-      "name": "17",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 3055055940,
-      "lat": 27.855431,
-      "lon": 34.315636,
-      "name": "2",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 3055055941,
-      "lat": 27.855454,
-      "lon": 34.315643,
-      "name": "2",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 9887149546,
-      "lat": 30.005941,
-      "lon": 31.77011,
-      "name": "22",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204487645,
-      "lat": 30.006006,
-      "lon": 31.770047,
-      "name": "22",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 2988381520,
-      "lat": 27.855499,
-      "lon": 34.315396,
-      "name": "3",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 12206848818,
-      "lat": 30.053777,
-      "lon": 31.324722,
-      "name": "3",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206848819,
-      "lat": 30.053783,
-      "lon": 31.324834,
-      "name": "3",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 2988381561,
-      "lat": 27.85567,
-      "lon": 34.314795,
-      "name": "4",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 12206826987,
-      "lat": 30.043768,
-      "lon": 31.330912,
-      "name": "4",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206826988,
-      "lat": 30.043853,
-      "lon": 31.330894,
-      "name": "4",
-      "type": "stop",
+      "id": 6423661587,
+      "lat": 29.984023,
+      "lon": 31.442343,
+      "name": "3rd Settlement Station",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -320,14 +160,6 @@
       "lat": 30.065528,
       "lon": 31.131082,
       "name": "4",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206833925,
-      "lat": 30.045452,
-      "lon": 31.346393,
-      "name": "5",
       "type": "stop",
       "country": "EG"
     },
@@ -340,19 +172,19 @@
       "country": "EG"
     },
     {
-      "id": 12206732996,
-      "lat": 30.039238,
-      "lon": 31.355449,
-      "name": "6",
-      "type": "stop",
+      "id": 1687799972,
+      "lat": 29.997819,
+      "lon": 31.426561,
+      "name": "5th Settlement Police Station",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12206732997,
-      "lat": 30.03923,
-      "lon": 31.355562,
-      "name": "6",
-      "type": "stop",
+      "id": 1531391133,
+      "lat": 29.930879,
+      "lon": 30.916911,
+      "name": "6th District - 6th of October (Al Souq Al Qadeem)",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -364,19 +196,35 @@
       "country": "EG"
     },
     {
-      "id": 12206733004,
-      "lat": 30.016277,
-      "lon": 31.408971,
-      "name": "8",
-      "type": "stop",
+      "id": 1531391155,
+      "lat": 29.983254,
+      "lon": 30.939399,
+      "name": "7th District (6th of October)",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12206733005,
-      "lat": 30.016192,
-      "lon": 31.408974,
-      "name": "8",
-      "type": "stop",
+      "id": 1531391143,
+      "lat": 30.041681,
+      "lon": 31.32957,
+      "name": "7th District (Nasr City - Abd Allah Al Arabi St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 271214738,
+      "lat": 30.043274,
+      "lon": 31.329145,
+      "name": "7th District Station (Nasr City - Abd Allah Al Arabi St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 272519530,
+      "lat": 30.043481,
+      "lon": 31.329245,
+      "name": "7th District Station (Nasr City - Abd Allah Al Arabi St.)",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -396,22 +244,6 @@
       "country": "EG"
     },
     {
-      "id": 12206697336,
-      "lat": 30.016322,
-      "lon": 31.433885,
-      "name": "9",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12206759934,
-      "lat": 30.01625,
-      "lon": 31.433885,
-      "name": "9",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
       "id": 12208697214,
       "lat": 29.997988,
       "lon": 30.965513,
@@ -425,6 +257,54 @@
       "lon": 30.965457,
       "name": "9",
       "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 11368355444,
+      "lat": 30.106224,
+      "lon": 31.253832,
+      "name": "Abboud (Entrance to Bus Station - Cairo Entrance St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 3107139622,
+      "lat": 30.050436,
+      "lon": 31.234268,
+      "name": "Abd Al Moneim Riad Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 641134137,
+      "lat": 30.028158,
+      "lon": 31.237353,
+      "name": "Abou Al Reesh Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1127978080,
+      "lat": 30.028399,
+      "lon": 31.237085,
+      "name": "Abou Al Reesh Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 4322531583,
+      "lat": 30.248751,
+      "lon": 31.35474,
+      "name": "Abou Zaabal (Abou Zaabal Al Balad Train Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6375499214,
+      "lat": 29.958074,
+      "lon": 31.212858,
+      "name": "Abu Al Nomros Police Station",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -460,6 +340,14 @@
       "country": "EG"
     },
     {
+      "id": 2091858886,
+      "lat": 30.064898,
+      "lon": 31.247798,
+      "name": "Ahmed Helmy St. (Exiting the Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 7984340765,
       "lat": 30.124868,
       "lon": 31.403078,
@@ -476,82 +364,178 @@
       "country": "EG"
     },
     {
-      "id": 504299124,
-      "lat": 31.526544,
-      "lon": 34.439017,
-      "name": "Akeela Petrol Station",
+      "id": 5200419711,
+      "lat": 30.024406,
+      "lon": 31.263413,
+      "name": "Al Abageyya Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 432152855,
-      "lat": 31.506729,
-      "lon": 35.109444,
-      "name": "Al Alandalos Fuel Station",
+      "id": 5200419716,
+      "lat": 30.023865,
+      "lon": 31.263705,
+      "name": "Al Abageyya Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 432230282,
-      "lat": 31.582511,
-      "lon": 35.100435,
-      "name": "Al Arz Fuel Station",
+      "id": 6475513505,
+      "lat": 30.037268,
+      "lon": 31.252363,
+      "name": "Al Darb Al Ahmar Police Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431949040,
-      "lat": 31.463693,
-      "lon": 35.120114,
-      "name": "Al Hareth Station",
+      "id": 1687798267,
+      "lat": 30.00223,
+      "lon": 31.423354,
+      "name": "Al Hamd Sq. Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431957508,
-      "lat": 31.517487,
-      "lon": 35.110154,
-      "name": "Al Helal Fuel Station",
+      "id": 6419222869,
+      "lat": 30.001971,
+      "lon": 31.423001,
+      "name": "Al Hamd Sq. Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431845368,
-      "lat": 31.512849,
-      "lon": 35.087954,
-      "name": "Al Jbali Care Station",
+      "id": 1531391126,
+      "lat": 30.235812,
+      "lon": 31.4725,
+      "name": "Al Hegaz (Obour Police )",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 1784466037,
-      "lat": 31.184061,
-      "lon": 35.70814,
-      "name": "Al Karak Fire Station",
+      "id": 6351561659,
+      "lat": 30.228344,
+      "lon": 31.362202,
+      "name": "Al Khankah Police Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431964172,
-      "lat": 31.531971,
-      "lon": 35.088918,
-      "name": "Al Salam Fuel Station",
+      "id": 6585967640,
+      "lat": 29.888997,
+      "lon": 31.303945,
+      "name": "Al Maasara Police Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 432102534,
-      "lat": 31.507543,
-      "lon": 35.089554,
-      "name": "Al Samer Fuel Station",
+      "id": 6606116632,
+      "lat": 30.115082,
+      "lon": 31.306088,
+      "name": "Al Matareyya Sq. Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 505131236,
-      "lat": 31.307187,
-      "lon": 34.278913,
-      "name": "Al Satari Petrol Station",
+      "id": 6620612654,
+      "lat": 30.115529,
+      "lon": 31.306499,
+      "name": "Al Matareyya Sq. Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391162,
+      "lat": 30.005878,
+      "lon": 31.454525,
+      "name": "Al Mostafa Mosque Terminal",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391160,
+      "lat": 29.932926,
+      "lon": 30.920724,
+      "name": "Al Mostaqbal Entrance",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6487633360,
+      "lat": 29.982371,
+      "lon": 30.979004,
+      "name": "Al Motamayez Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8954572133,
+      "lat": 30.156813,
+      "lon": 31.40659,
+      "name": "Al Salam (Entering Station from Ring Rd.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8954572326,
+      "lat": 30.15274,
+      "lon": 31.41264,
+      "name": "Al Salam (Entering Station from Ring Rd.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 4324285452,
+      "lat": 30.159114,
+      "lon": 31.413054,
+      "name": "Al Salam First Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6361630103,
+      "lat": 30.159081,
+      "lon": 31.412917,
+      "name": "Al Salam First Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 11591551034,
+      "lat": 30.119715,
+      "lon": 31.604206,
+      "name": "Al Shorouq Academy Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13941592026,
+      "lat": 30.119757,
+      "lon": 31.60446,
+      "name": "Al Shorouq Academy Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 3971929300,
+      "lat": 30.161508,
+      "lon": 31.621702,
+      "name": "Al Shorouq Water Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13941592029,
+      "lat": 30.161591,
+      "lon": 31.621682,
+      "name": "Al Shorouq Water Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 666468127,
+      "lat": 30.247235,
+      "lon": 31.458656,
+      "name": "Al Taawon Gas Station (Al Shabab St. Obour)",
       "type": "station",
       "country": "EG"
     },
@@ -564,18 +548,42 @@
       "country": "EG"
     },
     {
-      "id": 570459265,
-      "lat": 30.098554,
-      "lon": 31.262577,
-      "name": "Al Zawya Al Hamra",
+      "id": 6488228516,
+      "lat": 30.107352,
+      "lon": 31.21295,
+      "name": "Al Warraq Station (Nile Corniche)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 1319224028,
-      "lat": 29.93702,
-      "lon": 30.883828,
-      "name": "Al-Ahram Canadian University",
+      "id": 13818112437,
+      "lat": 30.107353,
+      "lon": 31.212798,
+      "name": "Al Warraq Station (Nile Corniche)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 342114874,
+      "lat": 30.114376,
+      "lon": 31.209665,
+      "name": "Al Warraq Water Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 3104124778,
+      "lat": 30.114412,
+      "lon": 31.209757,
+      "name": "Al Warraq Water Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 5484445622,
+      "lat": 30.098697,
+      "lon": 31.262344,
+      "name": "Al Zawya Al Hamra Station",
       "type": "station",
       "country": "EG"
     },
@@ -588,27 +596,11 @@
       "country": "EG"
     },
     {
-      "id": 41257480,
-      "lat": 31.516033,
-      "lon": 34.437884,
-      "name": "Al-Azhar Bus Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 9077189570,
       "lat": 30.082111,
       "lon": 31.210509,
       "name": "Al-Bohy",
       "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 504276957,
-      "lat": 31.531358,
-      "lon": 34.444741,
-      "name": "Al-Ghol Petrol Station",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -620,46 +612,6 @@
       "country": "EG"
     },
     {
-      "id": 504267022,
-      "lat": 31.523096,
-      "lon": 34.444323,
-      "name": "Al-Khozendar Car Washing Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 432039558,
-      "lat": 31.457697,
-      "lon": 35.112369,
-      "name": "Al-Rebat Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 504295227,
-      "lat": 31.534209,
-      "lon": 34.448171,
-      "name": "Al-Shate'e Water Pump Station No. 1",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 504280385,
-      "lat": 31.535481,
-      "lon": 34.45068,
-      "name": "Al-Shate'e Water Pump Station No. 2",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1708740447,
-      "lat": 31.382864,
-      "lon": 34.354284,
-      "name": "AL-SMERY station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1809455445,
       "lat": 30.883535,
       "lon": 31.459823,
@@ -668,42 +620,34 @@
       "country": "EG"
     },
     {
-      "id": 431930246,
-      "lat": 31.539831,
-      "lon": 35.090134,
-      "name": "Alansar Gas Station",
+      "id": 5480936249,
+      "lat": 30.047794,
+      "lon": 31.053781,
+      "name": "Alexandria Desert Road Station (26th of July Axis)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 505018419,
-      "lat": 31.381082,
-      "lon": 34.338229,
-      "name": "Almagdal Gas Station",
+      "id": 13850733879,
+      "lat": 30.04642,
+      "lon": 31.051849,
+      "name": "Alexandria Desert Road Station (26th of July Axis)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431883236,
-      "lat": 31.449312,
-      "lon": 35.089125,
-      "name": "Alqarage Station",
+      "id": 5480936278,
+      "lat": 30.047556,
+      "lon": 31.052073,
+      "name": "Alexandria Desert Road Station (Alexandria Desert Rd.)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 505030411,
-      "lat": 31.442947,
-      "lon": 34.371249,
-      "name": "Alsawarha Petrol Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 505100309,
-      "lat": 31.337377,
-      "lon": 34.309877,
-      "name": "Altahlya Station",
+      "id": 10712406324,
+      "lat": 30.047497,
+      "lon": 31.051136,
+      "name": "Alexandria Desert Road Station (Alexandria Desert Rd.)",
       "type": "station",
       "country": "EG"
     },
@@ -732,6 +676,22 @@
       "country": "EG"
     },
     {
+      "id": 13947191464,
+      "lat": 30.025129,
+      "lon": 31.491447,
+      "name": "American University Monorail Station Bus Stop",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13947191465,
+      "lat": 30.025478,
+      "lon": 31.491656,
+      "name": "American University Monorail Station Bus Stop",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 12213547058,
       "lat": 30.6619,
       "lon": 30.067299,
@@ -740,10 +700,18 @@
       "country": "EG"
     },
     {
-      "id": 1156952048,
-      "lat": 29.459739,
-      "lon": 34.977074,
-      "name": "Aqaba Ferry Terminal",
+      "id": 344551386,
+      "lat": 30.139452,
+      "lon": 31.315661,
+      "name": "Arab Tuweila Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391186,
+      "lat": 29.985432,
+      "lon": 31.430135,
+      "name": "Arabella Square",
       "type": "station",
       "country": "EG"
     },
@@ -752,14 +720,6 @@
       "lat": 30.013727,
       "lon": 31.724969,
       "name": "Arts and Culture City - LRT Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 504263268,
-      "lat": 31.500619,
-      "lon": 34.45628,
-      "name": "Asqola Station",
       "type": "station",
       "country": "EG"
     },
@@ -788,10 +748,34 @@
       "country": "EG"
     },
     {
-      "id": 504296946,
-      "lat": 31.529197,
-      "lon": 34.438483,
-      "name": "Bahlool Petrol Station",
+      "id": 5482877016,
+      "lat": 30.055041,
+      "lon": 30.959675,
+      "name": "Badr Station (Sheikh Zayed)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6414415502,
+      "lat": 30.054914,
+      "lon": 30.959475,
+      "name": "Badr Station (Sheikh Zayed)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 2521329742,
+      "lat": 29.847383,
+      "lon": 31.276182,
+      "name": "Badrasheen Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8556568910,
+      "lat": 29.853018,
+      "lon": 31.27814,
+      "name": "Badrasheen Railway Station",
       "type": "station",
       "country": "EG"
     },
@@ -820,6 +804,14 @@
       "country": "EG"
     },
     {
+      "id": 321398029,
+      "lat": 29.990653,
+      "lon": 31.266918,
+      "name": "Basateen Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 11807573541,
       "lat": 30.062125,
       "lon": 31.18722,
@@ -844,26 +836,18 @@
       "country": "EG"
     },
     {
-      "id": 41245124,
-      "lat": 31.53864,
-      "lon": 34.537158,
-      "name": "Beit Hanoun Parking",
+      "id": 2265685739,
+      "lat": 30.041193,
+      "lon": 31.194481,
+      "name": "Bulaq Al Dakrur Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 503997963,
-      "lat": 31.545018,
-      "lon": 34.533413,
-      "name": "Beit Hanoun Pumping Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 5685444461,
-      "lat": 27.206721,
-      "lon": 33.926979,
-      "name": "Boat Station",
+      "id": 6462477347,
+      "lat": 30.041203,
+      "lon": 31.194572,
+      "name": "Bulaq Al Dakrur Station",
       "type": "station",
       "country": "EG"
     },
@@ -880,14 +864,6 @@
       "lat": 25.705391,
       "lon": 32.653117,
       "name": "Bus station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1660417056,
-      "lat": 27.228667,
-      "lon": 33.838841,
-      "name": "Bus Station",
       "type": "station",
       "country": "EG"
     },
@@ -964,6 +940,46 @@
       "country": "EG"
     },
     {
+      "id": 4324392679,
+      "lat": 29.808424,
+      "lon": 31.301853,
+      "name": "Coop Gas Station (Helwan Corniche)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8330280161,
+      "lat": 29.8083,
+      "lon": 31.301723,
+      "name": "Coop Gas Station (Helwan Corniche)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6442155321,
+      "lat": 30.128984,
+      "lon": 31.251101,
+      "name": "Coop Gas Station (Om Bayoumi)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6463492864,
+      "lat": 30.128933,
+      "lon": 31.251258,
+      "name": "Coop Gas Station (Om Bayoumi)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391179,
+      "lat": 29.920393,
+      "lon": 30.889004,
+      "name": "Daewoo",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1156216297,
       "lat": 28.12522,
       "lon": 30.741713,
@@ -972,10 +988,26 @@
       "country": "EG"
     },
     {
-      "id": 6135168185,
-      "lat": 28.493182,
-      "lon": 34.513754,
-      "name": "Delta bus station",
+      "id": 5022251435,
+      "lat": 29.97228,
+      "lon": 31.246933,
+      "name": "Dar Al Salam Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6455880571,
+      "lat": 29.972092,
+      "lon": 31.246891,
+      "name": "Dar Al Salam Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109489,
+      "lat": 29.984016,
+      "lon": 31.238234,
+      "name": "Dar As Salam Bus Stop",
       "type": "station",
       "country": "EG"
     },
@@ -988,10 +1020,18 @@
       "country": "EG"
     },
     {
-      "id": 456390389,
-      "lat": 28.485982,
-      "lon": 34.496769,
-      "name": "East Bus station",
+      "id": 13240738203,
+      "lat": 30.038715,
+      "lon": 31.213311,
+      "name": "Dokki Metro Bus Station (Tahrir St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13240738204,
+      "lat": 30.038607,
+      "lon": 31.213347,
+      "name": "Dokki Metro Bus Station (Tahrir St.)",
       "type": "station",
       "country": "EG"
     },
@@ -1021,25 +1061,17 @@
     },
     {
       "id": 4984571707,
-      "lat": 31.190312,
-      "lon": 29.921963,
+      "lat": 31.190352,
+      "lon": 29.921969,
       "name": "El Gamla",
       "type": "tram_stop",
       "country": "EG"
     },
     {
       "id": 8412131578,
-      "lat": 31.232915,
-      "lon": 29.955615,
+      "lat": 31.232914,
+      "lon": 29.955601,
       "name": "El Hadaya Station",
-      "type": "tram_stop",
-      "country": "EG"
-    },
-    {
-      "id": 1892893045,
-      "lat": 31.190106,
-      "lon": 29.923435,
-      "name": "El Kotarely Bridge",
       "type": "tram_stop",
       "country": "EG"
     },
@@ -1085,8 +1117,8 @@
     },
     {
       "id": 4985141159,
-      "lat": 31.191093,
-      "lon": 29.919139,
+      "lat": 31.191118,
+      "lon": 29.918912,
       "name": "El Rasafa",
       "type": "tram_stop",
       "country": "EG"
@@ -1108,14 +1140,6 @@
       "country": "EG"
     },
     {
-      "id": 503998535,
-      "lat": 31.533785,
-      "lon": 34.520069,
-      "name": "El Shwaa Gas Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 3909161113,
       "lat": 31.251772,
       "lon": 29.97898,
@@ -1132,10 +1156,18 @@
       "country": "EG"
     },
     {
-      "id": 431930802,
-      "lat": 31.507408,
-      "lon": 35.034791,
-      "name": "Electricity Station",
+      "id": 329983113,
+      "lat": 30.030548,
+      "lon": 31.256249,
+      "name": "El-Khalifa Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1739199096,
+      "lat": 30.114297,
+      "lon": 31.249147,
+      "name": "Faculty of Agriculture (Ain Shams University) Metro Station Main Gate Bus Stop",
       "type": "station",
       "country": "EG"
     },
@@ -1144,14 +1176,6 @@
       "lat": 29.316882,
       "lon": 30.83309,
       "name": "Faiyum MiniBus Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 505107840,
-      "lat": 31.329777,
-      "lon": 34.292217,
-      "name": "Fares Petrol Station",
       "type": "station",
       "country": "EG"
     },
@@ -1188,6 +1212,14 @@
       "country": "EG"
     },
     {
+      "id": 317319841,
+      "lat": 30.023816,
+      "lon": 31.232114,
+      "name": "Fom Al Khalig Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 2196975470,
       "lat": 29.957466,
       "lon": 31.260471,
@@ -1212,17 +1244,25 @@
       "country": "EG"
     },
     {
-      "id": 1784439853,
-      "lat": 31.188169,
-      "lon": 35.705076,
-      "name": "Ghor Bus Station",
+      "id": 409153723,
+      "lat": 30.015541,
+      "lon": 31.215312,
+      "name": "Giza Helwan Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13665150701,
+      "lat": 30.009247,
+      "lon": 31.208,
+      "name": "Giza train station",
       "type": "station",
       "country": "EG"
     },
     {
       "id": 4478874012,
       "lat": 31.239671,
-      "lon": 29.960447,
+      "lon": 29.960355,
       "name": "Gleem Station",
       "type": "tram_stop",
       "country": "EG"
@@ -1240,6 +1280,14 @@
       "lat": 27.883418,
       "lon": 34.300669,
       "name": "Go Bus bus station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13650803209,
+      "lat": 27.395417,
+      "lon": 33.667777,
+      "name": "Go Bus Central Station",
       "type": "station",
       "country": "EG"
     },
@@ -1276,27 +1324,27 @@
       "country": "EG"
     },
     {
-      "id": 5603118721,
-      "lat": 27.395943,
-      "lon": 33.674107,
-      "name": "GoBus station",
+      "id": 6280162931,
+      "lat": 30.093545,
+      "lon": 31.287024,
+      "name": "Hadayek Al Qobba Police Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 8153887924,
-      "lat": 30.007939,
-      "lon": 31.744813,
-      "name": "Governmental District (Al-Wezarat)",
-      "type": "stop",
+      "id": 6647260810,
+      "lat": 30.093665,
+      "lon": 31.287121,
+      "name": "Hadayek Al Qobba Police Station",
+      "type": "station",
       "country": "EG"
     },
     {
-      "id": 12204679423,
-      "lat": 30.008018,
-      "lon": 31.744816,
-      "name": "Governmental District (Al-Wezarat)",
-      "type": "stop",
+      "id": 1560002245,
+      "lat": 29.970153,
+      "lon": 31.250599,
+      "name": "Hadayek El-Maadi Metro Station building",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -1308,6 +1356,14 @@
       "country": "EG"
     },
     {
+      "id": 1531391164,
+      "lat": 29.909363,
+      "lon": 30.894375,
+      "name": "Hamada Emam",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 9191231637,
       "lat": 30.063842,
       "lon": 31.277584,
@@ -1316,34 +1372,18 @@
       "country": "EG"
     },
     {
-      "id": 432110502,
-      "lat": 31.527856,
-      "lon": 35.100276,
-      "name": "Hassona Station",
+      "id": 1531391145,
+      "lat": 29.989962,
+      "lon": 31.149211,
+      "name": "Haram & Marioetya",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 2482177607,
-      "lat": 31.529999,
-      "lon": 35.09561,
-      "name": "Hebron Central Bus Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1404611806,
-      "lat": 31.534168,
-      "lon": 35.098505,
-      "name": "Hebron Fire station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 432199970,
-      "lat": 31.509362,
-      "lon": 35.108283,
-      "name": "Hebron Municipality Fire Station",
+      "id": 1531391156,
+      "lat": 30.110838,
+      "lon": 31.346302,
+      "name": "Hegaz Sq.",
       "type": "station",
       "country": "EG"
     },
@@ -1364,14 +1404,6 @@
       "country": "EG"
     },
     {
-      "id": 1318991494,
-      "lat": 30.063471,
-      "lon": 31.321809,
-      "name": "Hesham Barakat",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 10579794141,
       "lat": 27.884441,
       "lon": 34.297975,
@@ -1380,10 +1412,42 @@
       "country": "EG"
     },
     {
+      "id": 1154975894,
+      "lat": 29.96794,
+      "lon": 30.94876,
+      "name": "Hossary (Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 13337731365,
       "lat": 27.177772,
       "lon": 33.822098,
       "name": "Hurghada police station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 5486343132,
+      "lat": 30.029649,
+      "lon": 31.022454,
+      "name": "Hyper One (Sheikh Zayed - Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 7925451830,
+      "lat": 30.028278,
+      "lon": 31.021334,
+      "name": "Hyper One (Sheikh Zayed - Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 10123554043,
+      "lat": 30.027791,
+      "lon": 31.021445,
+      "name": "Hyper One (Sheikh Zayed - Station)",
       "type": "station",
       "country": "EG"
     },
@@ -1412,18 +1476,66 @@
       "country": "EG"
     },
     {
-      "id": 3016869236,
-      "lat": 31.523812,
-      "lon": 35.111008,
-      "name": "Israeli Police Station",
+      "id": 6472694646,
+      "lat": 30.077617,
+      "lon": 31.218311,
+      "name": "Imbaba (Bus Station)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 1232415415,
-      "lat": 30.039216,
-      "lon": 31.355506,
-      "name": "Jehan Sadat",
+      "id": 270247095,
+      "lat": 30.075006,
+      "lon": 31.22224,
+      "name": "Imbaba Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 280762311,
+      "lat": 30.075173,
+      "lon": 31.222263,
+      "name": "Imbaba Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391153,
+      "lat": 30.075077,
+      "lon": 31.22224,
+      "name": "Imbaba Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 366083434,
+      "lat": 30.078276,
+      "lon": 31.218411,
+      "name": "Imbaba Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391158,
+      "lat": 29.929772,
+      "lon": 30.892249,
+      "name": "Industrial Zone 3",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391113,
+      "lat": 30.053814,
+      "lon": 31.237943,
+      "name": "Isaaf",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6618912456,
+      "lat": 30.18049,
+      "lon": 31.412437,
+      "name": "Isbiko Station",
       "type": "station",
       "country": "EG"
     },
@@ -1444,18 +1556,42 @@
       "country": "EG"
     },
     {
-      "id": 505103342,
-      "lat": 31.350464,
-      "lon": 34.287623,
-      "name": "Khan Younis Water Pump Station",
+      "id": 6378934639,
+      "lat": 30.03499,
+      "lon": 31.116941,
+      "name": "Kerdasa Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 4466483189,
-      "lat": 31.52397,
-      "lon": 34.446104,
-      "name": "Kick off PlayStation",
+      "id": 6380473776,
+      "lat": 30.035033,
+      "lon": 31.116718,
+      "name": "Kerdasa Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 9565973878,
+      "lat": 30.079195,
+      "lon": 31.381828,
+      "name": "Kilo 4 & Half Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12453048270,
+      "lat": 30.079837,
+      "lon": 31.38196,
+      "name": "Kilo 4 & Half Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13249884565,
+      "lat": 30.086513,
+      "lon": 31.292688,
+      "name": "Kobry Al Qobba Bus Station",
       "type": "station",
       "country": "EG"
     },
@@ -1468,19 +1604,43 @@
       "country": "EG"
     },
     {
-      "id": 4352162790,
-      "lat": 29.527272,
-      "lon": 35.005917,
-      "name": "Local minibus station to Petra/Wadi Rum",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 3909161122,
       "lat": 31.249543,
       "lon": 29.971671,
       "name": "Luran Station",
       "type": "tram_stop",
+      "country": "EG"
+    },
+    {
+      "id": 676796202,
+      "lat": 29.958478,
+      "lon": 31.25753,
+      "name": "Maadi Metro Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 4337420450,
+      "lat": 29.974779,
+      "lon": 31.397038,
+      "name": "Mahmoudeya Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8554212249,
+      "lat": 29.974683,
+      "lon": 31.397034,
+      "name": "Mahmoudeya Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391102,
+      "lat": 29.997311,
+      "lon": 30.964991,
+      "name": "Mall of Arabia",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -1500,11 +1660,67 @@
       "country": "EG"
     },
     {
+      "id": 6392296834,
+      "lat": 30.164463,
+      "lon": 31.33881,
+      "name": "Marg (July 23) Railway Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 11807604167,
       "lat": 30.065438,
       "lon": 31.131104,
       "name": "Mariyotia Monorail Station",
       "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 5503260281,
+      "lat": 30.135535,
+      "lon": 31.349566,
+      "name": "Masaken Ain Shams Station (Ahmed Oraby St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391150,
+      "lat": 30.120198,
+      "lon": 31.258412,
+      "name": "Masaken Al Wehda",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391182,
+      "lat": 29.918695,
+      "lon": 30.939246,
+      "name": "Masaken Othman (6th of October)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 316004878,
+      "lat": 30.022728,
+      "lon": 31.244081,
+      "name": "Masaken Zainhom Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6724083833,
+      "lat": 29.833472,
+      "lon": 31.378775,
+      "name": "Megawra 3 Bus Station (15th of May)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13945232016,
+      "lat": 29.8335,
+      "lon": 31.378919,
+      "name": "Megawra 3 Bus Station (15th of May)",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -1520,14 +1736,6 @@
       "lat": 26.569369,
       "lon": 31.680358,
       "name": "Microbus station (to Assyut 55egp)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 431881936,
-      "lat": 31.559339,
-      "lon": 35.080569,
-      "name": "Middle East Gas Station",
       "type": "station",
       "country": "EG"
     },
@@ -1564,6 +1772,22 @@
       "country": "EG"
     },
     {
+      "id": 14201317431,
+      "lat": 29.991991,
+      "lon": 31.283661,
+      "name": "Minibus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 331225778,
+      "lat": 30.014275,
+      "lon": 31.207261,
+      "name": "Misr Gas Station (Giza Square)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 914817054,
       "lat": 27.248121,
       "lon": 33.820929,
@@ -1580,6 +1804,46 @@
       "country": "EG"
     },
     {
+      "id": 12084782929,
+      "lat": 29.850159,
+      "lon": 31.263239,
+      "name": "Misr Petroleum Gas Station (Badrasheen)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1739199117,
+      "lat": 30.122134,
+      "lon": 31.244018,
+      "name": "Moasasa/Shubra Al Kheima Metro Bus Stop (Railway Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 7963485713,
+      "lat": 30.122233,
+      "lon": 31.244206,
+      "name": "Moasasa/Shubra Al Kheima Metro Bus Stop (Railway Station)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1739199127,
+      "lat": 30.123873,
+      "lon": 31.242785,
+      "name": "Moasasa/Shubra Al Kheima Metro Bus Stop (Station Pedestrain Bridge)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1739216208,
+      "lat": 30.12379,
+      "lon": 31.243148,
+      "name": "Moasasa/Shubra Al Kheima Metro Bus Stop (Station Pedestrain Bridge)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 7203608783,
       "lat": 30.941196,
       "lon": 30.824449,
@@ -1588,19 +1852,67 @@
       "country": "EG"
     },
     {
+      "id": 9199804438,
+      "lat": 30.104413,
+      "lon": 31.378305,
+      "name": "Mobil Gas Station (Abdel Hameed Badawy St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13943551599,
+      "lat": 30.104526,
+      "lon": 31.378472,
+      "name": "Mobil Gas Station (Abdel Hameed Badawy St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13716035347,
+      "lat": 29.899244,
+      "lon": 31.454226,
+      "name": "Mohamed Naguib HSR Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 2430596920,
-      "lat": 31.19066,
-      "lon": 29.919745,
+      "lat": 31.190754,
+      "lon": 29.919694,
       "name": "Moharam Bek",
       "type": "tram_stop",
       "country": "EG"
     },
     {
-      "id": 12206762833,
-      "lat": 30.019161,
-      "lon": 31.383307,
-      "name": "Moushir Tantawi",
-      "type": "stop",
+      "id": 9531901782,
+      "lat": 30.093774,
+      "lon": 31.372167,
+      "name": "Mosheer Ahmed Ismail Station (Sheraton)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 9531901783,
+      "lat": 30.093769,
+      "lon": 31.372059,
+      "name": "Mosheer Ahmed Ismail Station (Sheraton)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391161,
+      "lat": 30.016953,
+      "lon": 31.204554,
+      "name": "Motseian",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6461813202,
+      "lat": 29.983471,
+      "lon": 31.212231,
+      "name": "Mounib Station Entrance",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -1612,10 +1924,10 @@
       "country": "EG"
     },
     {
-      "id": 4719912389,
-      "lat": 28.424523,
-      "lon": 36.678066,
-      "name": "Najrani fuel station",
+      "id": 1531391111,
+      "lat": 30.170886,
+      "lon": 31.438879,
+      "name": "Nahda City",
       "type": "station",
       "country": "EG"
     },
@@ -1628,18 +1940,18 @@
       "country": "EG"
     },
     {
-      "id": 1319214387,
-      "lat": 30.009148,
-      "lon": 30.985989,
-      "name": "Nile University",
+      "id": 6266887947,
+      "lat": 30.167108,
+      "lon": 31.440291,
+      "name": "New Nahda Police Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431993022,
-      "lat": 31.614846,
-      "lon": 35.030674,
-      "name": "Noba Police Station",
+      "id": 1319214387,
+      "lat": 30.009148,
+      "lon": 30.985989,
+      "name": "Nile University",
       "type": "station",
       "country": "EG"
     },
@@ -1652,34 +1964,98 @@
       "country": "EG"
     },
     {
-      "id": 503994800,
-      "lat": 31.540963,
-      "lon": 34.512,
-      "name": "North Gaza Meteorological Station",
+      "id": 1531391171,
+      "lat": 30.129729,
+      "lon": 31.361219,
+      "name": "Nozha Al Gadeeda",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 1318989136,
-      "lat": 30.053745,
-      "lon": 31.324747,
-      "name": "Nouri Khattab",
+      "id": 10005905414,
+      "lat": 30.164277,
+      "lon": 31.480338,
+      "name": "Obour LRT Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 505030778,
-      "lat": 31.457136,
-      "lon": 34.399583,
-      "name": "Nuseirat Sewage Pumping Station",
+      "id": 10005923650,
+      "lat": 30.164288,
+      "lon": 31.481028,
+      "name": "Obour LRT Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 505038902,
-      "lat": 31.460358,
-      "lon": 34.388468,
-      "name": "Nuseirat Water Pumping Station",
+      "id": 610227008,
+      "lat": 30.16921,
+      "lon": 31.463511,
+      "name": "Obour Market station Obour Market station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6354559207,
+      "lat": 30.169228,
+      "lon": 31.463573,
+      "name": "Obour Market station Obour Market station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 7059821060,
+      "lat": 30.235728,
+      "lon": 31.472496,
+      "name": "Obour Police Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 3454438282,
+      "lat": 29.841821,
+      "lon": 31.375349,
+      "name": "Oil Libya Gas Station (Sadat Sq.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 3454438287,
+      "lat": 29.841755,
+      "lon": 31.375098,
+      "name": "Oil Libya Gas Station (Sadat Sq.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 14059752801,
+      "lat": 30.109308,
+      "lon": 31.608909,
+      "name": "Ola Petrol Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6899988029,
+      "lat": 30.148621,
+      "lon": 31.251596,
+      "name": "Om Bayoumi Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 9031753769,
+      "lat": 30.147757,
+      "lon": 31.251407,
+      "name": "Om Bayoumi Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6802857054,
+      "lat": 29.992925,
+      "lon": 31.190817,
+      "name": "Omraneyya Police Station",
       "type": "station",
       "country": "EG"
     },
@@ -1700,34 +2076,10 @@
       "country": "EG"
     },
     {
-      "id": 12204326294,
-      "lat": 29.995276,
-      "lon": 31.750057,
-      "name": "People's Square",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 1698789507,
-      "lat": 29.514012,
-      "lon": 35.004641,
-      "name": "Petrol Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 504006108,
-      "lat": 31.540941,
-      "lon": 34.505425,
-      "name": "Petrol station محطة وقود البراوي",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 12582135383,
-      "lat": 28.112956,
-      "lon": 35.108102,
-      "name": "Playstation Room",
+      "id": 1132464171,
+      "lat": 30.145262,
+      "lon": 31.331471,
+      "name": "Pedestrain Crossing Marg Station St. & Al Sheikh Mansour St.)",
       "type": "station",
       "country": "EG"
     },
@@ -1756,14 +2108,6 @@
       "country": "EG"
     },
     {
-      "id": 11238205355,
-      "lat": 27.189326,
-      "lon": 33.983806,
-      "name": "Police Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 10632775799,
       "lat": 31.259825,
       "lon": 32.30058,
@@ -1772,18 +2116,26 @@
       "country": "EG"
     },
     {
-      "id": 5214828921,
-      "lat": 31.52958,
-      "lon": 34.44677,
-      "name": "power station abo Ehab Salah",
+      "id": 1497853037,
+      "lat": 30.181266,
+      "lon": 31.207635,
+      "name": "Qalyoub Al Balad Bus Station",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 6409366824,
-      "lat": 31.365551,
-      "lon": 34.275604,
-      "name": "Pump Station Al-Mawasi",
+      "id": 7208553944,
+      "lat": 30.181346,
+      "lon": 31.207757,
+      "name": "Qalyoub Al Balad Bus Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6320403901,
+      "lat": 30.095187,
+      "lon": 31.200663,
+      "name": "Qawmeya Arabeya Secondary Bus Station",
       "type": "station",
       "country": "EG"
     },
@@ -1812,11 +2164,11 @@
       "country": "EG"
     },
     {
-      "id": 3029581310,
-      "lat": 29.725841,
-      "lon": 35.003578,
-      "name": "Ramon International Airport station (planned)",
-      "type": "proposed",
+      "id": 3107143041,
+      "lat": 30.060454,
+      "lon": 31.243235,
+      "name": "Ramsis (Al Taawon St. Entering Station)",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -1836,22 +2188,6 @@
       "country": "EG"
     },
     {
-      "id": 3469617665,
-      "lat": 31.449571,
-      "lon": 34.406184,
-      "name": "Rashīda Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 60101353,
-      "lat": 30.080528,
-      "lon": 31.245871,
-      "name": "Rawd El-Farag",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 3461839995,
       "lat": 30.001094,
       "lon": 31.191989,
@@ -1860,10 +2196,10 @@
       "country": "EG"
     },
     {
-      "id": 13146732021,
-      "lat": 27.435065,
-      "lon": 33.659191,
-      "name": "Riah Kite Academy - Station",
+      "id": 8263581376,
+      "lat": 29.990608,
+      "lon": 31.13265,
+      "name": "Remaya Sq. (Entrance to Station)",
       "type": "station",
       "country": "EG"
     },
@@ -1877,8 +2213,8 @@
     },
     {
       "id": 4669952291,
-      "lat": 31.236307,
-      "lon": 29.957176,
+      "lat": 31.236199,
+      "lon": 29.957007,
       "name": "Saba Basha Station",
       "type": "tram_stop",
       "country": "EG"
@@ -1892,6 +2228,38 @@
       "country": "EG"
     },
     {
+      "id": 6266745000,
+      "lat": 30.178233,
+      "lon": 31.420544,
+      "name": "Salam Alexandria Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6352268086,
+      "lat": 30.178281,
+      "lon": 31.42074,
+      "name": "Salam Alexandria Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 325622830,
+      "lat": 30.154794,
+      "lon": 31.408407,
+      "name": "Salam Station (10th of Ramadan Station Entrance - Al Sadat St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 2297524887,
+      "lat": 30.154844,
+      "lon": 31.408742,
+      "name": "Salam Station (10th of Ramadan Station Entrance - Al Sadat St.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 3909161128,
       "lat": 31.24502,
       "lon": 29.968175,
@@ -1900,34 +2268,10 @@
       "country": "EG"
     },
     {
-      "id": 1323527509,
-      "lat": 30.613293,
-      "lon": 35.184685,
-      "name": "sapir school bus station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 504280512,
-      "lat": 31.524662,
-      "lon": 34.470263,
-      "name": "Sewage Treatment Station - Gaza municipality",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 431792658,
-      "lat": 31.445192,
-      "lon": 34.990612,
-      "name": "Shaheen Gas Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 432249194,
-      "lat": 31.507799,
-      "lon": 35.108917,
-      "name": "Shaheen Gas Station",
+      "id": 1531391128,
+      "lat": 29.985716,
+      "lon": 31.288563,
+      "name": "Saqr Quraish (Nasr Rd._",
       "type": "station",
       "country": "EG"
     },
@@ -1944,14 +2288,6 @@
       "lat": 27.900657,
       "lon": 34.286113,
       "name": "Sharm Taxi Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 505094855,
-      "lat": 31.338935,
-      "lon": 34.307175,
-      "name": "Shbair Petrol Station",
       "type": "station",
       "country": "EG"
     },
@@ -1980,10 +2316,18 @@
       "country": "EG"
     },
     {
-      "id": 11849800815,
-      "lat": 30.001557,
-      "lon": 31.504161,
-      "name": "Smoking Vape Cigarette shop - سجاير وفيب",
+      "id": 6589270025,
+      "lat": 29.973361,
+      "lon": 31.280345,
+      "name": "Singarea Asian Market",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391146,
+      "lat": 30.078058,
+      "lon": 30.918221,
+      "name": "Sphinx Airport",
       "type": "station",
       "country": "EG"
     },
@@ -2004,22 +2348,6 @@
       "country": "EG"
     },
     {
-      "id": 1232414057,
-      "lat": 30.005975,
-      "lon": 31.770068,
-      "name": "Station 22",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 695826598,
-      "lat": 29.546936,
-      "lon": 35.023914,
-      "name": "Station Jo Petrol",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 10861562220,
       "lat": 28.090576,
       "lon": 30.81448,
@@ -2036,26 +2364,18 @@
       "country": "EG"
     },
     {
-      "id": 11849766632,
-      "lat": 30.00152,
-      "lon": 31.50192,
-      "name": "Supermarket cigarette shop سوبر ماركت وسجاير",
+      "id": 6727210519,
+      "lat": 29.834641,
+      "lon": 31.356312,
+      "name": "Taaqa Gas Station (15th of May)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 432255654,
-      "lat": 31.538267,
-      "lon": 35.055502,
-      "name": "Tafoh Petrol Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 41316265,
-      "lat": 31.284062,
-      "lon": 34.251128,
-      "name": "Tal Elsultan Parking",
+      "id": 6727210520,
+      "lat": 29.834853,
+      "lon": 31.35618,
+      "name": "Taaqa Gas Station (15th of May)",
       "type": "station",
       "country": "EG"
     },
@@ -2072,6 +2392,22 @@
       "lat": 29.994063,
       "lon": 31.321585,
       "name": "Taqa Gas Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 4320383526,
+      "lat": 29.860046,
+      "lon": 31.27894,
+      "name": "Taqa Gas Station (Badrasheen)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 7872802789,
+      "lat": 29.860077,
+      "lon": 31.279043,
+      "name": "Taqa Gas Station (Badrasheen)",
       "type": "station",
       "country": "EG"
     },
@@ -2148,10 +2484,90 @@
       "country": "EG"
     },
     {
-      "id": 431633752,
-      "lat": 31.635692,
-      "lon": 35.21576,
-      "name": "Tqo' Gas Station",
+      "id": 10880869928,
+      "lat": 30.013175,
+      "lon": 31.297972,
+      "name": "Togareyeen City (Al Moqattam)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 10880869929,
+      "lat": 30.013042,
+      "lon": 31.297937,
+      "name": "Togareyeen City (Al Moqattam)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13922646260,
+      "lat": 30.025636,
+      "lon": 31.460875,
+      "name": "Tolip Plaza/Narges Monorail Station Bus Stop",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13922646266,
+      "lat": 30.02531,
+      "lon": 31.460756,
+      "name": "Tolip Plaza/Narges Monorail Station Bus Stop",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13625664901,
+      "lat": 30.275983,
+      "lon": 31.502978,
+      "name": "Total Energies Gas Station",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 901227157,
+      "lat": 29.981994,
+      "lon": 31.289114,
+      "name": "Total Gas Station (Autostrad)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13483376932,
+      "lat": 29.982111,
+      "lon": 31.289482,
+      "name": "Total Gas Station (Autostrad)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 901227134,
+      "lat": 29.981783,
+      "lon": 31.289257,
+      "name": "Total Gas Station (Autostrad) (Fast)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 13945232030,
+      "lat": 29.981778,
+      "lon": 31.28941,
+      "name": "Total Gas Station (Autostrad) (Fast)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1852877867,
+      "lat": 30.139825,
+      "lon": 31.206193,
+      "name": "Total Gas Station Bassous (Ring Rd.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 7192565873,
+      "lat": 30.139927,
+      "lon": 31.206019,
+      "name": "Total Gas Station Bassous (Ring Rd.)",
       "type": "station",
       "country": "EG"
     },
@@ -2185,14 +2601,6 @@
       "lon": 31.794321,
       "name": "Unnamed (node 10090667255)",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 10116561964,
-      "lat": 31.145248,
-      "lon": 34.791719,
-      "name": "Unnamed (node 10116561964)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -2344,14 +2752,6 @@
       "lat": 31.292792,
       "lon": 30.07597,
       "name": "Unnamed (node 1039956166)",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 1039956403,
-      "lat": 31.271182,
-      "lon": 30.230176,
-      "name": "Unnamed (node 1039956403)",
       "type": "halt",
       "country": "EG"
     },
@@ -3316,14 +3716,6 @@
       "country": "EG"
     },
     {
-      "id": 10594147464,
-      "lat": 31.178166,
-      "lon": 32.037384,
-      "name": "Unnamed (node 10594147464)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 10596062371,
       "lat": 31.19344,
       "lon": 31.290918,
@@ -3604,22 +3996,6 @@
       "country": "EG"
     },
     {
-      "id": 10601328382,
-      "lat": 31.277398,
-      "lon": 30.250581,
-      "name": "Unnamed (node 10601328382)",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 10601328393,
-      "lat": 31.265174,
-      "lon": 30.207136,
-      "name": "Unnamed (node 10601328393)",
-      "type": "halt",
-      "country": "EG"
-    },
-    {
       "id": 10601354324,
       "lat": 31.267525,
       "lon": 30.126232,
@@ -3784,14 +4160,6 @@
       "lat": 30.466532,
       "lon": 31.178529,
       "name": "Unnamed (node 10605725934)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 10607098523,
-      "lat": 31.309947,
-      "lon": 34.792863,
-      "name": "Unnamed (node 10607098523)",
       "type": "buffer_stop",
       "country": "EG"
     },
@@ -4124,14 +4492,6 @@
       "country": "EG"
     },
     {
-      "id": 10685533579,
-      "lat": 29.332679,
-      "lon": 31.142433,
-      "name": "Unnamed (node 10685533579)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 10685572652,
       "lat": 29.342692,
       "lon": 31.203918,
@@ -4196,43 +4556,11 @@
       "country": "EG"
     },
     {
-      "id": 10723656636,
-      "lat": 29.560878,
-      "lon": 35.047341,
-      "name": "Unnamed (node 10723656636)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 10723656689,
-      "lat": 29.628939,
-      "lon": 35.714673,
-      "name": "Unnamed (node 10723656689)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 10723664106,
-      "lat": 29.724184,
-      "lon": 35.873904,
-      "name": "Unnamed (node 10723664106)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1093711418,
       "lat": 30.742504,
       "lon": 31.071076,
       "name": "Unnamed (node 1093711418)",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 1120189334,
-      "lat": 31.243002,
-      "lon": 34.798477,
-      "name": "Unnamed (node 1120189334)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -4265,22 +4593,6 @@
       "lon": 27.733986,
       "name": "Unnamed (node 1174185363)",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 11747589272,
-      "lat": 31.239183,
-      "lon": 34.805213,
-      "name": "Unnamed (node 11747589272)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 11768925092,
-      "lat": 31.416196,
-      "lon": 34.791477,
-      "name": "Unnamed (node 11768925092)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -4332,30 +4644,6 @@
       "country": "EG"
     },
     {
-      "id": 12204707793,
-      "lat": 30.016903,
-      "lon": 31.631,
-      "name": "Unnamed (node 12204707793)",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204710521,
-      "lat": 30.017251,
-      "lon": 31.689148,
-      "name": "Unnamed (node 12204710521)",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 12204710522,
-      "lat": 30.017322,
-      "lon": 31.689175,
-      "name": "Unnamed (node 12204710522)",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
       "id": 12204962770,
       "lat": 30.008729,
       "lon": 31.727799,
@@ -4384,7 +4672,7 @@
       "lat": 29.896427,
       "lon": 31.694789,
       "name": "Unnamed (node 12205083324)",
-      "type": "stop",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -4392,7 +4680,7 @@
       "lat": 29.896429,
       "lon": 31.694688,
       "name": "Unnamed (node 12205083325)",
-      "type": "stop",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -4432,6 +4720,14 @@
       "lat": 30.14553,
       "lon": 31.41816,
       "name": "Unnamed (node 12205636997)",
+      "type": "buffer_stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206899294,
+      "lat": 30.07407,
+      "lon": 31.315915,
+      "name": "Unnamed (node 12206899294)",
       "type": "buffer_stop",
       "country": "EG"
     },
@@ -4477,32 +4773,32 @@
     },
     {
       "id": 12214094941,
-      "lat": 27.874,
-      "lon": 30.550286,
+      "lat": 27.873803,
+      "lon": 30.550129,
       "name": "Unnamed (node 12214094941)",
       "type": "station",
       "country": "EG"
     },
     {
       "id": 12214095969,
-      "lat": 28.716316,
-      "lon": 30.617609,
+      "lat": 28.716801,
+      "lon": 30.617453,
       "name": "Unnamed (node 12214095969)",
       "type": "station",
       "country": "EG"
     },
     {
       "id": 12214095988,
-      "lat": 28.537538,
-      "lon": 30.574436,
+      "lat": 28.537601,
+      "lon": 30.573695,
       "name": "Unnamed (node 12214095988)",
       "type": "station",
       "country": "EG"
     },
     {
       "id": 12214142962,
-      "lat": 27.540924,
-      "lon": 30.65811,
+      "lat": 27.540836,
+      "lon": 30.658131,
       "name": "Unnamed (node 12214142962)",
       "type": "station",
       "country": "EG"
@@ -4548,65 +4844,9 @@
       "country": "EG"
     },
     {
-      "id": 12220439196,
-      "lat": 31.668997,
-      "lon": 34.604417,
-      "name": "Unnamed (node 12220439196)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156005,
-      "lat": 31.66105,
-      "lon": 34.604885,
-      "name": "Unnamed (node 12222156005)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156010,
-      "lat": 31.663159,
-      "lon": 34.604109,
-      "name": "Unnamed (node 12222156010)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156023,
-      "lat": 31.663622,
-      "lon": 34.604543,
-      "name": "Unnamed (node 12222156023)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156038,
-      "lat": 31.660926,
-      "lon": 34.604756,
-      "name": "Unnamed (node 12222156038)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156047,
-      "lat": 31.660824,
-      "lon": 34.604577,
-      "name": "Unnamed (node 12222156047)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12222156048,
-      "lat": 31.660905,
-      "lon": 34.604626,
-      "name": "Unnamed (node 12222156048)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 12222395266,
-      "lat": 26.82513,
-      "lon": 31.158804,
+      "lat": 26.821782,
+      "lon": 31.162423,
       "name": "Unnamed (node 12222395266)",
       "type": "station",
       "country": "EG"
@@ -4624,62 +4864,6 @@
       "lat": 29.819099,
       "lon": 30.6632,
       "name": "Unnamed (node 12396906904)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12613351622,
-      "lat": 31.625957,
-      "lon": 34.588181,
-      "name": "Unnamed (node 12613351622)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740697463,
-      "lat": 31.596701,
-      "lon": 34.755207,
-      "name": "Unnamed (node 12740697463)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740697469,
-      "lat": 31.600358,
-      "lon": 34.764108,
-      "name": "Unnamed (node 12740697469)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740848541,
-      "lat": 31.327789,
-      "lon": 34.7938,
-      "name": "Unnamed (node 12740848541)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740848543,
-      "lat": 31.33813,
-      "lon": 34.796554,
-      "name": "Unnamed (node 12740848543)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740855779,
-      "lat": 31.484975,
-      "lon": 34.784034,
-      "name": "Unnamed (node 12740855779)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 12740905566,
-      "lat": 31.253158,
-      "lon": 34.824033,
-      "name": "Unnamed (node 12740905566)",
       "type": "buffer_stop",
       "country": "EG"
     },
@@ -4716,18 +4900,10 @@
       "country": "EG"
     },
     {
-      "id": 1411934160,
-      "lat": 31.416811,
-      "lon": 34.788502,
-      "name": "Unnamed (node 1411934160)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 1493750081,
-      "lat": 31.364609,
-      "lon": 36.111771,
-      "name": "Unnamed (node 1493750081)",
+      "id": 13747497239,
+      "lat": 30.820783,
+      "lon": 31.118741,
+      "name": "Unnamed (node 13747497239)",
       "type": "station",
       "country": "EG"
     },
@@ -4900,46 +5076,6 @@
       "country": "EG"
     },
     {
-      "id": 2313602133,
-      "lat": 21.817539,
-      "lon": 31.335762,
-      "name": "Unnamed (node 2313602133)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2320515656,
-      "lat": 21.803203,
-      "lon": 31.338187,
-      "name": "Unnamed (node 2320515656)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2320515661,
-      "lat": 21.803283,
-      "lon": 31.33816,
-      "name": "Unnamed (node 2320515661)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2320515743,
-      "lat": 21.804979,
-      "lon": 31.34498,
-      "name": "Unnamed (node 2320515743)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2320515764,
-      "lat": 21.805713,
-      "lon": 31.34158,
-      "name": "Unnamed (node 2320515764)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 2544998374,
       "lat": 24.884275,
       "lon": 30.567926,
@@ -5036,110 +5172,6 @@
       "country": "EG"
     },
     {
-      "id": 2973741372,
-      "lat": 31.135393,
-      "lon": 34.791808,
-      "name": "Unnamed (node 2973741372)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973741406,
-      "lat": 31.139018,
-      "lon": 34.791607,
-      "name": "Unnamed (node 2973741406)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973741425,
-      "lat": 31.13909,
-      "lon": 34.790889,
-      "name": "Unnamed (node 2973741425)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973787776,
-      "lat": 31.06973,
-      "lon": 35.010984,
-      "name": "Unnamed (node 2973787776)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973804381,
-      "lat": 31.070892,
-      "lon": 35.005467,
-      "name": "Unnamed (node 2973804381)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973810873,
-      "lat": 31.070646,
-      "lon": 35.005213,
-      "name": "Unnamed (node 2973810873)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973810903,
-      "lat": 31.06401,
-      "lon": 35.020989,
-      "name": "Unnamed (node 2973810903)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2973814268,
-      "lat": 31.072716,
-      "lon": 35.001739,
-      "name": "Unnamed (node 2973814268)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2974097520,
-      "lat": 30.840575,
-      "lon": 35.096564,
-      "name": "Unnamed (node 2974097520)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2974097738,
-      "lat": 30.840785,
-      "lon": 35.080658,
-      "name": "Unnamed (node 2974097738)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2974097740,
-      "lat": 30.840803,
-      "lon": 35.096698,
-      "name": "Unnamed (node 2974097740)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2974123690,
-      "lat": 30.911623,
-      "lon": 35.014125,
-      "name": "Unnamed (node 2974123690)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 2974123694,
-      "lat": 30.911575,
-      "lon": 35.014189,
-      "name": "Unnamed (node 2974123694)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 318019172,
       "lat": 31.186798,
       "lon": 27.53932,
@@ -5185,30 +5217,6 @@
       "lon": 29.64798,
       "name": "Unnamed (node 336374479)",
       "type": "service_station",
-      "country": "EG"
-    },
-    {
-      "id": 3672357384,
-      "lat": 31.242937,
-      "lon": 34.79826,
-      "name": "Unnamed (node 3672357384)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 3672357389,
-      "lat": 31.242952,
-      "lon": 34.798312,
-      "name": "Unnamed (node 3672357389)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 3672357413,
-      "lat": 31.242985,
-      "lon": 34.798421,
-      "name": "Unnamed (node 3672357413)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -5396,155 +5404,11 @@
       "country": "EG"
     },
     {
-      "id": 4523869744,
-      "lat": 31.592903,
-      "lon": 34.774303,
-      "name": "Unnamed (node 4523869744)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4523869747,
-      "lat": 31.59574,
-      "lon": 34.775047,
-      "name": "Unnamed (node 4523869747)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4523869748,
-      "lat": 31.595288,
-      "lon": 34.775122,
-      "name": "Unnamed (node 4523869748)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4523869750,
-      "lat": 31.608197,
-      "lon": 34.780231,
-      "name": "Unnamed (node 4523869750)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4523869751,
-      "lat": 31.609548,
-      "lon": 34.780579,
-      "name": "Unnamed (node 4523869751)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4524425385,
-      "lat": 31.414489,
-      "lon": 34.56554,
-      "name": "Unnamed (node 4524425385)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4524425386,
-      "lat": 31.41443,
-      "lon": 34.565304,
-      "name": "Unnamed (node 4524425386)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4524500002,
-      "lat": 31.412714,
-      "lon": 34.794913,
-      "name": "Unnamed (node 4524500002)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4528289066,
-      "lat": 31.238955,
-      "lon": 34.801619,
-      "name": "Unnamed (node 4528289066)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4589355524,
-      "lat": 31.037572,
-      "lon": 35.083466,
-      "name": "Unnamed (node 4589355524)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4589355531,
-      "lat": 31.041386,
-      "lon": 35.07875,
-      "name": "Unnamed (node 4589355531)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4589355619,
-      "lat": 31.053705,
-      "lon": 35.188542,
-      "name": "Unnamed (node 4589355619)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 4621674689,
       "lat": 24.990207,
       "lon": 32.889304,
       "name": "Unnamed (node 4621674689)",
       "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 4770733959,
-      "lat": 31.666662,
-      "lon": 34.604831,
-      "name": "Unnamed (node 4770733959)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4847403965,
-      "lat": 31.192755,
-      "lon": 34.940744,
-      "name": "Unnamed (node 4847403965)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4847403966,
-      "lat": 31.198251,
-      "lon": 34.927837,
-      "name": "Unnamed (node 4847403966)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4966014252,
-      "lat": 31.323586,
-      "lon": 34.630554,
-      "name": "Unnamed (node 4966014252)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4966014255,
-      "lat": 31.319118,
-      "lon": 34.640207,
-      "name": "Unnamed (node 4966014255)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 4966078438,
-      "lat": 31.31141,
-      "lon": 34.792947,
-      "name": "Unnamed (node 4966078438)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -5585,22 +5449,6 @@
       "lon": 32.928109,
       "name": "Unnamed (node 5316869732)",
       "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 5465006810,
-      "lat": 31.408961,
-      "lon": 34.574476,
-      "name": "Unnamed (node 5465006810)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5465006811,
-      "lat": 31.409086,
-      "lon": 34.574562,
-      "name": "Unnamed (node 5465006811)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -5673,110 +5521,6 @@
       "lon": 32.882167,
       "name": "Unnamed (node 5639657927)",
       "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 5733275625,
-      "lat": 31.037396,
-      "lon": 35.075557,
-      "name": "Unnamed (node 5733275625)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972402713,
-      "lat": 30.895754,
-      "lon": 34.987408,
-      "name": "Unnamed (node 5972402713)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972402716,
-      "lat": 30.899567,
-      "lon": 34.992489,
-      "name": "Unnamed (node 5972402716)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561698,
-      "lat": 31.037344,
-      "lon": 35.064237,
-      "name": "Unnamed (node 5972561698)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561705,
-      "lat": 31.037524,
-      "lon": 35.064788,
-      "name": "Unnamed (node 5972561705)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561708,
-      "lat": 31.037569,
-      "lon": 35.075826,
-      "name": "Unnamed (node 5972561708)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561711,
-      "lat": 31.066086,
-      "lon": 35.019086,
-      "name": "Unnamed (node 5972561711)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561744,
-      "lat": 31.069461,
-      "lon": 35.008321,
-      "name": "Unnamed (node 5972561744)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972561749,
-      "lat": 31.070262,
-      "lon": 35.007204,
-      "name": "Unnamed (node 5972561749)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972602437,
-      "lat": 31.152639,
-      "lon": 34.996343,
-      "name": "Unnamed (node 5972602437)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972602438,
-      "lat": 31.15314,
-      "lon": 34.996301,
-      "name": "Unnamed (node 5972602438)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972602439,
-      "lat": 31.14286,
-      "lon": 35.000152,
-      "name": "Unnamed (node 5972602439)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 5972602441,
-      "lat": 31.143319,
-      "lon": 35.000131,
-      "name": "Unnamed (node 5972602441)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -5940,22 +5684,6 @@
       "country": "EG"
     },
     {
-      "id": 6566080497,
-      "lat": 31.503692,
-      "lon": 34.587861,
-      "name": "Unnamed (node 6566080497)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 6566080516,
-      "lat": 31.494277,
-      "lon": 34.590744,
-      "name": "Unnamed (node 6566080516)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
       "id": 6604373614,
       "lat": 30.320456,
       "lon": 30.499326,
@@ -5964,26 +5692,10 @@
       "country": "EG"
     },
     {
-      "id": 6847385907,
-      "lat": 31.424202,
-      "lon": 34.790898,
-      "name": "Unnamed (node 6847385907)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 7358233117,
-      "lat": 31.242468,
-      "lon": 34.798831,
-      "name": "Unnamed (node 7358233117)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 8059135808,
-      "lat": 31.239126,
-      "lon": 34.801676,
-      "name": "Unnamed (node 8059135808)",
+      "id": 7867684221,
+      "lat": 30.074036,
+      "lon": 31.315851,
+      "name": "Unnamed (node 7867684221)",
       "type": "buffer_stop",
       "country": "EG"
     },
@@ -6001,22 +5713,6 @@
       "lon": 31.335141,
       "name": "Unnamed (node 8176589344)",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 8401895422,
-      "lat": 31.248819,
-      "lon": 34.824634,
-      "name": "Unnamed (node 8401895422)",
-      "type": "buffer_stop",
-      "country": "EG"
-    },
-    {
-      "id": 8401895424,
-      "lat": 31.248962,
-      "lon": 34.824469,
-      "name": "Unnamed (node 8401895424)",
-      "type": "buffer_stop",
       "country": "EG"
     },
     {
@@ -6096,30 +5792,6 @@
       "lat": 28.096765,
       "lon": 30.753893,
       "name": "Unnamed (way 1005507345)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 102014223,
-      "lat": 29.724064,
-      "lon": 35.87375,
-      "name": "Unnamed (way 102014223)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 102014269,
-      "lat": 29.639644,
-      "lon": 35.55283,
-      "name": "Unnamed (way 102014269)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 102014348,
-      "lat": 29.628894,
-      "lon": 35.714816,
-      "name": "Unnamed (way 102014348)",
       "type": "station",
       "country": "EG"
     },
@@ -6668,14 +6340,6 @@
       "country": "EG"
     },
     {
-      "id": 1134773161,
-      "lat": 30.164595,
-      "lon": 31.339306,
-      "name": "Unnamed (way 1134773161)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1135092527,
       "lat": 30.185906,
       "lon": 31.354096,
@@ -6812,14 +6476,6 @@
       "country": "EG"
     },
     {
-      "id": 1136460904,
-      "lat": 31.176481,
-      "lon": 32.034577,
-      "name": "Unnamed (way 1136460904)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1136471654,
       "lat": 31.191527,
       "lon": 31.526848,
@@ -6944,14 +6600,6 @@
       "lat": 31.408142,
       "lon": 30.419472,
       "name": "Unnamed (way 1137222511)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1137257318,
-      "lat": 31.267283,
-      "lon": 30.174316,
-      "name": "Unnamed (way 1137257318)",
       "type": "station",
       "country": "EG"
     },
@@ -7148,38 +6796,6 @@
       "country": "EG"
     },
     {
-      "id": 1152954004,
-      "lat": 29.560951,
-      "lon": 35.047513,
-      "name": "Unnamed (way 1152954004)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1152956730,
-      "lat": 29.926726,
-      "lon": 35.937772,
-      "name": "Unnamed (way 1152956730)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1152956733,
-      "lat": 29.996119,
-      "lon": 35.930837,
-      "name": "Unnamed (way 1152956733)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1152956740,
-      "lat": 30.182242,
-      "lon": 35.766438,
-      "name": "Unnamed (way 1152956740)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1210062063,
       "lat": 30.294235,
       "lon": 31.744786,
@@ -7292,26 +6908,10 @@
       "country": "EG"
     },
     {
-      "id": 125362964,
-      "lat": 31.317259,
-      "lon": 35.35468,
-      "name": "Unnamed (way 125362964)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1256644395,
       "lat": 31.38705,
       "lon": 30.411092,
       "name": "Unnamed (way 1256644395)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1266459557,
-      "lat": 28.109241,
-      "lon": 35.112341,
-      "name": "Unnamed (way 1266459557)",
       "type": "station",
       "country": "EG"
     },
@@ -7328,14 +6928,6 @@
       "lat": 29.961655,
       "lon": 31.315504,
       "name": "Unnamed (way 1321707344)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1324066349,
-      "lat": 29.899194,
-      "lon": 31.454242,
-      "name": "Unnamed (way 1324066349)",
       "type": "station",
       "country": "EG"
     },
@@ -7380,10 +6972,50 @@
       "country": "EG"
     },
     {
+      "id": 1504131492,
+      "lat": 30.055518,
+      "lon": 31.412478,
+      "name": "Unnamed (way 1504131492)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 151409774,
       "lat": 30.005601,
       "lon": 31.20801,
       "name": "Unnamed (way 151409774)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1525633726,
+      "lat": 30.024105,
+      "lon": 31.263487,
+      "name": "Unnamed (way 1525633726)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391112,
+      "lat": 29.991018,
+      "lon": 31.344466,
+      "name": "Unnamed (way 1531391112)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391168,
+      "lat": 30.128051,
+      "lon": 31.300772,
+      "name": "Unnamed (way 1531391168)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391173,
+      "lat": 30.072909,
+      "lon": 31.285913,
+      "name": "Unnamed (way 1531391173)",
       "type": "station",
       "country": "EG"
     },
@@ -7396,18 +7028,26 @@
       "country": "EG"
     },
     {
-      "id": 232265053,
-      "lat": 31.045462,
-      "lon": 31.388449,
-      "name": "Unnamed (way 232265053)",
+      "id": 1536109522,
+      "lat": 29.981929,
+      "lon": 31.212141,
+      "name": "Unnamed (way 1536109522)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 237036378,
-      "lat": 31.515616,
-      "lon": 34.586859,
-      "name": "Unnamed (way 237036378)",
+      "id": 1544319427,
+      "lat": 30.824935,
+      "lon": 28.955397,
+      "name": "Unnamed (way 1544319427)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 232265053,
+      "lat": 31.045462,
+      "lon": 31.388449,
+      "name": "Unnamed (way 232265053)",
       "type": "station",
       "country": "EG"
     },
@@ -7428,14 +7068,6 @@
       "country": "EG"
     },
     {
-      "id": 28822359,
-      "lat": 30.127227,
-      "lon": 31.364207,
-      "name": "Unnamed (way 28822359)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 28826177,
       "lat": 31.219252,
       "lon": 29.948919,
@@ -7452,42 +7084,18 @@
       "country": "EG"
     },
     {
+      "id": 28826667,
+      "lat": 31.193249,
+      "lon": 29.906473,
+      "name": "Unnamed (way 28826667)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 28826679,
       "lat": 31.219029,
       "lon": 29.942307,
       "name": "Unnamed (way 28826679)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 293522036,
-      "lat": 31.262166,
-      "lon": 34.809388,
-      "name": "Unnamed (way 293522036)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 293522040,
-      "lat": 31.261944,
-      "lon": 34.80928,
-      "name": "Unnamed (way 293522040)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 293796816,
-      "lat": 31.06917,
-      "lon": 35.011515,
-      "name": "Unnamed (way 293796816)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 294139519,
-      "lat": 31.603384,
-      "lon": 34.777791,
-      "name": "Unnamed (way 294139519)",
       "type": "station",
       "country": "EG"
     },
@@ -7508,14 +7116,6 @@
       "country": "EG"
     },
     {
-      "id": 33262197,
-      "lat": 30.09379,
-      "lon": 31.319453,
-      "name": "Unnamed (way 33262197)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 372369454,
       "lat": 30.063708,
       "lon": 31.245975,
@@ -7528,14 +7128,6 @@
       "lat": 24.287008,
       "lon": 35.379741,
       "name": "Unnamed (way 38813127)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 521209450,
-      "lat": 31.321444,
-      "lon": 34.633863,
-      "name": "Unnamed (way 521209450)",
       "type": "station",
       "country": "EG"
     },
@@ -7669,8 +7261,8 @@
     },
     {
       "id": 613748278,
-      "lat": 30.895598,
-      "lon": 29.548776,
+      "lat": 30.895627,
+      "lon": 29.548734,
       "name": "Unnamed (way 613748278)",
       "type": "station",
       "country": "EG"
@@ -7733,8 +7325,8 @@
     },
     {
       "id": 645680868,
-      "lat": 30.824628,
-      "lon": 28.956283,
+      "lat": 30.824598,
+      "lon": 28.956271,
       "name": "Unnamed (way 645680868)",
       "type": "station",
       "country": "EG"
@@ -7788,66 +7380,10 @@
       "country": "EG"
     },
     {
-      "id": 663325102,
-      "lat": 31.410957,
-      "lon": 34.571946,
-      "name": "Unnamed (way 663325102)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 664358139,
-      "lat": 29.532534,
-      "lon": 35.017468,
-      "name": "Unnamed (way 664358139)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 692215246,
       "lat": 30.998025,
       "lon": 29.764446,
       "name": "Unnamed (way 692215246)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 699403310,
-      "lat": 31.515915,
-      "lon": 34.585505,
-      "name": "Unnamed (way 699403310)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 754285268,
-      "lat": 30.840563,
-      "lon": 35.086145,
-      "name": "Unnamed (way 754285268)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 785984544,
-      "lat": 29.323694,
-      "lon": 36.026502,
-      "name": "Unnamed (way 785984544)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 851307946,
-      "lat": 29.674198,
-      "lon": 35.912479,
-      "name": "Unnamed (way 851307946)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 851307997,
-      "lat": 29.32211,
-      "lon": 36.027059,
-      "name": "Unnamed (way 851307997)",
       "type": "station",
       "country": "EG"
     },
@@ -7868,46 +7404,6 @@
       "country": "EG"
     },
     {
-      "id": 980006557,
-      "lat": 30.002601,
-      "lon": 35.489439,
-      "name": "Unnamed (way 980006557)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 980244899,
-      "lat": 30.328382,
-      "lon": 35.768735,
-      "name": "Unnamed (way 980244899)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 980611186,
-      "lat": 30.818674,
-      "lon": 35.977264,
-      "name": "Unnamed (way 980611186)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 980620393,
-      "lat": 31.242223,
-      "lon": 36.045063,
-      "name": "Unnamed (way 980620393)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 995052057,
-      "lat": 30.487183,
-      "lon": 35.797924,
-      "name": "Unnamed (way 995052057)",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 171490708,
       "lat": 27.248087,
       "lon": 33.823143,
@@ -7920,38 +7416,6 @@
       "lat": 30.088148,
       "lon": 31.253451,
       "name": "Vitctoria's Gas Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 7083555935,
-      "lat": 30.318953,
-      "lon": 35.47945,
-      "name": "Wadi Musa Bus Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 851307991,
-      "lat": 29.46116,
-      "lon": 35.96832,
-      "name": "Wadi Rassim",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 10723656664,
-      "lat": 29.699523,
-      "lon": 35.396538,
-      "name": "Wadi Rum",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 169048721,
-      "lat": 29.699399,
-      "lon": 35.396455,
-      "name": "Wadi Rum Station",
       "type": "station",
       "country": "EG"
     },
@@ -7980,6 +7444,46 @@
       "country": "EG"
     },
     {
+      "id": 7872990851,
+      "lat": 29.869928,
+      "lon": 31.305386,
+      "name": "Wataneya Gas Station (Al Nasr Company)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 583589661,
+      "lat": 29.974722,
+      "lon": 31.290144,
+      "name": "Wataneya Gas Station (Autostrad Maadi)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 4325399111,
+      "lat": 29.974678,
+      "lon": 31.289935,
+      "name": "Wataneya Gas Station (Autostrad Maadi)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1853436584,
+      "lat": 29.986861,
+      "lon": 31.308427,
+      "name": "Wataneya Gas Station (Kattameya Ring Rd.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 6303111596,
+      "lat": 29.987051,
+      "lon": 31.308461,
+      "name": "Wataneya Gas Station (Kattameya Ring Rd.)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 5602385522,
       "lat": 24.06264,
       "lon": 32.883537,
@@ -7988,26 +7492,18 @@
       "country": "EG"
     },
     {
-      "id": 2405053657,
-      "lat": 29.375666,
-      "lon": 34.795638,
-      "name": "Waterworld Station",
+      "id": 4333584786,
+      "lat": 30.020891,
+      "lon": 31.097727,
+      "name": "Water Station (Alexandria Desert Road)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 431989907,
-      "lat": 31.453817,
-      "lon": 35.103608,
-      "name": "Yatta Police Station",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 505110560,
-      "lat": 31.271907,
-      "lon": 34.294239,
-      "name": "Yousif Hamed Bahlol Petrol Station",
+      "id": 13945232039,
+      "lat": 30.020936,
+      "lon": 31.097845,
+      "name": "Water Station (Alexandria Desert Road)",
       "type": "station",
       "country": "EG"
     },
@@ -8032,174 +7528,6 @@
       "lat": 27.177379,
       "lon": 31.193649,
       "name": "Ziad cafe & Monster Playstation",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 3988591607,
-      "lat": 31.32151,
-      "lon": 34.63423,
-      "name": "אופקים",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 2930618425,
-      "lat": 31.243076,
-      "lon": 34.798384,
-      "name": "באר שבע מרכז",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 621348196,
-      "lat": 31.261895,
-      "lon": 34.809396,
-      "name": "באר שבע צפון-אוניברסיטה",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 3130051677,
-      "lat": 31.068923,
-      "lon": 35.011833,
-      "name": "דימונה",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 311609846,
-      "lat": 31.369785,
-      "lon": 34.798018,
-      "name": "להבים רהט",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 5188605493,
-      "lat": 31.369818,
-      "lon": 34.798165,
-      "name": "להבים רהט",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 7046905686,
-      "lat": 31.037274,
-      "lon": 35.072261,
-      "name": "ממשית",
-      "type": "service_station",
-      "country": "EG"
-    },
-    {
-      "id": 3982823163,
-      "lat": 31.410749,
-      "lon": 34.571711,
-      "name": "נתיבות",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 2930618427,
-      "lat": 31.603149,
-      "lon": 34.777927,
-      "name": "קריית גת",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 4482230311,
-      "lat": 31.515774,
-      "lon": 34.585427,
-      "name": "שדרות",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 4781772422,
-      "lat": 31.515958,
-      "lon": 34.585561,
-      "name": "שדרות",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 6566080504,
-      "lat": 31.513735,
-      "lon": 34.585281,
-      "name": "שדרות",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 456165409,
-      "lat": 31.514457,
-      "lon": 34.585966,
-      "name": "שדרות",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 13341910479,
-      "lat": 30.938295,
-      "lon": 34.661839,
-      "name": "שרידים של תחנת רכבת טורקית",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 959704805,
-      "lat": 29.556381,
-      "lon": 34.952437,
-      "name": "תחנה מרכזית אילת",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 221010883,
-      "lat": 31.664212,
-      "lon": 34.566514,
-      "name": "תחנה מרכזית אשקלון",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 363031602,
-      "lat": 31.242711,
-      "lon": 34.796796,
-      "name": "תחנה מרכזית באר שבע",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 178883771,
-      "lat": 31.256203,
-      "lon": 35.211634,
-      "name": "תחנה מרכזית ערד",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 604136246,
-      "lat": 31.037334,
-      "lon": 35.078856,
-      "name": "תחנה תפעולית ממשית",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 492759749,
-      "lat": 31.195202,
-      "lon": 34.934529,
-      "name": "תחנה תפעולית נבטים",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 604136242,
-      "lat": 31.149949,
-      "lon": 34.997171,
-      "name": "תחנה תפעולית ערוער",
       "type": "station",
       "country": "EG"
     },
@@ -8404,11 +7732,19 @@
       "country": "EG"
     },
     {
-      "id": 5194348153,
-      "lat": 30.072948,
-      "lon": 31.317396,
+      "id": 1654760266,
+      "lat": 30.072938,
+      "lon": 31.317404,
       "name": "الإستاد",
-      "type": "station",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 4979511765,
+      "lat": 30.07296,
+      "lon": 31.317386,
+      "name": "الإستاد",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -8517,8 +7853,8 @@
     },
     {
       "id": 1235803723,
-      "lat": 30.062257,
-      "lon": 31.267972,
+      "lat": 30.062252,
+      "lon": 31.267981,
       "name": "الجيش",
       "type": "stop",
       "country": "EG"
@@ -8529,14 +7865,6 @@
       "lon": 31.465318,
       "name": "الحاج خليل",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 1237958624,
-      "lat": 28.65,
-      "lon": 36.366667,
-      "name": "الحزم",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -8553,6 +7881,70 @@
       "lon": 31.270374,
       "name": "الحوامدية",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12204707792,
+      "lat": 30.016989,
+      "lon": 31.631012,
+      "name": "الحي R1",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204707793,
+      "lat": 30.016903,
+      "lon": 31.631,
+      "name": "الحي R1",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 8153887878,
+      "lat": 30.018235,
+      "lon": 31.663366,
+      "name": "الحي R2",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204707225,
+      "lat": 30.018323,
+      "lon": 31.663357,
+      "name": "الحي R2",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 1531391097,
+      "lat": 29.962478,
+      "lon": 30.901197,
+      "name": "الحي الحادي عشر (٦ أكتوبر)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8153887924,
+      "lat": 30.007939,
+      "lon": 31.744813,
+      "name": "الحي الحكومي",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204679423,
+      "lat": 30.008018,
+      "lon": 31.744816,
+      "name": "الحي الحكومي",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206826987,
+      "lat": 30.043768,
+      "lon": 31.330912,
+      "name": "الحي السابع",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -8700,14 +8092,6 @@
       "country": "EG"
     },
     {
-      "id": 5194246950,
-      "lat": 29.995252,
-      "lon": 31.231525,
-      "name": "الزهراء",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 316633428,
       "lat": 30.043948,
       "lon": 31.235378,
@@ -8846,15 +8230,7 @@
     {
       "id": 5194295698,
       "lat": 30.061774,
-      "lon": 31.246548,
-      "name": "الشهداء",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 5194295699,
-      "lat": 30.06176,
-      "lon": 31.246555,
+      "lon": 31.246552,
       "name": "الشهداء",
       "type": "stop",
       "country": "EG"
@@ -8965,18 +8341,18 @@
     },
     {
       "id": 317755256,
-      "lat": 30.052408,
-      "lon": 31.246937,
+      "lat": 30.052407,
+      "lon": 31.246878,
       "name": "العتبة",
       "type": "stop",
       "country": "EG"
     },
     {
-      "id": 10716097829,
-      "lat": 29.532799,
-      "lon": 35.017814,
-      "name": "العقبة",
-      "type": "station",
+      "id": 4979414356,
+      "lat": 30.052415,
+      "lon": 31.246837,
+      "name": "العتبة",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -8996,19 +8372,19 @@
       "country": "EG"
     },
     {
+      "id": 316710105,
+      "lat": 29.620009,
+      "lon": 31.255836,
+      "name": "العياط",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1629363954,
       "lat": 25.822552,
       "lon": 32.780385,
       "name": "العيايشة",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 316710105,
-      "lat": 29.620009,
-      "lon": 31.255836,
-      "name": "العيط",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -9061,18 +8437,10 @@
     },
     {
       "id": 4478874013,
-      "lat": 31.240433,
-      "lon": 29.961738,
+      "lat": 31.240458,
+      "lon": 29.961725,
       "name": "الفنون الجميلة",
       "type": "tram_stop",
-      "country": "EG"
-    },
-    {
-      "id": 1022171353,
-      "lat": 29.309064,
-      "lon": 30.847736,
-      "name": "الفيوم",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -9087,7 +8455,7 @@
       "id": 12213633143,
       "lat": 29.996462,
       "lon": 30.958317,
-      "name": "القطار السريع محطة ٦ أكتوبر",
+      "name": "القطار السريع محطة 6 أكتوبر",
       "type": "station",
       "country": "EG"
     },
@@ -9108,10 +8476,34 @@
       "country": "EG"
     },
     {
+      "id": 1531391092,
+      "lat": 29.930606,
+      "lon": 31.622608,
+      "name": "الكنيسة (الكيان) - العاصمة الإدارية الجديدة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 9077189602,
       "lat": 30.066828,
       "lon": 31.212997,
       "name": "الکيت کات",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204816177,
+      "lat": 30.013291,
+      "lon": 31.519595,
+      "name": "اللوتس",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204816178,
+      "lat": 30.013222,
+      "lon": 31.519531,
+      "name": "اللوتس",
       "type": "stop",
       "country": "EG"
     },
@@ -9128,14 +8520,6 @@
       "lat": 25.134081,
       "lon": 32.778199,
       "name": "المحاميد",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1236321309,
-      "lat": 28.491761,
-      "lon": 36.472298,
-      "name": "المحتطب",
       "type": "station",
       "country": "EG"
     },
@@ -9161,14 +8545,6 @@
       "lon": 31.335791,
       "name": "المرج",
       "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 325778920,
-      "lat": 30.16476,
-      "lon": 31.339599,
-      "name": "المرج",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -9220,6 +8596,38 @@
       "country": "EG"
     },
     {
+      "id": 12206658462,
+      "lat": 30.025404,
+      "lon": 31.490658,
+      "name": "المستثمرين",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206658463,
+      "lat": 30.02531,
+      "lon": 31.490655,
+      "name": "المستثمرين",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206697336,
+      "lat": 30.016322,
+      "lon": 31.433885,
+      "name": "المستشفى الجوي",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206759934,
+      "lat": 30.01625,
+      "lon": 31.433885,
+      "name": "المستشفى الجوي",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 9885252628,
       "lat": 30.173119,
       "lon": 31.5541,
@@ -9233,6 +8641,22 @@
       "lon": 31.554115,
       "name": "المستقبل",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12206833925,
+      "lat": 30.045452,
+      "lon": 31.346393,
+      "name": "المشير احمد اسماعيل",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206762833,
+      "lat": 30.019161,
+      "lon": 31.383307,
+      "name": "المشير طنطاوي",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -9284,35 +8708,19 @@
       "country": "EG"
     },
     {
-      "id": 210595249,
-      "lat": 29.960114,
-      "lon": 31.25814,
-      "name": "المعادى",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 210595250,
-      "lat": 29.959837,
-      "lon": 31.257871,
-      "name": "المعادى",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 10601354316,
-      "lat": 31.267161,
-      "lon": 30.173874,
-      "name": "المعدية",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 5348846068,
-      "lat": 29.906104,
-      "lon": 31.299726,
+      "id": 316638531,
+      "lat": 29.906083,
+      "lon": 31.299669,
       "name": "المعصرة",
-      "type": "station",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 5348846069,
+      "lat": 29.906119,
+      "lon": 31.299801,
+      "name": "المعصرة",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -9420,19 +8828,35 @@
       "country": "EG"
     },
     {
+      "id": 12206666397,
+      "lat": 30.025525,
+      "lon": 31.459916,
+      "name": "النرجس",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206666398,
+      "lat": 30.025445,
+      "lon": 31.459911,
+      "name": "النرجس",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 1531391170,
+      "lat": 30.125324,
+      "lon": 31.363537,
+      "name": "النزهة الجديدة (جراج جسر السويس)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 9076234501,
       "lat": 30.143854,
       "lon": 31.404859,
       "name": "الهايكستب‎",
       "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 520515418,
-      "lat": 29.336965,
-      "lon": 31.204346,
-      "name": "الواسطة",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -9644,6 +9068,22 @@
       "country": "EG"
     },
     {
+      "id": 12204780997,
+      "lat": 30.026838,
+      "lon": 31.56059,
+      "name": "بيت الوطن",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204780998,
+      "lat": 30.026912,
+      "lon": 31.560582,
+      "name": "بيت الوطن",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 1039343019,
       "lat": 30.677873,
       "lon": 30.944894,
@@ -9708,6 +9148,38 @@
       "country": "EG"
     },
     {
+      "id": 1318989136,
+      "lat": 30.053745,
+      "lon": 31.324755,
+      "name": "جامعة الأزهر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1319224028,
+      "lat": 29.93702,
+      "lon": 30.883828,
+      "name": "جامعة الأهرام الكندية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12206848818,
+      "lat": 30.053777,
+      "lon": 31.324722,
+      "name": "جامعة الازهر",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206848819,
+      "lat": 30.05378,
+      "lon": 31.324797,
+      "name": "جامعة الازهر",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 11923472281,
       "lat": 30.050945,
       "lon": 31.199704,
@@ -9752,7 +9224,7 @@
       "lat": 29.869025,
       "lon": 31.320377,
       "name": "جامعة حلوان",
-      "type": "station",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -9769,14 +9241,6 @@
       "lon": 31.889107,
       "name": "جرجا",
       "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1179157852,
-      "lat": 30.691728,
-      "lon": 35.868293,
-      "name": "جرف الدراويش",
-      "type": "halt",
       "country": "EG"
     },
     {
@@ -9804,10 +9268,26 @@
       "country": "EG"
     },
     {
+      "id": 12204802780,
+      "lat": 30.027045,
+      "lon": 31.533039,
+      "name": "جولدن سكوير",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 316631600,
       "lat": 30.010567,
       "lon": 31.207101,
       "name": "جيزة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206732996,
+      "lat": 30.039235,
+      "lon": 31.355478,
+      "name": "جيهان السادات",
       "type": "stop",
       "country": "EG"
     },
@@ -9844,11 +9324,19 @@
       "country": "EG"
     },
     {
-      "id": 5344953908,
-      "lat": 29.897187,
-      "lon": 31.304067,
+      "id": 316638393,
+      "lat": 29.897177,
+      "lon": 31.304039,
       "name": "حدائق حلوان",
-      "type": "station",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 5344953907,
+      "lat": 29.897196,
+      "lon": 31.3041,
+      "name": "حدائق حلوان",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -9876,6 +9364,14 @@
       "country": "EG"
     },
     {
+      "id": 5344953912,
+      "lat": 29.849894,
+      "lon": 31.334386,
+      "name": "حلوان",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 316643069,
       "lat": 30.090324,
       "lon": 31.298118,
@@ -9888,6 +9384,22 @@
       "lat": 30.09035,
       "lon": 31.298099,
       "name": "حمامات القبة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204710521,
+      "lat": 30.017251,
+      "lon": 31.689148,
+      "name": "حي المال والاعمال",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204710522,
+      "lat": 30.017322,
+      "lon": 31.689175,
+      "name": "حي المال والاعمال",
       "type": "stop",
       "country": "EG"
     },
@@ -9972,6 +9484,14 @@
       "country": "EG"
     },
     {
+      "id": 1531391096,
+      "lat": 29.935766,
+      "lon": 30.924654,
+      "name": "دولسي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 6487765596,
       "lat": 31.151026,
       "lon": 31.434182,
@@ -9980,27 +9500,11 @@
       "country": "EG"
     },
     {
-      "id": 1237958878,
-      "lat": 29.046369,
-      "lon": 36.166799,
-      "name": "ذات الحاج",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 6487833441,
       "lat": 31.24592,
       "lon": 31.616052,
       "name": "رأس الخليج",
       "type": "halt",
-      "country": "EG"
-    },
-    {
-      "id": 798893671,
-      "lat": 30.0026,
-      "lon": 35.489527,
-      "name": "رأس النقب",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -10045,8 +9549,8 @@
     },
     {
       "id": 188171999,
-      "lat": 29.995602,
-      "lon": 31.208851,
+      "lat": 29.995614,
+      "lon": 31.208786,
       "name": "ساقية مكي",
       "type": "station",
       "country": "EG"
@@ -10133,8 +9637,8 @@
     },
     {
       "id": 5349031084,
-      "lat": 30.036561,
-      "lon": 31.238115,
+      "lat": 30.03656,
+      "lon": 31.238106,
       "name": "سعد زغلول",
       "type": "stop",
       "country": "EG"
@@ -10324,6 +9828,14 @@
       "country": "EG"
     },
     {
+      "id": 5344953917,
+      "lat": 29.925855,
+      "lon": 31.287708,
+      "name": "طرا الأسمنت",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 316638605,
       "lat": 29.925848,
       "lon": 31.287694,
@@ -10396,9 +9908,25 @@
       "country": "EG"
     },
     {
+      "id": 7559190648,
+      "lat": 30.146976,
+      "lon": 31.421595,
+      "name": "عدلى منصور",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 8954572010,
       "lat": 30.146379,
       "lon": 31.421261,
+      "name": "عدلى منصور",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 9076255925,
+      "lat": 30.14693,
+      "lon": 31.4216,
       "name": "عدلى منصور",
       "type": "stop",
       "country": "EG"
@@ -10460,6 +9988,14 @@
       "country": "EG"
     },
     {
+      "id": 1531391094,
+      "lat": 29.9922,
+      "lon": 31.251654,
+      "name": "عزبة خيرالله",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 10554265763,
       "lat": 30.861962,
       "lon": 29.617792,
@@ -10472,6 +10008,22 @@
       "lat": 30.140433,
       "lon": 31.394475,
       "name": "عمر بن الخطاب‎",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 316637584,
+      "lat": 29.862646,
+      "lon": 31.32499,
+      "name": "عين حلوان",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 5344953910,
+      "lat": 29.86267,
+      "lon": 31.325028,
+      "name": "عين حلوان",
       "type": "stop",
       "country": "EG"
     },
@@ -10565,18 +10117,10 @@
     },
     {
       "id": 4002201610,
-      "lat": 31.242186,
-      "lon": 29.964794,
+      "lat": 31.24221,
+      "lon": 29.964753,
       "name": "قصر الصفا",
       "type": "tram_stop",
-      "country": "EG"
-    },
-    {
-      "id": 802880626,
-      "lat": 31.595155,
-      "lon": 36.059539,
-      "name": "قصر ضبعة",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -10724,6 +10268,14 @@
       "country": "EG"
     },
     {
+      "id": 1654764997,
+      "lat": 30.083664,
+      "lon": 31.328829,
+      "name": "كلية البنات",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 1641694429,
       "lat": 30.11377,
       "lon": 31.248721,
@@ -10757,10 +10309,18 @@
     },
     {
       "id": 316638613,
-      "lat": 29.936165,
-      "lon": 31.281739,
+      "lat": 29.936151,
+      "lon": 31.281707,
       "name": "كوتسكا",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 5194246943,
+      "lat": 29.936143,
+      "lon": 31.281689,
+      "name": "كوتسكا",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -10796,19 +10356,179 @@
       "country": "EG"
     },
     {
-      "id": 5218109287,
-      "lat": 30.00585,
-      "lon": 31.229523,
-      "name": "مار جرجس",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 9077161247,
       "lat": 30.055544,
       "lon": 31.23224,
       "name": "ماسبيرو",
       "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 1536109515,
+      "lat": 29.995457,
+      "lon": 31.231164,
+      "name": "مبنى محطة مترو الزهراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109516,
+      "lat": 29.995858,
+      "lon": 31.23113,
+      "name": "مبنى محطة مترو الزهراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 210595249,
+      "lat": 29.960114,
+      "lon": 31.25814,
+      "name": "مبنى محطة مترو المعادي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 210595250,
+      "lat": 29.959837,
+      "lon": 31.257871,
+      "name": "مبنى محطة مترو المعادي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560042347,
+      "lat": 29.906419,
+      "lon": 31.299913,
+      "name": "مبنى محطة مترو المعصرة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560042348,
+      "lat": 29.90606,
+      "lon": 31.299527,
+      "name": "مبنى محطة مترو المعصرة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1379165350,
+      "lat": 30.017643,
+      "lon": 31.231053,
+      "name": "مبنى محطة مترو الملك الصالح",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1379165351,
+      "lat": 30.017716,
+      "lon": 31.231308,
+      "name": "مبنى محطة مترو الملك الصالح",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560041623,
+      "lat": 29.897125,
+      "lon": 31.303953,
+      "name": "مبنى محطة مترو حدائق حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560041624,
+      "lat": 29.897212,
+      "lon": 31.304202,
+      "name": "مبنى محطة مترو حدائق حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560033343,
+      "lat": 29.868925,
+      "lon": 31.320324,
+      "name": "مبنى محطة مترو حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560033344,
+      "lat": 29.869329,
+      "lon": 31.32033,
+      "name": "مبنى محطة مترو حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 182328074,
+      "lat": 29.982055,
+      "lon": 31.242184,
+      "name": "مبنى محطة مترو دار السلام",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560042545,
+      "lat": 29.924854,
+      "lon": 31.287962,
+      "name": "مبنى محطة مترو طرة الأسمنت",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1552795654,
+      "lat": 29.862555,
+      "lon": 31.324819,
+      "name": "مبنى محطة مترو عين حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1552795655,
+      "lat": 29.862665,
+      "lon": 31.325126,
+      "name": "مبنى محطة مترو عين حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560043130,
+      "lat": 29.936152,
+      "lon": 31.281611,
+      "name": "مبنى محطة مترو كوتسكا",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560043131,
+      "lat": 29.936238,
+      "lon": 31.281829,
+      "name": "مبنى محطة مترو كوتسكا",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560046003,
+      "lat": 30.006068,
+      "lon": 31.229626,
+      "name": "مبنى محطة مترو مارجرجس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560040501,
+      "lat": 29.879337,
+      "lon": 31.31324,
+      "name": "مبنى محطة مترو وادي حوف",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1560040502,
+      "lat": 29.879509,
+      "lon": 31.313552,
+      "name": "مبنى محطة مترو وادي حوف",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -10825,14 +10545,6 @@
       "lon": 31.404841,
       "name": "مترو الهايكستب ‎",
       "type": "stop",
-      "country": "EG"
-    },
-    {
-      "id": 2110350259,
-      "lat": 29.970101,
-      "lon": 31.250671,
-      "name": "مترو حدائق المعادى",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -10872,14 +10584,6 @@
       "lat": 29.662088,
       "lon": 32.257024,
       "name": "محطات العين السخنة الإقليمية",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 2035603231,
-      "lat": 21.758987,
-      "lon": 31.458424,
-      "name": "محطة 1",
       "type": "station",
       "country": "EG"
     },
@@ -10924,18 +10628,42 @@
       "country": "EG"
     },
     {
-      "id": 798843395,
-      "lat": 29.99615,
-      "lon": 35.931084,
-      "name": "محطة أبو طرفة",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 768550630,
       "lat": 30.273443,
       "lon": 30.907618,
       "name": "محطة أبو غالب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391114,
+      "lat": 29.983517,
+      "lon": 31.442737,
+      "name": "محطة أتوبيس التجمع الثالث",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 570459265,
+      "lat": 30.09853,
+      "lon": 31.262511,
+      "name": "محطة أتوبيس الزاوية الحمراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 60101353,
+      "lat": 30.080528,
+      "lon": 31.245871,
+      "name": "محطة أتوبيس دوران شبرا",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12214223369,
+      "lat": 27.079112,
+      "lon": 31.036742,
+      "name": "محطة أسيوط القطار السريع",
       "type": "station",
       "country": "EG"
     },
@@ -10996,22 +10724,6 @@
       "country": "EG"
     },
     {
-      "id": 93178286,
-      "lat": 30.119001,
-      "lon": 31.39834,
-      "name": "محطة الاتوبيس",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 28828035,
-      "lat": 30.064294,
-      "lon": 31.24612,
-      "name": "محطة الباصات أحمد حلمي",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 1039369509,
       "lat": 31.332143,
       "lon": 30.403302,
@@ -11068,14 +10780,6 @@
       "country": "EG"
     },
     {
-      "id": 1177250738,
-      "lat": 30.328306,
-      "lon": 35.768761,
-      "name": "محطة الجردانة",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 2724801305,
       "lat": 24.324712,
       "lon": 32.914954,
@@ -11085,17 +10789,9 @@
     },
     {
       "id": 1124302344,
-      "lat": 30.090022,
-      "lon": 31.348048,
+      "lat": 30.090044,
+      "lon": 31.348005,
       "name": "محطة الحافلات الدولية",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 802659553,
-      "lat": 29.761797,
-      "lon": 35.897484,
-      "name": "محطة الحطية",
       "type": "station",
       "country": "EG"
     },
@@ -11121,14 +10817,6 @@
       "lon": 29.847898,
       "name": "محطة الدخلة",
       "type": "tram_stop",
-      "country": "EG"
-    },
-    {
-      "id": 802530932,
-      "lat": 29.639661,
-      "lon": 35.552437,
-      "name": "محطة الديسة",
-      "type": "station",
       "country": "EG"
     },
     {
@@ -11244,6 +10932,14 @@
       "country": "EG"
     },
     {
+      "id": 1531391105,
+      "lat": 30.138946,
+      "lon": 31.65394,
+      "name": "محطة الشروق",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1091247513,
       "lat": 24.038076,
       "lon": 32.90961,
@@ -11301,8 +10997,8 @@
     },
     {
       "id": 10202322501,
-      "lat": 29.882133,
-      "lon": 31.716598,
+      "lat": 29.88211,
+      "lon": 31.716617,
       "name": "محطة العاصمة الأدارية-القطار السريع",
       "type": "station",
       "country": "EG"
@@ -11332,17 +11028,9 @@
       "country": "EG"
     },
     {
-      "id": 802940219,
-      "lat": 30.901789,
-      "lon": 35.983391,
-      "name": "محطة الفريفرة",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 12214095954,
-      "lat": 28.910869,
-      "lon": 30.744338,
+      "lat": 28.910864,
+      "lon": 30.744046,
       "name": "محطة الفشن القطار",
       "type": "station",
       "country": "EG"
@@ -11365,16 +11053,16 @@
     },
     {
       "id": 12214094937,
-      "lat": 28.113046,
-      "lon": 30.510653,
+      "lat": 28.112745,
+      "lon": 30.51027,
       "name": "محطة القطار السريع المنيا",
       "type": "station",
       "country": "EG"
     },
     {
       "id": 12214015232,
-      "lat": 29.275053,
-      "lon": 30.929695,
+      "lat": 29.275641,
+      "lon": 30.930665,
       "name": "محطة القطار السريع بالفيوم",
       "type": "station",
       "country": "EG"
@@ -11400,14 +11088,6 @@
       "lat": 30.230724,
       "lon": 31.691614,
       "name": "محطة القطار الكهربائي الخفيف - مدينة المعارف",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 798875721,
-      "lat": 31.242327,
-      "lon": 36.045237,
-      "name": "محطة القطرانة",
       "type": "station",
       "country": "EG"
     },
@@ -11548,14 +11228,6 @@
       "country": "EG"
     },
     {
-      "id": 798872515,
-      "lat": 31.472159,
-      "lon": 36.10604,
-      "name": "محطة خان الزبيب",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 768581285,
       "lat": 30.416667,
       "lon": 32.383333,
@@ -11608,22 +11280,6 @@
       "lat": 24.099803,
       "lon": 32.902219,
       "name": "محطة سكة حديد أسوان",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1150599673,
-      "lat": 31.176686,
-      "lon": 32.035075,
-      "name": "محطة سكة حديد المطرية",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 802594000,
-      "lat": 30.169766,
-      "lon": 35.653459,
-      "name": "محطة سمنة",
       "type": "station",
       "country": "EG"
     },
@@ -11716,22 +11372,6 @@
       "country": "EG"
     },
     {
-      "id": 802584877,
-      "lat": 30.487034,
-      "lon": 35.79799,
-      "name": "محطة عنيزة",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 5344953911,
-      "lat": 29.862659,
-      "lon": 31.325007,
-      "name": "محطة عين حلوان",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 520513134,
       "lat": 26.101107,
       "lon": 32.412007,
@@ -11744,6 +11384,14 @@
       "lat": 30.276706,
       "lon": 32.34793,
       "name": "محطة فنارة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 10685533579,
+      "lat": 29.332679,
+      "lon": 31.142433,
+      "name": "محطة قطار",
       "type": "station",
       "country": "EG"
     },
@@ -11812,6 +11460,14 @@
       "country": "EG"
     },
     {
+      "id": 13722686040,
+      "lat": 30.102404,
+      "lon": 31.183871,
+      "name": "محطة قطار الكوم الأحمر الجديدة (تحت الإنشاء)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1039956176,
       "lat": 31.294153,
       "lon": 30.053873,
@@ -11833,6 +11489,14 @@
       "lon": 30.013573,
       "name": "محطة قطار المندرة",
       "type": "halt",
+      "country": "EG"
+    },
+    {
+      "id": 520515418,
+      "lat": 29.336965,
+      "lon": 31.204346,
+      "name": "محطة قطار الواسطى",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -11900,10 +11564,10 @@
       "country": "EG"
     },
     {
-      "id": 802942158,
-      "lat": 30.818693,
-      "lon": 35.977356,
-      "name": "محطة قلعة الحسا",
+      "id": 1022171353,
+      "lat": 29.309064,
+      "lon": 30.847736,
+      "name": "محطة قطارات الفيوم",
       "type": "station",
       "country": "EG"
     },
@@ -11948,6 +11612,22 @@
       "country": "EG"
     },
     {
+      "id": 7153641095,
+      "lat": 30.118054,
+      "lon": 31.339875,
+      "name": "محطة مترو ألف مسكن",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 5194246950,
+      "lat": 29.995438,
+      "lon": 31.231359,
+      "name": "محطة مترو الزهراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 5194348150,
       "lat": 30.052764,
       "lon": 31.249298,
@@ -11956,11 +11636,11 @@
       "country": "EG"
     },
     {
-      "id": 151409770,
-      "lat": 29.981109,
-      "lon": 31.212315,
-      "name": "محطة مترو المنيب",
-      "type": "station",
+      "id": 5194348151,
+      "lat": 30.052746,
+      "lon": 31.249282,
+      "name": "محطة مترو العتبة",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -11980,6 +11660,14 @@
       "country": "EG"
     },
     {
+      "id": 2110350259,
+      "lat": 29.970101,
+      "lon": 31.250671,
+      "name": "محطة مترو حدائق المعادى",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 316634715,
       "lat": 30.080565,
       "lon": 31.245351,
@@ -11992,6 +11680,14 @@
       "lat": 30.084367,
       "lon": 31.32925,
       "name": "محطة مترو كلية البنات",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 5218109287,
+      "lat": 30.00585,
+      "lon": 31.229523,
+      "name": "محطة مترو مار جرجس",
       "type": "station",
       "country": "EG"
     },
@@ -12052,14 +11748,6 @@
       "country": "EG"
     },
     {
-      "id": 28826667,
-      "lat": 31.193249,
-      "lon": 29.906473,
-      "name": "محطة مصر",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 4628330178,
       "lat": 31.224347,
       "lon": 29.945186,
@@ -12073,6 +11761,38 @@
       "lon": 32.253171,
       "name": "محطة معسكر الإسماعيلية",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 8153781067,
+      "lat": 30.071579,
+      "lon": 31.317643,
+      "name": "محطة مونوريل استاد القاهرة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206899290,
+      "lat": 30.071612,
+      "lon": 31.317713,
+      "name": "محطة مونوريل استاد القاهرة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 13691445046,
+      "lat": 30.063498,
+      "lon": 31.321868,
+      "name": "محطة مونوريل هشام بركات",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 13691445047,
+      "lat": 30.06347,
+      "lon": 31.321813,
+      "name": "محطة مونوريل هشام بركات",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -12100,14 +11820,6 @@
       "country": "EG"
     },
     {
-      "id": 5194348151,
-      "lat": 30.052746,
-      "lon": 31.249282,
-      "name": "محطة ��ترو العتبة",
-      "type": "stop",
-      "country": "EG"
-    },
-    {
       "id": 3240994964,
       "lat": 30.457487,
       "lon": 31.121245,
@@ -12117,8 +11829,8 @@
     },
     {
       "id": 12213986219,
-      "lat": 29.582439,
-      "lon": 31.036282,
+      "lat": 29.581212,
+      "lon": 31.036694,
       "name": "محطه القطار السريع بالعياط",
       "type": "station",
       "country": "EG"
@@ -12188,11 +11900,35 @@
       "country": "EG"
     },
     {
-      "id": 8153887919,
-      "lat": 30.008035,
-      "lon": 31.725583,
-      "name": "مدينة الفنون و الثقافة",
+      "id": 1531391098,
+      "lat": 29.986464,
+      "lon": 31.418407,
+      "name": "مدخل الشباب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 9887149546,
+      "lat": 30.005941,
+      "lon": 31.77011,
+      "name": "مدينة العدالة",
       "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204487645,
+      "lat": 30.006006,
+      "lon": 31.770047,
+      "name": "مدينة العدالة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 1232414057,
+      "lat": 30.005975,
+      "lon": 31.770068,
+      "name": "مدينة العدالة",
+      "type": "station",
       "country": "EG"
     },
     {
@@ -12212,10 +11948,18 @@
       "country": "EG"
     },
     {
+      "id": 8153887919,
+      "lat": 30.008035,
+      "lon": 31.725583,
+      "name": "مدينة الفنون والثقافة",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 12204679331,
       "lat": 30.008112,
       "lon": 31.725582,
-      "name": "مدينة الفنون و الثقافة",
+      "name": "مدينة الفنون والثقافة",
       "type": "stop",
       "country": "EG"
     },
@@ -12244,8 +11988,32 @@
       "country": "EG"
     },
     {
+      "id": 12204760499,
+      "lat": 30.024772,
+      "lon": 31.598783,
+      "name": "مسجد الفتاح العليم",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204760500,
+      "lat": 30.024724,
+      "lon": 31.598901,
+      "name": "مسجد الفتاح العليم",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12204326294,
+      "lat": 29.995276,
+      "lon": 31.750057,
+      "name": "مسجد مصر",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
       "id": 316634158,
-      "lat": 30.071094,
+      "lat": 30.071101,
       "lon": 31.245019,
       "name": "مسره",
       "type": "station",
@@ -12280,14 +12048,6 @@
       "lat": 31.286875,
       "lon": 30.525038,
       "name": "مطوبس",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 1177250670,
-      "lat": 30.18211,
-      "lon": 35.766425,
-      "name": "معان",
       "type": "station",
       "country": "EG"
     },
@@ -12372,6 +12132,14 @@
       "country": "EG"
     },
     {
+      "id": 1536109524,
+      "lat": 30.009599,
+      "lon": 31.225982,
+      "name": "موقف أتوبيس المماليك",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 28830231,
       "lat": 30.105017,
       "lon": 31.248102,
@@ -12380,10 +12148,66 @@
       "country": "EG"
     },
     {
-      "id": 188171939,
-      "lat": 29.980511,
-      "lon": 31.212864,
-      "name": "موقف اتوبيس المنيب",
+      "id": 1531391119,
+      "lat": 30.028352,
+      "lon": 31.237284,
+      "name": "موقف ابو الريش",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 391640849,
+      "lat": 30.064574,
+      "lon": 31.449148,
+      "name": "موقف اتوبيس التجمع الاول;موقف التجمع الاول",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391154,
+      "lat": 30.270774,
+      "lon": 31.488044,
+      "name": "موقف اتوبيس الشباب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391165,
+      "lat": 30.161921,
+      "lon": 31.621606,
+      "name": "موقف اتوبيس الشروق",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391172,
+      "lat": 30.072421,
+      "lon": 31.284332,
+      "name": "موقف اتوبيس العباسية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109494,
+      "lat": 30.017428,
+      "lon": 31.211944,
+      "name": "موقف اتوبيس شارع جامعه القاهره بميدان الجيزة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391157,
+      "lat": 30.105569,
+      "lon": 31.385422,
+      "name": "موقف اتوبيس مساكن شيراتون",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391095,
+      "lat": 29.973557,
+      "lon": 31.389729,
+      "name": "موقف ادارة المرور (القطامية)",
       "type": "station",
       "country": "EG"
     },
@@ -12396,10 +12220,50 @@
       "country": "EG"
     },
     {
+      "id": 1536109545,
+      "lat": 30.055052,
+      "lon": 31.190896,
+      "name": "موقف ارض ا��لواء (شارع السودان)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391181,
+      "lat": 30.180809,
+      "lon": 31.412623,
+      "name": "موقف اسبيكو",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391147,
+      "lat": 30.024122,
+      "lon": 31.263558,
+      "name": "موقف الاباجية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 478336467,
       "lat": 30.616831,
       "lon": 32.27186,
       "name": "موقف الاتوبيس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109508,
+      "lat": 30.027642,
+      "lon": 31.210693,
+      "name": "موقف البوابة جامعة القاهرة الرئيسية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109541,
+      "lat": 29.994445,
+      "lon": 31.198192,
+      "name": "موقف التعمير باعمرانيه الغربيه",
       "type": "station",
       "country": "EG"
     },
@@ -12412,6 +12276,62 @@
       "country": "EG"
     },
     {
+      "id": 1536109490,
+      "lat": 29.984617,
+      "lon": 31.24238,
+      "name": "موقف الجيزة و الملك الصالح بدار السلام",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1232460463,
+      "lat": 29.968487,
+      "lon": 30.948894,
+      "name": "موقف الحصري",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391104,
+      "lat": 29.963749,
+      "lon": 30.91452,
+      "name": "موقف الحي العاشر بستة اكتوبر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391117,
+      "lat": 30.047415,
+      "lon": 31.270048,
+      "name": "موقف الدراسة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109538,
+      "lat": 30.037624,
+      "lon": 31.211316,
+      "name": "موقف الدقي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391132,
+      "lat": 30.053063,
+      "lon": 31.490212,
+      "name": "موقف الرحاب بوابة ٦",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391131,
+      "lat": 30.095495,
+      "lon": 31.266769,
+      "name": "موقف الزاوية الحمراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1521666363,
       "lat": 30.381908,
       "lon": 32.289728,
@@ -12420,18 +12340,154 @@
       "country": "EG"
     },
     {
+      "id": 1536109509,
+      "lat": 30.027497,
+      "lon": 31.212034,
+      "name": "موقف السيدة زينب و السيدة عائشة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 1380451553,
-      "lat": 30.024243,
-      "lon": 31.25827,
+      "lat": 30.016523,
+      "lon": 31.263572,
       "name": "موقف السيدة عائشة",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 28801252,
-      "lat": 29.98474,
-      "lon": 31.211769,
-      "name": "موقف المنيب",
+      "id": 1552795642,
+      "lat": 30.024419,
+      "lon": 31.257179,
+      "name": "موقف السيدة عائشة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391100,
+      "lat": 30.272867,
+      "lon": 31.484774,
+      "name": "موقف الشباب (العبور)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109528,
+      "lat": 30.045903,
+      "lon": 31.381803,
+      "name": "موقف العاشر مدينة نصر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391174,
+      "lat": 30.073957,
+      "lon": 31.285363,
+      "name": "موقف العباسية (اتجاه شارع خليفة المأمون)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109547,
+      "lat": 30.16304,
+      "lon": 31.337229,
+      "name": "موقف العريش المرج",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109542,
+      "lat": 29.995647,
+      "lon": 31.203326,
+      "name": "موقف العمرانية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391101,
+      "lat": 29.975732,
+      "lon": 31.479428,
+      "name": "موقف الف مصنع",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 244362451,
+      "lat": 29.929973,
+      "lon": 30.914474,
+      "name": "موقف الفيوم",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391134,
+      "lat": 29.92982,
+      "lon": 30.914619,
+      "name": "موقف الفيوم",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391103,
+      "lat": 30.064187,
+      "lon": 31.024128,
+      "name": "موقف القرية الذكية ال",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391159,
+      "lat": 30.029691,
+      "lon": 31.257847,
+      "name": "موقف القلعة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109527,
+      "lat": 30.093425,
+      "lon": 31.324838,
+      "name": "موقف الكوربة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109526,
+      "lat": 30.066077,
+      "lon": 31.213334,
+      "name": "موقف الكيت كات",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109531,
+      "lat": 30.027074,
+      "lon": 31.499315,
+      "name": "موقف اللوتس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109546,
+      "lat": 30.163661,
+      "lon": 31.339346,
+      "name": "موقف المرج الدديدة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391167,
+      "lat": 29.973932,
+      "lon": 31.246849,
+      "name": "موقف المطبعة (دار السلام)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391130,
+      "lat": 29.942732,
+      "lon": 30.919544,
+      "name": "موقف الملوك",
       "type": "station",
       "country": "EG"
     },
@@ -12444,10 +12500,26 @@
       "country": "EG"
     },
     {
+      "id": 28822359,
+      "lat": 30.127453,
+      "lon": 31.363547,
+      "name": "موقف النزهة الجديدة (هيئة النقل العام)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
       "id": 183754579,
       "lat": 29.968561,
       "lon": 30.933641,
-      "name": "موقف النق�� الجماعى بمدينة السادس من أكتوبر",
+      "name": "موقف النقل الجماعى بمدينة السادس من أكتوبر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391148,
+      "lat": 30.111706,
+      "lon": 31.210343,
+      "name": "موقف الوراق الجديد",
       "type": "station",
       "country": "EG"
     },
@@ -12460,18 +12532,282 @@
       "country": "EG"
     },
     {
-      "id": 1435241705,
-      "lat": 30.061748,
-      "lon": 31.243831,
-      "name": "موقف رمسيس الجديد",
+      "id": 1531391125,
+      "lat": 30.055212,
+      "lon": 30.959355,
+      "name": "موقف بدر (الشيخ زايد)",
       "type": "station",
       "country": "EG"
     },
     {
-      "id": 28806162,
-      "lat": 31.178369,
-      "lon": 29.915015,
-      "name": "موقف محرم بك الجديد",
+      "id": 1531391110,
+      "lat": 29.932263,
+      "lon": 30.876921,
+      "name": "موقف بنزينة توتال بستة اكتوبر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391120,
+      "lat": 30.064709,
+      "lon": 31.475217,
+      "name": "موقف بوابات ١٢،١٣ الرحاب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109493,
+      "lat": 30.133161,
+      "lon": 31.246626,
+      "name": "موقف بيجام للنقل العام",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391135,
+      "lat": 29.853739,
+      "lon": 31.331754,
+      "name": "موقف توشكى حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391093,
+      "lat": 30.111146,
+      "lon": 31.196755,
+      "name": "موقف جزيرة محمد (2)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391184,
+      "lat": 30.060454,
+      "lon": 31.029063,
+      "name": "موقف داندي مول",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109539,
+      "lat": 30.094959,
+      "lon": 31.316027,
+      "name": "موقف روكسي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109540,
+      "lat": 30.093394,
+      "lon": 31.314661,
+      "name": "موقف روكسي (شاؤع القبة)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391136,
+      "lat": 30.019654,
+      "lon": 31.006843,
+      "name": "موقف زايد ٢٠٠٠",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109529,
+      "lat": 30.13686,
+      "lon": 31.338017,
+      "name": "موقف زهراء عين شمس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1552795663,
+      "lat": 29.863941,
+      "lon": 31.323529,
+      "name": "موقف سيارات الاقاليم عين حلوان",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391187,
+      "lat": 29.970305,
+      "lon": 31.269726,
+      "name": "موقف عرب المعادي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109532,
+      "lat": 30.149518,
+      "lon": 31.341047,
+      "name": "موقف قسم المرج",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391176,
+      "lat": 30.181054,
+      "lon": 31.19978,
+      "name": "موقف قليوب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109514,
+      "lat": 29.983795,
+      "lon": 31.316703,
+      "name": "موقف كارفور المعادي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391175,
+      "lat": 30.073328,
+      "lon": 31.284915,
+      "name": "موقف كوبري العباسية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109525,
+      "lat": 30.121829,
+      "lon": 31.250393,
+      "name": "موقف كوبري عرابي",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109517,
+      "lat": 29.995069,
+      "lon": 31.231412,
+      "name": "موقف مترو الزهراء",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109510,
+      "lat": 30.02541,
+      "lon": 31.201695,
+      "name": "موقف مترو جامعة القاهرة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109535,
+      "lat": 30.131075,
+      "lon": 31.31944,
+      "name": "موقف محطة مترو عين شمس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391152,
+      "lat": 30.022739,
+      "lon": 31.244375,
+      "name": "موقف مساكن زينهم",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391180,
+      "lat": 30.135601,
+      "lon": 31.349919,
+      "name": "موقف مساكن عين شمس",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109533,
+      "lat": 30.039547,
+      "lon": 31.25009,
+      "name": "موقف مستشفى احمد ماهر",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391122,
+      "lat": 30.04063,
+      "lon": 31.008244,
+      "name": "موقف مستشفي الشيخ زايد العام",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391106,
+      "lat": 30.24181,
+      "lon": 31.481784,
+      "name": "موقف مسجد الروة بالعبور",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391121,
+      "lat": 30.025689,
+      "lon": 31.475527,
+      "name": "موقف مصراوية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 93178286,
+      "lat": 30.119001,
+      "lon": 31.39834,
+      "name": "موقف مطار القاهرة (هيئة النقل العام)",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391140,
+      "lat": 29.959537,
+      "lon": 31.253997,
+      "name": "موقف ميدان الحرية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391142,
+      "lat": 30.070093,
+      "lon": 31.338539,
+      "name": "موقف ميدان الساعة",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1536109544,
+      "lat": 30.033285,
+      "lon": 31.241791,
+      "name": "موقف ميدان السيدة زينب",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391107,
+      "lat": 29.99706,
+      "lon": 31.432172,
+      "name": "موقف ميدان العمال",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391178,
+      "lat": 30.115631,
+      "lon": 31.304829,
+      "name": "موقف ميدان المطرية",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391124,
+      "lat": 29.846739,
+      "lon": 31.295578,
+      "name": "موقف ميدان ركن الفاروق",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1531391109,
+      "lat": 29.975429,
+      "lon": 30.942442,
+      "name": "موقف ميدان مجدة",
       "type": "station",
       "country": "EG"
     },
@@ -12479,15 +12815,7 @@
       "id": 186422758,
       "lat": 30.057145,
       "lon": 31.188339,
-      "name": "موقف ميكروباص البراجيل و المطار",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 186422759,
-      "lat": 30.055655,
-      "lon": 31.188935,
-      "name": "موقف ميكروباص الطريق الأبيض",
+      "name": "موقف ميكروباص البراجيل و المطار(سابقآ)",
       "type": "station",
       "country": "EG"
     },
@@ -12496,6 +12824,14 @@
       "lat": 30.028858,
       "lon": 31.021549,
       "name": "موقف ميكروباص هايبر - الشيخ زايد",
+      "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 1552795672,
+      "lat": 29.986933,
+      "lon": 31.141088,
+      "name": "موقف هرم مشعل",
       "type": "station",
       "country": "EG"
     },
@@ -12588,14 +12924,6 @@
       "country": "EG"
     },
     {
-      "id": 1223389229,
-      "lat": 31.247869,
-      "lon": 32.267221,
-      "name": "ميناء بورسعيد البرى",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 7153613351,
       "lat": 30.122306,
       "lon": 31.343972,
@@ -12657,6 +12985,14 @@
       "lon": 31.244276,
       "name": "نجيب",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 9076939018,
+      "lat": 30.045406,
+      "lon": 31.244354,
+      "name": "نجيب",
+      "type": "stop",
       "country": "EG"
     },
     {
@@ -12748,27 +13084,27 @@
       "country": "EG"
     },
     {
-      "id": 12259406992,
-      "lat": 21.803817,
-      "lon": 31.339693,
-      "name": "وادي حلفا",
-      "type": "station",
-      "country": "EG"
-    },
-    {
-      "id": 557635772,
-      "lat": 21.803542,
-      "lon": 31.3398,
-      "name": "وادي حلفا",
-      "type": "station",
-      "country": "EG"
-    },
-    {
       "id": 5344953909,
       "lat": 29.879438,
       "lon": 31.313404,
       "name": "وادي حوف",
       "type": "station",
+      "country": "EG"
+    },
+    {
+      "id": 12206733004,
+      "lat": 30.016277,
+      "lon": 31.408971,
+      "name": "وان ناينتي (1 - 90)",
+      "type": "stop",
+      "country": "EG"
+    },
+    {
+      "id": 12206733005,
+      "lat": 30.016192,
+      "lon": 31.408974,
+      "name": "وان ناينتي (1 - 90)",
+      "type": "stop",
       "country": "EG"
     }
   ]

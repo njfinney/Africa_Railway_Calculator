@@ -8,8 +8,8 @@
     37.54,
     11.6
   ],
-  "extracted": "2026-03-03T12:23:20.231Z",
-  "count": 1319,
+  "extracted": "2026-09-27T08:07:31.137Z",
+  "count": 1133,
   "stations": [
     {
       "id": 11348918054,
@@ -148,14 +148,6 @@
       "country": "TN"
     },
     {
-      "id": 2423180768,
-      "lat": 36.399447,
-      "lon": 7.82869,
-      "name": "Aïn Affra",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 2020814293,
       "lat": 35.912188,
       "lon": 8.739361,
@@ -172,58 +164,10 @@
       "country": "TN"
     },
     {
-      "id": 2423180551,
-      "lat": 36.407218,
-      "lon": 7.801169,
-      "name": "Aïn Tahmimine",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 10994361739,
-      "lat": 36.895546,
-      "lon": 7.75873,
-      "name": "Annaba",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 203029531,
-      "lat": 36.810636,
-      "lon": 10.153575,
-      "name": "Bab Saadoun",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 441936618,
       "lat": 36.40414,
       "lon": 10.562424,
       "name": "Barraket essahel",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2423180894,
-      "lat": 36.48996,
-      "lon": 7.720921,
-      "name": "Boucheghouf",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 10994361737,
-      "lat": 36.874719,
-      "lon": 7.731133,
-      "name": "Boukhadra",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2423144551,
-      "lat": 36.58149,
-      "lon": 7.754746,
-      "name": "Boukhamouza",
       "type": "station",
       "country": "TN"
     },
@@ -260,43 +204,11 @@
       "country": "TN"
     },
     {
-      "id": 1182890258,
-      "lat": 36.759159,
-      "lon": 7.741844,
-      "name": "Chebaita Mokhtar",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2423144686,
-      "lat": 36.650601,
-      "lon": 7.775525,
-      "name": "Chihani",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 9063768422,
-      "lat": 31.866317,
-      "lon": 10.983303,
-      "name": "cigarette shop",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 8231372195,
       "lat": 36.806258,
       "lon": 10.139231,
       "name": "Cité Erraoudha",
       "type": "halt",
-      "country": "TN"
-    },
-    {
-      "id": 4394884946,
-      "lat": 36.825864,
-      "lon": 10.125698,
-      "name": "Cité Ettahrir Bus Station",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -324,30 +236,6 @@
       "country": "TN"
     },
     {
-      "id": 2210118419,
-      "lat": 36.121262,
-      "lon": 7.884562,
-      "name": "Dréa",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3221021277,
-      "lat": 36.687848,
-      "lon": 7.747235,
-      "name": "Dréan",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3839772137,
-      "lat": 35.867411,
-      "lon": 7.888077,
-      "name": "El Aouinet",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 2009216005,
       "lat": 36.811812,
       "lon": 10.115945,
@@ -372,26 +260,10 @@
       "country": "TN"
     },
     {
-      "id": 10994233206,
-      "lat": 36.846314,
-      "lon": 7.72451,
-      "name": "El Bouni Zi",
-      "type": "halt",
-      "country": "TN"
-    },
-    {
       "id": 3732837772,
       "lat": 34.065441,
       "lon": 9.736544,
       "name": "El Fejij",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1867468924,
-      "lat": 36.802448,
-      "lon": 7.740407,
-      "name": "El Hadjar",
       "type": "station",
       "country": "TN"
     },
@@ -416,14 +288,6 @@
       "lat": 35.293633,
       "lon": 10.710389,
       "name": "El Jem Police Station",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3904560305,
-      "lat": 35.953726,
-      "lon": 8.128309,
-      "name": "El Ouenza",
       "type": "station",
       "country": "TN"
     },
@@ -476,14 +340,6 @@
       "country": "TN"
     },
     {
-      "id": 679034603,
-      "lat": 36.89546,
-      "lon": 7.758841,
-      "name": "Gare d´Annaba محطة عنابة",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 190359647,
       "lat": 36.756046,
       "lon": 9.71983,
@@ -508,34 +364,10 @@
       "country": "TN"
     },
     {
-      "id": 1310652848,
-      "lat": 35.625497,
-      "lon": 10.899751,
-      "name": "Gare de Moknine",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 5763648886,
       "lat": 33.726513,
       "lon": 8.980198,
       "name": "Gare des louages longues lignes",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 380652292,
-      "lat": 35.867477,
-      "lon": 7.887972,
-      "name": "Gare Ferroviaire d'El Aouinet",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 380645299,
-      "lat": 35.925598,
-      "lon": 7.920486,
-      "name": "Gare ferroviaire de Oued Kebrit",
       "type": "station",
       "country": "TN"
     },
@@ -556,22 +388,6 @@
       "country": "TN"
     },
     {
-      "id": 428365606,
-      "lat": 36.075847,
-      "lon": 7.823876,
-      "name": "Gare ferrovoaire de M'daourouch",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 26567483,
-      "lat": 35.77089,
-      "lon": 10.82644,
-      "name": "Gare Habib Bourguiba Monastir",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 10295360654,
       "lat": 35.681198,
       "lon": 10.0864,
@@ -580,34 +396,10 @@
       "country": "TN"
     },
     {
-      "id": 6919950285,
-      "lat": 36.897218,
-      "lon": 7.763408,
-      "name": "Gare Maritime المحطة البحرية",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 242297580,
       "lat": 34.704909,
       "lon": 11.202645,
       "name": "Gare Régional de Kerkennah",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3238095779,
-      "lat": 36.028412,
-      "lon": 7.601256,
-      "name": "Gare Routiere",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3238101329,
-      "lat": 36.028605,
-      "lon": 7.604815,
-      "name": "Gare Routiere",
       "type": "station",
       "country": "TN"
     },
@@ -660,54 +452,6 @@
       "country": "TN"
     },
     {
-      "id": 1117802281,
-      "lat": 33.499179,
-      "lon": 11.11516,
-      "name": "Gare routière de Zarzis",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4272367799,
-      "lat": 36.899695,
-      "lon": 7.753709,
-      "name": "Gare routière El Hattab",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3994373329,
-      "lat": 36.885118,
-      "lon": 8.440218,
-      "name": "Gare Routière El Kala محطة القالة الحافلات",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4073710811,
-      "lat": 36.860452,
-      "lon": 7.711553,
-      "name": "Gare Routière Mohamed Mounib Sandid",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 10245101741,
-      "lat": 36.810538,
-      "lon": 10.153553,
-      "name": "Gare Routière Nord",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 312140310,
-      "lat": 37.265373,
-      "lon": 9.886432,
-      "name": "Gare Routière SRTB",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 1007568480,
       "lat": 35.870398,
       "lon": 8.439511,
@@ -744,14 +488,6 @@
       "lat": 37.064646,
       "lon": 9.602102,
       "name": "Hached",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1280843749,
-      "lat": 35.395888,
-      "lon": 9.542286,
-      "name": "Hajeb Laayoun Bus Station",
       "type": "station",
       "country": "TN"
     },
@@ -836,14 +572,6 @@
       "country": "TN"
     },
     {
-      "id": 6591533180,
-      "lat": 36.810527,
-      "lon": 10.153671,
-      "name": "La Gare",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 1223437762,
       "lat": 36.807398,
       "lon": 10.135438,
@@ -860,6 +588,14 @@
       "country": "TN"
     },
     {
+      "id": 13737332301,
+      "lat": 33.351664,
+      "lon": 10.496197,
+      "name": "Louage station",
+      "type": "station",
+      "country": "TN"
+    },
+    {
       "id": 12355170403,
       "lat": 36.450818,
       "lon": 8.442782,
@@ -868,10 +604,10 @@
       "country": "TN"
     },
     {
-      "id": 3218265594,
-      "lat": 36.075708,
-      "lon": 7.824053,
-      "name": "M'daourouch",
+      "id": 13734674701,
+      "lat": 33.666664,
+      "lon": 10.014154,
+      "name": "Louage Station",
       "type": "station",
       "country": "TN"
     },
@@ -924,22 +660,6 @@
       "country": "TN"
     },
     {
-      "id": 1856567589,
-      "lat": 36.362449,
-      "lon": 7.847163,
-      "name": "Mechroha",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2423553556,
-      "lat": 36.441685,
-      "lon": 7.770929,
-      "name": "Medjez Sfa",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 5227817973,
       "lat": 35.082406,
       "lon": 8.724808,
@@ -980,14 +700,6 @@
       "country": "TN"
     },
     {
-      "id": 9317765989,
-      "lat": 35.668059,
-      "lon": 8.006072,
-      "name": "Morsott",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 7321401193,
       "lat": 36.559892,
       "lon": 10.530025,
@@ -1020,35 +732,11 @@
       "country": "TN"
     },
     {
-      "id": 2431635787,
-      "lat": 35.92545,
-      "lon": 7.921155,
-      "name": "Oued Keberit",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 9308715704,
-      "lat": 36.371764,
-      "lon": 8.221411,
-      "name": "Oued Mougras",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 5227817728,
       "lat": 36.067365,
       "lon": 8.936174,
       "name": "Oued Tessa",
       "type": "halt",
-      "country": "TN"
-    },
-    {
-      "id": 10994469260,
-      "lat": 36.828065,
-      "lon": 7.597111,
-      "name": "Oued Zied",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -1132,14 +820,6 @@
       "country": "TN"
     },
     {
-      "id": 4561505810,
-      "lat": 36.892695,
-      "lon": 7.756231,
-      "name": "Rue de la gare",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 9523614289,
       "lat": 34.801263,
       "lon": 10.761452,
@@ -1196,22 +876,6 @@
       "country": "TN"
     },
     {
-      "id": 4001575718,
-      "lat": 36.870417,
-      "lon": 7.724705,
-      "name": "Sidi Achour",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1315711505,
-      "lat": 36.810063,
-      "lon": 7.713164,
-      "name": "Sidi Amar",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 9287672072,
       "lat": 34.667517,
       "lon": 8.461905,
@@ -1241,14 +905,6 @@
       "lon": 9.524431,
       "name": "Sidi Nsir",
       "type": "halt",
-      "country": "TN"
-    },
-    {
-      "id": 2206396029,
-      "lat": 36.280858,
-      "lon": 7.95268,
-      "name": "Souk Ahras",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -1332,42 +988,10 @@
       "country": "TN"
     },
     {
-      "id": 1212604180,
-      "lat": 36.895684,
-      "lon": 7.720968,
-      "name": "Station Annaba",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 378148734,
-      "lat": 36.895742,
-      "lon": 7.720928,
-      "name": "Station Annaba",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4739553222,
-      "lat": 36.293264,
-      "lon": 7.975874,
-      "name": "station boughalem",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 1196137819,
       "lat": 35.733303,
       "lon": 10.57472,
       "name": "station de bus",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2306663562,
-      "lat": 35.77353,
-      "lon": 10.825718,
-      "name": "Station de Bus",
       "type": "station",
       "country": "TN"
     },
@@ -1412,34 +1036,10 @@
       "country": "TN"
     },
     {
-      "id": 1308694083,
-      "lat": 35.773177,
-      "lon": 10.826046,
-      "name": "Station de Bus STS",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 10944183583,
-      "lat": 35.767798,
-      "lon": 10.841103,
-      "name": "Station de lavage",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 2096304542,
       "lat": 35.809326,
       "lon": 10.63634,
       "name": "Station de louage",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2934330674,
-      "lat": 35.773032,
-      "lon": 10.825696,
-      "name": "Station de Louage",
       "type": "station",
       "country": "TN"
     },
@@ -1532,26 +1132,10 @@
       "country": "TN"
     },
     {
-      "id": 4361829791,
-      "lat": 36.135492,
-      "lon": 7.539114,
-      "name": "station de service",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 9706153986,
       "lat": 36.805859,
       "lon": 10.180783,
       "name": "Station de taxi",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2935187857,
-      "lat": 35.773027,
-      "lon": 10.825039,
-      "name": "Station de Taxi",
       "type": "station",
       "country": "TN"
     },
@@ -1604,14 +1188,6 @@
       "country": "TN"
     },
     {
-      "id": 4234550089,
-      "lat": 36.797017,
-      "lon": 10.1885,
-      "name": "Station de taxis Tataouine",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 6328137930,
       "lat": 36.481284,
       "lon": 10.787893,
@@ -1620,26 +1196,10 @@
       "country": "TN"
     },
     {
-      "id": 753114640,
-      "lat": 34.532814,
-      "lon": 10.577688,
-      "name": "Station des Bus et Louage",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3221662753,
-      "lat": 36.684713,
-      "lon": 7.754767,
-      "name": "Station Dréan-Besbes",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4214100669,
-      "lat": 36.852966,
-      "lon": 7.751729,
-      "name": "Station El Bouni",
+      "id": 13727132001,
+      "lat": 35.679178,
+      "lon": 10.088365,
+      "name": "Station des Louages",
       "type": "station",
       "country": "TN"
     },
@@ -1664,22 +1224,6 @@
       "lat": 34.737145,
       "lon": 10.757551,
       "name": "Station Facultés",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 12637136533,
-      "lat": 35.95024,
-      "lon": 10.545397,
-      "name": "Station Gandouz vers Hergla",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 12637136515,
-      "lat": 35.950188,
-      "lon": 10.545172,
-      "name": "Station Gandouz vers Sousse",
       "type": "station",
       "country": "TN"
     },
@@ -1732,14 +1276,6 @@
       "country": "TN"
     },
     {
-      "id": 3450181817,
-      "lat": 36.894131,
-      "lon": 7.754496,
-      "name": "Station Kouche Noureddine",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 4622362916,
       "lat": 34.732553,
       "lon": 10.75904,
@@ -1748,34 +1284,10 @@
       "country": "TN"
     },
     {
-      "id": 4214076705,
-      "lat": 36.809936,
-      "lon": 7.712282,
-      "name": "Station La Gare",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 4838746923,
       "lat": 36.829736,
       "lon": 10.138653,
       "name": "Station lavage",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 12637136532,
-      "lat": 35.956682,
-      "lon": 10.541288,
-      "name": "Station Lgobba vers hergla",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 12637136514,
-      "lat": 35.956665,
-      "lon": 10.541091,
-      "name": "Station Lgobba vers Sousse",
       "type": "station",
       "country": "TN"
     },
@@ -1828,14 +1340,6 @@
       "country": "TN"
     },
     {
-      "id": 4565026989,
-      "lat": 35.772619,
-      "lon": 10.826083,
-      "name": "Station Louage Monastir",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 672867836,
       "lat": 36.791649,
       "lon": 10.187152,
@@ -1876,38 +1380,6 @@
       "country": "TN"
     },
     {
-      "id": 3225845436,
-      "lat": 36.860263,
-      "lon": 7.751427,
-      "name": "Station Naftal",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3225863128,
-      "lat": 36.859175,
-      "lon": 7.73664,
-      "name": "Station Naftal",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 3225840822,
-      "lat": 36.858476,
-      "lon": 7.747279,
-      "name": "Station NAFTAL",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4364640492,
-      "lat": 36.155354,
-      "lon": 7.601693,
-      "name": "station ounissi",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 4394859179,
       "lat": 36.822451,
       "lon": 10.120456,
@@ -1924,70 +1396,6 @@
       "country": "TN"
     },
     {
-      "id": 1212604182,
-      "lat": 36.910432,
-      "lon": 7.681447,
-      "name": "Station Seraïdi",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 340615898,
-      "lat": 36.910517,
-      "lon": 7.681291,
-      "name": "Station Seraïdi",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4225722500,
-      "lat": 36.601662,
-      "lon": 8.201986,
-      "name": "Station service",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 5238602544,
-      "lat": 36.897992,
-      "lon": 7.754332,
-      "name": "Station Service Naftal (El Hattab)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 560820604,
-      "lat": 36.895718,
-      "lon": 7.758078,
-      "name": "Station Service Naftal (Essence)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4510759890,
-      "lat": 36.913577,
-      "lon": 7.763802,
-      "name": "Station Service Naftal (Menadia)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4510751093,
-      "lat": 36.911526,
-      "lon": 7.762198,
-      "name": "Station Service Naftal (Transformateur)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4225734689,
-      "lat": 36.665136,
-      "lon": 8.230456,
-      "name": "Station services",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 4622292695,
       "lat": 34.733064,
       "lon": 10.757029,
@@ -2000,14 +1408,6 @@
       "lat": 34.400486,
       "lon": 8.182358,
       "name": "Station Tarfaya 2",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4573216118,
-      "lat": 36.912296,
-      "lon": 7.674522,
-      "name": "station taxi",
       "type": "station",
       "country": "TN"
     },
@@ -2052,22 +1452,6 @@
       "country": "TN"
     },
     {
-      "id": 4214076709,
-      "lat": 36.823729,
-      "lon": 7.727762,
-      "name": "Station UV12",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 4214076714,
-      "lat": 36.822866,
-      "lon": 7.729832,
-      "name": "Station Uv12 (SNTR)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 10295369639,
       "lat": 34.838803,
       "lon": 10.697293,
@@ -2084,14 +1468,6 @@
       "country": "TN"
     },
     {
-      "id": 12718363101,
-      "lat": 37.276753,
-      "lon": 9.877337,
-      "name": "Stationnement voitures et bus.",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 8266402087,
       "lat": 34.742125,
       "lon": 10.527966,
@@ -2104,30 +1480,6 @@
       "lat": 34.436475,
       "lon": 8.259307,
       "name": "Tabeddit",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2191924627,
-      "lat": 35.407129,
-      "lon": 8.122178,
-      "name": "Tébessa",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 12092353601,
-      "lat": 35.407169,
-      "lon": 8.122189,
-      "name": "Tébessa",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 8814808876,
-      "lat": 36.905769,
-      "lon": 7.754317,
-      "name": "Techno Stationery Annaba",
       "type": "station",
       "country": "TN"
     },
@@ -2152,22 +1504,6 @@
       "lat": 35.628547,
       "lon": 10.75736,
       "name": "Unnamed (node 10268701930)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080013792,
-      "lat": 36.800393,
-      "lon": 10.19268,
-      "name": "Unnamed (node 1080013792)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080014414,
-      "lat": 36.80041,
-      "lon": 10.192776,
-      "name": "Unnamed (node 1080014414)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -2256,22 +1592,6 @@
       "lat": 36.71731,
       "lon": 10.216631,
       "name": "Unnamed (node 1095697410)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 10994469288,
-      "lat": 36.829109,
-      "lon": 7.590854,
-      "name": "Unnamed (node 10994469288)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 10994469299,
-      "lat": 36.827926,
-      "lon": 7.598289,
-      "name": "Unnamed (node 10994469299)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -2485,16 +1805,16 @@
     },
     {
       "id": 1203241040,
-      "lat": 36.695992,
-      "lon": 10.433738,
+      "lat": 36.696007,
+      "lon": 10.433669,
       "name": "Unnamed (node 1203241040)",
       "type": "buffer_stop",
       "country": "TN"
     },
     {
       "id": 1203241756,
-      "lat": 36.699328,
-      "lon": 10.416453,
+      "lat": 36.699341,
+      "lon": 10.416377,
       "name": "Unnamed (node 1203241756)",
       "type": "buffer_stop",
       "country": "TN"
@@ -2525,8 +1845,8 @@
     },
     {
       "id": 1203247558,
-      "lat": 36.696323,
-      "lon": 10.433393,
+      "lat": 36.696343,
+      "lon": 10.433288,
       "name": "Unnamed (node 1203247558)",
       "type": "buffer_stop",
       "country": "TN"
@@ -2644,22 +1964,6 @@
       "country": "TN"
     },
     {
-      "id": 1238349263,
-      "lat": 36.799253,
-      "lon": 10.20247,
-      "name": "Unnamed (node 1238349263)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1238350143,
-      "lat": 36.799598,
-      "lon": 10.199774,
-      "name": "Unnamed (node 1238350143)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 1239279367,
       "lat": 36.790743,
       "lon": 10.190993,
@@ -2724,14 +2028,6 @@
       "country": "TN"
     },
     {
-      "id": 1315711410,
-      "lat": 36.89563,
-      "lon": 7.75873,
-      "name": "Unnamed (node 1315711410)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 1316642523,
       "lat": 36.763117,
       "lon": 10.28431,
@@ -2756,90 +2052,34 @@
       "country": "TN"
     },
     {
-      "id": 1394270170,
-      "lat": 37.258094,
-      "lon": 9.852614,
-      "name": "Unnamed (node 1394270170)",
+      "id": 14074520781,
+      "lat": 35.795849,
+      "lon": 10.652168,
+      "name": "Unnamed (node 14074520781)",
       "type": "buffer_stop",
       "country": "TN"
     },
     {
-      "id": 1394271525,
-      "lat": 37.265326,
-      "lon": 9.86815,
-      "name": "Unnamed (node 1394271525)",
+      "id": 14077204676,
+      "lat": 35.793812,
+      "lon": 10.652957,
+      "name": "Unnamed (node 14077204676)",
       "type": "buffer_stop",
       "country": "TN"
     },
     {
-      "id": 1394271582,
-      "lat": 37.265716,
-      "lon": 9.867542,
-      "name": "Unnamed (node 1394271582)",
+      "id": 14077224903,
+      "lat": 35.797501,
+      "lon": 10.651493,
+      "name": "Unnamed (node 14077224903)",
       "type": "buffer_stop",
       "country": "TN"
     },
     {
-      "id": 1394272224,
-      "lat": 37.266904,
-      "lon": 9.868081,
-      "name": "Unnamed (node 1394272224)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272227,
-      "lat": 37.26694,
-      "lon": 9.866949,
-      "name": "Unnamed (node 1394272227)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272233,
-      "lat": 37.266971,
-      "lon": 9.866934,
-      "name": "Unnamed (node 1394272233)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272237,
-      "lat": 37.26696,
-      "lon": 9.868059,
-      "name": "Unnamed (node 1394272237)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272252,
-      "lat": 37.267031,
-      "lon": 9.868032,
-      "name": "Unnamed (node 1394272252)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272257,
-      "lat": 37.267082,
-      "lon": 9.868006,
-      "name": "Unnamed (node 1394272257)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272267,
-      "lat": 37.267065,
-      "lon": 9.866511,
-      "name": "Unnamed (node 1394272267)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1394272303,
-      "lat": 37.26882,
-      "lon": 9.873942,
-      "name": "Unnamed (node 1394272303)",
+      "id": 14082443655,
+      "lat": 36.430868,
+      "lon": 10.687902,
+      "name": "Unnamed (node 14082443655)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -2960,14 +2200,6 @@
       "lat": 36.851882,
       "lon": 9.930539,
       "name": "Unnamed (node 1436699116)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1445368179,
-      "lat": 36.808118,
-      "lon": 10.294223,
-      "name": "Unnamed (node 1445368179)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -3148,14 +2380,6 @@
       "country": "TN"
     },
     {
-      "id": 1828656663,
-      "lat": 36.799226,
-      "lon": 10.202999,
-      "name": "Unnamed (node 1828656663)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 1843259386,
       "lat": 36.625082,
       "lon": 10.461186,
@@ -3197,25 +2421,17 @@
     },
     {
       "id": 1854435707,
-      "lat": 36.430725,
-      "lon": 10.687964,
+      "lat": 36.430736,
+      "lon": 10.68797,
       "name": "Unnamed (node 1854435707)",
       "type": "buffer_stop",
       "country": "TN"
     },
     {
       "id": 1854435708,
-      "lat": 36.430811,
-      "lon": 10.687933,
+      "lat": 36.43079,
+      "lon": 10.68794,
       "name": "Unnamed (node 1854435708)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1854435709,
-      "lat": 36.430872,
-      "lon": 10.68791,
-      "name": "Unnamed (node 1854435709)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -3229,18 +2445,10 @@
     },
     {
       "id": 1854435767,
-      "lat": 36.432345,
-      "lon": 10.693667,
+      "lat": 36.432344,
+      "lon": 10.693671,
       "name": "Unnamed (node 1854435767)",
       "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1857285509,
-      "lat": 36.560607,
-      "lon": 10.524991,
-      "name": "Unnamed (node 1857285509)",
-      "type": "stop",
       "country": "TN"
     },
     {
@@ -3304,38 +2512,6 @@
       "lat": 36.754184,
       "lon": 10.201779,
       "name": "Unnamed (node 1904828496)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1961133849,
-      "lat": 36.806365,
-      "lon": 10.300773,
-      "name": "Unnamed (node 1961133849)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1961133907,
-      "lat": 36.806454,
-      "lon": 10.300832,
-      "name": "Unnamed (node 1961133907)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1961133954,
-      "lat": 36.806487,
-      "lon": 10.300854,
-      "name": "Unnamed (node 1961133954)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1961134465,
-      "lat": 36.807057,
-      "lon": 10.300002,
-      "name": "Unnamed (node 1961134465)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -3412,38 +2588,6 @@
       "country": "TN"
     },
     {
-      "id": 1998450054,
-      "lat": 33.918252,
-      "lon": 10.104977,
-      "name": "Unnamed (node 1998450054)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1998450058,
-      "lat": 33.918328,
-      "lon": 10.104907,
-      "name": "Unnamed (node 1998450058)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1998450059,
-      "lat": 33.918361,
-      "lon": 10.104876,
-      "name": "Unnamed (node 1998450059)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1998450062,
-      "lat": 33.918394,
-      "lon": 10.104846,
-      "name": "Unnamed (node 1998450062)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 1998450209,
       "lat": 33.920657,
       "lon": 10.076432,
@@ -3504,14 +2648,6 @@
       "lat": 33.923294,
       "lon": 10.078449,
       "name": "Unnamed (node 1998450278)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 1998450362,
-      "lat": 33.925047,
-      "lon": 10.096509,
-      "name": "Unnamed (node 1998450362)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -5709,33 +4845,9 @@
     },
     {
       "id": 2577085509,
-      "lat": 35.770153,
-      "lon": 10.823283,
+      "lat": 35.770175,
+      "lon": 10.823297,
       "name": "Unnamed (node 2577085509)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 2577085542,
-      "lat": 35.770736,
-      "lon": 10.826234,
-      "name": "Unnamed (node 2577085542)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 2577085551,
-      "lat": 35.770889,
-      "lon": 10.826164,
-      "name": "Unnamed (node 2577085551)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 2577085556,
-      "lat": 35.770962,
-      "lon": 10.826131,
-      "name": "Unnamed (node 2577085556)",
       "type": "buffer_stop",
       "country": "TN"
     },
@@ -5876,30 +4988,6 @@
       "country": "TN"
     },
     {
-      "id": 287254463,
-      "lat": 36.806322,
-      "lon": 10.300744,
-      "name": "Unnamed (node 287254463)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 287254663,
-      "lat": 36.808131,
-      "lon": 10.289453,
-      "name": "Unnamed (node 287254663)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 287254749,
-      "lat": 36.808934,
-      "lon": 10.285578,
-      "name": "Unnamed (node 287254749)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 2876977311,
       "lat": 34.60663,
       "lon": 9.607712,
@@ -5916,11 +5004,11 @@
       "country": "TN"
     },
     {
-      "id": 289117007,
-      "lat": 35.770849,
-      "lon": 10.826181,
-      "name": "Unnamed (node 289117007)",
-      "type": "buffer_stop",
+      "id": 289901362,
+      "lat": 35.630817,
+      "lon": 10.931275,
+      "name": "Unnamed (node 289901362)",
+      "type": "stop",
       "country": "TN"
     },
     {
@@ -6100,38 +5188,6 @@
       "country": "TN"
     },
     {
-      "id": 8392877166,
-      "lat": 36.799108,
-      "lon": 10.200705,
-      "name": "Unnamed (node 8392877166)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 8392877190,
-      "lat": 36.801057,
-      "lon": 10.195711,
-      "name": "Unnamed (node 8392877190)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 8392877209,
-      "lat": 36.799891,
-      "lon": 10.199389,
-      "name": "Unnamed (node 8392877209)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
-      "id": 8392877210,
-      "lat": 36.79982,
-      "lon": 10.199348,
-      "name": "Unnamed (node 8392877210)",
-      "type": "buffer_stop",
-      "country": "TN"
-    },
-    {
       "id": 9038708077,
       "lat": 36.76794,
       "lon": 10.21654,
@@ -6236,14 +5292,6 @@
       "country": "TN"
     },
     {
-      "id": 9308755704,
-      "lat": 36.289055,
-      "lon": 8.003377,
-      "name": "Unnamed (node 9308755704)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 974490560,
       "lat": 36.860754,
       "lon": 10.196685,
@@ -6296,14 +5344,6 @@
       "lat": 34.562984,
       "lon": 10.562859,
       "name": "Unnamed (way 1006177539)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1006177541,
-      "lat": 34.62204,
-      "lon": 10.630418,
-      "name": "Unnamed (way 1006177541)",
       "type": "station",
       "country": "TN"
     },
@@ -6376,230 +5416,6 @@
       "lat": 36.407733,
       "lon": 8.365223,
       "name": "Unnamed (way 1008837316)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1008887378,
-      "lat": 36.371543,
-      "lon": 8.223005,
-      "name": "Unnamed (way 1008887378)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1008887383,
-      "lat": 36.288962,
-      "lon": 8.003291,
-      "name": "Unnamed (way 1008887383)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009612368,
-      "lat": 36.428132,
-      "lon": 10.681082,
-      "name": "Unnamed (way 1009612368)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009651666,
-      "lat": 34.734769,
-      "lon": 8.067802,
-      "name": "Unnamed (way 1009651666)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009653457,
-      "lat": 34.773877,
-      "lon": 8.051175,
-      "name": "Unnamed (way 1009653457)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009657022,
-      "lat": 35.211365,
-      "lon": 8.174657,
-      "name": "Unnamed (way 1009657022)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009878091,
-      "lat": 35.668355,
-      "lon": 8.005948,
-      "name": "Unnamed (way 1009878091)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009878092,
-      "lat": 35.768314,
-      "lon": 7.900464,
-      "name": "Unnamed (way 1009878092)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009937027,
-      "lat": 35.953257,
-      "lon": 8.128065,
-      "name": "Unnamed (way 1009937027)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009942256,
-      "lat": 35.894725,
-      "lon": 8.032268,
-      "name": "Unnamed (way 1009942256)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009945490,
-      "lat": 35.992299,
-      "lon": 7.836504,
-      "name": "Unnamed (way 1009945490)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009954646,
-      "lat": 36.12133,
-      "lon": 7.884366,
-      "name": "Unnamed (way 1009954646)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009964668,
-      "lat": 36.2406,
-      "lon": 7.939459,
-      "name": "Unnamed (way 1009964668)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009970084,
-      "lat": 36.362596,
-      "lon": 7.846986,
-      "name": "Unnamed (way 1009970084)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1009972817,
-      "lat": 36.324616,
-      "lon": 7.883284,
-      "name": "Unnamed (way 1009972817)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010172017,
-      "lat": 36.399298,
-      "lon": 7.828784,
-      "name": "Unnamed (way 1010172017)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010175302,
-      "lat": 36.407018,
-      "lon": 7.801073,
-      "name": "Unnamed (way 1010175302)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010191689,
-      "lat": 36.441601,
-      "lon": 7.771156,
-      "name": "Unnamed (way 1010191689)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010233977,
-      "lat": 36.489832,
-      "lon": 7.721141,
-      "name": "Unnamed (way 1010233977)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010252892,
-      "lat": 36.555048,
-      "lon": 7.714181,
-      "name": "Unnamed (way 1010252892)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010252896,
-      "lat": 36.581593,
-      "lon": 7.75489,
-      "name": "Unnamed (way 1010252896)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010264595,
-      "lat": 36.831347,
-      "lon": 7.750042,
-      "name": "Unnamed (way 1010264595)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010487710,
-      "lat": 36.650306,
-      "lon": 7.775098,
-      "name": "Unnamed (way 1010487710)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010495205,
-      "lat": 36.759156,
-      "lon": 7.742079,
-      "name": "Unnamed (way 1010495205)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010500993,
-      "lat": 36.802503,
-      "lon": 7.74022,
-      "name": "Unnamed (way 1010500993)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010530923,
-      "lat": 35.77705,
-      "lon": 7.735044,
-      "name": "Unnamed (way 1010530923)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010530926,
-      "lat": 35.781507,
-      "lon": 7.657577,
-      "name": "Unnamed (way 1010530926)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 1010532428,
-      "lat": 35.719667,
-      "lon": 7.588834,
-      "name": "Unnamed (way 1010532428)",
       "type": "station",
       "country": "TN"
     },
@@ -6724,14 +5540,6 @@
       "country": "TN"
     },
     {
-      "id": 131301585,
-      "lat": 36.804889,
-      "lon": 10.287733,
-      "name": "Unnamed (way 131301585)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 1320669857,
       "lat": 35.814108,
       "lon": 10.630201,
@@ -6768,6 +5576,14 @@
       "lat": 35.822172,
       "lon": 10.571553,
       "name": "Unnamed (way 147189753)",
+      "type": "station",
+      "country": "TN"
+    },
+    {
+      "id": 1548319445,
+      "lat": 36.723608,
+      "lon": 10.348359,
+      "name": "Unnamed (way 1548319445)",
       "type": "station",
       "country": "TN"
     },
@@ -6893,8 +5709,8 @@
     },
     {
       "id": 189773088,
-      "lat": 35.800325,
-      "lon": 10.650108,
+      "lat": 35.800324,
+      "lon": 10.650106,
       "name": "Unnamed (way 189773088)",
       "type": "station",
       "country": "TN"
@@ -6966,7 +5782,7 @@
     {
       "id": 190310041,
       "lat": 36.80624,
-      "lon": 10.139259,
+      "lon": 10.139278,
       "name": "Unnamed (way 190310041)",
       "type": "station",
       "country": "TN"
@@ -7180,22 +5996,6 @@
       "country": "TN"
     },
     {
-      "id": 422109857,
-      "lat": 36.809767,
-      "lon": 7.713011,
-      "name": "Unnamed (way 422109857)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 565662953,
-      "lat": 33.499232,
-      "lon": 11.115062,
-      "name": "Unnamed (way 565662953)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 608334662,
       "lat": 33.72643,
       "lon": 8.98005,
@@ -7272,14 +6072,6 @@
       "lat": 36.625308,
       "lon": 10.151249,
       "name": "Unnamed (way 881034683)",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 9318565548,
-      "lat": 36.24041,
-      "lon": 7.939524,
-      "name": "Zarouria",
       "type": "station",
       "country": "TN"
     },
@@ -7388,14 +6180,6 @@
       "country": "TN"
     },
     {
-      "id": 1080014206,
-      "lat": 36.814241,
-      "lon": 10.292368,
-      "name": "البكالوريا",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 1095697169,
       "lat": 36.73316,
       "lon": 10.210376,
@@ -7472,14 +6256,6 @@
       "lat": 36.784013,
       "lon": 10.115751,
       "name": "الحرايرية",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 5806301475,
-      "lat": 36.812939,
-      "lon": 10.0619,
-      "name": "الحرم الجامعي",
       "type": "station",
       "country": "TN"
     },
@@ -7597,8 +6373,8 @@
     },
     {
       "id": 1203244999,
-      "lat": 36.699435,
-      "lon": 10.415077,
+      "lat": 36.699432,
+      "lon": 10.415071,
       "name": "الرياض",
       "type": "stop",
       "country": "TN"
@@ -7861,8 +6637,8 @@
     },
     {
       "id": 5227817788,
-      "lat": 36.717601,
-      "lon": 10.35956,
+      "lat": 36.717652,
+      "lon": 10.359607,
       "name": "الطاهر صفر",
       "type": "station",
       "country": "TN"
@@ -8068,22 +6844,6 @@
       "country": "TN"
     },
     {
-      "id": 283642890,
-      "lat": 36.836348,
-      "lon": 10.316643,
-      "name": "الكرم",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1081045152,
-      "lat": 36.836338,
-      "lon": 10.316673,
-      "name": "الكرم",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 7867580426,
       "lat": 36.254165,
       "lon": 9.186155,
@@ -8116,22 +6876,6 @@
       "country": "TN"
     },
     {
-      "id": 255422485,
-      "lat": 35.429627,
-      "lon": 8.049923,
-      "name": "المحطة البرية المجاهد حسين آيت أحمد",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 316376634,
-      "lat": 36.765311,
-      "lon": 8.323392,
-      "name": "المحطة البرية لنقل المسافرين الطارف",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 103399498,
       "lat": 36.788085,
       "lon": 10.179638,
@@ -8150,9 +6894,25 @@
     {
       "id": 3732837776,
       "lat": 36.428173,
-      "lon": 10.681362,
+      "lon": 10.6811,
       "name": "المرازقة",
       "type": "halt",
+      "country": "TN"
+    },
+    {
+      "id": 5625819238,
+      "lat": 36.812953,
+      "lon": 10.06191,
+      "name": "المركب الجامعي",
+      "type": "stop",
+      "country": "TN"
+    },
+    {
+      "id": 5806301475,
+      "lat": 36.812939,
+      "lon": 10.0619,
+      "name": "المركب الجامعي",
+      "type": "station",
       "country": "TN"
     },
     {
@@ -8220,30 +6980,6 @@
       "country": "TN"
     },
     {
-      "id": 9306396343,
-      "lat": 37.254404,
-      "lon": 9.839896,
-      "name": "المصيدة",
-      "type": "halt",
-      "country": "TN"
-    },
-    {
-      "id": 823009831,
-      "lat": 37.254514,
-      "lon": 9.839872,
-      "name": "المصيدة",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 283642897,
-      "lat": 36.832048,
-      "lon": 10.313852,
-      "name": "المطار",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 7833812091,
       "lat": 34.60633,
       "lon": 9.60559,
@@ -8257,6 +6993,14 @@
       "lon": 10.915719,
       "name": "المكنين",
       "type": "station",
+      "country": "TN"
+    },
+    {
+      "id": 14076288599,
+      "lat": 35.630791,
+      "lon": 10.931515,
+      "name": "المكنين المنطقة الصناعية",
+      "type": "halt",
       "country": "TN"
     },
     {
@@ -8297,14 +7041,6 @@
       "lon": 10.193504,
       "name": "المنتزه",
       "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 7829749519,
-      "lat": 35.770851,
-      "lon": 10.826105,
-      "name": "المنستير",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -8508,6 +7244,14 @@
       "country": "TN"
     },
     {
+      "id": 203029531,
+      "lat": 36.810636,
+      "lon": 10.153575,
+      "name": "باب سعدون",
+      "type": "station",
+      "country": "TN"
+    },
+    {
       "id": 1094507510,
       "lat": 36.785759,
       "lon": 10.179835,
@@ -8596,11 +7340,11 @@
       "country": "TN"
     },
     {
-      "id": 5227817921,
-      "lat": 35.569537,
-      "lon": 11.01839,
-      "name": "بغدادي",
-      "type": "halt",
+      "id": 1857285509,
+      "lat": 36.560607,
+      "lon": 10.524991,
+      "name": "بلي",
+      "type": "stop",
       "country": "TN"
     },
     {
@@ -8617,14 +7361,6 @@
       "lon": 10.220288,
       "name": "بن عروس",
       "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 125567517,
-      "lat": 37.267244,
-      "lon": 9.868272,
-      "name": "بنزرت",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -8804,51 +7540,11 @@
       "country": "TN"
     },
     {
-      "id": 1080014547,
-      "lat": 36.80015,
-      "lon": 10.192736,
-      "name": "تونس البحرية",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080016835,
-      "lat": 36.800163,
-      "lon": 10.192839,
-      "name": "تونس البحرية",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080016948,
-      "lat": 36.800181,
-      "lon": 10.192951,
-      "name": "تونس البحرية",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080023232,
-      "lat": 36.800166,
-      "lon": 10.192887,
-      "name": "تونس البحرية",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 1146894481,
       "lat": 36.800641,
       "lon": 10.192086,
       "name": "تونس البحرية",
       "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 5807318667,
-      "lat": 36.800126,
-      "lon": 10.192896,
-      "name": "تونس البحرية",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -8972,38 +7668,6 @@
       "country": "TN"
     },
     {
-      "id": 283644112,
-      "lat": 36.818048,
-      "lon": 10.301971,
-      "name": "حلق الوادي",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 823009311,
-      "lat": 36.818061,
-      "lon": 10.301872,
-      "name": "حلق الوادي",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 283642912,
-      "lat": 36.819948,
-      "lon": 10.305623,
-      "name": "حلق الوادي الجديد",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1080014618,
-      "lat": 36.824241,
-      "lon": 10.3087,
-      "name": "حلق الوادي الكازينو",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 1203240634,
       "lat": 36.72942,
       "lon": 10.334696,
@@ -9061,8 +7725,8 @@
     },
     {
       "id": 5227817787,
-      "lat": 36.713686,
-      "lon": 10.369181,
+      "lat": 36.713666,
+      "lon": 10.369368,
       "name": "حمام الشط",
       "type": "station",
       "country": "TN"
@@ -9188,14 +7852,6 @@
       "country": "TN"
     },
     {
-      "id": 5814603914,
-      "lat": 36.828935,
-      "lon": 10.311603,
-      "name": "خير الدين",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 5227817740,
       "lat": 34.990688,
       "lon": 10.760847,
@@ -9316,14 +7972,6 @@
       "country": "TN"
     },
     {
-      "id": 5806301478,
-      "lat": 36.803279,
-      "lon": 10.099036,
-      "name": "سليمان كاهية",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 8231384499,
       "lat": 36.457205,
       "lon": 10.02352,
@@ -9412,14 +8060,6 @@
       "country": "TN"
     },
     {
-      "id": 9399822512,
-      "lat": 36.311811,
-      "lon": 8.078955,
-      "name": "سيدي بادر",
-      "type": "halt",
-      "country": "TN"
-    },
-    {
       "id": 8231384487,
       "lat": 36.175472,
       "lon": 9.125256,
@@ -9433,14 +8073,6 @@
       "lon": 9.125033,
       "name": "سيدي بورويس",
       "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 283657391,
-      "lat": 36.870617,
-      "lon": 10.342069,
-      "name": "سيدي بوسعيد",
-      "type": "stop",
       "country": "TN"
     },
     {
@@ -9708,70 +8340,6 @@
       "country": "TN"
     },
     {
-      "id": 288550478,
-      "lat": 36.866621,
-      "lon": 10.337506,
-      "name": "قرطاج أميلكار",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1081030979,
-      "lat": 36.861661,
-      "lon": 10.335041,
-      "name": "قرطاج الرئاسة",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 9162088821,
-      "lat": 36.846231,
-      "lon": 10.32184,
-      "name": "قرطاج بيرصة",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 288345501,
-      "lat": 36.853552,
-      "lon": 10.328986,
-      "name": "قرطاج حنبعل",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1081045362,
-      "lat": 36.853541,
-      "lon": 10.329005,
-      "name": "قرطاج حنبعل",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 5814603909,
-      "lat": 36.850197,
-      "lon": 10.325696,
-      "name": "قرطاج درمش",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 288341876,
-      "lat": 36.8417,
-      "lon": 10.319123,
-      "name": "قرطاج صلامبو",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 1081048012,
-      "lat": 36.841692,
-      "lon": 10.319158,
-      "name": "قرطاج صلامبو",
-      "type": "stop",
-      "country": "TN"
-    },
-    {
       "id": 5227817762,
       "lat": 34.563141,
       "lon": 10.562873,
@@ -9876,14 +8444,6 @@
       "country": "TN"
     },
     {
-      "id": 2206932295,
-      "lat": 36.338331,
-      "lon": 8.168448,
-      "name": "لخضارة",
-      "type": "halt",
-      "country": "TN"
-    },
-    {
       "id": 1359492749,
       "lat": 35.670156,
       "lon": 10.882511,
@@ -9956,6 +8516,14 @@
       "country": "TN"
     },
     {
+      "id": 283599937,
+      "lat": 36.836644,
+      "lon": 10.214675,
+      "name": "محطة البضائع",
+      "type": "station",
+      "country": "TN"
+    },
+    {
       "id": 6318392170,
       "lat": 36.573856,
       "lon": 10.858491,
@@ -9984,22 +8552,6 @@
       "lat": 36.742699,
       "lon": 10.193606,
       "name": "محطة الحافلات المنتزه",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 460805271,
-      "lat": 36.68611,
-      "lon": 7.735639,
-      "name": "محطة الذرعان الحافلات",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 315999017,
-      "lat": 36.688017,
-      "lon": 7.74744,
-      "name": "محطة السكك الحديدية",
       "type": "station",
       "country": "TN"
     },
@@ -10044,14 +8596,6 @@
       "country": "TN"
     },
     {
-      "id": 615644203,
-      "lat": 36.280344,
-      "lon": 7.939644,
-      "name": "محطة النقل البري",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 613730221,
       "lat": 34.384649,
       "lon": 8.154996,
@@ -10060,10 +8604,18 @@
       "country": "TN"
     },
     {
-      "id": 757684562,
-      "lat": 35.404476,
-      "lon": 8.126472,
-      "name": "محطة باب الزياتين",
+      "id": 1310652848,
+      "lat": 35.625497,
+      "lon": 10.899751,
+      "name": "محطة النقل الريفي المكنين",
+      "type": "station",
+      "country": "TN"
+    },
+    {
+      "id": 1551496399,
+      "lat": 35.625276,
+      "lon": 10.900086,
+      "name": "محطة النقل الريفي المكنين",
       "type": "station",
       "country": "TN"
     },
@@ -10124,26 +8676,18 @@
       "country": "TN"
     },
     {
+      "id": 1280843749,
+      "lat": 35.395888,
+      "lon": 9.542286,
+      "name": "محطة حاجب العيون الباص",
+      "type": "station",
+      "country": "TN"
+    },
+    {
       "id": 2175374557,
       "lat": 33.986792,
       "lon": 8.21341,
       "name": "محطة دقاش",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 288306072,
-      "lat": 35.407035,
-      "lon": 8.122125,
-      "name": "محطة سكة حديد تبسة",
-      "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 341933068,
-      "lat": 36.280827,
-      "lon": 7.95311,
-      "name": "محطة سوق أهراس",
       "type": "station",
       "country": "TN"
     },
@@ -10180,14 +8724,6 @@
       "country": "TN"
     },
     {
-      "id": 256681682,
-      "lat": 37.268035,
-      "lon": 9.858401,
-      "name": "محطة ماطر الحافلات",
-      "type": "station",
-      "country": "TN"
-    },
-    {
       "id": 673937414,
       "lat": 37.151475,
       "lon": 9.793906,
@@ -10220,11 +8756,11 @@
       "country": "TN"
     },
     {
-      "id": 1089665035,
-      "lat": 36.815936,
-      "lon": 10.183207,
+      "id": 13835966905,
+      "lat": 36.815925,
+      "lon": 10.183188,
       "name": "محمد الخامس",
-      "type": "station",
+      "type": "halt",
       "country": "TN"
     },
     {
@@ -10284,17 +8820,9 @@
       "country": "TN"
     },
     {
-      "id": 2206913210,
-      "lat": 36.320771,
-      "lon": 8.125197,
-      "name": "مشتت طاكوكا",
-      "type": "halt",
-      "country": "TN"
-    },
-    {
       "id": 2003736239,
-      "lat": 35.762621,
-      "lon": 10.754554,
+      "lat": 35.76264,
+      "lon": 10.754539,
       "name": "مطار المنستير",
       "type": "station",
       "country": "TN"
@@ -10385,14 +8913,6 @@
       "lon": 10.223154,
       "name": "مقرين الرياض",
       "type": "stop",
-      "country": "TN"
-    },
-    {
-      "id": 311749675,
-      "lat": 37.269033,
-      "lon": 9.872664,
-      "name": "مكاتب الجمارك الإقليمية",
-      "type": "station",
       "country": "TN"
     },
     {
@@ -10545,14 +9065,6 @@
       "lon": 10.008206,
       "name": "وادي الليل",
       "type": "station",
-      "country": "TN"
-    },
-    {
-      "id": 2423144591,
-      "lat": 36.555214,
-      "lon": 7.714425,
-      "name": "وادي فراغة",
-      "type": "halt",
       "country": "TN"
     },
     {

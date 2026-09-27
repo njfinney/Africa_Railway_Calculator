@@ -8,8 +8,8 @@
     35.93,
     -0.99
   ],
-  "extracted": "2026-03-03T12:15:58.399Z",
-  "count": 1282,
+  "extracted": "2026-09-27T08:02:04.434Z",
+  "count": 1179,
   "stations": [
     {
       "id": 11863124389,
@@ -73,22 +73,6 @@
       "lon": -7.576027,
       "name": "6 Novembre 1975",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 2157198889,
-      "lat": 31.020488,
-      "lon": -2.719511,
-      "name": "Abadla",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 13565642705,
-      "lat": 31.053384,
-      "lon": -2.643553,
-      "name": "Abadla",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -236,14 +220,6 @@
       "country": "MA"
     },
     {
-      "id": 2290946794,
-      "lat": 34.853982,
-      "lon": -1.405343,
-      "name": "Ain Douz",
-      "type": "halt",
-      "country": "MA"
-    },
-    {
       "id": 4433447548,
       "lat": 34.010533,
       "lon": -5.624627,
@@ -272,14 +248,6 @@
       "lat": 33.93396,
       "lon": -5.213607,
       "name": "Ain Taoujdate عين تاوجطات",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 2042157379,
-      "lat": 35.298338,
-      "lon": -1.140089,
-      "name": "Aïn Témouchent",
       "type": "station",
       "country": "MA"
     },
@@ -324,6 +292,14 @@
       "country": "MA"
     },
     {
+      "id": 13780185307,
+      "lat": 34.677342,
+      "lon": -5.556323,
+      "name": "Aire de repos La Gare Café Restaurant Piscine",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 5599986601,
       "lat": 33.599192,
       "lon": -7.532763,
@@ -360,14 +336,6 @@
       "lat": 33.540079,
       "lon": -7.666338,
       "name": "Al Laymoun",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 1385128955,
-      "lat": 34.004477,
-      "lon": -6.843088,
-      "name": "al medina المدينة",
       "type": "tram_stop",
       "country": "MA"
     },
@@ -500,14 +468,6 @@
       "country": "MA"
     },
     {
-      "id": 31677270,
-      "lat": 35.293147,
-      "lon": -2.930637,
-      "name": "Antigua Estación Marítima",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 9455603264,
       "lat": 35.61261,
       "lon": -5.915913,
@@ -545,14 +505,6 @@
       "lon": -6.812605,
       "name": "Arrazi الرازي",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 238911303,
-      "lat": 35.300363,
-      "lon": -1.150119,
-      "name": "Arrêt de bus et de Karsane",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -668,14 +620,6 @@
       "country": "MA"
     },
     {
-      "id": 9685593708,
-      "lat": 33.787009,
-      "lon": -7.223184,
-      "name": "B. I Indisponible faible pression station total route cotiere plage sanawbar",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 9834380808,
       "lat": 33.726606,
       "lon": -7.334025,
@@ -740,18 +684,18 @@
       "country": "MA"
     },
     {
-      "id": 1653197102,
-      "lat": 34.011743,
-      "lon": -6.839371,
+      "id": 4592815884,
+      "lat": 34.011761,
+      "lon": -6.839404,
       "name": "Bab Rouah باب الرواح",
       "type": "tram_stop",
       "country": "MA"
     },
     {
-      "id": 4592815884,
-      "lat": 34.011761,
-      "lon": -6.839404,
-      "name": "Bab Rouah باب الرواح",
+      "id": 1653197102,
+      "lat": 34.011743,
+      "lon": -6.839371,
+      "name": "Bab Rouah باب الر��اح",
       "type": "tram_stop",
       "country": "MA"
     },
@@ -809,14 +753,6 @@
       "lon": -7.64792,
       "name": "Beauséjour",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 2785628270,
-      "lat": 31.62369,
-      "lon": -2.219668,
-      "name": "Béchar",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -888,22 +824,6 @@
       "lat": 34.629391,
       "lon": -2.052197,
       "name": "Beni Oukil",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 3251492467,
-      "lat": 32.050796,
-      "lon": -1.247219,
-      "name": "Béni Ounif",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9372808148,
-      "lat": 35.307579,
-      "lon": -1.356703,
-      "name": "Béni Saf",
       "type": "station",
       "country": "MA"
     },
@@ -1020,14 +940,6 @@
       "country": "MA"
     },
     {
-      "id": 4264530861,
-      "lat": 31.520436,
-      "lon": -5.533402,
-      "name": "Bus station Supra Tours",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 11052411709,
       "lat": 33.487248,
       "lon": -7.673471,
@@ -1077,25 +989,17 @@
     },
     {
       "id": 10589060586,
-      "lat": 34.449711,
+      "lat": 34.449548,
       "lon": -5.509373,
       "name": "Café Station Kuir",
       "type": "station",
       "country": "MA"
     },
     {
-      "id": 5347157803,
-      "lat": 35.311443,
-      "lon": -1.149113,
-      "name": "Cafétéria de la gare (Djimi)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4296911684,
-      "lat": 35.102479,
-      "lon": -1.855445,
-      "name": "Cafeteria Station Taxi",
+      "id": 13793843201,
+      "lat": 35.563821,
+      "lon": -5.426298,
+      "name": "Café Station Mayka",
       "type": "station",
       "country": "MA"
     },
@@ -1249,14 +1153,6 @@
       "lon": -7.513126,
       "name": "Centre de Maintenance",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 5368531814,
-      "lat": 35.341943,
-      "lon": -1.104282,
-      "name": "Chaabat El Leham",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -1516,14 +1412,6 @@
       "country": "MA"
     },
     {
-      "id": 13447692353,
-      "lat": 31.705286,
-      "lon": -8.022727,
-      "name": "Douar Belaagid",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1481071655,
       "lat": 34.5836,
       "lon": -2.511402,
@@ -1540,14 +1428,6 @@
       "country": "MA"
     },
     {
-      "id": 1686557617,
-      "lat": 35.521225,
-      "lon": -1.009349,
-      "name": "El Amria",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 5599986590,
       "lat": 33.566494,
       "lon": -7.607259,
@@ -1561,6 +1441,14 @@
       "lon": -1.994513,
       "name": "El Fouchal",
       "type": "halt",
+      "country": "MA"
+    },
+    {
+      "id": 13956003623,
+      "lat": 34.965361,
+      "lon": -3.141486,
+      "name": "El Gareb",
+      "type": "station",
       "country": "MA"
     },
     {
@@ -1624,14 +1512,6 @@
       "lat": 35.009787,
       "lon": -5.906094,
       "name": "El Ksar El Kebir",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9375782945,
-      "lat": 35.395913,
-      "lon": -1.082917,
-      "name": "El Malah",
       "type": "station",
       "country": "MA"
     },
@@ -1732,22 +1612,6 @@
       "country": "MA"
     },
     {
-      "id": 249897023,
-      "lat": 35.893654,
-      "lon": -5.320707,
-      "name": "Estacion Maritima de Ceuta",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 112572158,
-      "lat": 35.896039,
-      "lon": -5.32454,
-      "name": "Estacion Marítima de Ceuta",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 10963477184,
       "lat": 33.566079,
       "lon": -7.543007,
@@ -1805,8 +1669,8 @@
     },
     {
       "id": 157756704,
-      "lat": 34.054649,
-      "lon": -4.986268,
+      "lat": 34.054644,
+      "lon": -4.98626,
       "name": "Fes Bab Jiaf",
       "type": "station",
       "country": "MA"
@@ -1814,7 +1678,7 @@
     {
       "id": 533624607,
       "lat": 34.064883,
-      "lon": -4.986758,
+      "lon": -4.986757,
       "name": "Fes Bus Station",
       "type": "station",
       "country": "MA"
@@ -1917,8 +1781,8 @@
     },
     {
       "id": 382880743,
-      "lat": 30.358879,
-      "lon": -9.528821,
+      "lat": 30.35885,
+      "lon": -9.52893,
       "name": "Gare ALSA",
       "type": "station",
       "country": "MA"
@@ -2080,7 +1944,7 @@
       "lat": 33.790228,
       "lon": -7.162071,
       "name": "Gare de Bouznika",
-      "type": "stop",
+      "type": "station",
       "country": "MA"
     },
     {
@@ -2197,8 +2061,8 @@
     },
     {
       "id": 425955769,
-      "lat": 33.896782,
-      "lon": -5.531895,
+      "lat": 33.896788,
+      "lon": -5.531893,
       "name": "Gare de Meknès",
       "type": "station",
       "country": "MA"
@@ -2221,8 +2085,8 @@
     },
     {
       "id": 7785616100,
-      "lat": 33.898623,
-      "lon": -5.532372,
+      "lat": 33.898621,
+      "lon": -5.532367,
       "name": "Gare De Meknès (Al Omrane)",
       "type": "station",
       "country": "MA"
@@ -2247,7 +2111,7 @@
       "id": 1026440616,
       "lat": 32.846184,
       "lon": -7.097781,
-      "name": "Gare de Mrizigue",
+      "name": "Gare de Mrizigue محطة مريزيق",
       "type": "station",
       "country": "MA"
     },
@@ -2404,22 +2268,6 @@
       "country": "MA"
     },
     {
-      "id": 11302159055,
-      "lat": 35.88469,
-      "lon": -5.500896,
-      "name": "Gare de Tanger-Med",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 12188897723,
-      "lat": 35.884772,
-      "lon": -5.501194,
-      "name": "Gare de Tanger-Med",
-      "type": "stop",
-      "country": "MA"
-    },
-    {
       "id": 1102453328,
       "lat": 33.917352,
       "lon": -6.930485,
@@ -2516,26 +2364,10 @@
       "country": "MA"
     },
     {
-      "id": 389065310,
-      "lat": 34.884821,
-      "lon": -1.301102,
-      "name": "Gare Ferrovaire de Tlemcen",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 844376342,
       "lat": 35.612494,
       "lon": -5.91585,
       "name": "Gare Ferroviaire Aqba Hamra",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 381324361,
-      "lat": 35.298233,
-      "lon": -1.139614,
-      "name": "Gare ferroviaire de Aïn Témouchent",
       "type": "station",
       "country": "MA"
     },
@@ -2597,8 +2429,8 @@
     },
     {
       "id": 366204667,
-      "lat": 35.789103,
-      "lon": -5.804533,
+      "lat": 35.789117,
+      "lon": -5.804526,
       "name": "Gare Maritime du Tanger",
       "type": "station",
       "country": "MA"
@@ -2732,22 +2564,6 @@
       "country": "MA"
     },
     {
-      "id": 12280396917,
-      "lat": 35.882368,
-      "lon": -5.499073,
-      "name": "Gare Port Maritiem",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 12280396918,
-      "lat": 35.882602,
-      "lon": -5.49903,
-      "name": "Gare Port Maritiem",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 654504928,
       "lat": 34.001204,
       "lon": -6.857391,
@@ -2831,7 +2647,7 @@
       "id": 156426654,
       "lat": 34.016023,
       "lon": -6.836955,
-      "name": "Gare Rabat Ville محطة الرباط ��لمدينة",
+      "name": "Gare Rabat Ville محطة الرباط المدينة",
       "type": "station",
       "country": "MA"
     },
@@ -2917,8 +2733,8 @@
     },
     {
       "id": 135885006,
-      "lat": 30.416445,
-      "lon": -9.565686,
+      "lat": 30.41645,
+      "lon": -9.565688,
       "name": "Gare Routiere",
       "type": "station",
       "country": "MA"
@@ -3012,22 +2828,6 @@
       "country": "MA"
     },
     {
-      "id": 193983231,
-      "lat": 35.299311,
-      "lon": -1.138102,
-      "name": "Gare routière",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 414277904,
-      "lat": 34.881446,
-      "lon": -1.304631,
-      "name": "Gare routière",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 677727779,
       "lat": 34.928015,
       "lon": -2.319035,
@@ -3061,16 +2861,16 @@
     },
     {
       "id": 7730948771,
-      "lat": 33.892922,
-      "lon": -5.575106,
+      "lat": 33.892844,
+      "lon": -5.57515,
       "name": "Gare Routière",
       "type": "station",
       "country": "MA"
     },
     {
       "id": 7730948774,
-      "lat": 33.892905,
-      "lon": -5.574963,
+      "lat": 33.892851,
+      "lon": -5.574987,
       "name": "Gare Routière",
       "type": "station",
       "country": "MA"
@@ -3164,14 +2964,6 @@
       "country": "MA"
     },
     {
-      "id": 193980351,
-      "lat": 35.312584,
-      "lon": -1.149847,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 203376985,
       "lat": 34.064627,
       "lon": -4.986811,
@@ -3183,14 +2975,6 @@
       "id": 259489093,
       "lat": 31.929125,
       "lon": -4.425747,
-      "name": "Gare Routière",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 274052611,
-      "lat": 31.637264,
-      "lon": -2.199223,
       "name": "Gare Routière",
       "type": "station",
       "country": "MA"
@@ -3292,17 +3076,9 @@
       "country": "MA"
     },
     {
-      "id": 4753662276,
-      "lat": 35.301369,
-      "lon": -1.397977,
-      "name": "Gare routière de Béni-Saf",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 452318168,
-      "lat": 34.264964,
-      "lon": -6.573822,
+      "lat": 34.264973,
+      "lon": -6.573846,
       "name": "Gare routière de Kénitra",
       "type": "station",
       "country": "MA"
@@ -3404,6 +3180,14 @@
       "country": "MA"
     },
     {
+      "id": 1499939863,
+      "lat": 33.892159,
+      "lon": -6.313348,
+      "name": "Gare Routiere de Tiflet",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 4339061558,
       "lat": 35.156513,
       "lon": -3.848934,
@@ -3413,8 +3197,8 @@
     },
     {
       "id": 49217485,
-      "lat": 30.359727,
-      "lon": -9.527041,
+      "lat": 30.359743,
+      "lon": -9.527037,
       "name": "Gare routière Inezgane",
       "type": "station",
       "country": "MA"
@@ -3517,17 +3301,9 @@
     },
     {
       "id": 307349038,
-      "lat": 33.890405,
-      "lon": -5.574941,
+      "lat": 33.890391,
+      "lon": -5.574937,
       "name": "Gare Routière Sidi Saïd المحطة الطرقية",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 480451406,
-      "lat": 34.907007,
-      "lon": -1.333667,
-      "name": "Gare routière Tlemcen محطة النقل البري تلمسان",
       "type": "station",
       "country": "MA"
     },
@@ -3628,6 +3404,22 @@
       "country": "MA"
     },
     {
+      "id": 14008729905,
+      "lat": 33.383744,
+      "lon": -7.607829,
+      "name": "Gare TGV Aéroport international Mohammed V محطة القطار فائق السرعة مطار محمد الخامس الدولي",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 14008729906,
+      "lat": 33.383691,
+      "lon": -7.607744,
+      "name": "Gare TGV Aéroport international Mohammed V محطة القطار فائق السرعة مطار محمد الخامس الدولي",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 1025484001,
       "lat": 35.340261,
       "lon": -5.980219,
@@ -3648,14 +3440,6 @@
       "lat": 35.769123,
       "lon": -5.787217,
       "name": "Gare Train",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 8395285748,
-      "lat": 31.686728,
-      "lon": -2.399155,
-      "name": "Garet Oum es Sebha",
       "type": "station",
       "country": "MA"
     },
@@ -3681,22 +3465,6 @@
       "lon": -7.644603,
       "name": "Ghandi",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 3105351550,
-      "lat": 35.101242,
-      "lon": -1.860365,
-      "name": "Ghazaouet",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 3415672289,
-      "lat": 35.09605,
-      "lon": -1.860905,
-      "name": "Ghazaouet",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -3812,14 +3580,6 @@
       "country": "MA"
     },
     {
-      "id": 13565642790,
-      "lat": 30.90263,
-      "lon": -3.02875,
-      "name": "Hammaguir",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1385128952,
       "lat": 34.034671,
       "lon": -6.799653,
@@ -3841,14 +3601,6 @@
       "lon": -2.903543,
       "name": "Hassi Berkane",
       "type": "stop",
-      "country": "MA"
-    },
-    {
-      "id": 13565643345,
-      "lat": 29.16466,
-      "lon": -5.066167,
-      "name": "Hassi Khebi",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -4056,22 +3808,6 @@
       "lat": 34.025172,
       "lon": -6.75362,
       "name": "Hôpital Moulay Abdellah مستشفى مولاي عبدالله",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 1385128965,
-      "lat": 34.010772,
-      "lon": -6.859149,
-      "name": "Hôpital Moulay Youssef",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 4592889796,
-      "lat": 34.010798,
-      "lon": -6.859194,
-      "name": "Hôpital Moulay Youssef مستشفى مولاي يوسف",
       "type": "tram_stop",
       "country": "MA"
     },
@@ -4580,22 +4316,6 @@
       "country": "MA"
     },
     {
-      "id": 3992387466,
-      "lat": 34.842834,
-      "lon": -1.726854,
-      "name": "Maghnia",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1214562347,
-      "lat": 34.841494,
-      "lon": -1.773435,
-      "name": "Maghnia Bus Station",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 2235605616,
       "lat": 33.5946,
       "lon": -7.612611,
@@ -4983,16 +4703,8 @@
       "id": 2202533379,
       "lat": 32.846035,
       "lon": -7.097722,
-      "name": "Mrizig",
+      "name": "Mrizig مريزيق",
       "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 13454275860,
-      "lat": 32.846071,
-      "lon": -7.097745,
-      "name": "Mrizig",
-      "type": "stop",
       "country": "MA"
     },
     {
@@ -5033,14 +4745,6 @@
       "lon": -6.843962,
       "name": "Nations Unies الأمم المتحدة",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 3105289089,
-      "lat": 35.025861,
-      "lon": -1.825447,
-      "name": "Nedroma",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -5252,22 +4956,6 @@
       "country": "MA"
     },
     {
-      "id": 2291062821,
-      "lat": 34.902406,
-      "lon": -1.027184,
-      "name": "Ouled Mimoun",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 13565643339,
-      "lat": 28.614006,
-      "lon": -6.959238,
-      "name": "Oum El Assel",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 9834380899,
       "lat": 33.72961,
       "lon": -7.335155,
@@ -5341,8 +5029,16 @@
     },
     {
       "id": 12212952901,
-      "lat": 33.58813,
-      "lon": -7.62205,
+      "lat": 33.588146,
+      "lon": -7.622042,
+      "name": "Parc de la Ligue Arabe",
+      "type": "tram_stop",
+      "country": "MA"
+    },
+    {
+      "id": 12212952902,
+      "lat": 33.588076,
+      "lon": -7.622068,
       "name": "Parc de la Ligue Arabe",
       "type": "tram_stop",
       "country": "MA"
@@ -5352,6 +5048,14 @@
       "lat": 34.68152,
       "lon": -1.922918,
       "name": "Parking de la gare",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 8825311022,
+      "lat": 35.771336,
+      "lon": -5.78587,
+      "name": "Pharmacie de la Gare",
       "type": "station",
       "country": "MA"
     },
@@ -5424,14 +5128,6 @@
       "lat": 34.577447,
       "lon": -5.957615,
       "name": "Pharmacie De La Gare صيدلية المحطة",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 8825311022,
-      "lat": 35.771328,
-      "lon": -5.785888,
-      "name": "Pharmacie de la Gare صيدلية محطة القطار",
       "type": "station",
       "country": "MA"
     },
@@ -5620,14 +5316,6 @@
       "country": "MA"
     },
     {
-      "id": 1385128950,
-      "lat": 34.018796,
-      "lon": -6.850003,
-      "name": "Place de Russie ساحة روسيا",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
       "id": 2235605755,
       "lat": 33.595121,
       "lon": -7.618117,
@@ -5740,14 +5428,6 @@
       "country": "MA"
     },
     {
-      "id": 178877454,
-      "lat": 35.8778,
-      "lon": -5.516533,
-      "name": "Port Passagers Tanger Med",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 5599986602,
       "lat": 33.60212,
       "lon": -7.52993,
@@ -5836,6 +5516,14 @@
       "country": "MA"
     },
     {
+      "id": 13787491302,
+      "lat": 33.633814,
+      "lon": -7.453726,
+      "name": "Restaurant et Café Station Afriquia",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 2238635740,
       "lat": 33.570944,
       "lon": -7.636355,
@@ -5880,14 +5568,6 @@
       "lat": 33.901603,
       "lon": -5.375695,
       "name": "Sabaa Aiyoun",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 2290948049,
-      "lat": 34.826778,
-      "lon": -1.52242,
-      "name": "Sabra",
       "type": "station",
       "country": "MA"
     },
@@ -5964,6 +5644,14 @@
       "country": "MA"
     },
     {
+      "id": 13609635785,
+      "lat": 35.274224,
+      "lon": -3.040934,
+      "name": "Sidi Ahmed el Gareb",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 635975802,
       "lat": 31.923064,
       "lon": -7.946557,
@@ -5977,6 +5665,14 @@
       "lon": -6.737154,
       "name": "Sidi Bouknadel",
       "type": "stop",
+      "country": "MA"
+    },
+    {
+      "id": 13447692353,
+      "lat": 31.705286,
+      "lon": -8.022727,
+      "name": "SIDI BRAHIM STADE MARRAKECH",
+      "type": "station",
       "country": "MA"
     },
     {
@@ -6084,30 +5780,6 @@
       "country": "MA"
     },
     {
-      "id": 2290946722,
-      "lat": 34.774805,
-      "lon": -1.638731,
-      "name": "Sidi Medjahed",
-      "type": "halt",
-      "country": "MA"
-    },
-    {
-      "id": 1385128993,
-      "lat": 34.016144,
-      "lon": -6.854657,
-      "name": "Sidi Mohammed Ben Abdellah",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 4592889802,
-      "lat": 34.016162,
-      "lon": -6.854696,
-      "name": "Sidi Mohammed Ben Abdellah سيدي محمد ابن عبد الله",
-      "type": "tram_stop",
-      "country": "MA"
-    },
-    {
       "id": 2235605807,
       "lat": 33.586942,
       "lon": -7.501496,
@@ -6164,6 +5836,14 @@
       "country": "MA"
     },
     {
+      "id": 13775222575,
+      "lat": 34.449669,
+      "lon": -5.50891,
+      "name": "Snack café Station kuir",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 3808771016,
       "lat": 35.167896,
       "lon": -5.274943,
@@ -6188,14 +5868,6 @@
       "country": "MA"
     },
     {
-      "id": 3105216162,
-      "lat": 34.920741,
-      "lon": -1.939982,
-      "name": "Souani",
-      "type": "stop",
-      "country": "MA"
-    },
-    {
       "id": 1480599791,
       "lat": 34.684611,
       "lon": -5.998551,
@@ -6209,6 +5881,14 @@
       "lon": -5.544918,
       "name": "sous station ouarzigha",
       "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 1385128955,
+      "lat": 34.004477,
+      "lon": -6.843088,
+      "name": "Stade Al Madina",
+      "type": "tram_stop",
       "country": "MA"
     },
     {
@@ -6429,8 +6109,8 @@
     },
     {
       "id": 7757649010,
-      "lat": 33.889507,
-      "lon": -5.579743,
+      "lat": 33.88945,
+      "lon": -5.579625,
       "name": "Station Afriquia Sidi Said",
       "type": "station",
       "country": "MA"
@@ -6484,30 +6164,6 @@
       "country": "MA"
     },
     {
-      "id": 2672390988,
-      "lat": 31.596779,
-      "lon": -2.247878,
-      "name": "Station Benmdjidi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 381080503,
-      "lat": 34.876092,
-      "lon": -1.313837,
-      "name": "Station Boulevard de l'ALN",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9316482316,
-      "lat": 35.083362,
-      "lon": -1.5577,
-      "name": "Station Bus Bordj Arima - Remchi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 6281120344,
       "lat": 30.010939,
       "lon": -9.583635,
@@ -6524,10 +6180,10 @@
       "country": "MA"
     },
     {
-      "id": 3325164457,
-      "lat": 35.060241,
-      "lon": -1.134992,
-      "name": "Station Carburant Sidi Abdelli",
+      "id": 13750473501,
+      "lat": 34.050151,
+      "lon": -4.919812,
+      "name": "Station cepsa El Boudali / La Cascade",
       "type": "station",
       "country": "MA"
     },
@@ -6556,14 +6212,6 @@
       "country": "MA"
     },
     {
-      "id": 1008105964,
-      "lat": 35.035392,
-      "lon": -1.78287,
-      "name": "Station d' Eau",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 10017153798,
       "lat": 35.120789,
       "lon": -2.906241,
@@ -6580,22 +6228,6 @@
       "country": "MA"
     },
     {
-      "id": 5405336668,
-      "lat": 35.313486,
-      "lon": -1.120201,
-      "name": "Station d'épuration des eaux",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4154544128,
-      "lat": 34.922252,
-      "lon": -1.310871,
-      "name": "Station d'épuration des eaux usées",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 12214988049,
       "lat": 35.103007,
       "lon": -2.870556,
@@ -6604,34 +6236,10 @@
       "country": "MA"
     },
     {
-      "id": 5299528920,
-      "lat": 35.299185,
-      "lon": -1.148903,
-      "name": "Station d'essence Maaroufi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 3227963331,
       "lat": 33.601675,
       "lon": -7.633173,
       "name": "Station d'essence Shell",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 419530524,
-      "lat": 34.888126,
-      "lon": -1.319661,
-      "name": "Station de bus inter communes",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1261964522,
-      "lat": 35.05336,
-      "lon": -1.42982,
-      "name": "Station de bus Zenata",
       "type": "station",
       "country": "MA"
     },
@@ -6664,30 +6272,6 @@
       "lat": 34.261807,
       "lon": -6.570787,
       "name": "Station de Grand Taxis - Sidi Allal Bahraoui, Tiflet, Khemisset, Meknes",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4080344246,
-      "lat": 34.923284,
-      "lon": -1.330301,
-      "name": "station de lavage",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5299531331,
-      "lat": 35.299365,
-      "lon": -1.149094,
-      "name": "Station de lavage",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5049675370,
-      "lat": 34.883205,
-      "lon": -1.35294,
-      "name": "Station de Lavage Mohammed & Amir",
       "type": "station",
       "country": "MA"
     },
@@ -6756,14 +6340,6 @@
       "country": "MA"
     },
     {
-      "id": 3389504021,
-      "lat": 35.303411,
-      "lon": -1.154636,
-      "name": "Station de Service",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 4367412789,
       "lat": 34.939906,
       "lon": -2.741345,
@@ -6788,14 +6364,6 @@
       "country": "MA"
     },
     {
-      "id": 2435307961,
-      "lat": 35.301454,
-      "lon": -1.397755,
-      "name": "Station de Taxi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 2464634516,
       "lat": 33.6965,
       "lon": -7.385327,
@@ -6808,14 +6376,6 @@
       "lat": 30.640914,
       "lon": -8.47525,
       "name": "Station de Taxi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 3391055547,
-      "lat": 35.290441,
-      "lon": -1.143944,
-      "name": "Station de Taxi (vers Aïn Kihal)",
       "type": "station",
       "country": "MA"
     },
@@ -6893,32 +6453,16 @@
     },
     {
       "id": 9989333917,
-      "lat": 34.114427,
-      "lon": -4.883915,
+      "lat": 34.114755,
+      "lon": -4.884063,
       "name": "Station Gasoil Afriquia",
       "type": "station",
       "country": "MA"
     },
     {
-      "id": 1109735818,
-      "lat": 34.881554,
-      "lon": -1.317449,
-      "name": "Station Grand Bassin",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 381080501,
-      "lat": 34.881683,
-      "lon": -1.317526,
-      "name": "Station Grand Bassin",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 4593360321,
-      "lat": 33.859017,
-      "lon": -5.578145,
+      "lat": 33.859038,
+      "lon": -5.578173,
       "name": "station grand taxi",
       "type": "station",
       "country": "MA"
@@ -6976,14 +6520,6 @@
       "lat": 32.884882,
       "lon": -4.960202,
       "name": "Station Green Oil",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5402113558,
-      "lat": 35.289792,
-      "lon": -1.144577,
-      "name": "Station Hadj Brahim - Lavage et vidange auto",
       "type": "station",
       "country": "MA"
     },
@@ -7064,38 +6600,6 @@
       "lat": 31.577265,
       "lon": -7.854974,
       "name": "Station la nature",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1109735825,
-      "lat": 34.868147,
-      "lon": -1.318066,
-      "name": "Station Lalla Setti",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 296577784,
-      "lat": 34.867978,
-      "lon": -1.318213,
-      "name": "Station Lalla Setti",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4195763640,
-      "lat": 34.923441,
-      "lon": -1.328361,
-      "name": "Station Lavage",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5315504007,
-      "lat": 35.309744,
-      "lon": -1.14302,
-      "name": "Station Lavage Baki Larbi",
       "type": "station",
       "country": "MA"
     },
@@ -7316,22 +6820,6 @@
       "country": "MA"
     },
     {
-      "id": 4010123028,
-      "lat": 30.122345,
-      "lon": -2.17911,
-      "name": "station service",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 6218994602,
-      "lat": 35.44694,
-      "lon": -1.059603,
-      "name": "Station service",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 2425965544,
       "lat": 34.060292,
       "lon": -4.941447,
@@ -7343,14 +6831,6 @@
       "id": 3944755557,
       "lat": 33.690123,
       "lon": -7.391624,
-      "name": "Station Service",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5319194694,
-      "lat": 35.346347,
-      "lon": -1.099613,
       "name": "Station Service",
       "type": "station",
       "country": "MA"
@@ -7396,34 +6876,10 @@
       "country": "MA"
     },
     {
-      "id": 3389486588,
-      "lat": 35.291106,
-      "lon": -1.143297,
-      "name": "Station service Bendahma",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 4000899101,
       "lat": 33.537184,
       "lon": -7.642554,
       "name": "Station Service E.Leclerc",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 3389493763,
-      "lat": 35.298364,
-      "lon": -1.143862,
-      "name": "Station Service Gala Oil",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5376136454,
-      "lat": 35.396043,
-      "lon": -1.091007,
-      "name": "Station Service Gourinet",
       "type": "station",
       "country": "MA"
     },
@@ -7436,26 +6892,10 @@
       "country": "MA"
     },
     {
-      "id": 3389495221,
-      "lat": 35.302186,
-      "lon": -1.129214,
-      "name": "Station Service Mouadène",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 3389492193,
-      "lat": 35.298821,
-      "lon": -1.143881,
-      "name": "Station Service Naftal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 6256002715,
-      "lat": 35.242044,
-      "lon": -1.507934,
-      "name": "Station Service Naftal",
+      "id": 13814536606,
+      "lat": 33.90237,
+      "lon": -5.37229,
+      "name": "Station Service INOV Sebaa Youne",
       "type": "station",
       "country": "MA"
     },
@@ -7484,6 +6924,14 @@
       "country": "MA"
     },
     {
+      "id": 13697847749,
+      "lat": 33.986939,
+      "lon": -6.828152,
+      "name": "Station service Shell",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 4005988077,
       "lat": 34.033668,
       "lon": -6.822526,
@@ -7492,18 +6940,10 @@
       "country": "MA"
     },
     {
-      "id": 3934799718,
-      "lat": 35.322496,
-      "lon": -1.13771,
-      "name": "Station service Sirgaz (GPL)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5139687223,
-      "lat": 34.882069,
-      "lon": -1.302438,
-      "name": "Station Services Chekchou",
+      "id": 5712509738,
+      "lat": 34.997117,
+      "lon": -4.879466,
+      "name": "Station service winxo.",
       "type": "station",
       "country": "MA"
     },
@@ -7564,14 +7004,6 @@
       "country": "MA"
     },
     {
-      "id": 1712517608,
-      "lat": 35.063547,
-      "lon": -1.430367,
-      "name": "Station Taxi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 3124638515,
       "lat": 33.891009,
       "lon": -5.574145,
@@ -7624,14 +7056,6 @@
       "lat": 32.99714,
       "lon": -7.619192,
       "name": "Station Taxi Marrakech",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5974146227,
-      "lat": 35.075565,
-      "lon": -1.152576,
-      "name": "station thermale",
       "type": "station",
       "country": "MA"
     },
@@ -7704,6 +7128,14 @@
       "lat": 31.421801,
       "lon": -7.83745,
       "name": "Station total rte ourika",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 3018228174,
+      "lat": 30.293783,
+      "lon": -9.45738,
+      "name": "Station Winxo",
       "type": "station",
       "country": "MA"
     },
@@ -7908,82 +7340,10 @@
       "country": "MA"
     },
     {
-      "id": 3068837872,
-      "lat": 35.244248,
-      "lon": -1.284027,
-      "name": "Station-service Carbu-Sud",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 2059610087,
-      "lat": 35.303378,
-      "lon": -1.033415,
-      "name": "Station-service Chentouf (fermée temporairement)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4693783843,
-      "lat": 34.959627,
-      "lon": -2.026533,
-      "name": "Station-service Naftal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 6256002713,
-      "lat": 35.24171,
-      "lon": -1.516541,
-      "name": "Station-service Naftal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 6886254022,
-      "lat": 35.150891,
-      "lon": -1.452552,
-      "name": "Station-service Naftal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 4043414528,
-      "lat": 35.342103,
-      "lon": -1.239584,
-      "name": "Station-Service Naftal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 6886254023,
-      "lat": 35.212984,
-      "lon": -1.416234,
-      "name": "Station-service Naftal Ghorzi",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 5810742154,
-      "lat": 35.415193,
-      "lon": -1.184614,
-      "name": "Station-service Petrolium",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 9074149423,
       "lat": 31.353916,
       "lon": -9.796864,
       "name": "Surf station Sidi kaouki",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 13565643066,
-      "lat": 29.756172,
-      "lon": -4.016587,
-      "name": "Tabelbala",
       "type": "station",
       "country": "MA"
     },
@@ -8023,7 +7383,15 @@
       "id": 12290771806,
       "lat": 35.712043,
       "lon": -5.668116,
-      "name": "Tafoughalt",
+      "name": "Tafoughalt تافوغالت",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 14015549880,
+      "lat": 34.806198,
+      "lon": -2.41205,
+      "name": "Tafoughalt تافوغالت",
       "type": "station",
       "country": "MA"
     },
@@ -8132,18 +7500,18 @@
       "country": "MA"
     },
     {
-      "id": 484694619,
-      "lat": 30.464881,
-      "lon": -8.876813,
-      "name": "Taxi station",
+      "id": 13665593463,
+      "lat": 34.408693,
+      "lon": -2.898273,
+      "name": "Taourirt تاوريرت",
       "type": "station",
       "country": "MA"
     },
     {
-      "id": 1712500702,
-      "lat": 35.061543,
-      "lon": -1.429493,
-      "name": "TAXI station",
+      "id": 484694619,
+      "lat": 30.464881,
+      "lon": -8.876813,
+      "name": "Taxi station",
       "type": "station",
       "country": "MA"
     },
@@ -8196,22 +7564,6 @@
       "country": "MA"
     },
     {
-      "id": 13335589945,
-      "lat": 27.696043,
-      "lon": -8.101841,
-      "name": "Tindouf",
-      "type": "stop",
-      "country": "MA"
-    },
-    {
-      "id": 13565516390,
-      "lat": 27.695707,
-      "lon": -8.101698,
-      "name": "Tindouf",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 9455086473,
       "lat": 35.218993,
       "lon": -5.944775,
@@ -8224,14 +7576,6 @@
       "lat": 35.219243,
       "lon": -5.944794,
       "name": "Tlata Rissana",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9369856848,
-      "lat": 34.885086,
-      "lon": -1.301139,
-      "name": "Tlemcen",
       "type": "station",
       "country": "MA"
     },
@@ -8273,14 +7617,6 @@
       "lon": -6.826644,
       "name": "Tour Hassan صومعة حسان",
       "type": "tram_stop",
-      "country": "MA"
-    },
-    {
-      "id": 728240454,
-      "lat": 34.78105,
-      "lon": -1.67093,
-      "name": "Tralimet",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -8340,14 +7676,6 @@
       "country": "MA"
     },
     {
-      "id": 12212951774,
-      "lat": 33.589428,
-      "lon": -7.625287,
-      "name": "Unnamed (node 12212951774)",
-      "type": "buffer_stop",
-      "country": "MA"
-    },
-    {
       "id": 12339064048,
       "lat": 34.180745,
       "lon": -6.659042,
@@ -8400,14 +7728,6 @@
       "lat": 35.770457,
       "lon": -5.785435,
       "name": "Unnamed (node 1258432595)",
-      "type": "buffer_stop",
-      "country": "MA"
-    },
-    {
-      "id": 13335589940,
-      "lat": 27.692111,
-      "lon": -8.109125,
-      "name": "Unnamed (node 13335589940)",
       "type": "buffer_stop",
       "country": "MA"
     },
@@ -8908,6 +8228,14 @@
       "country": "MA"
     },
     {
+      "id": 4252861112,
+      "lat": 33.896734,
+      "lon": -5.53261,
+      "name": "Unnamed (node 4252861112)",
+      "type": "buffer_stop",
+      "country": "MA"
+    },
+    {
       "id": 4561766236,
       "lat": 33.587271,
       "lon": -7.592816,
@@ -9037,8 +8365,8 @@
     },
     {
       "id": 7563452780,
-      "lat": 33.58946,
-      "lon": -7.62529,
+      "lat": 33.589235,
+      "lon": -7.62468,
       "name": "Unnamed (node 7563452780)",
       "type": "buffer_stop",
       "country": "MA"
@@ -9049,22 +8377,6 @@
       "lon": -7.516098,
       "name": "Unnamed (node 7563461918)",
       "type": "buffer_stop",
-      "country": "MA"
-    },
-    {
-      "id": 9357961826,
-      "lat": 31.925437,
-      "lon": -1.843043,
-      "name": "Unnamed (node 9357961826)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9357961836,
-      "lat": 32.01085,
-      "lon": -1.661642,
-      "name": "Unnamed (node 9357961836)",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -9204,6 +8516,30 @@
       "country": "MA"
     },
     {
+      "id": 9420077756,
+      "lat": 35.722707,
+      "lon": -5.655462,
+      "name": "Unnamed (node 9420077756)",
+      "type": "buffer_stop",
+      "country": "MA"
+    },
+    {
+      "id": 9420077758,
+      "lat": 35.721947,
+      "lon": -5.657325,
+      "name": "Unnamed (node 9420077758)",
+      "type": "buffer_stop",
+      "country": "MA"
+    },
+    {
+      "id": 9424840775,
+      "lat": 35.848402,
+      "lon": -5.543594,
+      "name": "Unnamed (node 9424840775)",
+      "type": "buffer_stop",
+      "country": "MA"
+    },
+    {
       "id": 9425177171,
       "lat": 32.766462,
       "lon": -1.995397,
@@ -9272,6 +8608,14 @@
       "lat": 34.048231,
       "lon": -5.005652,
       "name": "Unnamed (node 9437292055)",
+      "type": "buffer_stop",
+      "country": "MA"
+    },
+    {
+      "id": 9444302685,
+      "lat": 33.89686,
+      "lon": -5.53012,
+      "name": "Unnamed (node 9444302685)",
       "type": "buffer_stop",
       "country": "MA"
     },
@@ -9377,46 +8721,6 @@
       "lon": -7.954051,
       "name": "Unnamed (node 9468936682)",
       "type": "buffer_stop",
-      "country": "MA"
-    },
-    {
-      "id": 1014307672,
-      "lat": 31.927866,
-      "lon": -1.838327,
-      "name": "Unnamed (way 1014307672)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1014307674,
-      "lat": 32.010785,
-      "lon": -1.660992,
-      "name": "Unnamed (way 1014307674)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1015823659,
-      "lat": 34.787497,
-      "lon": -1.804203,
-      "name": "Unnamed (way 1015823659)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1016515811,
-      "lat": 35.341539,
-      "lon": -1.104245,
-      "name": "Unnamed (way 1016515811)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1016518631,
-      "lat": 35.521301,
-      "lon": -1.009623,
-      "name": "Unnamed (way 1016518631)",
-      "type": "station",
       "country": "MA"
     },
     {
@@ -9692,14 +8996,6 @@
       "country": "MA"
     },
     {
-      "id": 1137938639,
-      "lat": 29.36503,
-      "lon": -10.1991,
-      "name": "Unnamed (way 1137938639)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1137938640,
       "lat": 29.360492,
       "lon": -10.18516,
@@ -9736,14 +9032,6 @@
       "lat": 32.996032,
       "lon": -7.618964,
       "name": "Unnamed (way 1190020821)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 1214562344,
-      "lat": 34.84077,
-      "lon": -1.773362,
-      "name": "Unnamed (way 1214562344)",
       "type": "station",
       "country": "MA"
     },
@@ -9788,18 +9076,26 @@
       "country": "MA"
     },
     {
-      "id": 1343775998,
-      "lat": 35.385287,
-      "lon": -1.092329,
-      "name": "Unnamed (way 1343775998)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1390424290,
       "lat": 31.938124,
       "lon": -4.405091,
       "name": "Unnamed (way 1390424290)",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 1499939855,
+      "lat": 33.892055,
+      "lon": -6.313032,
+      "name": "Unnamed (way 1499939855)",
+      "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 1515672294,
+      "lat": 34.804795,
+      "lon": -5.569065,
+      "name": "Unnamed (way 1515672294)",
       "type": "station",
       "country": "MA"
     },
@@ -9812,34 +9108,18 @@
       "country": "MA"
     },
     {
+      "id": 258394448,
+      "lat": 34.408917,
+      "lon": -2.898134,
+      "name": "Unnamed (way 258394448)",
+      "type": "station",
+      "country": "MA"
+    },
+    {
       "id": 299324019,
       "lat": 35.844175,
       "lon": -5.355807,
       "name": "Unnamed (way 299324019)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 305583431,
-      "lat": 35.167916,
-      "lon": -5.275074,
-      "name": "Unnamed (way 305583431)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 305662015,
-      "lat": 34.787649,
-      "lon": -1.803912,
-      "name": "Unnamed (way 305662015)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 305849787,
-      "lat": 35.100544,
-      "lon": -1.86133,
-      "name": "Unnamed (way 305849787)",
       "type": "station",
       "country": "MA"
     },
@@ -9912,14 +9192,6 @@
       "lat": 34.198826,
       "lon": -3.540544,
       "name": "Unnamed (way 376239267)",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 393043749,
-      "lat": 35.078963,
-      "lon": -2.213932,
-      "name": "Unnamed (way 393043749)",
       "type": "station",
       "country": "MA"
     },
@@ -10020,14 +9292,6 @@
       "country": "MA"
     },
     {
-      "id": 2290946923,
-      "lat": 34.855441,
-      "lon": -1.432862,
-      "name": "Zalboun",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 7446934254,
       "lat": 34.03239,
       "lon": -6.786977,
@@ -10084,14 +9348,6 @@
       "country": "MA"
     },
     {
-      "id": 3103272616,
-      "lat": 34.787279,
-      "lon": -1.803862,
-      "name": "Zoudj Bghal",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 827418613,
       "lat": 30.352084,
       "lon": -5.840561,
@@ -10132,30 +9388,6 @@
       "country": "MA"
     },
     {
-      "id": 307163897,
-      "lat": 32.05088,
-      "lon": -1.247066,
-      "name": "بني ونيف",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 258394448,
-      "lat": 34.408881,
-      "lon": -2.898093,
-      "name": "تاوريرت",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 9357647100,
-      "lat": 31.798221,
-      "lon": -2.064295,
-      "name": "حاسي الهواري",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1025528536,
       "lat": 35.482373,
       "lon": -6.023511,
@@ -10165,65 +9397,9 @@
     },
     {
       "id": 135885009,
-      "lat": 30.415851,
+      "lat": 30.415882,
       "lon": -9.565466,
       "name": "محطة الحافلات",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 390135427,
-      "lat": 31.553639,
-      "lon": -2.428409,
-      "name": "محطة الحافلات",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 334471451,
-      "lat": 35.096238,
-      "lon": -1.861466,
-      "name": "محطة الغزوات",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 428084077,
-      "lat": 31.623539,
-      "lon": -2.219484,
-      "name": "محطة القطار بشار",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 554352383,
-      "lat": 35.307444,
-      "lon": -1.357575,
-      "name": "محطة القطار بني صاف",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 305682521,
-      "lat": 34.842932,
-      "lon": -1.726838,
-      "name": "محطة القطار مغنية",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 257158927,
-      "lat": 31.024078,
-      "lon": -2.711717,
-      "name": "محطة المسافرين",
-      "type": "station",
-      "country": "MA"
-    },
-    {
-      "id": 305845867,
-      "lat": 35.103751,
-      "lon": -1.857484,
-      "name": "محطة بحرية",
       "type": "station",
       "country": "MA"
     },
@@ -10236,19 +9412,19 @@
       "country": "MA"
     },
     {
-      "id": 273733169,
-      "lat": 31.626283,
-      "lon": -2.220498,
-      "name": "محطة نقل المسافرين البرية - حمادي",
-      "type": "station",
-      "country": "MA"
-    },
-    {
       "id": 1026664837,
       "lat": 32.864609,
       "lon": -6.562962,
       "name": "محطة وادي زم",
       "type": "station",
+      "country": "MA"
+    },
+    {
+      "id": 13454275860,
+      "lat": 32.846071,
+      "lon": -7.097745,
+      "name": "مريزيق Mrizig",
+      "type": "stop",
       "country": "MA"
     },
     {

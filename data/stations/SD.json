@@ -8,22 +8,14 @@
     22.23,
     38.58
   ],
-  "extracted": "2026-03-03T12:20:35.837Z",
-  "count": 284,
+  "extracted": "2026-09-27T08:03:03.776Z",
+  "count": 231,
   "stations": [
     {
       "id": 12227145802,
       "lat": 16.698347,
       "lon": 33.43522,
       "name": "(محطة شندي) سكة حديدالسودان",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 3315655881,
-      "lat": 15.738847,
-      "lon": 38.323743,
-      "name": "/ اتسيوني / Aziona",
       "type": "station",
       "country": "SD"
     },
@@ -132,14 +124,6 @@
       "country": "SD"
     },
     {
-      "id": 324889040,
-      "lat": 15.546103,
-      "lon": 37.881177,
-      "name": "Akordat",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 11772106392,
       "lat": 13.013025,
       "lon": 30.373267,
@@ -220,66 +204,10 @@
       "country": "SD"
     },
     {
-      "id": 1465989888,
-      "lat": 8.981444,
-      "lon": 37.869724,
-      "name": "Ambu Bus Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150900336,
-      "lat": 13.25,
-      "lon": 37.1,
-      "name": "Angareb",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 9872513134,
-      "lat": 10.106519,
-      "lon": 30.082528,
-      "name": "Angareb Shop",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 444884545,
       "lat": 18.175482,
       "lon": 35.404989,
       "name": "Ar Rawjal",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1829439679,
-      "lat": 10.058971,
-      "lon": 34.540887,
-      "name": "Assosa Busstation",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1354559801,
-      "lat": 8.761267,
-      "lon": 27.394746,
-      "name": "Aweil",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1281185175,
-      "lat": 12.553076,
-      "lon": 37.420437,
-      "name": "Azezo/Gondar Bus Terminal",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 277597369,
-      "lat": 11.590545,
-      "lon": 37.389595,
-      "name": "Bahir Dar Bus Station",
       "type": "station",
       "country": "SD"
     },
@@ -308,14 +236,6 @@
       "country": "SD"
     },
     {
-      "id": 667866716,
-      "lat": 10.447471,
-      "lon": 38.200688,
-      "name": "Bichena bus station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 11871656885,
       "lat": 15.554758,
       "lon": 32.41199,
@@ -328,22 +248,6 @@
       "lat": 18.546666,
       "lon": 31.845223,
       "name": "Bsu station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 586786807,
-      "lat": 10.701973,
-      "lon": 37.060566,
-      "name": "bure bus station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 671560286,
-      "lat": 12.553104,
-      "lon": 37.427232,
-      "name": "Bus and Taxi Terminal",
       "type": "station",
       "country": "SD"
     },
@@ -364,26 +268,10 @@
       "country": "SD"
     },
     {
-      "id": 1748623264,
-      "lat": 10.851646,
-      "lon": 37.599261,
-      "name": "Busstation to Dembecha",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 10779659705,
       "lat": 17.68842,
       "lon": 33.999153,
       "name": "Busstation to Port Sudan",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 9489449472,
-      "lat": 11.731481,
-      "lon": 38.468366,
-      "name": "Chinacamp Gas Station",
       "type": "station",
       "country": "SD"
     },
@@ -404,6 +292,14 @@
       "country": "SD"
     },
     {
+      "id": 13658653024,
+      "lat": 13.463366,
+      "lon": 30.305177,
+      "name": "Dankog Water Station",
+      "type": "station",
+      "country": "SD"
+    },
+    {
       "id": 10979300170,
       "lat": 12.239901,
       "lon": 29.048032,
@@ -412,34 +308,10 @@
       "country": "SD"
     },
     {
-      "id": 595141308,
-      "lat": 10.165657,
-      "lon": 38.151093,
-      "name": "Dejen Bus Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 6597232204,
       "lat": 13.182894,
       "lon": 36.119305,
       "name": "Delelo Asephalt",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 595145510,
-      "lat": 12.611809,
-      "lon": 37.46938,
-      "name": "Desta Stationery & computer accessory",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150926755,
-      "lat": 9.21667,
-      "lon": 36.83333,
-      "name": "Digare",
       "type": "station",
       "country": "SD"
     },
@@ -500,34 +372,10 @@
       "country": "SD"
     },
     {
-      "id": 431924516,
-      "lat": 15.655365,
-      "lon": 38.133625,
-      "name": "Ex Mai Adarte",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 2279513613,
       "lat": 15.654626,
       "lon": 32.544609,
       "name": "Fuel Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150931452,
-      "lat": 9.05,
-      "lon": 38.25,
-      "name": "Gare",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150886354,
-      "lat": 9.05,
-      "lon": 38.11667,
-      "name": "Gare Tekle Haymanot Bete Kristiyan",
       "type": "station",
       "country": "SD"
     },
@@ -556,22 +404,6 @@
       "country": "SD"
     },
     {
-      "id": 9010419273,
-      "lat": 9.913866,
-      "lon": 29.985266,
-      "name": "Gas/ Petro Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1092931034,
-      "lat": 12.240156,
-      "lon": 37.301682,
-      "name": "Gorgora Terminal",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 6112415485,
       "lat": 17.694075,
       "lon": 33.982609,
@@ -592,22 +424,6 @@
       "lat": 15.457111,
       "lon": 36.396328,
       "name": "Halanga Bus Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 442906001,
-      "lat": 15.745357,
-      "lon": 38.547315,
-      "name": "Halib Mentel هاليب مينتل",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 8431154463,
-      "lat": 14.265345,
-      "lon": 36.540494,
-      "name": "Hamdayet Police Station",
       "type": "station",
       "country": "SD"
     },
@@ -640,14 +456,6 @@
       "lat": 18.2534,
       "lon": 37.8235,
       "name": "Hillat Kagareb",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 10672522051,
-      "lat": 9.045134,
-      "lon": 38.499634,
-      "name": "Holeta Last.station",
       "type": "station",
       "country": "SD"
     },
@@ -732,22 +540,6 @@
       "country": "SD"
     },
     {
-      "id": 3315604719,
-      "lat": 15.77629,
-      "lon": 38.453728,
-      "name": "Keren Bus Station محطة كرن الحافلات",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 442906003,
-      "lat": 15.775006,
-      "lon": 38.467972,
-      "name": "Keren Villaggio كرن قرية",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 8386258997,
       "lat": 15.595073,
       "lon": 32.527011,
@@ -780,14 +572,6 @@
       "country": "SD"
     },
     {
-      "id": 11108024847,
-      "lat": 12.714857,
-      "lon": 22.181078,
-      "name": "Koma Ngarenyo",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 1541453456,
       "lat": 13.16451,
       "lon": 32.677112,
@@ -804,26 +588,10 @@
       "country": "SD"
     },
     {
-      "id": 1092896496,
-      "lat": 11.698191,
-      "lon": 36.942608,
-      "name": "Liben Bus Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 6425546586,
       "lat": 14.399711,
       "lon": 33.52883,
       "name": "local bus station (cheaper bus)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 5229070126,
-      "lat": 14.554727,
-      "lon": 38.502327,
-      "name": "Mai Mine Bus Station እንዳ ኣውቶቡስ ማይ ምነ محطة ماء منه الحافلات",
       "type": "station",
       "country": "SD"
     },
@@ -836,26 +604,10 @@
       "country": "SD"
     },
     {
-      "id": 1811102911,
-      "lat": 10.869143,
-      "lon": 38.272844,
-      "name": "Mertule Mariam Bus Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 7538510611,
       "lat": 13.804741,
       "lon": 24.322093,
       "name": "Mongarei",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150922261,
-      "lat": 13.05,
-      "lon": 37.61667,
-      "name": "Monte Angareb",
       "type": "station",
       "country": "SD"
     },
@@ -956,14 +708,6 @@
       "country": "SD"
     },
     {
-      "id": 5614995632,
-      "lat": 10.502858,
-      "lon": 37.993496,
-      "name": "police station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 4456485823,
       "lat": 13.504261,
       "lon": 32.597438,
@@ -972,42 +716,10 @@
       "country": "SD"
     },
     {
-      "id": 12701892540,
-      "lat": 8.849364,
-      "lon": 35.650989,
-      "name": "Police station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1748678060,
-      "lat": 10.8512,
-      "lon": 37.598754,
-      "name": "Police Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 4578674516,
-      "lat": 11.581711,
-      "lon": 37.370813,
-      "name": "Police Station (9)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 6112459785,
       "lat": 17.692237,
       "lon": 33.97425,
       "name": "Rail ways police station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1150957513,
-      "lat": 12.3,
-      "lon": 37.65,
-      "name": "Sahalt",
       "type": "station",
       "country": "SD"
     },
@@ -1024,30 +736,6 @@
       "lat": 14.557536,
       "lon": 24.275028,
       "name": "Sai Nagare",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 11704608036,
-      "lat": 8.89951,
-      "lon": 38.576382,
-      "name": "Sebeta",
-      "type": "stop",
-      "country": "SD"
-    },
-    {
-      "id": 4223113007,
-      "lat": 8.899342,
-      "lon": 38.576348,
-      "name": "Sebeta Railway Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 631454277,
-      "lat": 8.899356,
-      "lon": 38.576331,
-      "name": "Sebeta Railway Station",
       "type": "station",
       "country": "SD"
     },
@@ -1076,14 +764,6 @@
       "country": "SD"
     },
     {
-      "id": 5078775124,
-      "lat": 14.097929,
-      "lon": 38.280222,
-      "name": "Shire bus station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 3957102660,
       "lat": 15.650517,
       "lon": 32.623975,
@@ -1092,26 +772,10 @@
       "country": "SD"
     },
     {
-      "id": 11286267992,
-      "lat": 13.316835,
-      "lon": 21.992368,
-      "name": "Station de Pompage",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 7199599885,
       "lat": 18.228712,
       "lon": 30.70562,
       "name": "Taxi station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 9508163240,
-      "lat": 10.671605,
-      "lon": 37.377065,
-      "name": "Total Ethiopia, Jiga Service Station",
       "type": "station",
       "country": "SD"
     },
@@ -1341,8 +1005,8 @@
     },
     {
       "id": 2318713864,
-      "lat": 19.534539,
-      "lon": 33.330371,
+      "lat": 19.534561,
+      "lon": 33.330326,
       "name": "Unnamed (node 2318713864)",
       "type": "buffer_stop",
       "country": "SD"
@@ -1444,14 +1108,6 @@
       "country": "SD"
     },
     {
-      "id": 3889088992,
-      "lat": 8.90422,
-      "lon": 38.559172,
-      "name": "Unnamed (node 3889088992)",
-      "type": "buffer_stop",
-      "country": "SD"
-    },
-    {
       "id": 8151189441,
       "lat": 12.817905,
       "lon": 31.034095,
@@ -1460,43 +1116,11 @@
       "country": "SD"
     },
     {
-      "id": 1013083794,
-      "lat": 12.784556,
-      "lon": 36.405184,
-      "name": "Unnamed (way 1013083794)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1042700652,
-      "lat": 9.089242,
-      "lon": 36.55162,
-      "name": "Unnamed (way 1042700652)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
       "id": 1090948217,
       "lat": 19.332102,
       "lon": 33.418534,
       "name": "Unnamed (way 1090948217)",
       "type": "halt",
-      "country": "SD"
-    },
-    {
-      "id": 1093021221,
-      "lat": 11.580011,
-      "lon": 37.384126,
-      "name": "Unnamed (way 1093021221)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 1281185170,
-      "lat": 12.552559,
-      "lon": 37.420526,
-      "name": "Unnamed (way 1281185170)",
-      "type": "station",
       "country": "SD"
     },
     {
@@ -1572,42 +1196,18 @@
       "country": "SD"
     },
     {
+      "id": 1541428581,
+      "lat": 15.564274,
+      "lon": 32.525332,
+      "name": "Unnamed (way 1541428581)",
+      "type": "station",
+      "country": "SD"
+    },
+    {
       "id": 166763335,
       "lat": 15.625919,
       "lon": 32.530445,
       "name": "Unnamed (way 166763335)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 188171176,
-      "lat": 9.090888,
-      "lon": 36.542089,
-      "name": "Unnamed (way 188171176)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 431943789,
-      "lat": 15.738927,
-      "lon": 38.323638,
-      "name": "Unnamed (way 431943789)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 459883945,
-      "lat": 15.550237,
-      "lon": 37.888331,
-      "name": "Unnamed (way 459883945)",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 616928048,
-      "lat": 15.100427,
-      "lon": 37.584962,
-      "name": "Unnamed (way 616928048)",
       "type": "station",
       "country": "SD"
     },
@@ -1640,22 +1240,6 @@
       "lat": 15.833333,
       "lon": 34.783333,
       "name": "Wadi Sangarer",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 4782457503,
-      "lat": 11.734426,
-      "lon": 32.82688,
-      "name": "Water Cart Filling Station",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 9505833585,
-      "lat": 10.568936,
-      "lon": 37.478407,
-      "name": "Zagol Gas Station",
       "type": "station",
       "country": "SD"
     },
@@ -2140,6 +1724,14 @@
       "country": "SD"
     },
     {
+      "id": 223115919,
+      "lat": 21.805216,
+      "lon": 31.341527,
+      "name": "محطة قطار وادي حلفا",
+      "type": "station",
+      "country": "SD"
+    },
+    {
       "id": 12227651916,
       "lat": 16.891873,
       "lon": 33.691088,
@@ -2265,22 +1857,6 @@
       "lon": 33.518899,
       "name": "ود مدني",
       "type": "stop",
-      "country": "SD"
-    },
-    {
-      "id": 324883754,
-      "lat": 15.776928,
-      "lon": 38.453627,
-      "name": "ከረን keren كرن",
-      "type": "station",
-      "country": "SD"
-    },
-    {
-      "id": 4690744789,
-      "lat": 14.098638,
-      "lon": 38.278889,
-      "name": "ጉዕሽ ነዳዲ መዐደሊ Guesh Fuel Station",
-      "type": "station",
       "country": "SD"
     }
   ]

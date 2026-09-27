@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-09-20T08:20:38.736Z",
+  "generated": "2026-09-27T08:40:38.880Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -277,10 +277,10 @@
         37.09,
         11.98
       ],
-      "stationCount": 4655,
-      "railwayCount": 15267,
+      "stationCount": 1826,
+      "railwayCount": 15396,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "EG": {
       "name": "Egypt",
@@ -291,10 +291,10 @@
         31.67,
         36.9
       ],
-      "stationCount": 1595,
-      "railwayCount": 6283,
+      "stationCount": 1637,
+      "railwayCount": 6358,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "LY": {
       "name": "Libya",
@@ -305,10 +305,10 @@
         33.17,
         25.15
       ],
-      "stationCount": 48,
-      "railwayCount": 140,
+      "stationCount": 37,
+      "railwayCount": 139,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "MA": {
       "name": "Morocco",
@@ -319,10 +319,10 @@
         35.93,
         -0.99
       ],
-      "stationCount": 1282,
-      "railwayCount": 4427,
+      "stationCount": 1179,
+      "railwayCount": 4451,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "SD": {
       "name": "Sudan",
@@ -333,10 +333,10 @@
         22.23,
         38.58
       ],
-      "stationCount": 284,
-      "railwayCount": 1842,
+      "stationCount": 231,
+      "railwayCount": 1844,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "TN": {
       "name": "Tunisia",
@@ -347,10 +347,10 @@
         37.54,
         11.6
       ],
-      "stationCount": 1319,
+      "stationCount": 1133,
       "railwayCount": 3832,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:25:01.204Z"
+      "lastUpdated": "2026-09-27T08:08:37.199Z"
     },
     "BW": {
       "name": "Botswana",

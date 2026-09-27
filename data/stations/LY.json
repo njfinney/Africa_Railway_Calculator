@@ -8,8 +8,8 @@
     33.17,
     25.15
   ],
-  "extracted": "2026-03-03T12:13:37.088Z",
-  "count": 48,
+  "extracted": "2026-09-27T07:59:46.183Z",
+  "count": 37,
   "stations": [
     {
       "id": 12135368518,
@@ -68,30 +68,6 @@
       "country": "LY"
     },
     {
-      "id": 1462253419,
-      "lat": 24.515241,
-      "lon": 9.491555,
-      "name": "gare routière",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 296331904,
-      "lat": 33.155613,
-      "lon": 11.212968,
-      "name": "Gare routière de Ben Guerdane",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 7721875682,
-      "lat": 19.961816,
-      "lon": 21.324379,
-      "name": "Garet el Gorane",
-      "type": "station",
-      "country": "LY"
-    },
-    {
       "id": 2486265812,
       "lat": 32.925276,
       "lon": 12.098258,
@@ -108,14 +84,6 @@
       "country": "LY"
     },
     {
-      "id": 878933048,
-      "lat": 33.058741,
-      "lon": 10.340564,
-      "name": "Mahatta",
-      "type": "station",
-      "country": "LY"
-    },
-    {
       "id": 1894874961,
       "lat": 32.368826,
       "lon": 15.096287,
@@ -128,22 +96,6 @@
       "lat": 27.270094,
       "lon": 14.883168,
       "name": "Samnu Fire Station",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 884339828,
-      "lat": 33.140769,
-      "lon": 11.217383,
-      "name": "SRTM Agence Ben Guerdane",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 1073011370,
-      "lat": 24.512289,
-      "lon": 9.492878,
-      "name": "Station Service NAFTAL",
       "type": "station",
       "country": "LY"
     },
@@ -228,30 +180,6 @@
       "country": "LY"
     },
     {
-      "id": 1117799180,
-      "lat": 33.155557,
-      "lon": 11.213324,
-      "name": "Unnamed (way 1117799180)",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 1131166201,
-      "lat": 31.572287,
-      "lon": 25.146081,
-      "name": "Unnamed (way 1131166201)",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 831235280,
-      "lat": 33.142352,
-      "lon": 11.217219,
-      "name": "Unnamed (way 831235280)",
-      "type": "station",
-      "country": "LY"
-    },
-    {
       "id": 992354636,
       "lat": 32.858638,
       "lon": 13.174018,
@@ -280,22 +208,6 @@
       "lat": 32.927675,
       "lon": 12.096027,
       "name": "Zuara Police Station",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 1098334301,
-      "lat": 31.57238,
-      "lon": 25.14607,
-      "name": "السلوم",
-      "type": "station",
-      "country": "LY"
-    },
-    {
-      "id": 1064362847,
-      "lat": 32.929237,
-      "lon": 10.447034,
-      "name": "الشركة الجهوية للنقل",
       "type": "station",
       "country": "LY"
     },
