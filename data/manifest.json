@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-09-27T08:40:38.880Z",
+  "generated": "2026-10-04T09:01:20.471Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -361,10 +361,10 @@
         -17.78,
         29.37
       ],
-      "stationCount": 2890,
-      "railwayCount": 13838,
+      "stationCount": 166,
+      "railwayCount": 13965,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "SZ": {
       "name": "Eswatini",
@@ -375,10 +375,10 @@
         -25.72,
         32.13
       ],
-      "stationCount": 86,
-      "railwayCount": 410,
+      "stationCount": 55,
+      "railwayCount": 420,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "LS": {
       "name": "Lesotho",
@@ -389,10 +389,10 @@
         -28.57,
         29.46
       ],
-      "stationCount": 181,
-      "railwayCount": 396,
+      "stationCount": 78,
+      "railwayCount": 419,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "MW": {
       "name": "Malawi",
@@ -403,10 +403,10 @@
         -9.37,
         35.92
       ],
-      "stationCount": 229,
-      "railwayCount": 777,
+      "stationCount": 188,
+      "railwayCount": 749,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "MZ": {
       "name": "Mozambique",
@@ -417,10 +417,10 @@
         -10.47,
         40.84
       ],
-      "stationCount": 1273,
-      "railwayCount": 5339,
+      "stationCount": 372,
+      "railwayCount": 5319,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "NA": {
       "name": "Namibia",
@@ -431,10 +431,10 @@
         -16.96,
         25.26
       ],
-      "stationCount": 772,
-      "railwayCount": 3139,
+      "stationCount": 320,
+      "railwayCount": 3152,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "ZA": {
       "name": "South Africa",
@@ -445,10 +445,10 @@
         -22.13,
         32.89
       ],
-      "stationCount": 9155,
-      "railwayCount": 42014,
+      "stationCount": 8704,
+      "railwayCount": 42606,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "ZM": {
       "name": "Zambia",
@@ -459,10 +459,10 @@
         -8.19,
         33.71
       ],
-      "stationCount": 736,
-      "railwayCount": 3138,
+      "stationCount": 347,
+      "railwayCount": 3159,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "ZW": {
       "name": "Zimbabwe",
@@ -473,10 +473,10 @@
         -15.61,
         33.06
       ],
-      "stationCount": 703,
-      "railwayCount": 3672,
+      "stationCount": 582,
+      "railwayCount": 3684,
       "hasData": true,
-      "lastUpdated": "2026-03-03T12:30:49.881Z"
+      "lastUpdated": "2026-10-04T08:36:39.075Z"
     },
     "BJ": {
       "name": "Benin",
