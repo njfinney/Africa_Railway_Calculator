@@ -8,8 +8,8 @@
     25,
     4.27
   ],
-  "extracted": "2026-09-20T07:59:52.367Z",
-  "count": 488,
+  "extracted": "2026-10-11T08:44:40.069Z",
+  "count": 489,
   "stations": [
     {
       "id": 2150752711,
@@ -3809,6 +3809,14 @@
       "lon": -8.243711,
       "name": "Unnamed (node 14099709046)",
       "type": "stop",
+      "country": "ML"
+    },
+    {
+      "id": 14232834157,
+      "lat": 12.779462,
+      "lon": -8.156287,
+      "name": "Unnamed (node 14232834157)",
+      "type": "halt",
       "country": "ML"
     },
     {

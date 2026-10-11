@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-09-20T07:52:18.771Z",
-  "count": 336,
+  "extracted": "2026-10-11T08:40:59.178Z",
+  "count": 337,
   "stations": [
     {
       "id": 5966756331,
@@ -440,6 +440,14 @@
       "lat": 11.379591,
       "lon": -9.176913,
       "name": "Gare Routière indépendante",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 14222267766,
+      "lat": 7.767481,
+      "lon": -8.816988,
+      "name": "Gare routière indépendants",
       "type": "station",
       "country": "GN"
     },

@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-09-20T07:43:59.723Z",
-  "count": 1216,
+  "extracted": "2026-10-11T08:38:22.163Z",
+  "count": 1217,
   "stations": [
     {
       "id": 9300351953,
@@ -2495,7 +2495,7 @@
       "id": 10696972205,
       "lat": 7.128241,
       "lon": -3.199544,
-      "name": "Gare de TAKIKRO",
+      "name": "Gare de Takikro",
       "type": "station",
       "country": "CI"
     },
@@ -6552,6 +6552,14 @@
       "lat": 5.386521,
       "lon": -3.935994,
       "name": "Station D'Eau",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 10208909364,
+      "lat": 7.053876,
+      "lon": -3.661582,
+      "name": "Station de débourbage",
       "type": "station",
       "country": "CI"
     },
