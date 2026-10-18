@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-09-20T07:46:58.522Z",
-  "count": 737,
+  "extracted": "2026-10-18T07:15:56.515Z",
+  "count": 739,
   "stations": [
     {
       "id": 6968590872,
@@ -2260,6 +2260,14 @@
       "country": "GH"
     },
     {
+      "id": 14269985404,
+      "lat": 5.397342,
+      "lon": -0.649451,
+      "name": "Gomoa Pomadze Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 12046305776,
       "lat": 5.726503,
       "lon": -0.011894,
@@ -2648,14 +2656,6 @@
       "lat": 5.660701,
       "lon": -0.05175,
       "name": "Klagon Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 11397029998,
-      "lat": 6.688635,
-      "lon": -1.564695,
-      "name": "KNUST Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -3943,7 +3943,7 @@
       "id": 5894876886,
       "lat": 6.03743,
       "lon": -0.2599,
-      "name": "Okorase Police station",
+      "name": "Okorase Police Station",
       "type": "station",
       "country": "GH"
     },
@@ -4072,6 +4072,14 @@
       "lat": 5.552503,
       "lon": -0.177804,
       "name": "Osu Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13603210076,
+      "lat": 5.684824,
+      "lon": -0.35472,
+      "name": "Pacific Gas station",
       "type": "station",
       "country": "GH"
     },
@@ -4380,6 +4388,14 @@
       "country": "GH"
     },
     {
+      "id": 14257358474,
+      "lat": 6.093096,
+      "lon": -0.377191,
+      "name": "Radiance filling station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 6288793601,
       "lat": 6.091639,
       "lon": -0.263234,
@@ -4516,10 +4532,10 @@
       "country": "GH"
     },
     {
-      "id": 4400057060,
-      "lat": 5.116688,
-      "lon": -1.292171,
-      "name": "Science shuttle station",
+      "id": 692031854,
+      "lat": 5.116723,
+      "lon": -1.29218,
+      "name": "Science Shuttle Station",
       "type": "station",
       "country": "GH"
     },
@@ -5188,14 +5204,6 @@
       "country": "GH"
     },
     {
-      "id": 7395651748,
-      "lat": 6.397579,
-      "lon": -0.143343,
-      "name": "Total Fuel Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 6506345918,
       "lat": 5.10651,
       "lon": -1.243198,
@@ -5752,6 +5760,14 @@
       "lat": 10.06313,
       "lon": -2.498054,
       "name": "Wa Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 14257358475,
+      "lat": 6.097054,
+      "lon": -0.368107,
+      "name": "Wabsel filling station",
       "type": "station",
       "country": "GH"
     },

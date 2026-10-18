@@ -8,8 +8,8 @@
     13.89,
     14.68
   ],
-  "extracted": "2026-09-20T08:10:59.761Z",
-  "count": 763,
+  "extracted": "2026-10-18T07:26:08.488Z",
+  "count": 771,
   "stations": [
     {
       "id": 13047975346,
@@ -120,6 +120,14 @@
       "lat": 9.050403,
       "lon": 7.471811,
       "name": "Abuja Metro Station",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 264963043,
+      "lat": 11.839365,
+      "lon": 13.146834,
+      "name": "Adamwa Sunshine Motor Park",
       "type": "station",
       "country": "NG"
     },
@@ -381,10 +389,18 @@
     },
     {
       "id": 5396198481,
-      "lat": 6.464378,
-      "lon": 3.324486,
+      "lat": 6.464464,
+      "lon": 3.324426,
       "name": "Alaba",
       "type": "stop",
+      "country": "NG"
+    },
+    {
+      "id": 10777382246,
+      "lat": 6.464387,
+      "lon": 3.324479,
+      "name": "Alaba",
+      "type": "station",
       "country": "NG"
     },
     {
@@ -2125,8 +2141,8 @@
     },
     {
       "id": 6288801278,
-      "lat": 6.47754,
-      "lon": 3.343124,
+      "lat": 6.477534,
+      "lon": 3.343126,
       "name": "Iganmu",
       "type": "stop",
       "country": "NG"
@@ -3092,6 +3108,14 @@
       "country": "NG"
     },
     {
+      "id": 10776098575,
+      "lat": 6.44623,
+      "lon": 3.394903,
+      "name": "Marina",
+      "type": "stop",
+      "country": "NG"
+    },
+    {
       "id": 10776098576,
       "lat": 6.44616,
       "lon": 3.395029,
@@ -3205,18 +3229,26 @@
     },
     {
       "id": 6288801244,
-      "lat": 6.459976,
-      "lon": 3.311754,
+      "lat": 6.459935,
+      "lon": 3.311786,
       "name": "Mile 2",
       "type": "stop",
       "country": "NG"
     },
     {
       "id": 10777382245,
-      "lat": 6.45993,
-      "lon": 3.311727,
+      "lat": 6.459876,
+      "lon": 3.311701,
       "name": "Mile 2",
       "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 14278305140,
+      "lat": 6.459836,
+      "lon": 3.311787,
+      "name": "Mile 2",
+      "type": "stop",
       "country": "NG"
     },
     {
@@ -3525,8 +3557,8 @@
     },
     {
       "id": 6288801277,
-      "lat": 6.474611,
-      "lon": 3.368733,
+      "lat": 6.474669,
+      "lon": 3.368538,
       "name": "National Theatre",
       "type": "stop",
       "country": "NG"
@@ -5148,14 +5180,6 @@
       "country": "NG"
     },
     {
-      "id": 11152385205,
-      "lat": 10.302214,
-      "lon": 11.178257,
-      "name": "underground water monitoring station",
-      "type": "station",
-      "country": "NG"
-    },
-    {
       "id": 11733991473,
       "lat": 9.967322,
       "lon": 8.880225,
@@ -5181,9 +5205,25 @@
     },
     {
       "id": 10727987487,
-      "lat": 6.442993,
-      "lon": 3.39955,
+      "lat": 6.443093,
+      "lon": 3.399267,
       "name": "Unnamed (node 10727987487)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 10727987502,
+      "lat": 6.443035,
+      "lon": 3.399218,
+      "name": "Unnamed (node 10727987502)",
+      "type": "buffer_stop",
+      "country": "NG"
+    },
+    {
+      "id": 14278305350,
+      "lat": 6.443061,
+      "lon": 3.399243,
+      "name": "Unnamed (node 14278305350)",
       "type": "buffer_stop",
       "country": "NG"
     },
@@ -5780,6 +5820,22 @@
       "country": "NG"
     },
     {
+      "id": 1567779924,
+      "lat": 6.459877,
+      "lon": 3.311154,
+      "name": "Unnamed (way 1567779924)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 1567779925,
+      "lat": 6.459885,
+      "lon": 3.312265,
+      "name": "Unnamed (way 1567779925)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
       "id": 161134222,
       "lat": 10.491871,
       "lon": 7.416283,
@@ -5832,6 +5888,14 @@
       "lat": 9.030386,
       "lon": 7.422753,
       "name": "Unnamed (way 607109948)",
+      "type": "station",
+      "country": "NG"
+    },
+    {
+      "id": 662451287,
+      "lat": 6.47465,
+      "lon": 3.368665,
+      "name": "Unnamed (way 662451287)",
       "type": "station",
       "country": "NG"
     },

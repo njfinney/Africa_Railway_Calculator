@@ -8,8 +8,8 @@
     10.74,
     -2.49
   ],
-  "extracted": "2026-10-11T08:38:22.163Z",
-  "count": 1217,
+  "extracted": "2026-10-18T07:12:04.857Z",
+  "count": 1214,
   "stations": [
     {
       "id": 9300351953,
@@ -3261,17 +3261,9 @@
     },
     {
       "id": 7046964143,
-      "lat": 5.310701,
-      "lon": -4.03472,
+      "lat": 5.3102,
+      "lon": -4.034605,
       "name": "Gare Lagunaire Abobo Doumé Sotra",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 11525275069,
-      "lat": 5.310632,
-      "lon": -4.034353,
-      "name": "Gare Lagunaire Abobodoumé",
       "type": "station",
       "country": "CI"
     },
@@ -3284,9 +3276,9 @@
       "country": "CI"
     },
     {
-      "id": 7079782627,
-      "lat": 5.326112,
-      "lon": -3.920985,
+      "id": 14281964069,
+      "lat": 5.326121,
+      "lon": -3.920986,
       "name": "Gare lagunaire Aqualines Abatta",
       "type": "station",
       "country": "CI"
@@ -3333,8 +3325,8 @@
     },
     {
       "id": 8665429392,
-      "lat": 5.301623,
-      "lon": -4.084838,
+      "lat": 5.301409,
+      "lon": -4.084937,
       "name": "Gare Lagunaire AZITO STL",
       "type": "station",
       "country": "CI"
@@ -3349,24 +3341,16 @@
     },
     {
       "id": 5076847221,
-      "lat": 5.310632,
-      "lon": -4.034598,
+      "lat": 5.310416,
+      "lon": -4.034265,
       "name": "Gare Lagunaire d’Abobo-Doumé Sotra",
       "type": "station",
       "country": "CI"
     },
     {
       "id": 5204765222,
-      "lat": 5.321109,
-      "lon": -4.002123,
-      "name": "Gare lagunaire de Blockauss Sotra",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 7047101136,
-      "lat": 5.321234,
-      "lon": -4.002144,
+      "lat": 5.321095,
+      "lon": -4.002102,
       "name": "Gare lagunaire de Blockauss Sotra",
       "type": "station",
       "country": "CI"
@@ -3376,14 +3360,6 @@
       "lat": 5.322517,
       "lon": -4.034332,
       "name": "Gare lagunaire de SIDIBE",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 2608400470,
-      "lat": 5.310867,
-      "lon": -4.015898,
-      "name": "Gare Lagunaire de Treichville Sotra",
       "type": "station",
       "country": "CI"
     },
@@ -3429,16 +3405,24 @@
     },
     {
       "id": 7046900014,
-      "lat": 5.315932,
-      "lon": -3.952138,
+      "lat": 5.315963,
+      "lon": -3.952144,
+      "name": "Gare Lagunaire Koumassi STL",
+      "type": "station",
+      "country": "CI"
+    },
+    {
+      "id": 10991888265,
+      "lat": 5.315634,
+      "lon": -3.952301,
       "name": "Gare Lagunaire Koumassi STL",
       "type": "station",
       "country": "CI"
     },
     {
       "id": 5143778943,
-      "lat": 5.323695,
-      "lon": -3.960449,
+      "lat": 5.323666,
+      "lon": -3.96045,
       "name": "Gare lagunaire M'pouto STL",
       "type": "station",
       "country": "CI"
@@ -3485,8 +3469,8 @@
     },
     {
       "id": 4852197024,
-      "lat": 5.313883,
-      "lon": -4.010184,
+      "lat": 5.313878,
+      "lon": -4.010207,
       "name": "Gare Lagunaire Treichville STL",
       "type": "station",
       "country": "CI"
@@ -3517,16 +3501,8 @@
     },
     {
       "id": 5390465856,
-      "lat": 5.310677,
-      "lon": -4.034215,
-      "name": "Gare Lagunaire Yopougon STL",
-      "type": "station",
-      "country": "CI"
-    },
-    {
-      "id": 7044975088,
-      "lat": 5.310907,
-      "lon": -4.034406,
+      "lat": 5.310619,
+      "lon": -4.034116,
       "name": "Gare Lagunaire Yopougon STL",
       "type": "station",
       "country": "CI"
@@ -4199,7 +4175,7 @@
       "id": 5892933964,
       "lat": 5.788358,
       "lon": -6.60033,
-      "name": "Gare routiere d’Odienné",
+      "name": "Gare routiere d’Odienn��",
       "type": "station",
       "country": "CI"
     },
