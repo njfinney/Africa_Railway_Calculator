@@ -8,7 +8,7 @@
     23.53,
     15.99
   ],
-  "extracted": "2026-10-11T08:47:14.275Z",
+  "extracted": "2026-10-25T07:56:22.099Z",
   "count": 363,
   "stations": [
     {
@@ -104,6 +104,14 @@
       "lat": 13.714183,
       "lon": 9.15904,
       "name": "Autogare de Mirriah",
+      "type": "station",
+      "country": "NE"
+    },
+    {
+      "id": 307945501,
+      "lat": 14.973275,
+      "lon": 8.878426,
+      "name": "Autogare de Tanout",
       "type": "station",
       "country": "NE"
     },
@@ -640,14 +648,6 @@
       "lat": 13.491205,
       "lon": 2.097645,
       "name": "Ola Station",
-      "type": "station",
-      "country": "NE"
-    },
-    {
-      "id": 307945501,
-      "lat": 14.97323,
-      "lon": 8.878415,
-      "name": "Public Transport",
       "type": "station",
       "country": "NE"
     },

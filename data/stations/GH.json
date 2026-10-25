@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-10-18T07:15:56.515Z",
-  "count": 739,
+  "extracted": "2026-10-25T07:40:18.570Z",
+  "count": 748,
   "stations": [
     {
       "id": 6968590872,
@@ -404,10 +404,26 @@
       "country": "GH"
     },
     {
+      "id": 14300257084,
+      "lat": 5.784474,
+      "lon": 0.005119,
+      "name": "Afienya",
+      "type": "stop",
+      "country": "GH"
+    },
+    {
       "id": 2579170855,
       "lat": 5.803417,
       "lon": 0.007203,
       "name": "Afienya Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 14300257085,
+      "lat": 5.784507,
+      "lon": 0.004995,
+      "name": "Afienya Train Station",
       "type": "station",
       "country": "GH"
     },
@@ -908,6 +924,14 @@
       "country": "GH"
     },
     {
+      "id": 14300273863,
+      "lat": 5.690166,
+      "lon": -0.010655,
+      "name": "Ashaiman",
+      "type": "stop",
+      "country": "GH"
+    },
+    {
       "id": 1546419253,
       "lat": 5.686765,
       "lon": -0.032662,
@@ -920,6 +944,14 @@
       "lat": 5.687541,
       "lon": -0.030999,
       "name": "Ashaiman Police Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 14300273862,
+      "lat": 5.690424,
+      "lon": -0.010892,
+      "name": "Ashaiman Train Station",
       "type": "station",
       "country": "GH"
     },
@@ -1500,6 +1532,14 @@
       "country": "GH"
     },
     {
+      "id": 1810235149,
+      "lat": 5.652545,
+      "lon": 0.003712,
+      "name": "Community 1",
+      "type": "stop",
+      "country": "GH"
+    },
+    {
       "id": 4350177216,
       "lat": 5.64368,
       "lon": -0.002311,
@@ -1508,17 +1548,9 @@
       "country": "GH"
     },
     {
-      "id": 1810235149,
-      "lat": 5.652545,
-      "lon": 0.003712,
-      "name": "Community 1 Train Station",
-      "type": "stop",
-      "country": "GH"
-    },
-    {
       "id": 9937916699,
-      "lat": 5.652453,
-      "lon": 0.003563,
+      "lat": 5.652431,
+      "lon": 0.003606,
       "name": "Community 1 Train Station",
       "type": "station",
       "country": "GH"
@@ -2116,14 +2148,6 @@
       "country": "GH"
     },
     {
-      "id": 13853347708,
-      "lat": 6.219368,
-      "lon": -0.110148,
-      "name": "GATSONYA Fuel Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
       "id": 4462281489,
       "lat": 5.576636,
       "lon": -0.309555,
@@ -2208,6 +2232,14 @@
       "lat": 6.803783,
       "lon": -2.517425,
       "name": "Godfred Arthur Stationery",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 14304693788,
+      "lat": 5.525748,
+      "lon": -0.387489,
+      "name": "Goil filling station",
       "type": "station",
       "country": "GH"
     },
@@ -2397,8 +2429,8 @@
     },
     {
       "id": 5815609755,
-      "lat": 5.630897,
-      "lon": -0.322183,
+      "lat": 5.630849,
+      "lon": -0.322017,
       "name": "Israel Police Station",
       "type": "station",
       "country": "GH"
@@ -2464,6 +2496,14 @@
       "lat": 9.393835,
       "lon": -0.822432,
       "name": "Jimli station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 7396188975,
+      "lat": 7.319406,
+      "lon": -2.31096,
+      "name": "Joekona Gas Filling Station",
       "type": "station",
       "country": "GH"
     },
@@ -2653,8 +2693,8 @@
     },
     {
       "id": 6294993076,
-      "lat": 5.660701,
-      "lon": -0.05175,
+      "lat": 5.660519,
+      "lon": -0.051801,
       "name": "Klagon Police Station",
       "type": "station",
       "country": "GH"
@@ -2860,19 +2900,19 @@
       "country": "GH"
     },
     {
-      "id": 12197629600,
-      "lat": 6.175884,
-      "lon": 0.059055,
+      "id": 12197677801,
+      "lat": 6.175354,
+      "lon": 0.058473,
       "name": "Kpong",
-      "type": "station",
+      "type": "stop",
       "country": "GH"
     },
     {
-      "id": 12197677801,
-      "lat": 6.175998,
-      "lon": 0.058878,
-      "name": "Kpong",
-      "type": "stop",
+      "id": 12197629600,
+      "lat": 6.175248,
+      "lon": 0.058583,
+      "name": "Kpong Train Station",
+      "type": "station",
       "country": "GH"
     },
     {
@@ -2920,6 +2960,14 @@
       "lat": 6.686507,
       "lon": -1.615,
       "name": "Kumasi Tarkwa Ford Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 13977681239,
+      "lat": 6.908722,
+      "lon": -1.276774,
+      "name": "Kumawu Bus Station",
       "type": "station",
       "country": "GH"
     },
@@ -4596,6 +4644,22 @@
       "country": "GH"
     },
     {
+      "id": 14300273945,
+      "lat": 5.84309,
+      "lon": 0.017899,
+      "name": "Shai Hills",
+      "type": "stop",
+      "country": "GH"
+    },
+    {
+      "id": 14300273957,
+      "lat": 5.843091,
+      "lon": 0.018046,
+      "name": "Shai Hills Train Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 7012078858,
       "lat": 5.584562,
       "lon": -0.199996,
@@ -4852,6 +4916,14 @@
       "country": "GH"
     },
     {
+      "id": 14023426367,
+      "lat": 6.130093,
+      "lon": -0.835088,
+      "name": "Subi Bus Station",
+      "type": "station",
+      "country": "GH"
+    },
+    {
       "id": 7258424485,
       "lat": 7.314335,
       "lon": -2.100292,
@@ -5088,22 +5160,6 @@
       "lat": 5.644522,
       "lon": 0.002267,
       "name": "Tema Community 1 Hiring Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 6245062257,
-      "lat": 5.64471,
-      "lon": 0.011593,
-      "name": "Tema Fishing Harbour Train Station",
-      "type": "stop",
-      "country": "GH"
-    },
-    {
-      "id": 9937916700,
-      "lat": 5.644639,
-      "lon": 0.011544,
-      "name": "Tema Fishing Harbour Train Station",
       "type": "station",
       "country": "GH"
     },
@@ -5480,6 +5536,22 @@
       "lat": 7.331939,
       "lon": -2.32032,
       "name": "Unnamed (way 1526505212)",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 1569791362,
+      "lat": 5.843096,
+      "lon": 0.018051,
+      "name": "Unnamed (way 1569791362)",
+      "type": "station",
+      "country": "GH"
+    },
+    {
+      "id": 1569791387,
+      "lat": 6.175273,
+      "lon": 0.058624,
+      "name": "Unnamed (way 1569791387)",
       "type": "station",
       "country": "GH"
     },
