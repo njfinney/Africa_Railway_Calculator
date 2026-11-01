@@ -8,7 +8,7 @@
     13.08,
     16.19
   ],
-  "extracted": "2026-06-07T06:37:33.662Z",
+  "extracted": "2026-11-01T09:04:15.428Z",
   "count": 251,
   "stations": [
     {
@@ -447,7 +447,7 @@
       "id": 5321842457,
       "lat": 3.866155,
       "lon": 11.522501,
-      "name": "Gare de Soa",
+      "name": "Gare de Soa (bus)",
       "type": "station",
       "country": "CM"
     },

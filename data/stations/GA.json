@@ -8,7 +8,7 @@
     2.32,
     14.52
   ],
-  "extracted": "2026-06-07T06:44:42.781Z",
+  "extracted": "2026-11-01T09:16:11.386Z",
   "count": 72,
   "stations": [
     {
@@ -140,6 +140,14 @@
       "country": "GA"
     },
     {
+      "id": 494889714,
+      "lat": -0.101287,
+      "lon": 11.776035,
+      "name": "Gare de l'Offoué",
+      "type": "station",
+      "country": "GA"
+    },
+    {
       "id": 494904371,
       "lat": -0.793737,
       "lon": 12.774127,
@@ -189,8 +197,8 @@
     },
     {
       "id": 494904387,
-      "lat": -0.342456,
-      "lon": 12.437516,
+      "lat": -0.342379,
+      "lon": 12.437511,
       "name": "Gare Mouyabi",
       "type": "station",
       "country": "GA"
@@ -452,10 +460,10 @@
       "country": "GA"
     },
     {
-      "id": 10770534860,
-      "lat": 0.51294,
-      "lon": 12.803539,
-      "name": "Station de recherche d’Ipassa",
+      "id": 14191480790,
+      "lat": -2.336959,
+      "lon": 10.587604,
+      "name": "Station de reherche de Doussala",
       "type": "station",
       "country": "GA"
     },
@@ -568,14 +576,6 @@
       "lat": -0.118055,
       "lon": 11.437085,
       "name": "Unnamed (way 494871401)",
-      "type": "station",
-      "country": "GA"
-    },
-    {
-      "id": 494889714,
-      "lat": -0.101287,
-      "lon": 11.776035,
-      "name": "Unnamed (way 494889714)",
       "type": "station",
       "country": "GA"
     },

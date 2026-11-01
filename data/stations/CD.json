@@ -8,8 +8,8 @@
     5.39,
     31.31
   ],
-  "extracted": "2026-06-07T06:41:47.951Z",
-  "count": 584,
+  "extracted": "2026-11-01T09:12:05.885Z",
+  "count": 591,
   "stations": [
     {
       "id": 5774446184,
@@ -1357,8 +1357,8 @@
     },
     {
       "id": 6378609282,
-      "lat": -4.330835,
-      "lon": 15.338435,
+      "lat": -4.330709,
+      "lon": 15.338349,
       "name": "Limete Amicongo",
       "type": "halt",
       "country": "CD"
@@ -1693,8 +1693,8 @@
     },
     {
       "id": 29752813,
-      "lat": -4.388441,
-      "lon": 15.353024,
+      "lat": -4.388449,
+      "lon": 15.353096,
       "name": "Matete",
       "type": "stop",
       "country": "CD"
@@ -1776,6 +1776,14 @@
       "lat": -4.365205,
       "lon": 15.495082,
       "name": "ML Station service",
+      "type": "station",
+      "country": "CD"
+    },
+    {
+      "id": 14307472587,
+      "lat": -5.897674,
+      "lon": 22.409305,
+      "name": "ML Station Services",
       "type": "station",
       "country": "CD"
     },
@@ -1981,8 +1989,8 @@
     },
     {
       "id": 26917534,
-      "lat": -4.312037,
-      "lon": 15.331259,
+      "lat": -4.312052,
+      "lon": 15.331244,
       "name": "Ndolo",
       "type": "station",
       "country": "CD"
@@ -2204,6 +2212,14 @@
       "country": "CD"
     },
     {
+      "id": 4119102016,
+      "lat": -11.283214,
+      "lon": 27.195892,
+      "name": "Sofumwango",
+      "type": "station",
+      "country": "CD"
+    },
+    {
       "id": 7124323285,
       "lat": -4.394033,
       "lon": 15.332112,
@@ -2332,6 +2348,14 @@
       "country": "CD"
     },
     {
+      "id": 14095420474,
+      "lat": -5.811501,
+      "lon": 13.463348,
+      "name": "Station d'épuration de Matadi",
+      "type": "station",
+      "country": "CD"
+    },
+    {
       "id": 8399467236,
       "lat": 0.323786,
       "lon": 29.30228,
@@ -2381,8 +2405,8 @@
     },
     {
       "id": 11037703278,
-      "lat": 1.544529,
-      "lon": 30.250148,
+      "lat": 1.544532,
+      "lon": 30.250147,
       "name": "Station de service",
       "type": "station",
       "country": "CD"
@@ -2416,6 +2440,14 @@
       "lat": 1.540385,
       "lon": 30.247453,
       "name": "Station Dieu-merci",
+      "type": "station",
+      "country": "CD"
+    },
+    {
+      "id": 13938417364,
+      "lat": 1.929717,
+      "lon": 30.049497,
+      "name": "Station Dieu-Merci",
       "type": "station",
       "country": "CD"
     },
@@ -2536,6 +2568,14 @@
       "lat": -4.441051,
       "lon": 15.375971,
       "name": "Station Kimbanseke",
+      "type": "station",
+      "country": "CD"
+    },
+    {
+      "id": 13938417363,
+      "lat": 1.933815,
+      "lon": 30.046644,
+      "name": "Station KSS",
       "type": "station",
       "country": "CD"
     },
@@ -2780,6 +2820,14 @@
       "country": "CD"
     },
     {
+      "id": 14266795801,
+      "lat": -4.359503,
+      "lon": 15.24126,
+      "name": "Station Service CADECO",
+      "type": "station",
+      "country": "CD"
+    },
+    {
       "id": 8237886760,
       "lat": -1.674691,
       "lon": 29.218734,
@@ -2904,6 +2952,22 @@
       "lat": -4.341707,
       "lon": 15.281731,
       "name": "Station Total",
+      "type": "station",
+      "country": "CD"
+    },
+    {
+      "id": 14007258099,
+      "lat": -5.836896,
+      "lon": 13.449796,
+      "name": "Station Total",
+      "type": "station",
+      "country": "CD"
+    },
+    {
+      "id": 13971514707,
+      "lat": -4.35102,
+      "lon": 15.346319,
+      "name": "Station TP",
       "type": "station",
       "country": "CD"
     },
@@ -3536,14 +3600,6 @@
       "lat": -10.930462,
       "lon": 26.73377,
       "name": "Unnamed (node 4118632520)",
-      "type": "station",
-      "country": "CD"
-    },
-    {
-      "id": 4119102016,
-      "lat": -11.283214,
-      "lon": 27.195892,
-      "name": "Unnamed (node 4119102016)",
       "type": "station",
       "country": "CD"
     },

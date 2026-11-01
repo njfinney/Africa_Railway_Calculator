@@ -8,8 +8,8 @@
     23.45,
     24
   ],
-  "extracted": "2026-06-07T06:39:54.600Z",
-  "count": 52,
+  "extracted": "2026-11-01T09:08:04.389Z",
+  "count": 63,
   "stations": [
     {
       "id": 3831072504,
@@ -71,7 +71,7 @@
       "id": 3134981852,
       "lat": 12.120351,
       "lon": 15.083175,
-      "name": "gare d'Abeché محطة أبشي",
+      "name": "Gare d'Abeché محطة أبشي",
       "type": "station",
       "country": "TD"
     },
@@ -80,6 +80,14 @@
       "lat": 12.120893,
       "lon": 15.083801,
       "name": "Gare d'Abeché محطة أبشي",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4727304890,
+      "lat": 13.821208,
+      "lon": 20.803079,
+      "name": "Gare Routiere d'Abeché محطة الحافلات الرئيسية",
       "type": "station",
       "country": "TD"
     },
@@ -236,6 +244,14 @@
       "country": "TD"
     },
     {
+      "id": 7740686422,
+      "lat": 11.996284,
+      "lon": 16.532396,
+      "name": "Station de Pompage de Maïngara محطة الضخ مائقانا",
+      "type": "station",
+      "country": "TD"
+    },
+    {
       "id": 1984076770,
       "lat": 8.678452,
       "lon": 16.575978,
@@ -248,6 +264,14 @@
       "lat": 8.663985,
       "lon": 16.849826,
       "name": "Station de Service La Fontaine",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 5604301388,
+      "lat": 12.122237,
+      "lon": 15.071322,
+      "name": "station de sopetrance محطة سوبترنس",
       "type": "station",
       "country": "TD"
     },
@@ -296,6 +320,22 @@
       "lat": 9.367138,
       "lon": 14.901634,
       "name": "Station service",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 13463636802,
+      "lat": 12.191182,
+      "lon": 15.042155,
+      "name": "Station Service",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 13936638528,
+      "lat": 12.170541,
+      "lon": 15.037774,
+      "name": "Station Service",
       "type": "station",
       "country": "TD"
     },
@@ -359,15 +399,23 @@
       "id": 7204064863,
       "lat": 12.178193,
       "lon": 15.038881,
-      "name": "Station Total",
+      "name": "Station Star Oil",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4109095194,
+      "lat": 9.144651,
+      "lon": 18.386401,
+      "name": "Station Total محطة توتال",
       "type": "station",
       "country": "TD"
     },
     {
       "id": 4954044422,
-      "lat": 12.172415,
-      "lon": 15.037386,
-      "name": "Station war sortie Nord Ndjamena",
+      "lat": 12.173322,
+      "lon": 15.0368,
+      "name": "Station War",
       "type": "station",
       "country": "TD"
     },
@@ -384,6 +432,46 @@
       "lat": 12.106482,
       "lon": 15.109615,
       "name": "Station-service Mojobok",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4308474437,
+      "lat": 12.482741,
+      "lon": 15.428152,
+      "name": "Station-service Ouest Massaguet محطة وقود غرب مساقط",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 5617381671,
+      "lat": 12.08333,
+      "lon": 15.138778,
+      "name": "Station-service Total Gassi محطة وقود توتال غاسي",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4510149850,
+      "lat": 8.558498,
+      "lon": 16.076977,
+      "name": "Station-service محطة بنزين",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4543039520,
+      "lat": 12.029742,
+      "lon": 15.115312,
+      "name": "Station-service محطة وقود",
+      "type": "station",
+      "country": "TD"
+    },
+    {
+      "id": 4543040894,
+      "lat": 12.020071,
+      "lon": 15.126482,
+      "name": "Station-service محطة وقود",
       "type": "station",
       "country": "TD"
     },
