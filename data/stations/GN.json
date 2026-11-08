@@ -8,8 +8,8 @@
     12.68,
     -7.64
   ],
-  "extracted": "2026-10-25T07:42:29.737Z",
-  "count": 337,
+  "extracted": "2026-11-08T09:00:43.338Z",
+  "count": 338,
   "stations": [
     {
       "id": 5966756331,
@@ -432,6 +432,14 @@
       "lat": 10.737607,
       "lon": -11.127135,
       "name": "Gare routière destinations via Mamou (Labé, Conakry...)",
+      "type": "station",
+      "country": "GN"
+    },
+    {
+      "id": 14338069401,
+      "lat": 9.720073,
+      "lon": -13.467114,
+      "name": "Gare routière Gombonyah",
       "type": "station",
       "country": "GN"
     },

@@ -8,8 +8,8 @@
     11.17,
     1.19
   ],
-  "extracted": "2026-10-25T07:40:18.570Z",
-  "count": 748,
+  "extracted": "2026-11-08T08:58:37.296Z",
+  "count": 747,
   "stations": [
     {
       "id": 6968590872,
@@ -111,7 +111,7 @@
       "id": 4846044849,
       "lat": 6.065356,
       "lon": 0.860957,
-      "name": "Abor Bus Station (DC MORTO)",
+      "name": "Abor Bus Station (DC Morto)",
       "type": "station",
       "country": "GH"
     },
@@ -724,9 +724,9 @@
       "country": "GH"
     },
     {
-      "id": 593076328,
-      "lat": 5.112427,
-      "lon": -1.857146,
+      "id": 14324982675,
+      "lat": 5.11243,
+      "lon": -1.857123,
       "name": "Amantin",
       "type": "halt",
       "country": "GH"
@@ -2495,7 +2495,7 @@
       "id": 6467778925,
       "lat": 9.393835,
       "lon": -0.822432,
-      "name": "Jimli station",
+      "name": "Jimli Station",
       "type": "station",
       "country": "GH"
     },
@@ -2823,7 +2823,7 @@
       "id": 5064189142,
       "lat": 5.740012,
       "lon": -0.356556,
-      "name": "Kotokou station",
+      "name": "Kotokou Station",
       "type": "station",
       "country": "GH"
     },
@@ -3976,14 +3976,6 @@
       "lat": 6.688246,
       "lon": -1.595489,
       "name": "Oforikrom Police Station",
-      "type": "station",
-      "country": "GH"
-    },
-    {
-      "id": 7660315550,
-      "lat": 5.482643,
-      "lon": -0.535138,
-      "name": "Ojobi Police Station",
       "type": "station",
       "country": "GH"
     },

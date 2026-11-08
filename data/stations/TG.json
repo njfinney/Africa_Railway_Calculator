@@ -8,8 +8,8 @@
     11.14,
     1.81
   ],
-  "extracted": "2026-10-25T08:08:31.643Z",
-  "count": 177,
+  "extracted": "2026-11-08T09:28:41.280Z",
+  "count": 178,
   "stations": [
     {
       "id": 8791863125,
@@ -240,6 +240,14 @@
       "lat": 9.700798,
       "lon": 0.606264,
       "name": "Gare de Guérin-Kouka",
+      "type": "station",
+      "country": "TG"
+    },
+    {
+      "id": 14353319987,
+      "lat": 9.658151,
+      "lon": 1.308332,
+      "name": "Gare de Kétao",
       "type": "station",
       "country": "TG"
     },
@@ -933,8 +941,8 @@
     },
     {
       "id": 5029697521,
-      "lat": 6.207291,
-      "lon": 1.141028,
+      "lat": 6.207478,
+      "lon": 1.141239,
       "name": "Station Sanol Atigangomé",
       "type": "station",
       "country": "TG"
@@ -1189,8 +1197,8 @@
     },
     {
       "id": 5037437423,
-      "lat": 6.201105,
-      "lon": 1.148564,
+      "lat": 6.201261,
+      "lon": 1.148554,
       "name": "Station T-OIL 2 (Adidogomé Assiyéyé)",
       "type": "station",
       "country": "TG"

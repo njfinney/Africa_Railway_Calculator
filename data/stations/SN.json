@@ -8,8 +8,8 @@
     16.69,
     -11.36
   ],
-  "extracted": "2026-10-25T08:04:38.087Z",
-  "count": 268,
+  "extracted": "2026-11-08T09:25:25.545Z",
+  "count": 269,
   "stations": [
     {
       "id": 14160412786,
@@ -1168,6 +1168,14 @@
       "lat": 14.724482,
       "lon": -17.311989,
       "name": "Station d'épuration SIPRES 5",
+      "type": "station",
+      "country": "SN"
+    },
+    {
+      "id": 14342094703,
+      "lat": 15.740255,
+      "lon": -16.550307,
+      "name": "Station de pêche Neptune",
       "type": "station",
       "country": "SN"
     },
