@@ -8,21 +8,21 @@
     37.09,
     11.98
   ],
-  "extracted": "2026-09-27T07:56:31.610Z",
-  "count": 1826,
+  "extracted": "2026-11-15T09:04:20.891Z",
+  "count": 1973,
   "stations": [
     {
       "id": 6703164998,
-      "lat": 36.265393,
-      "lon": 6.596632,
+      "lat": 36.265423,
+      "lon": 6.596645,
       "name": "08 Mai 1945",
       "type": "tram_stop",
       "country": "DZ"
     },
     {
       "id": 9066934301,
-      "lat": 36.265426,
-      "lon": 6.596667,
+      "lat": 36.265456,
+      "lon": 6.596682,
       "name": "08 Mai 1945",
       "type": "tram_stop",
       "country": "DZ"
@@ -45,8 +45,16 @@
     },
     {
       "id": 4410707525,
-      "lat": 36.273437,
-      "lon": 6.592878,
+      "lat": 36.273487,
+      "lon": 6.592939,
+      "name": "19 Mai 1956",
+      "type": "tram_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 9066934286,
+      "lat": 36.273472,
+      "lon": 6.592989,
       "name": "19 Mai 1956",
       "type": "tram_stop",
       "country": "DZ"
@@ -173,8 +181,8 @@
     },
     {
       "id": 2332364871,
-      "lat": 35.793271,
-      "lon": 7.364776,
+      "lat": 35.793551,
+      "lon": 7.365097,
       "name": "Ain El Beida",
       "type": "station",
       "country": "DZ"
@@ -236,11 +244,27 @@
       "country": "DZ"
     },
     {
-      "id": 1271198345,
-      "lat": 35.442648,
-      "lon": 2.938192,
+      "id": 14335609012,
+      "lat": 35.44278,
+      "lon": 2.938562,
       "name": "Aïn Oussera",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14335623706,
+      "lat": 35.442736,
+      "lon": 2.93838,
+      "name": "Aïn Oussera",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335623707,
+      "lat": 35.442784,
+      "lon": 2.938505,
+      "name": "Aïn Oussera",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -325,16 +349,8 @@
     },
     {
       "id": 9066934341,
-      "lat": 36.256909,
-      "lon": 6.582196,
-      "name": "Ali Mendjeli",
-      "type": "tram_stop",
-      "country": "DZ"
-    },
-    {
-      "id": 9079226804,
-      "lat": 36.256953,
-      "lon": 6.582188,
+      "lat": 36.256886,
+      "lon": 6.582387,
       "name": "Ali Mendjeli",
       "type": "tram_stop",
       "country": "DZ"
@@ -444,6 +460,14 @@
       "country": "DZ"
     },
     {
+      "id": 14318374817,
+      "lat": 36.260407,
+      "lon": 1.968741,
+      "name": "Arrêt la Gare",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 2799535110,
       "lat": 36.52028,
       "lon": 2.860135,
@@ -477,16 +501,16 @@
     },
     {
       "id": 9066934350,
-      "lat": 36.255148,
-      "lon": 6.575216,
+      "lat": 36.255091,
+      "lon": 6.575258,
       "name": "Avenue de l'ALN",
       "type": "tram_stop",
       "country": "DZ"
     },
     {
       "id": 9079226801,
-      "lat": 36.255188,
-      "lon": 6.575194,
+      "lat": 36.255128,
+      "lon": 6.575237,
       "name": "Avenue de l'ALN",
       "type": "tram_stop",
       "country": "DZ"
@@ -525,10 +549,26 @@
     },
     {
       "id": 11954189306,
-      "lat": 35.527294,
-      "lon": 7.114916,
+      "lat": 35.527813,
+      "lon": 7.118231,
       "name": "Baghaï",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14340621240,
+      "lat": 35.527999,
+      "lon": 7.117843,
+      "name": "Baghaï",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340621254,
+      "lat": 35.527962,
+      "lon": 7.117855,
+      "name": "Baghaï",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -629,8 +669,8 @@
     },
     {
       "id": 3876716525,
-      "lat": 36.719956,
-      "lon": 7.288263,
+      "lat": 36.720113,
+      "lon": 7.287397,
       "name": "Bekouche Lakhdar",
       "type": "station",
       "country": "DZ"
@@ -661,16 +701,8 @@
     },
     {
       "id": 1858108134,
-      "lat": 36.354392,
-      "lon": 6.602408,
-      "name": "Belle vue",
-      "type": "tram_stop",
-      "country": "DZ"
-    },
-    {
-      "id": 9066923752,
-      "lat": 36.354376,
-      "lon": 6.602458,
+      "lat": 36.354439,
+      "lon": 6.602461,
       "name": "Belle vue",
       "type": "tram_stop",
       "country": "DZ"
@@ -685,24 +717,16 @@
     },
     {
       "id": 1858040674,
-      "lat": 36.358254,
-      "lon": 6.605564,
+      "lat": 36.358305,
+      "lon": 6.605605,
       "name": "Ben Abdelmalek Ramdane",
       "type": "tram_stop",
       "country": "DZ"
     },
     {
       "id": 9066923729,
-      "lat": 36.358205,
-      "lon": 6.605697,
-      "name": "Ben Abdelmalek Ramdane",
-      "type": "tram_stop",
-      "country": "DZ"
-    },
-    {
-      "id": 9066934369,
-      "lat": 36.358236,
-      "lon": 6.605614,
+      "lat": 36.35826,
+      "lon": 6.605741,
       "name": "Ben Abdelmalek Ramdane",
       "type": "tram_stop",
       "country": "DZ"
@@ -820,14 +844,6 @@
       "country": "DZ"
     },
     {
-      "id": 9968184587,
-      "lat": 34.794277,
-      "lon": 5.718125,
-      "name": "Biskra",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 3207145348,
       "lat": 36.478523,
       "lon": 2.816066,
@@ -889,6 +905,54 @@
       "lon": 2.886011,
       "name": "Boughezoul",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 10311556899,
+      "lat": 35.701473,
+      "lon": 2.886275,
+      "name": "Boughezoul",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 10311568900,
+      "lat": 35.701383,
+      "lon": 2.886328,
+      "name": "Boughezoul",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 10311569063,
+      "lat": 35.701741,
+      "lon": 2.886119,
+      "name": "Boughezoul",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 10311569128,
+      "lat": 35.701651,
+      "lon": 2.886172,
+      "name": "Boughezoul",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335906934,
+      "lat": 35.701782,
+      "lon": 2.886096,
+      "name": "Boughezoul",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335906936,
+      "lat": 35.701611,
+      "lon": 2.886195,
+      "name": "Boughezoul",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -1189,8 +1253,8 @@
     },
     {
       "id": 6703157947,
-      "lat": 36.261735,
-      "lon": 6.601809,
+      "lat": 36.261725,
+      "lon": 6.601824,
       "name": "Chahid Kadri El Chahid Kadri Brahim",
       "type": "tram_stop",
       "country": "DZ"
@@ -1252,6 +1316,14 @@
       "country": "DZ"
     },
     {
+      "id": 1570530809,
+      "lat": 35.257232,
+      "lon": 7.762582,
+      "name": "Cheria Gare Routiere",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 432833262,
       "lat": 36.464997,
       "lon": 2.739287,
@@ -1285,16 +1357,16 @@
     },
     {
       "id": 9066934328,
-      "lat": 36.258519,
-      "lon": 6.595408,
+      "lat": 36.25855,
+      "lon": 6.595406,
       "name": "Chouhada",
       "type": "tram_stop",
       "country": "DZ"
     },
     {
       "id": 9079238235,
-      "lat": 36.258564,
-      "lon": 6.595398,
+      "lat": 36.258588,
+      "lon": 6.595387,
       "name": "Chouhada",
       "type": "tram_stop",
       "country": "DZ"
@@ -1383,7 +1455,7 @@
       "id": 3561110937,
       "lat": 34.85847,
       "lon": 5.724619,
-      "name": "Cité de La Gare;حي المحطة",
+      "name": "Cité de La Gare;حي ا��محطة",
       "type": "station",
       "country": "DZ"
     },
@@ -1676,9 +1748,25 @@
       "country": "DZ"
     },
     {
+      "id": 11367288886,
+      "lat": 34.631462,
+      "lon": 3.30758,
+      "name": "Djelfa",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
       "id": 12126372510,
-      "lat": 34.631517,
-      "lon": 3.307736,
+      "lat": 34.631501,
+      "lon": 3.307702,
+      "name": "Djelfa",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14246574300,
+      "lat": 34.631544,
+      "lon": 3.307835,
       "name": "Djelfa",
       "type": "stop",
       "country": "DZ"
@@ -1709,8 +1797,8 @@
     },
     {
       "id": 9379486385,
-      "lat": 35.789342,
-      "lon": -0.332506,
+      "lat": 35.789371,
+      "lon": -0.331639,
       "name": "Douar El Ayayda",
       "type": "station",
       "country": "DZ"
@@ -1820,6 +1908,14 @@
       "country": "DZ"
     },
     {
+      "id": 14030962903,
+      "lat": 33.669778,
+      "lon": 1.027973,
+      "name": "El Bayadh Gare Routiere",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 4273070922,
       "lat": 33.742345,
       "lon": -0.163044,
@@ -1828,17 +1924,25 @@
       "country": "DZ"
     },
     {
+      "id": 522172964,
+      "lat": 36.845935,
+      "lon": 7.724664,
+      "name": "El Bouni Zi",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
       "id": 10994233206,
-      "lat": 36.846314,
-      "lon": 7.72451,
+      "lat": 36.845897,
+      "lon": 7.724545,
       "name": "El Bouni Zi",
       "type": "halt",
       "country": "DZ"
     },
     {
       "id": 9066934319,
-      "lat": 36.261711,
-      "lon": 6.601854,
+      "lat": 36.261702,
+      "lon": 6.601863,
       "name": "El Chahid Kadri Brahim",
       "type": "tram_stop",
       "country": "DZ"
@@ -1941,8 +2045,8 @@
     },
     {
       "id": 1198783833,
-      "lat": 35.820238,
-      "lon": -0.345165,
+      "lat": 35.82078,
+      "lon": -0.344983,
       "name": "El Mohgoun",
       "type": "station",
       "country": "DZ"
@@ -2021,8 +2125,8 @@
     },
     {
       "id": 9066934363,
-      "lat": 36.24941,
-      "lon": 6.574074,
+      "lat": 36.249399,
+      "lon": 6.574143,
       "name": "Ennasr",
       "type": "tram_stop",
       "country": "DZ"
@@ -2053,10 +2157,18 @@
     },
     {
       "id": 11954189335,
-      "lat": 35.659145,
-      "lon": 7.307257,
+      "lat": 35.65915,
+      "lon": 7.307049,
       "name": "F'Kirina",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14341254187,
+      "lat": 35.659141,
+      "lon": 7.307262,
+      "name": "F'Kirina",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -2117,8 +2229,8 @@
     },
     {
       "id": 13565516388,
-      "lat": 26.817445,
-      "lon": -7.450748,
+      "lat": 26.817501,
+      "lon": -7.450868,
       "name": "Gara Djebilet",
       "type": "station",
       "country": "DZ"
@@ -2136,14 +2248,6 @@
       "lat": 36.154738,
       "lon": 5.673198,
       "name": "Gare",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 2626169059,
-      "lat": 35.446175,
-      "lon": 2.909163,
-      "name": "Gare abandonnée",
       "type": "station",
       "country": "DZ"
     },
@@ -2184,6 +2288,14 @@
       "lat": 36.779074,
       "lon": 3.061706,
       "name": "Gare d'Alger",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 561745206,
+      "lat": 35.84751,
+      "lon": -0.31975,
+      "name": "Gare d'Arzew محطة أرزيو",
       "type": "station",
       "country": "DZ"
     },
@@ -2412,6 +2524,14 @@
       "country": "DZ"
     },
     {
+      "id": 341933068,
+      "lat": 36.280827,
+      "lon": 7.95311,
+      "name": "Gare de Souk Ahras محطة سوق أهراس",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 325855272,
       "lat": 36.824493,
       "lon": 6.62627,
@@ -2429,16 +2549,16 @@
     },
     {
       "id": 317099705,
-      "lat": 36.725139,
-      "lon": 3.552387,
+      "lat": 36.725111,
+      "lon": 3.552405,
       "name": "Gare de Thenia",
       "type": "station",
       "country": "DZ"
     },
     {
       "id": 405995669,
-      "lat": 36.731504,
-      "lon": 3.501167,
+      "lat": 36.73152,
+      "lon": 3.501168,
       "name": "Gare de Tidjelabine",
       "type": "station",
       "country": "DZ"
@@ -2508,14 +2628,6 @@
       "country": "DZ"
     },
     {
-      "id": 979690968,
-      "lat": 35.227566,
-      "lon": -0.62694,
-      "name": "Gare ferroviaire",
-      "type": "platform",
-      "country": "DZ"
-    },
-    {
       "id": 300817293,
       "lat": 36.062844,
       "lon": 4.747086,
@@ -2541,8 +2653,8 @@
     },
     {
       "id": 380652292,
-      "lat": 35.867477,
-      "lon": 7.887972,
+      "lat": 35.867467,
+      "lon": 7.887939,
       "name": "Gare Ferroviaire d'El Aouinet",
       "type": "station",
       "country": "DZ"
@@ -2573,8 +2685,8 @@
     },
     {
       "id": 311390282,
-      "lat": 35.858997,
-      "lon": 7.112486,
+      "lat": 35.85896,
+      "lon": 7.11251,
       "name": "Gare ferroviaire d'Oum Bouaghi",
       "type": "station",
       "country": "DZ"
@@ -2624,14 +2736,6 @@
       "lat": 36.714667,
       "lon": 3.210783,
       "name": "Gare Ferroviaire de Dar EL Beida",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 380645299,
-      "lat": 35.925598,
-      "lon": 7.920486,
-      "name": "Gare ferroviaire de Oued Kebrit",
       "type": "station",
       "country": "DZ"
     },
@@ -3340,6 +3444,14 @@
       "country": "DZ"
     },
     {
+      "id": 14030996573,
+      "lat": 33.670013,
+      "lon": 1.027812,
+      "name": "Gare Routiere El Bayadh",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 4272367799,
       "lat": 36.899695,
       "lon": 7.753709,
@@ -3356,6 +3468,14 @@
       "country": "DZ"
     },
     {
+      "id": 255422485,
+      "lat": 35.429627,
+      "lon": 8.049923,
+      "name": "Gare routière elmodjahid Hocine Aït Ahmed;المحطة البرية المجاهد حسين آيت أحمد",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 979690963,
       "lat": 35.213301,
       "lon": -0.615681,
@@ -3368,14 +3488,6 @@
       "lat": 35.743661,
       "lon": 0.566926,
       "name": "Gare Routière Est",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 301958783,
-      "lat": 36.809617,
-      "lon": 5.773393,
-      "name": "Gare routière Est;محطة البرية الشرقية",
       "type": "station",
       "country": "DZ"
     },
@@ -3439,14 +3551,6 @@
       "id": 3839511110,
       "lat": 36.328542,
       "lon": 6.584072,
-      "name": "Gare routière Ouest",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 239044229,
-      "lat": 36.826724,
-      "lon": 5.764781,
       "name": "Gare routière Ouest",
       "type": "station",
       "country": "DZ"
@@ -3524,18 +3628,18 @@
       "country": "DZ"
     },
     {
-      "id": 4351917493,
-      "lat": 36.800895,
-      "lon": 5.840893,
-      "name": "Gare routière Tassoust",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 3167575972,
       "lat": 35.872553,
       "lon": 2.024563,
       "name": "Gare routière Theniet El Had",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1573222668,
+      "lat": 35.599526,
+      "lon": 1.785293,
+      "name": "Gare routière Tissemsilt",
       "type": "station",
       "country": "DZ"
     },
@@ -3576,6 +3680,14 @@
       "lat": 36.644336,
       "lon": 2.773545,
       "name": "Gare routière محطة الحافلات",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 615644203,
+      "lat": 36.280344,
+      "lon": 7.939644,
+      "name": "Gare routière محطة النقل البري",
       "type": "station",
       "country": "DZ"
     },
@@ -3804,11 +3916,11 @@
       "country": "DZ"
     },
     {
-      "id": 11954317205,
-      "lat": 35.053835,
-      "lon": 3.052613,
+      "id": 5262483670,
+      "lat": 35.053828,
+      "lon": 3.052654,
       "name": "Hassi Bahbah",
-      "type": "station",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -4085,10 +4197,26 @@
     },
     {
       "id": 11774203606,
-      "lat": 35.474841,
-      "lon": 7.080552,
-      "name": "KHENCHELA",
+      "lat": 35.474833,
+      "lon": 7.08094,
+      "name": "Khenchela",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14339796093,
+      "lat": 35.474707,
+      "lon": 7.080545,
+      "name": "Khenchela",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14339796138,
+      "lat": 35.474846,
+      "lon": 7.080514,
+      "name": "Khenchela",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -4245,18 +4373,18 @@
     },
     {
       "id": 12126214236,
-      "lat": 33.798657,
-      "lon": 2.819853,
+      "lat": 33.79866,
+      "lon": 2.819826,
       "name": "Laghouat ⵍⴰⴴⵡⴰⵟ الأغواط",
       "type": "stop",
       "country": "DZ"
     },
     {
-      "id": 12126214237,
-      "lat": 33.798664,
-      "lon": 2.819761,
+      "id": 14255090878,
+      "lat": 33.798658,
+      "lon": 2.819876,
       "name": "Laghouat ⵍⴰⴴⵡⴰⵟ الأغواط",
-      "type": "station",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -4280,6 +4408,14 @@
       "lat": 32.477842,
       "lon": 3.685717,
       "name": "Lakwass;Station موقف المحطة",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 6710661762,
+      "lat": 34.395763,
+      "lon": 5.000232,
+      "name": "Le café de la gare;مقهى المحطة",
       "type": "station",
       "country": "DZ"
     },
@@ -4397,10 +4533,18 @@
     },
     {
       "id": 11954189323,
-      "lat": 35.598625,
-      "lon": 7.23279,
+      "lat": 35.598283,
+      "lon": 7.23286,
       "name": "M'Toussa",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14341106280,
+      "lat": 35.59864,
+      "lon": 7.232763,
+      "name": "M'Toussa",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -4580,11 +4724,27 @@
       "country": "DZ"
     },
     {
+      "id": 9317765968,
+      "lat": 35.668367,
+      "lon": 8.005708,
+      "name": "Morsott",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
       "id": 9317765989,
       "lat": 35.668059,
       "lon": 8.006072,
       "name": "Morsott",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 12951334984,
+      "lat": 35.668441,
+      "lon": 8.005814,
+      "name": "Morsott",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -4757,16 +4917,16 @@
     },
     {
       "id": 9067050892,
-      "lat": 36.195994,
-      "lon": 5.370847,
+      "lat": 36.19598,
+      "lon": 5.370873,
       "name": "OUCISSA LAID",
       "type": "tram_stop",
       "country": "DZ"
     },
     {
       "id": 9068698078,
-      "lat": 36.196004,
-      "lon": 5.370889,
+      "lat": 36.196006,
+      "lon": 5.370961,
       "name": "OUCISSA LAID",
       "type": "tram_stop",
       "country": "DZ"
@@ -4857,6 +5017,14 @@
       "lon": 7.597111,
       "name": "Oued Zied",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 10994469278,
+      "lat": 36.828029,
+      "lon": 7.597102,
+      "name": "Oued Zied",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -5381,8 +5549,8 @@
     },
     {
       "id": 5294716991,
-      "lat": 35.228847,
-      "lon": -0.628912,
+      "lat": 35.22887,
+      "lon": -0.628905,
       "name": "Sidi Bel Abbès",
       "type": "station",
       "country": "DZ"
@@ -5492,6 +5660,14 @@
       "country": "DZ"
     },
     {
+      "id": 1009878092,
+      "lat": 35.768321,
+      "lon": 7.900417,
+      "name": "Sidi Yahia",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 9391507402,
       "lat": 35.538268,
       "lon": -0.194817,
@@ -5532,10 +5708,26 @@
       "country": "DZ"
     },
     {
+      "id": 185627428,
+      "lat": 36.184207,
+      "lon": 5.393242,
+      "name": "SNTV Bus Sétif محطة حافلات النقل داخل الولاية",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 273583246,
       "lat": 36.351753,
       "lon": 6.622603,
       "name": "SNTV Est",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 4305464481,
+      "lat": 35.430228,
+      "lon": 8.050629,
+      "name": "SNTV Gare Routière;سيارات أجرة",
       "type": "station",
       "country": "DZ"
     },
@@ -5679,7 +5871,7 @@
       "id": 5387397604,
       "lat": 36.764342,
       "lon": 3.057864,
-      "name": "Station 2 mai",
+      "name": "Station 2 Mai محطة 2 ماي",
       "type": "station",
       "country": "DZ"
     },
@@ -5752,6 +5944,14 @@
       "lat": 36.726022,
       "lon": 3.182701,
       "name": "Station Bab Ezzouar Nord",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 757684562,
+      "lat": 35.404476,
+      "lon": 8.126459,
+      "name": "Station Bab Zayatine;محطة باب الزياتين",
       "type": "station",
       "country": "DZ"
     },
@@ -6092,14 +6292,6 @@
       "country": "DZ"
     },
     {
-      "id": 4674611790,
-      "lat": 36.760509,
-      "lon": 5.807418,
-      "name": "Station Chemachema;محطة الشماشمة",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 5442572122,
       "lat": 35.868548,
       "lon": 4.403669,
@@ -6133,8 +6325,8 @@
     },
     {
       "id": 1796294251,
-      "lat": 36.371944,
-      "lon": 6.618149,
+      "lat": 36.371903,
+      "lon": 6.618123,
       "name": "Station CHU Ben Badis",
       "type": "station",
       "country": "DZ"
@@ -6468,14 +6660,6 @@
       "country": "DZ"
     },
     {
-      "id": 9624351571,
-      "lat": 36.606839,
-      "lon": 4.695062,
-      "name": "Station de Gaz",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 3449067013,
       "lat": 36.56066,
       "lon": 3.15746,
@@ -6741,8 +6925,8 @@
     },
     {
       "id": 3212159118,
-      "lat": 34.98809,
-      "lon": -0.575441,
+      "lat": 34.988179,
+      "lon": -0.575358,
       "name": "Station de Service Laidi",
       "type": "station",
       "country": "DZ"
@@ -6776,6 +6960,14 @@
       "lat": 36.172165,
       "lon": 1.340262,
       "name": "Station de services El Zahra",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 5688941343,
+      "lat": 35.705495,
+      "lon": -0.61132,
+      "name": "Station de services محطة خدمة",
       "type": "station",
       "country": "DZ"
     },
@@ -7077,16 +7269,16 @@
     },
     {
       "id": 1796294425,
-      "lat": 36.375119,
-      "lon": 6.632107,
+      "lat": 36.375191,
+      "lon": 6.632329,
       "name": "Station Emir Abdelkader",
       "type": "station",
       "country": "DZ"
     },
     {
       "id": 380446283,
-      "lat": 36.375154,
-      "lon": 6.632343,
+      "lat": 36.375148,
+      "lon": 6.632328,
       "name": "Station Emir Abdelkader",
       "type": "station",
       "country": "DZ"
@@ -7220,17 +7412,9 @@
       "country": "DZ"
     },
     {
-      "id": 4557835284,
-      "lat": 36.693026,
-      "lon": 4.046991,
-      "name": "Station Kef Naadja",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 391661682,
-      "lat": 36.692844,
-      "lon": 4.047236,
+      "lat": 36.692814,
+      "lon": 4.046946,
       "name": "Station Kef Naadja",
       "type": "station",
       "country": "DZ"
@@ -7408,6 +7592,14 @@
       "lat": 36.549856,
       "lon": 5.276381,
       "name": "Station Lavage Ouaret",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 4605170709,
+      "lat": 34.595334,
+      "lon": 5.101758,
+      "name": "Station lavage;غسل وتشحيم السيارات",
       "type": "station",
       "country": "DZ"
     },
@@ -7644,6 +7836,14 @@
       "country": "DZ"
     },
     {
+      "id": 3122475169,
+      "lat": 34.398408,
+      "lon": 5.014556,
+      "name": "station Naftal;محطة خدمات",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 4557835283,
       "lat": 36.700297,
       "lon": 4.047525,
@@ -7712,6 +7912,14 @@
       "lat": 36.730291,
       "lon": 3.13016,
       "name": "Station Pont El Harrch",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 3200291700,
+      "lat": 34.899143,
+      "lon": -1.051694,
+      "name": "Station Rezzoug;محطة رزوڨ",
       "type": "station",
       "country": "DZ"
     },
@@ -9244,10 +9452,26 @@
       "country": "DZ"
     },
     {
+      "id": 4557835279,
+      "lat": 36.728575,
+      "lon": 4.064044,
+      "name": "Station Sidi Beloua",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 14245829353,
+      "lat": 36.728731,
+      "lon": 4.063962,
+      "name": "Station Sidi Beloua",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 1174657273,
-      "lat": 36.728336,
-      "lon": 4.064179,
-      "name": "Station Sidi Beloua en réalisation",
+      "lat": 36.728503,
+      "lon": 4.064195,
+      "name": "Station Sidi Beloua",
       "type": "station",
       "country": "DZ"
     },
@@ -9332,17 +9556,9 @@
       "country": "DZ"
     },
     {
-      "id": 1788563295,
-      "lat": 36.369779,
-      "lon": 6.61483,
-      "name": "Station Tattache Belkacem",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 380443083,
-      "lat": 36.369653,
-      "lon": 6.614658,
+      "lat": 36.369655,
+      "lon": 6.614636,
       "name": "Station Tattache Belkacem",
       "type": "station",
       "country": "DZ"
@@ -9589,8 +9805,8 @@
     },
     {
       "id": 1174657776,
-      "lat": 36.733111,
-      "lon": 4.052472,
+      "lat": 36.733193,
+      "lon": 4.052405,
       "name": "Station Village Redjaouna en réalisation",
       "type": "station",
       "country": "DZ"
@@ -10156,14 +10372,6 @@
       "country": "DZ"
     },
     {
-      "id": 703255631,
-      "lat": 36.731353,
-      "lon": 3.501012,
-      "name": "Tidjellabine",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 10004681649,
       "lat": 35.949113,
       "lon": 0.096408,
@@ -10229,8 +10437,8 @@
     },
     {
       "id": 9935612686,
-      "lat": 35.611632,
-      "lon": 1.801709,
+      "lat": 35.611643,
+      "lon": 1.801499,
       "name": "Tissemsilt",
       "type": "station",
       "country": "DZ"
@@ -10309,10 +10517,18 @@
     },
     {
       "id": 9066934368,
-      "lat": 36.24781,
-      "lon": 6.569762,
+      "lat": 36.247814,
+      "lon": 6.569754,
       "name": "Université  Abdelhamid Mehri",
       "type": "tram_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 10994361749,
+      "lat": 36.816964,
+      "lon": 7.725646,
+      "name": "Université Chaiba UV 13",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -10357,16 +10573,8 @@
     },
     {
       "id": 4410707529,
-      "lat": 36.281603,
-      "lon": 6.597119,
-      "name": "Université Salah Boubnider",
-      "type": "tram_stop",
-      "country": "DZ"
-    },
-    {
-      "id": 9066934281,
-      "lat": 36.281585,
-      "lon": 6.597185,
+      "lat": 36.281709,
+      "lon": 6.597181,
       "name": "Université Salah Boubnider",
       "type": "tram_stop",
       "country": "DZ"
@@ -10412,6 +10620,14 @@
       "country": "DZ"
     },
     {
+      "id": 10311569077,
+      "lat": 35.695676,
+      "lon": 2.870371,
+      "name": "Unnamed (node 10311569077)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
       "id": 10771712694,
       "lat": 36.245039,
       "lon": 2.239187,
@@ -10421,7 +10637,7 @@
     },
     {
       "id": 10994469288,
-      "lat": 36.829109,
+      "lat": 36.829112,
       "lon": 7.590854,
       "name": "Unnamed (node 10994469288)",
       "type": "buffer_stop",
@@ -10429,8 +10645,8 @@
     },
     {
       "id": 10994469299,
-      "lat": 36.827926,
-      "lon": 7.598289,
+      "lat": 36.827938,
+      "lon": 7.598327,
       "name": "Unnamed (node 10994469299)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -10460,6 +10676,14 @@
       "country": "DZ"
     },
     {
+      "id": 11367288872,
+      "lat": 34.627507,
+      "lon": 3.310475,
+      "name": "Unnamed (node 11367288872)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
       "id": 12126252767,
       "lat": 35.660482,
       "lon": 3.202689,
@@ -10485,16 +10709,32 @@
     },
     {
       "id": 12126372507,
-      "lat": 34.176475,
-      "lon": 3.042399,
+      "lat": 34.176468,
+      "lon": 3.042404,
       "name": "Unnamed (node 12126372507)",
       "type": "buffer_stop",
       "country": "DZ"
     },
     {
+      "id": 12126385942,
+      "lat": 35.045745,
+      "lon": 3.050258,
+      "name": "Unnamed (node 12126385942)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 12126385946,
+      "lat": 35.045756,
+      "lon": 3.050203,
+      "name": "Unnamed (node 12126385946)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
       "id": 12126385969,
-      "lat": 35.046463,
-      "lon": 3.050216,
+      "lat": 35.046472,
+      "lon": 3.050223,
       "name": "Unnamed (node 12126385969)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -10581,8 +10821,8 @@
     },
     {
       "id": 12883535656,
-      "lat": 35.789455,
-      "lon": -0.37954,
+      "lat": 35.789453,
+      "lon": -0.379536,
       "name": "Unnamed (node 12883535656)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -10676,9 +10916,841 @@
       "country": "DZ"
     },
     {
+      "id": 14245510729,
+      "lat": 36.274452,
+      "lon": 6.593564,
+      "name": "Unnamed (node 14245510729)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14245510730,
+      "lat": 36.273153,
+      "lon": 6.592885,
+      "name": "Unnamed (node 14245510730)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14246574315,
+      "lat": 34.622283,
+      "lon": 3.312731,
+      "name": "Unnamed (node 14246574315)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637153,
+      "lat": 34.627165,
+      "lon": 3.310443,
+      "name": "Unnamed (node 14247637153)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637154,
+      "lat": 34.627491,
+      "lon": 3.31041,
+      "name": "Unnamed (node 14247637154)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637177,
+      "lat": 34.631775,
+      "lon": 3.308361,
+      "name": "Unnamed (node 14247637177)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637179,
+      "lat": 34.631917,
+      "lon": 3.308746,
+      "name": "Unnamed (node 14247637179)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637180,
+      "lat": 34.631931,
+      "lon": 3.308792,
+      "name": "Unnamed (node 14247637180)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247637181,
+      "lat": 34.632056,
+      "lon": 3.309129,
+      "name": "Unnamed (node 14247637181)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247652607,
+      "lat": 34.632197,
+      "lon": 3.308007,
+      "name": "Unnamed (node 14247652607)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247652608,
+      "lat": 34.632171,
+      "lon": 3.30794,
+      "name": "Unnamed (node 14247652608)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247652621,
+      "lat": 34.632145,
+      "lon": 3.307871,
+      "name": "Unnamed (node 14247652621)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247652624,
+      "lat": 34.63968,
+      "lon": 3.303417,
+      "name": "Unnamed (node 14247652624)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247791553,
+      "lat": 33.894993,
+      "lon": 2.864276,
+      "name": "Unnamed (node 14247791553)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247791658,
+      "lat": 33.891128,
+      "lon": 2.854454,
+      "name": "Unnamed (node 14247791658)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247791672,
+      "lat": 33.890805,
+      "lon": 2.854599,
+      "name": "Unnamed (node 14247791672)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14247791691,
+      "lat": 33.89048,
+      "lon": 2.854757,
+      "name": "Unnamed (node 14247791691)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14248281708,
+      "lat": 31.923665,
+      "lon": 5.940589,
+      "name": "Unnamed (node 14248281708)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14248281709,
+      "lat": 31.923579,
+      "lon": 5.94046,
+      "name": "Unnamed (node 14248281709)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14248281713,
+      "lat": 31.92566,
+      "lon": 5.940067,
+      "name": "Unnamed (node 14248281713)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14254810778,
+      "lat": 33.889389,
+      "lon": 2.848768,
+      "name": "Unnamed (node 14254810778)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14254810788,
+      "lat": 33.889412,
+      "lon": 2.848349,
+      "name": "Unnamed (node 14254810788)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14264350173,
+      "lat": 35.003125,
+      "lon": -0.918762,
+      "name": "Unnamed (node 14264350173)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14264350174,
+      "lat": 35.00328,
+      "lon": -0.918843,
+      "name": "Unnamed (node 14264350174)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14264350184,
+      "lat": 34.999811,
+      "lon": -0.930996,
+      "name": "Unnamed (node 14264350184)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14264350185,
+      "lat": 34.999678,
+      "lon": -0.930866,
+      "name": "Unnamed (node 14264350185)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14268686179,
+      "lat": 35.229026,
+      "lon": -0.631214,
+      "name": "Unnamed (node 14268686179)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14268686180,
+      "lat": 35.229141,
+      "lon": -0.631195,
+      "name": "Unnamed (node 14268686180)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14268686181,
+      "lat": 35.228519,
+      "lon": -0.623987,
+      "name": "Unnamed (node 14268686181)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14268686182,
+      "lat": 35.228405,
+      "lon": -0.624,
+      "name": "Unnamed (node 14268686182)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334210495,
+      "lat": 35.061066,
+      "lon": 3.054867,
+      "name": "Unnamed (node 14334210495)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334210498,
+      "lat": 35.060945,
+      "lon": 3.054927,
+      "name": "Unnamed (node 14334210498)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334223527,
+      "lat": 35.063426,
+      "lon": 3.055839,
+      "name": "Unnamed (node 14334223527)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334223533,
+      "lat": 35.063385,
+      "lon": 3.056048,
+      "name": "Unnamed (node 14334223533)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334223542,
+      "lat": 35.063353,
+      "lon": 3.056217,
+      "name": "Unnamed (node 14334223542)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334394808,
+      "lat": 35.436399,
+      "lon": 2.9423,
+      "name": "Unnamed (node 14334394808)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14334394813,
+      "lat": 35.436461,
+      "lon": 2.942401,
+      "name": "Unnamed (node 14334394813)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335609083,
+      "lat": 35.451885,
+      "lon": 2.932994,
+      "name": "Unnamed (node 14335609083)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335609092,
+      "lat": 35.438537,
+      "lon": 2.940927,
+      "name": "Unnamed (node 14335609092)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335623701,
+      "lat": 35.453819,
+      "lon": 2.932086,
+      "name": "Unnamed (node 14335623701)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335659452,
+      "lat": 35.441641,
+      "lon": 2.93963,
+      "name": "Unnamed (node 14335659452)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335659474,
+      "lat": 35.442237,
+      "lon": 2.939705,
+      "name": "Unnamed (node 14335659474)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335659479,
+      "lat": 35.441306,
+      "lon": 2.940332,
+      "name": "Unnamed (node 14335659479)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335659485,
+      "lat": 35.441327,
+      "lon": 2.940392,
+      "name": "Unnamed (node 14335659485)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335669504,
+      "lat": 35.441514,
+      "lon": 2.944965,
+      "name": "Unnamed (node 14335669504)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335774559,
+      "lat": 35.707882,
+      "lon": 2.905984,
+      "name": "Unnamed (node 14335774559)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335774560,
+      "lat": 35.707831,
+      "lon": 2.905981,
+      "name": "Unnamed (node 14335774560)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335865989,
+      "lat": 35.705836,
+      "lon": 2.904764,
+      "name": "Unnamed (node 14335865989)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335865990,
+      "lat": 35.705889,
+      "lon": 2.904782,
+      "name": "Unnamed (node 14335865990)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335865992,
+      "lat": 35.705992,
+      "lon": 2.904824,
+      "name": "Unnamed (node 14335865992)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335865994,
+      "lat": 35.706532,
+      "lon": 2.90183,
+      "name": "Unnamed (node 14335865994)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335865997,
+      "lat": 35.707147,
+      "lon": 2.90038,
+      "name": "Unnamed (node 14335865997)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335906907,
+      "lat": 35.706097,
+      "lon": 2.898246,
+      "name": "Unnamed (node 14335906907)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335906914,
+      "lat": 35.705966,
+      "lon": 2.89756,
+      "name": "Unnamed (node 14335906914)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335990383,
+      "lat": 35.700132,
+      "lon": 2.884324,
+      "name": "Unnamed (node 14335990383)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14335990390,
+      "lat": 35.699929,
+      "lon": 2.884279,
+      "name": "Unnamed (node 14335990390)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14336033404,
+      "lat": 35.69802,
+      "lon": 2.877299,
+      "name": "Unnamed (node 14336033404)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14336033440,
+      "lat": 35.696386,
+      "lon": 2.87293,
+      "name": "Unnamed (node 14336033440)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14336033462,
+      "lat": 35.695635,
+      "lon": 2.870398,
+      "name": "Unnamed (node 14336033462)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14336033464,
+      "lat": 35.695714,
+      "lon": 2.870346,
+      "name": "Unnamed (node 14336033464)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14336033468,
+      "lat": 35.695754,
+      "lon": 2.87032,
+      "name": "Unnamed (node 14336033468)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14339796090,
+      "lat": 35.47261,
+      "lon": 7.067258,
+      "name": "Unnamed (node 14339796090)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603311,
+      "lat": 35.473508,
+      "lon": 7.070939,
+      "name": "Unnamed (node 14340603311)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603341,
+      "lat": 35.474731,
+      "lon": 7.076964,
+      "name": "Unnamed (node 14340603341)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603345,
+      "lat": 35.476126,
+      "lon": 7.08771,
+      "name": "Unnamed (node 14340603345)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603357,
+      "lat": 35.473408,
+      "lon": 7.071258,
+      "name": "Unnamed (node 14340603357)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603361,
+      "lat": 35.472815,
+      "lon": 7.06758,
+      "name": "Unnamed (node 14340603361)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14340603371,
+      "lat": 35.475394,
+      "lon": 7.083671,
+      "name": "Unnamed (node 14340603371)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14341736179,
+      "lat": 35.79351,
+      "lon": 7.364832,
+      "name": "Unnamed (node 14341736179)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14344540365,
+      "lat": 35.926165,
+      "lon": 7.92099,
+      "name": "Unnamed (node 14344540365)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14344790556,
+      "lat": 35.858829,
+      "lon": 7.112615,
+      "name": "Unnamed (node 14344790556)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14344790558,
+      "lat": 35.858687,
+      "lon": 7.112585,
+      "name": "Unnamed (node 14344790558)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14344919087,
+      "lat": 36.275956,
+      "lon": 7.953733,
+      "name": "Unnamed (node 14344919087)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14344967417,
+      "lat": 36.281996,
+      "lon": 7.952658,
+      "name": "Unnamed (node 14344967417)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14345457623,
+      "lat": 35.763894,
+      "lon": 7.904539,
+      "name": "Unnamed (node 14345457623)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14349000900,
+      "lat": 34.734304,
+      "lon": 8.067231,
+      "name": "Unnamed (node 14349000900)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14349648098,
+      "lat": 34.831486,
+      "lon": 8.017121,
+      "name": "Unnamed (node 14349648098)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14351960971,
+      "lat": 35.182061,
+      "lon": 8.175166,
+      "name": "Unnamed (node 14351960971)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14351960976,
+      "lat": 35.182009,
+      "lon": 8.175243,
+      "name": "Unnamed (node 14351960976)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352876607,
+      "lat": 34.789489,
+      "lon": 5.721201,
+      "name": "Unnamed (node 14352876607)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352876622,
+      "lat": 34.791172,
+      "lon": 5.717783,
+      "name": "Unnamed (node 14352876622)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352876635,
+      "lat": 34.79198,
+      "lon": 5.7176,
+      "name": "Unnamed (node 14352876635)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978654,
+      "lat": 34.806084,
+      "lon": 5.709201,
+      "name": "Unnamed (node 14352978654)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978664,
+      "lat": 34.79107,
+      "lon": 5.717577,
+      "name": "Unnamed (node 14352978664)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978684,
+      "lat": 34.791045,
+      "lon": 5.717527,
+      "name": "Unnamed (node 14352978684)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978685,
+      "lat": 34.793383,
+      "lon": 5.7171,
+      "name": "Unnamed (node 14352978685)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978693,
+      "lat": 34.791045,
+      "lon": 5.718993,
+      "name": "Unnamed (node 14352978693)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14352978699,
+      "lat": 34.793297,
+      "lon": 5.717761,
+      "name": "Unnamed (node 14352978699)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14356922534,
+      "lat": 35.846728,
+      "lon": -0.318729,
+      "name": "Unnamed (node 14356922534)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14356922535,
+      "lat": 35.846767,
+      "lon": -0.318715,
+      "name": "Unnamed (node 14356922535)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14356922538,
+      "lat": 35.84687,
+      "lon": -0.318735,
+      "name": "Unnamed (node 14356922538)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14356922539,
+      "lat": 35.846951,
+      "lon": -0.318849,
+      "name": "Unnamed (node 14356922539)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14357163700,
+      "lat": 35.140298,
+      "lon": 5.620748,
+      "name": "Unnamed (node 14357163700)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14357163713,
+      "lat": 35.132632,
+      "lon": 5.615858,
+      "name": "Unnamed (node 14357163713)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14372715796,
+      "lat": 36.743115,
+      "lon": 7.141713,
+      "name": "Unnamed (node 14372715796)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14372779504,
+      "lat": 36.7431,
+      "lon": 7.144299,
+      "name": "Unnamed (node 14372779504)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14372986516,
+      "lat": 36.735434,
+      "lon": 7.117947,
+      "name": "Unnamed (node 14372986516)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14372986517,
+      "lat": 36.735468,
+      "lon": 7.117923,
+      "name": "Unnamed (node 14372986517)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377405341,
+      "lat": 36.731391,
+      "lon": 3.501059,
+      "name": "Unnamed (node 14377405341)",
+      "type": "stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377627851,
+      "lat": 36.725219,
+      "lon": 3.552045,
+      "name": "Unnamed (node 14377627851)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377627853,
+      "lat": 36.725026,
+      "lon": 3.553191,
+      "name": "Unnamed (node 14377627853)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377627897,
+      "lat": 36.726833,
+      "lon": 3.550082,
+      "name": "Unnamed (node 14377627897)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377627899,
+      "lat": 36.726768,
+      "lon": 3.550029,
+      "name": "Unnamed (node 14377627899)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14377679717,
+      "lat": 36.725291,
+      "lon": 3.554311,
+      "name": "Unnamed (node 14377679717)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
       "id": 1858040675,
-      "lat": 36.358487,
-      "lon": 6.605699,
+      "lat": 36.358503,
+      "lon": 6.605721,
       "name": "Unnamed (node 1858040675)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -10729,6 +11801,14 @@
       "lon": 1.938592,
       "name": "Unnamed (node 2165693818)",
       "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 253168060,
+      "lat": 36.731363,
+      "lon": 3.501025,
+      "name": "Unnamed (node 253168060)",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -10857,6 +11937,14 @@
       "lon": 5.725677,
       "name": "Unnamed (node 3964293122)",
       "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 4018666015,
+      "lat": 35.227568,
+      "lon": -0.627015,
+      "name": "Unnamed (node 4018666015)",
+      "type": "tram_stop",
       "country": "DZ"
     },
     {
@@ -10989,8 +12077,8 @@
     },
     {
       "id": 5610000692,
-      "lat": 36.194797,
-      "lon": 5.370333,
+      "lat": 36.194764,
+      "lon": 5.370309,
       "name": "Unnamed (node 5610000692)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -11005,8 +12093,8 @@
     },
     {
       "id": 6108865012,
-      "lat": 35.09426,
-      "lon": 5.645807,
+      "lat": 35.093801,
+      "lon": 5.646163,
       "name": "Unnamed (node 6108865012)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -11092,33 +12180,41 @@
       "country": "DZ"
     },
     {
+      "id": 9066923730,
+      "lat": 36.358482,
+      "lon": 6.605785,
+      "name": "Unnamed (node 9066923730)",
+      "type": "buffer_stop",
+      "country": "DZ"
+    },
+    {
       "id": 9066923731,
-      "lat": 36.358433,
-      "lon": 6.60583,
+      "lat": 36.358459,
+      "lon": 6.605857,
       "name": "Unnamed (node 9066923731)",
       "type": "buffer_stop",
       "country": "DZ"
     },
     {
       "id": 9066934370,
-      "lat": 36.247711,
-      "lon": 6.569482,
+      "lat": 36.247713,
+      "lon": 6.569472,
       "name": "Unnamed (node 9066934370)",
       "type": "buffer_stop",
       "country": "DZ"
     },
     {
       "id": 9066934371,
-      "lat": 36.247783,
-      "lon": 6.569433,
+      "lat": 36.247793,
+      "lon": 6.569431,
       "name": "Unnamed (node 9066934371)",
       "type": "buffer_stop",
       "country": "DZ"
     },
     {
       "id": 9068698084,
-      "lat": 36.194769,
-      "lon": 5.370361,
+      "lat": 36.194731,
+      "lon": 5.370344,
       "name": "Unnamed (node 9068698084)",
       "type": "buffer_stop",
       "country": "DZ"
@@ -11129,6 +12225,14 @@
       "lon": 8.003377,
       "name": "Unnamed (node 9308755704)",
       "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 9324305935,
+      "lat": 35.793511,
+      "lon": 7.364884,
+      "name": "Unnamed (node 9324305935)",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -11293,8 +12397,8 @@
     },
     {
       "id": 1009651666,
-      "lat": 34.734769,
-      "lon": 8.067802,
+      "lat": 34.734806,
+      "lon": 8.067778,
       "name": "Unnamed (way 1009651666)",
       "type": "station",
       "country": "DZ"
@@ -11308,26 +12412,10 @@
       "country": "DZ"
     },
     {
-      "id": 1009657022,
-      "lat": 35.211365,
-      "lon": 8.174657,
-      "name": "Unnamed (way 1009657022)",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 1009878091,
-      "lat": 35.668355,
-      "lon": 8.005948,
+      "lat": 35.668392,
+      "lon": 8.005958,
       "name": "Unnamed (way 1009878091)",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 1009878092,
-      "lat": 35.768314,
-      "lon": 7.900464,
-      "name": "Unnamed (way 1009878092)",
       "type": "station",
       "country": "DZ"
     },
@@ -11365,8 +12453,8 @@
     },
     {
       "id": 1009964668,
-      "lat": 36.2406,
-      "lon": 7.939459,
+      "lat": 36.24065,
+      "lon": 7.939465,
       "name": "Unnamed (way 1009964668)",
       "type": "station",
       "country": "DZ"
@@ -11989,8 +13077,8 @@
     },
     {
       "id": 1127852045,
-      "lat": 35.61147,
-      "lon": 1.801892,
+      "lat": 35.611462,
+      "lon": 1.801886,
       "name": "Unnamed (way 1127852045)",
       "type": "station",
       "country": "DZ"
@@ -12008,6 +13096,14 @@
       "lat": 34.897887,
       "lon": 1.107093,
       "name": "Unnamed (way 1144433560)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1176430742,
+      "lat": 36.719817,
+      "lon": 7.288085,
+      "name": "Unnamed (way 1176430742)",
       "type": "station",
       "country": "DZ"
     },
@@ -12148,14 +13244,6 @@
       "country": "DZ"
     },
     {
-      "id": 1376872732,
-      "lat": 35.859734,
-      "lon": 7.112533,
-      "name": "Unnamed (way 1376872732)",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 1383285648,
       "lat": 36.787815,
       "lon": 3.594134,
@@ -12236,6 +13324,14 @@
       "country": "DZ"
     },
     {
+      "id": 1500978807,
+      "lat": 35.446219,
+      "lon": 2.909146,
+      "name": "Unnamed (way 1500978807)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 1502134361,
       "lat": 36.686713,
       "lon": 6.577082,
@@ -12280,6 +13376,86 @@
       "lat": 35.356996,
       "lon": 1.505707,
       "name": "Unnamed (way 1536885854)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1564891415,
+      "lat": 31.923914,
+      "lon": 5.940774,
+      "name": "Unnamed (way 1564891415)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1573331362,
+      "lat": 35.610655,
+      "lon": 1.801088,
+      "name": "Unnamed (way 1573331362)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1573888384,
+      "lat": 35.442664,
+      "lon": 2.938213,
+      "name": "Unnamed (way 1573888384)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1574327497,
+      "lat": 35.474515,
+      "lon": 7.081018,
+      "name": "Unnamed (way 1574327497)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1574596231,
+      "lat": 35.659165,
+      "lon": 7.307021,
+      "name": "Unnamed (way 1574596231)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1575387038,
+      "lat": 34.975332,
+      "lon": 8.219413,
+      "name": "Unnamed (way 1575387038)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1575429608,
+      "lat": 34.769994,
+      "lon": 8.054432,
+      "name": "Unnamed (way 1575429608)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1575507426,
+      "lat": 34.835911,
+      "lon": 8.014965,
+      "name": "Unnamed (way 1575507426)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1576365538,
+      "lat": 35.789555,
+      "lon": -0.33166,
+      "name": "Unnamed (way 1576365538)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1577992843,
+      "lat": 36.831429,
+      "lon": 7.452592,
+      "name": "Unnamed (way 1577992843)",
       "type": "station",
       "country": "DZ"
     },
@@ -12496,6 +13672,14 @@
       "lat": 36.545663,
       "lon": 4.689247,
       "name": "Unnamed (way 374559993)",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 380645299,
+      "lat": 35.925598,
+      "lon": 7.920486,
+      "name": "Unnamed (way 380645299)",
       "type": "station",
       "country": "DZ"
     },
@@ -12949,8 +14133,8 @@
     },
     {
       "id": 3639439325,
-      "lat": 35.859119,
-      "lon": 7.11257,
+      "lat": 35.858827,
+      "lon": 7.11241,
       "name": "أم البواقي",
       "type": "station",
       "country": "DZ"
@@ -12985,6 +14169,14 @@
       "lon": 3.184039,
       "name": "الإقامة الجامعية - ح ج ب 1",
       "type": "tram_stop",
+      "country": "DZ"
+    },
+    {
+      "id": 14357201901,
+      "lat": 36.30755,
+      "lon": 7.938094,
+      "name": "الإقامة الجامعية مداقين محمد (ذكور)",
+      "type": "stop",
       "country": "DZ"
     },
     {
@@ -13156,10 +14348,10 @@
       "country": "DZ"
     },
     {
-      "id": 255422485,
-      "lat": 35.429627,
-      "lon": 8.049923,
-      "name": "المحطة البرية المجاهد حسين آيت أحمد",
+      "id": 239044229,
+      "lat": 36.826724,
+      "lon": 5.764781,
+      "name": "المحطة البرية الغربية",
       "type": "station",
       "country": "DZ"
     },
@@ -13724,14 +14916,6 @@
       "country": "DZ"
     },
     {
-      "id": 561745206,
-      "lat": 35.847563,
-      "lon": -0.31975,
-      "name": "محطة أرزيو",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 12942126790,
       "lat": 36.717822,
       "lon": 3.191839,
@@ -13744,6 +14928,14 @@
       "lat": 35.679664,
       "lon": -0.61256,
       "name": "محطة البرية الباهية",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 301958783,
+      "lat": 36.809617,
+      "lon": 5.773393,
+      "name": "محطة البرية الشرقية",
       "type": "station",
       "country": "DZ"
     },
@@ -13791,7 +14983,7 @@
       "id": 55492336,
       "lat": 36.742317,
       "lon": 3.10826,
-      "name": "محطة الحافلات الجزائر معطوبي في حرب الاستقلال - خروب��",
+      "name": "محطة الحافلات الجزائر معطوبي في حرب الاستقلال - خروبة",
       "type": "station",
       "country": "DZ"
     },
@@ -13820,6 +15012,14 @@
       "country": "DZ"
     },
     {
+      "id": 374595730,
+      "lat": 36.258771,
+      "lon": 6.685274,
+      "name": "محطة الخروب القطارات",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
       "id": 1112535425,
       "lat": 36.258125,
       "lon": 6.685662,
@@ -13832,14 +15032,6 @@
       "lat": 36.258339,
       "lon": 6.685532,
       "name": "محطة الخروب القطارات",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 374595730,
-      "lat": 36.258771,
-      "lon": 6.685274,
-      "name": "محطة الخروب القطار��ت",
       "type": "station",
       "country": "DZ"
     },
@@ -13925,8 +15117,8 @@
     },
     {
       "id": 1221795523,
-      "lat": 33.798585,
-      "lon": 2.820055,
+      "lat": 33.79865,
+      "lon": 2.820036,
       "name": "محطة القطار بالأغواط",
       "type": "station",
       "country": "DZ"
@@ -14047,7 +15239,7 @@
       "id": 356631513,
       "lat": 36.467734,
       "lon": 7.437112,
-      "name": "محطة القطار قالمة",
+      "name": "محطة القطار قالمة سابقا - خارج الخدمة",
       "type": "station",
       "country": "DZ"
     },
@@ -14124,14 +15316,6 @@
       "country": "DZ"
     },
     {
-      "id": 615644203,
-      "lat": 36.280344,
-      "lon": 7.939644,
-      "name": "محطة النقل البري",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 579389961,
       "lat": 36.67282,
       "lon": 3.085955,
@@ -14160,14 +15344,6 @@
       "lat": 35.591909,
       "lon": 0.064345,
       "name": "محطة النقل بين البلديات نحو بن شنين",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
-      "id": 757684562,
-      "lat": 35.404476,
-      "lon": 8.126459,
-      "name": "محطة باب الزياتين",
       "type": "station",
       "country": "DZ"
     },
@@ -14213,8 +15389,8 @@
     },
     {
       "id": 308616864,
-      "lat": 35.60867,
-      "lon": 1.802037,
+      "lat": 35.608664,
+      "lon": 1.802161,
       "name": "محطة تسمسيلت الحافلات",
       "type": "station",
       "country": "DZ"
@@ -14348,14 +15524,6 @@
       "country": "DZ"
     },
     {
-      "id": 341933068,
-      "lat": 36.280827,
-      "lon": 7.95311,
-      "name": "محطة سوق أهراس",
-      "type": "station",
-      "country": "DZ"
-    },
-    {
       "id": 584249107,
       "lat": 35.793739,
       "lon": 7.378618,
@@ -14400,6 +15568,14 @@
       "lat": 36.367272,
       "lon": 6.618721,
       "name": "محطة قسنطينة",
+      "type": "station",
+      "country": "DZ"
+    },
+    {
+      "id": 1578568329,
+      "lat": 36.735738,
+      "lon": 7.117864,
+      "name": "محطة قطار عزابة",
       "type": "station",
       "country": "DZ"
     },

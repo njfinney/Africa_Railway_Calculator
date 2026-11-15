@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-11-08T09:35:12.257Z",
+  "generated": "2026-11-15T09:48:57.783Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -277,10 +277,10 @@
         37.09,
         11.98
       ],
-      "stationCount": 1826,
-      "railwayCount": 15396,
+      "stationCount": 1973,
+      "railwayCount": 15854,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "EG": {
       "name": "Egypt",
@@ -291,10 +291,10 @@
         31.67,
         36.9
       ],
-      "stationCount": 1637,
-      "railwayCount": 6358,
+      "stationCount": 1640,
+      "railwayCount": 6372,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "LY": {
       "name": "Libya",
@@ -308,7 +308,7 @@
       "stationCount": 37,
       "railwayCount": 139,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "MA": {
       "name": "Morocco",
@@ -319,10 +319,10 @@
         35.93,
         -0.99
       ],
-      "stationCount": 1179,
-      "railwayCount": 4451,
+      "stationCount": 1192,
+      "railwayCount": 4453,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "SD": {
       "name": "Sudan",
@@ -333,10 +333,10 @@
         22.23,
         38.58
       ],
-      "stationCount": 231,
+      "stationCount": 232,
       "railwayCount": 1844,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "TN": {
       "name": "Tunisia",
@@ -348,9 +348,9 @@
         11.6
       ],
       "stationCount": 1133,
-      "railwayCount": 3832,
+      "railwayCount": 3992,
       "hasData": true,
-      "lastUpdated": "2026-09-27T08:08:37.199Z"
+      "lastUpdated": "2026-11-15T09:22:18.862Z"
     },
     "BW": {
       "name": "Botswana",
