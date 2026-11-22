@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "generated": "2026-11-15T09:48:57.783Z",
+  "generated": "2026-11-22T10:20:37.299Z",
   "countries": {
     "AO": {
       "name": "Angola",
@@ -277,10 +277,10 @@
         37.09,
         11.98
       ],
-      "stationCount": 1973,
-      "railwayCount": 15854,
+      "stationCount": 2051,
+      "railwayCount": 16113,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "EG": {
       "name": "Egypt",
@@ -292,9 +292,9 @@
         36.9
       ],
       "stationCount": 1640,
-      "railwayCount": 6372,
+      "railwayCount": 6371,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "LY": {
       "name": "Libya",
@@ -308,7 +308,7 @@
       "stationCount": 37,
       "railwayCount": 139,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "MA": {
       "name": "Morocco",
@@ -322,7 +322,7 @@
       "stationCount": 1192,
       "railwayCount": 4453,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "SD": {
       "name": "Sudan",
@@ -336,7 +336,7 @@
       "stationCount": 232,
       "railwayCount": 1844,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "TN": {
       "name": "Tunisia",
@@ -347,10 +347,10 @@
         37.54,
         11.6
       ],
-      "stationCount": 1133,
+      "stationCount": 1134,
       "railwayCount": 3992,
       "hasData": true,
-      "lastUpdated": "2026-11-15T09:22:18.862Z"
+      "lastUpdated": "2026-11-22T09:47:30.074Z"
     },
     "BW": {
       "name": "Botswana",
